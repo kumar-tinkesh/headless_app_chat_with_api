@@ -1,0 +1,14 @@
+iPhone User Guide
+Send and receive text messages with CarPlay
+Use CarPlay to send, hear, and reply to text messages from your iPhone.
+Siri: Say something like:
+“Text my wife”
+“Text Eliza Block I’m in traffic and I’ll be 15 minutes late to the meeting”
+“Read my text messages”
+Learn how to use Siri
+Or you can use your vehicle’s built-in controls to help send and receive messages. Open Messages in CarPlay, then do one of the following:
+Hear unread messages or respond to a thread: Select a conversation.
+Start a new conversation: Select .
+Automatically send messages: Skip the confirmation step when sending messages with Siri to send messages automatically, unless you ask to change or cancel it.
+In CarPlay, go to Settings > Siri > Messaging with Siri, then select Automatically Send Messages.
+Note: If you’re viewing CarPlay Dashboard and Messages doesn’t appear in the recent apps list on the left, tap to see pages of all of your CarPlay apps, including incoming text messages with CarPlay .

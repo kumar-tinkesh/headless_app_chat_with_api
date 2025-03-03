@@ -1,0 +1,9 @@
+iPhone User Guide
+Print an email or attachment in Mail on iPhone
+In the Mail app, you can print a message or an attachment.
+Print an email
+Go to the Mail app on your iPhone.
+In the message, tap , then tap Print.
+Print an attachment or picture
+Go to the Mail app on your iPhone.
+Tap an attachment to view it, tap Share , then choose Print.

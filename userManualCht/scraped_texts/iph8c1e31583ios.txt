@@ -1,0 +1,14 @@
+iPhone User Guide
+Power adapters for iPhone
+You can connect iPhone to a power outlet using its charging cable (included) and a compatible power adapter (sold separately).
+You can use the following Apple USB power adapters to charge iPhone. The size and style may vary depending on the country or region.
+Apple 20W USB-C power adapter
+Note: For fast charging, iPhone 12, iPhone SE (3rd generation), and later models require a power adapter with a minimum power output of 20 watts, such as the Apple 20W USB power adapter. If you use a third-party power adapter, it should meet these recommended specifications:
+Frequency: 50 to 60 Hz, single phase
+Line Voltage: 100 to 240 VAC
+Output Voltage/Current: 9 VDC/2.2 A
+Minimum Power Output: 20 W
+Output Port: USB-C
+Apple 18W USB-C power adapter
+Apple 5W USB power adapter
+You can also use Apple USB power adapters for iPad and Mac notebooks to charge iPhone, and you can use third-party power adapters that are compliant with applicable country regulations and international and regional safety standards.

@@ -1,0 +1,6 @@
+iPhone User Guide
+Use News widgets on iPhone
+You can easily see the day’s top and trending stories from the News app, as well as stories about a topic of your choosing, just by tapping the Today or Topic widget.
+Access stories from News widgets
+In the Today or Topic widget, tap a story headline to open the story in News.
+See Add, edit, and remove widgets .

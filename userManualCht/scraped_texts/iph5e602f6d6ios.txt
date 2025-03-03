@@ -1,0 +1,46 @@
+iPhone User Guide
+Edit Cinematic mode videos on iPhone
+On iPhone 13 and later, Cinematic mode in Camera applies a depth-of-field effect that keeps the subject of your video sharp while creating a beautifully blurred foreground and background. After capturing the video, you can adjust or remove the Cinematic mode effects in the Photos app.
+Turn off the Cinematic effect
+Go to the Photos app on your iPhone.
+Open a video you recorded in Cinematic mode, then tap .
+Tap Cinematic at the top of the screen, then tap Done.
+To turn Cinematic mode back on, repeat these steps.
+Change the focus subject in a Cinematic mode video
+Camera automatically identifies where to focus while you record in Cinematic mode and can automatically change focus if a new subject is identified. You can also change the focus subject manually.
+Go to the Photos app on your iPhone.
+Open a video you recorded in Cinematic mode, then tap .
+White dots under the frame viewer indicate where Camera automatically changed the focus while recording. Yellow dots indicate where the focus was manually changed.
+Play the video, or slide the white vertical bar in the frame viewer, to the point where you want to change the focus.
+Tap a subject, outlined in yellow, to change the focus; double-tap to set automatic focus tracking on the subject.
+A yellow dot appears under the frame viewer to indicate the focus was changed.
+Note: You can also touch and hold the screen to lock the focus at a specific distance from the camera.
+Repeat the steps above to change focus points throughout the video.
+To remove a manual focus change, tap the yellow dot under the frame viewer, then tap .
+Tap Done to save your changes.
+Tap to switch between automatic focus tracking and your manually selected focus points.
+After you save your changes, you can revert a Cinematic mode video to the original if you don’t like your edits. Open the video, tap , then tap Revert to Original.
+Adjust the depth of field in a Cinematic mode video
+Go to the Photos app on your iPhone.
+Open a video you recorded in Cinematic mode, then tap .
+Tap at the top of the screen.
+A slider appears below the video.
+Drag the slider left or right to adjust the depth of field effect, then tap Done.
+To undo edits after you save, open the video, tap , then tap Revert to Original.
+Export Cinematic mode videos to your Mac
+You can use AirDrop to transfer Cinematic mode videos—with depth and focus metadata—from your iPhone to your Mac to edit in other apps.
+Note: To edit Cinematic mode videos recorded on an iPhone with iOS 16 or later, make sure your Mac is using macOS 13 or later.
+Go to the Photos app on your iPhone.
+Open the Cinematic mode video, then tap .
+Tap Options at the top of the screen, turn on All Photos Data, then tap Done.
+Tap AirDrop, then tap the device you want to share with (make sure the device you’re sharing with has AirDrop turned on).
+For information about editing Cinematic mode videos on your Mac using Photos, see Edit a Cinematic mode video .
+For information about editing Cinematic mode videos on your Mac using Final Cut Pro, iMovie, or Motion, see the Apple Support article Edit Cinematic mode video in Final Cut Pro, iMovie, and Motion .
+Export Cinematic mode videos to an external storage device
+You can export Cinematic mode videos directly to an external drive, a memory card, or other storage device.
+Note: For photos and videos that have been edited, the unmodified original version will be exported.
+Connect your iPhone to the storage device using the Lightning or USB-C connector.
+Go to the Photos app on your iPhone.
+Select the video you want to export.
+Tap , then tap Export Unmodified Original.
+Tap your storage device (below Locations), then tap Save.

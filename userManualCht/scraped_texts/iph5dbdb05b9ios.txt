@@ -1,0 +1,15 @@
+iPhone User Guide
+Use AirPods with iPhone
+After you pair AirPods with iPhone, you can use AirPods to listen to audio playing on iPhone, make and answer calls, listen and respond to messages, hear reminders when you need them, listen to conversations more easily in noisy environments, and more.
+Pair AirPods with your iPhone
+On iPhone, go to Settings > Bluetooth, then turn on Bluetooth.
+Go to the Home Screen on your iPhone.
+Do one of the following:
+AirPods (1, 2, 3, and 4) and AirPods Pro: Open the case with your AirPods inside, then hold it next to your iPhone.
+AirPods Max: Take your AirPods Max out of the Smart Case, then hold AirPods Max next to your iPhone.
+Follow the onscreen instructions, then tap Done.
+Note: If onscreen instructions for pairing your AirPods Max don’t appear, go to Settings > Bluetooth, then select your AirPods Max. If the status light doesn’t flash white on AirPods Max, press and hold the noise control button until it does.
+Your AirPods are automatically paired with all of your supported devices where you’re signed in to your Apple Account (iOS 10, iPadOS 13, macOS 10.12, watchOS 3, or later required).
+Note: If you can’t pair your AirPods, see the Apple Support article If your AirPods won’t connect .
+Do more with AirPods and your iPhone
+See the AirPods User Guide for detailed instructions on how to get the most out of your AirPods.

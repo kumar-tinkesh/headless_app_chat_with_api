@@ -1,0 +1,39 @@
+iPhone User Guide
+Mark a device as lost in Find My on iPhone
+Use the Find My app to mark a missing iPhone, iPad, iPod touch, Apple Watch, Mac, supported AirPods, or iPhone Wallet with MagSafe as lost. In order to mark a device as lost, you must turn on Find My [device] before it’s lost.
+Note: Location sharing and finding devices aren’t available in all countries or regions.
+What happens when you mark a device as lost?
+A confirmation email is sent to your Apple Account email address.
+You can create a message for the device that says it’s lost and how to contact you.
+For an iPhone, iPad, iPod touch, Mac, or Apple Watch, your device doesn’t display alerts or make noise when you receive messages or notifications, or if any alarms go off. Your device can still receive phone calls and FaceTime calls.
+For applicable devices, payment cards and other services are suspended.
+Mark a device as lost
+If your device is lost or stolen, you can turn on Lost Mode (for your iPhone, iPad, iPod touch, Apple Watch, supported AirPods, or iPhone Wallet with MagSafe), or lock your Mac.
+Go to the Find My app on your iPhone.
+Tap Devices at the bottom of the screen, then tap the name of the lost device.
+Below Mark As Lost, tap Activate.
+Follow the onscreen instructions, keeping the following in mind:
+Passcode: If your iPhone, iPad, iPod touch, or Apple Watch doesn’t have a passcode, you’re asked to create one now. For a Mac, you must create a numerical passcode, even if you already have a password set up on your Mac. This passcode is distinct from your password and is only used when you mark your device as lost.
+Contact information: For iPhone, iPad, iPod touch, Mac, or Apple Watch, the contact information and message appear on the device’s Lock Screen. For AirPods or iPhone Wallet with MagSafe, the information appears when someone tries to connect with your device.
+Tap Activate (for an iPhone, iPad, iPod touch, Apple Watch, AirPods, or iPhone Wallet with MagSafe) or Lock (for a Mac).
+When the device has been marked as lost, you see Activated below the Mark As Lost section. If the device isn’t connected to a network when you mark it as lost, you see Pending until the device goes online again.
+See also Mark AirPods as lost in the AirPods User Guide.
+Change the information for a lost device
+After you mark your iPhone, iPad, iPod touch, Apple Watch, or iPhone Wallet with MagSafe as lost, you can adjust the information in the Lost Mode message.
+Go to the Find My app on your iPhone.
+Tap Devices at the bottom of the screen, then tap the name of the lost device.
+Below Mark As Lost, tap Pending or Activated.
+Update the information, then tap Done.
+Turn off Lost Mode for an iPhone, iPad, iPod touch, Apple Watch, AirPods, or iPhone Wallet with MagSafe
+When you find your lost device, you can turn off Lost Mode.
+Go to the Find My app on your iPhone.
+In Find My, tap Devices at the bottom of the screen, then tap the name of the device.
+Tap Pending or Activated below Mark As Lost, tap Turn Off Mark As Lost, then tap Turn Off.
+For iPhone, iPad, iPod touch, or Apple Watch, you can also turn off Lost Mode by entering your passcode on the device. For iPhone Wallet with MagSafe, you can turn off Lost Mode by attaching the wallet to your iPhone.
+Unlock a Mac
+When you find your lost Mac, do one of the following:
+Mac with Apple silicon: Enter your Apple Account password.
+See the Apple Support articles If you forgot your Apple Account primary email address or phone number and If you forgot your Apple Account password .
+Intel-based Mac: Enter the numeric passcode on the Mac to unlock it (the one you set up when you marked your Mac as lost).
+If you forget your passcode, you can recover it using Find Devices on iCloud.com . For more information, see Use Lost Mode in Find Devices on iCloud.com in the iCloud User Guide.
+If you lose your iPhone, you can turn on Lost Mode using Find Devices on iCloud.com .

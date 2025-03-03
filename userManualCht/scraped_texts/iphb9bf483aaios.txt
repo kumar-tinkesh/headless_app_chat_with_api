@@ -1,0 +1,25 @@
+iPhone User Guide
+Show song credits and lyrics on iPhone
+When you subscribe to Apple Music , you can show song credits and view and share lyrics.
+Show song credits
+You can view song credits that include performing artists, composition and lyrics, production and engineering roles, and available audio quality.
+Go to the Music app on your iPhone.
+Do one of the following:
+While a song is playing, tap the MiniPlayer to open the Now Playing screen, tap , then tap Show Credits.
+Tap next to a song in a list, then tap Show Credits.
+Show and hide time-synced lyrics
+Time-synced lyrics appear for many songs in Apple Music.
+Go to the Music app on your iPhone.
+While a song is playing, tap the MiniPlayer to open the Now Playing screen, then tap .
+Tip: Tap a specific lyric—the first line of the chorus, for example—to go to that part of the song.
+To see all of a song’s lyrics, tap , tap Show Credits, then tap View Lyrics.
+To hide the lyrics, tap .
+Share lyrics
+You can share up to 150 characters of a song’s lyrics if time-synced lyrics are available.
+Go to the Music app on your iPhone.
+While a song is playing, tap the MiniPlayer to open the Now Playing screen.
+Tap , then tap Share Lyrics.
+You can also touch and hold a lyrics line to open the sharing screen.
+Tap the first and last lyrics you want to share, then choose a sharing option.
+Report a concern
+To report a concern about time-synced lyrics, tap , then tap Report a Concern.

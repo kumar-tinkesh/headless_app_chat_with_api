@@ -1,0 +1,38 @@
+iPhone User Guide
+Set up Screen Time for a family member on iPhone
+You can set up Screen Time for a family member on their device by following the steps in Set up Screen Time , or if they’re in a Family Sharing group for which you’re the organizer, you can set up Screen Time for them through Family Sharing on your device.
+If you’re the organizer (or a parent or guardian) of a Family Sharing group, when you set up a child account, you enter the child’s name and birthday. The child’s birthday is used to set suggested content restrictions that determine the content they can access. You can adjust these content restrictions later by going to Settings > Family > [ child’s name ] > Screen Time > Parental Controls on your device and dragging the age slider.
+You can also manually set up content restrictions , communication limits , and downtime in Settings > Screen Time on the child’s device.
+For children under 13, Communication Safety and Screen Distance are turned on by default. The Web Content filter is set by default to Limit Adult Websites for children under 13. (This age varies by country or region.)
+Set up Screen Time for a family member
+On your device, go to Settings > Screen Time.
+Scroll down and select a family member below Family.
+To schedule downtime for your family member, follow the instructions in Schedule time away from the screen .
+If your child requests more screen time, you can approve or decline the request in Settings > Screen Time or in Messages.
+To set limits for app use for your family member, follow the instructions in Set limits for app use .
+To choose apps and contacts to allow your family member to use at all times, follow the instructions in Choose apps and contacts to allow at all times .
+Note: If your family member needs health or accessibility apps, make sure they’re in the Allowed Apps list. If Messages isn’t always allowed, your family member may not be able to send or receive messages (including to emergency numbers and contacts) during downtime or after the app limit has expired.
+To help reduce your family member’s risk of myopia or eyestrain, turn on Screen Distance .
+You can also do any of the following for a family member:
+Block content and prevent iTunes & App Store purchases
+Allow or block calls and messages from specific contacts
+Check for sensitive images
+Check for nude content on a family member’s iPhone
+You can have your family member’s iPhone detect nudity in images before they’re sent or received in Messages, AirDrop, Contact Posters, FaceTime messages, the Photos app, and third-party apps that adopt Apple’s Communication Safety framework. If nudity is detected in an image, the image is blurred and resources are provided to help your child handle the situation (not available in all countries or regions). This feature doesn’t give Apple access to the photos. See the Apple Support article About Communication Safety on your child’s Apple device .
+Note: For children under 13 in a Family Sharing group, Communication Safety is turned on by default.
+On your device, go to Settings > Screen Time.
+Scroll down and tap the name of your family member.
+Tap Communication Safety, then turn on Communication Safety.
+You may need to enter the Screen Time passcode.
+Note: When you turn on Communication Safety, it turns on the Sensitive Content Warning in Settings > Privacy & Security. See Receive warnings about sensitive content on iPhone .
+Block adult content on a family member’s device
+When you set up a child account, you enter the child’s name and birthday after tapping Create Child Account. The child’s age automatically determines the content they can access. You can help ensure that the content on your family member’s device is age appropriate by manually limiting the explicitness ratings in Content & Privacy Restrictions.
+On your family member’s device, go to Settings > Screen Time.
+Tap Content & Privacy Restrictions, then turn on Content & Privacy Restrictions.
+Choose specific content and privacy options.
+To protect your family member’s hearing, scroll down, tap Reduce Loud Audio, then select Don’t Allow. (This prevents changes to the maximum headphone volume.)
+To restrict access to specific apps or features, go to Settings > Screen Time > Content & Privacy Restrictions > Allowed Apps & Features, then turn them off. To allow them, turn them on.
+Tap at the top left.
+Add or change Screen Time settings for a family member later
+To add or change Screen Time settings later, follow the steps described in the sections above.
+Important: If you set up Screen Time for a family member on their device (not through Family Sharing), and you forget the Screen Time passcode, you can use your Apple Account to reset it. However, if you set up Screen Time for a family member on your device through Family Sharing and you forget your Screen Time passcode, you can reset it on your device using your device passcode, Touch ID, or Face ID.

@@ -1,0 +1,18 @@
+iPhone User Guide
+Apple Intelligence and privacy on iPhone
+Apple Intelligence* delivers intelligence that is relevant for you and grounded in your personal context while protecting your privacy with a groundbreaking step forward for privacy in AI. The cornerstone of Apple Intelligence is on-device processing, so it is aware of your personal information without collecting your personal information.
+For more complex requests that require more computational capacity, Apple Intelligence can use Private Cloud Compute, which extends the privacy and security of your Apple products like iPhone into the cloud to unlock even more intelligence. Private Cloud Compute uses larger, server-based models powered by Apple silicon. Your data is never stored. It is only used to fulfill your requests. And independent privacy and security researchers can verify this privacy promise at any time.
+Note: Apple Intelligence is available in iOS 18.1 or later on all iPhone 16 models, iPhone 15 Pro, and iPhone 15 Pro Max. Apple Intelligence is not available on iPhone and iPad if you’re in the EU and if your Apple Account country or region is also in the EU. To check whether Apple Intelligence is available for your device and language, see the Apple Support article Apple Intelligence requirements .
+About Private Cloud Compute
+When a user makes a request, Apple Intelligence analyzes whether it can be processed on device. For more complex requests, it can draw on Private Cloud Compute, which extends the privacy and security of your iPhone into the cloud. With Private Cloud Compute, only the data that is relevant to your request is processed on Apple silicon servers, before being removed. When requests are routed to Private Cloud Compute, data is not stored or made accessible to Apple, and is only used to fulfill the user’s requests. Independent privacy and security researchers can inspect the code that runs on Apple silicon servers that enable Private Cloud Compute to verify this privacy promise at any time.
+The Apple silicon servers that form the foundation of Private Cloud Compute provide unprecedented cloud security. This starts with the Secure Enclave, which protects critical encryption keys on the server just as it does on a user’s iPhone, while Secure Boot ensures the OS running on the server is signed and verified, just like in iOS. Trusted Execution Monitor makes sure only signed and verified code runs, and attestation enables a user’s device to securely verify the identity and configuration of a Private Cloud Compute cluster before sending a request. And to verify Apple’s privacy promise, independent experts can inspect the software that runs on Private Cloud Compute servers.
+Note: To learn more, go to Private Cloud Compute: A new frontier for AI privacy in the cloud .
+Create an Apple Intelligence Report
+You can generate a report of requests your iPhone has sent to Private Cloud Compute.
+Go to Settings , then tap Privacy & Security.
+Tap Apple Intelligence Report, then choose a report duration for the last 15 minutes (default) or last 7 days. Choose off to disable the report.
+Note: The report may be empty if there haven’t been any Private Cloud Compute requests since you changed the duration.
+Tap Export Activity, choose a place to store the file, then tap Export.
+The report is saved as a file named Apple_Intelligence_Report.json.
+Open the file with a text reader.
+Apple Footer

@@ -1,0 +1,17 @@
+iPhone User Guide
+Block and silence FaceTime calls from unknown callers on iPhone
+In the FaceTime app , you can block FaceTime calls from unknown callers and report the calls as spam or junk. You can also silence calls from unknown callers.
+Block a FaceTime call
+If you receive an unwanted FaceTime call, you can block the caller. Do one of the following:
+During a call, tap , tap Block Caller, then tap Block. (You may need to tap the FaceTime window for to appear.)
+In your FaceTime call history or in the Recents list in the Phone app, swipe left on the call, tap , then tap Block.
+Block a Group FaceTime call
+If you receive an unwanted Group FaceTime call from unknown callers, you can block all participants by doing one of the following:
+While the call is ringing: Tap the left side of the notification to expand the window, tap at the top of the screen, then tap Block All Participants.
+During a Group FaceTime call: Tap at the top of the screen, then tap Block All Participants.
+After a Group FaceTime call has ended: Tap the call in the call history, tap next to a caller’s information, tap Block Caller, then tap Block Contact.
+You can also go to your FaceTime call history or the Recents list in the Phone app, swipe left on the call, tap , then tap Block All Participants.
+Note: If a Group FaceTime call is listed in the Active section, it hasn’t ended; the Block option won’t be available in your call history.
+Silence FaceTime calls from unknown callers
+Go to Settings > Apps > FaceTime > Silence Unknown Callers, then turn on Silence Unknown Callers.
+This setting ensures that you’ll receive FaceTime calls only from your saved contacts, people you’ve called before, and people suggested by Siri. Calls from unknown numbers go to voicemail and are displayed on the Recents list.

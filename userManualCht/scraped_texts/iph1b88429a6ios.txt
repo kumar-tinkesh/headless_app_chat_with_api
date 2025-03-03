@@ -1,0 +1,10 @@
+iPhone User Guide
+Take a selfie with your iPhone camera
+Use your iPhone camera to take a photo of yourself (a selfie). You can take selfies in Photo mode, Portrait mode, or Video mode.
+To learn about camera modes, see Switch between camera modes .
+Open Camera on your iPhone.
+Tap or use the Camera Control ( on supported models ) to switch to the front-facing camera.
+Hold your iPhone in front of you.
+Tip: Tap the arrows inside the frame to increase the field of view.
+Tap the Shutter button, press either volume button, or click the Camera Control to take the shot or start recording.
+To take a selfie that captures the shot as you see it in the front-facing camera frame, rather than reversing it, go to Settings > Camera, then turn on Mirror Front Camera.

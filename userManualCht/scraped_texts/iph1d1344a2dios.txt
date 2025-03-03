@@ -1,0 +1,33 @@
+iPhone User Guide
+Trim video length, adjust speed, and edit audio on iPhone
+In the Photos app, you can trim a video you recorded on your iPhone to change where it starts and stops. You can also adjust the playback speed, and change the portion of a video that appears in slow motion when you record in Slo-mo mode.
+When you capture a video on any iPhone 16 model, you can edit Spatial Audio in the Photos app.
+Trim a video
+Go to the Photos app on your iPhone.
+Open a video, then tap .
+Drag either end of the frame viewer below the video to change the start and stop times, then tap Done.
+Tap Save Video to save only the trimmed video, or Save Video as New Clip to save both versions of the video.
+To undo edits after you save, open the video, tap , then tap Revert.
+Note: A video saved as a new clip can’t be reverted to the original.
+Edit the video playback speed
+You can slow down videos that were captured at a high frame rate for a dramatic effect.
+Go to the Photos app on your iPhone.
+Open a video, tap , then tap Video.
+Tap , then tap a playback speed.
+Note: The playback options available depend on the format of the video you captured. The larger the format you capture, the more options are available.
+Change the slow-motion section of a video shot in Slo-mo mode
+Go to the Photos app on your iPhone.
+Open a video shot in Slo-mo mode, then tap .
+Drag the black vertical bars beneath the frame viewer to set where the video is played in slow motion.
+Edit Spatial Audio with Audio Mix on iPhone 16 models
+When you capture a video on iPhone 16, iPhone 16 Plus, iPhone 16 Pro, or iPhone 16 Pro Max, it records multiple formats like Spatial Audio and Stereo to allow more audio customization. If you record video with Spatial Audio turned on, you can later edit the video sound—for example, reduce background noise to focus on the person speaking on camera.
+Go to the Photos app on your iPhone.
+Open a video, then tap .
+Tap Audio Mix, then choose one of the following:
+Standard: Play the original audio you recorded.
+In-Frame: Reduce sounds and voices from sources not visible in the video frame.
+Studio: Reduce background sounds and reverb, to make it sound more like you’re recording in a professional studio.
+Cinematic: Put all the voices onto a front-facing track and leave environmental noises in surround, like the audio in movies.
+Drag the slider below the mix options to increase or decrease the effect and background noise levels.
+Tap Done.
+To learn more about Spatial Audio, see Change sound recording options on iPhone 16 models .

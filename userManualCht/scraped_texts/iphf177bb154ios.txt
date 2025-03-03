@@ -1,0 +1,46 @@
+iPhone User Guide
+Lock your notes on iPhone
+In the Notes app , you can lock notes to protect your sensitive information. You can access your locked notes using your device passcode or a custom password. If you have multiple Notes accounts, you choose the locking method for each account (for example, for your iCloud account).
+Lock notes with your device passcode
+If you use your device passcode to access locked notes, you don’t have to create and remember a separate password, which reduces the chance of losing access to your locked notes. If you use your device passcode, you can also use Face ID or Touch ID to access your locked notes.
+If you have multiple devices where you’re signed in to the same Apple Account, you use each device’s passcode (or login password for a Mac) to access your locked notes on that device.
+To access notes locked with a device passcode, you must be using iOS 16, iPadOS 16, macOS 13, or later. On devices with an earlier version of the OS, you won’t be able to access the locked notes.
+Go to Settings > Apps > Notes.
+Tap Password.
+If you have multiple accounts, choose the account you want to set a password for.
+Tap Use Device Passcode.
+For added convenience, you can also turn on Face ID or Touch ID.
+Lock notes with a custom password
+Creating a custom password for locked notes can provide additional security, but if you forget the password, you may lose access to your locked notes.
+You use your custom password to access your locked notes on all devices where you’re signed in to the same Apple Account. If you have more than one iCloud account or an “On My iPhone” account, you can set a different custom password for each account.
+To access notes locked with a custom password, you must be using iOS 9.3, iPadOS 13, OS X 10.11.4, or later. On devices with an earlier version of the OS, you won’t see the notes.
+Go to Settings > Apps > Notes.
+Tap Password.
+If you have multiple accounts, choose the account you want to set a password for.
+Tap Use Custom Password.
+For added convenience, you can also turn on Face ID or Touch ID.
+Don’t rely on Face ID or Touch ID as the only means of unlocking your notes. If you update your Face ID or Touch ID settings, or want to change your Notes password, you have to reenter your Notes password.
+Important: If you forget your custom password, and you can’t use Face ID or Touch ID to access your locked notes, Apple can’t help you regain access to those notes.
+You can reset your custom password, but this doesn’t give you access to previously locked notes. The new custom password applies to all notes you lock from now on. Go to Settings > Apps > Notes, then tap Password > Reset Password.
+See the Apple Support article How to lock or unlock notes on your iPhone or iPad .
+Change the locking method
+If you’re using a custom password, you can switch to using your device passcode. When you change your locking method, notes that you accessed with the previous method begin using the new method.
+Go to Settings > Apps > Notes.
+Tap Password, choose an account (if you have more than one), then tap Use Device Passcode.
+Lock a note
+You can only lock notes on your device and notes in iCloud. You can’t lock notes that have PDF, audio, video, Keynote, Pages, or Numbers attachments; notes that sync with other accounts; or Quick Notes. You can’t lock a note that’s shared in iCloud.
+Go to the Notes app on your iPhone.
+Open the note, then tap .
+Tap Lock.
+When a note is locked, the title remains visible in the notes list.
+To remove a lock from a note, tap , then tap Remove.
+Open your locked notes
+Opening one locked note opens all your locked notes in the same account for several minutes so you can easily jump into another note or copy and paste information from other apps.
+Go to the Notes app on your iPhone.
+Tap the locked note, then tap View Note.
+To open the note, use Face ID, Touch ID, your device passcode, or your Notes password.
+To lock your notes again, do any of the following:
+Tap the lock icon at the top of the screen.
+Tap Lock Now at the bottom of the notes list.
+Close the Notes app.
+Lock your iPhone.

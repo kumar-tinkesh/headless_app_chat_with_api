@@ -1,0 +1,33 @@
+iPhone User Guide
+Adjust audio settings on iPhone
+You can use mono audio, adjust left-right stereo balance, and—with supported headphones—amplify soft sounds and adjust certain frequencies to best suit your hearing needs.
+Balance the audio
+Go to Settings > Accessibility > Audio & Visual.
+Adjust any of the following:
+Mono Audio: Turn on Mono Audio to make the left and right speakers play the same content.
+Stereo Audio Balance: Drag the Balance slider left or right.
+Use phone noise cancellation
+Phone noise cancellation uses air pressure to reduce ambient background noise. This means that you hear better when you’re holding the receiver to your ear in certain noisy environments. Phone noise cancellation is available and on by default on iPhone 12 and earlier, and can be turned off for your comfort.
+Go to Settings > Accessibility > Audio & Visual.
+Turn Phone Noise Cancellation off or on.
+Adjust certain frequencies and soft sounds
+With Headphone Accommodations for supported Apple and Beats headphones , you can adjust certain sounds to best suit your hearing. Make soft sounds louder and boost some frequencies so phone calls and media sound crisper and clearer.
+Make sure you’re in a quiet environment and that you’ve paired your AirPods or paired other supported Bluetooth® headphones .
+Go to Settings > Accessibility > Audio & Visual > Headphone Accommodations, then turn on Headphone Accommodations.
+Adjust any of the following:
+Frequencies: Below Tune Audio For, choose an option to boost different frequencies.
+Soft sounds: Drag the slider to set an amplification level for soft sounds.
+Scroll down, then do any of the following:
+Turn on Phone to apply the settings to phone calls.
+Turn on Media to apply the settings to media playback like music, movies, and podcasts.
+With some supported headphones, you can use Headphone Accommodations to personalize your headphone audio based on what sounds good to you. Tap Custom Audio Setup, then follow the onscreen instructions.
+Tip: Quickly access Headphone Accommodations by tapping in Control Center . (If you don’t see , add it—tap , tap Add a Control, scroll down to Hearing Accessibility, then tap Headphone Accommodations.)
+For information about applying Headphone Accommodations settings to Transparency Mode and Conversation Boost when using AirPods Pro and iPhone, see Customize Transparency mode for AirPods Pro in the AirPods User Guide.
+Make dialogue sound clearer in videos
+When you watch supported video content, you can turn on voice isolation so the dialogue is easier to hear. During dialogue, voices are isolated and all other audio is substantially reduced.
+Go to Settings > Accessibility > Audio & Visual.
+Turn on Add Voice Isolation.
+While watching a supported video in the Apple TV app , do one of the following:
+Tap .
+Tap , then tap Audio.
+Tap Enhance Dialogue, then tap Isolate.

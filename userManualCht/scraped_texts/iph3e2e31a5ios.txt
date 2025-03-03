@@ -1,0 +1,26 @@
+iPhone User Guide
+Quickly turn accessibility features on or off on iPhone
+You can quickly turn many accessibility features on or off by clicking or pressing an iPhone button or tapping the back of iPhone. You can also use Control Center, Siri, or Vocal Shortcuts.
+Use the Accessibility Shortcut
+Triple-click the side button or Home button to turn the accessibility features of your choice on or off.
+Go to Settings > Accessibility > Accessibility Shortcut, then select the features you want.
+If you select only one feature, the feature is immediately turned on or off when you click the button shortcut.
+Triple-click one of the following:
+The side button (on an iPhone with Face ID )
+The Home button (on other iPhone models)
+To have iPhone recognize a slower triple-click, see Adjust settings for the side or Home button .
+Tap the feature you want to turn on or off (if Accessibility Shortcut is set up with more than one feature).
+Note: To add some features—like Assistive Access or Guided Access —to the Accessibility Shortcut, you need to set them up first. You can use the Accessibility Shortcut to enter and exit Assistive Access, but you can’t use it to turn on other features while Assistive Access is active. To use the Accessibility Shortcut while Guided Access is on, you must turn on Accessibility Shortcut in Guided Access settings .
+Press the Action button
+On supported iPhone models , you can press the Action button to open the Magnifier app or an accessibility feature of your choice. See Use and customize the Action button .
+Tap the back of iPhone
+You can double- or triple-tap the back of iPhone to open an accessibility feature of your choice. See Tap the back of iPhone to perform actions or shortcuts .
+Use Control Center
+You can add accessibility features to Control Center for quick access when you swipe from and edge of the screen.
+To change the features available in Control Center, open Control Center , tap in the top-left corner, then tap Add a Control.
+Tap a control to add it to Control Center. Scroll down to see more controls, including categories of controls for accessibility, hearing, mobility, and vision.
+You can change which features appear when you tap in Control Center. Go to Settings > Accessibility > Hearing Control Center, then add or remove features.
+Use Siri
+Siri: Say something like: “Turn on Voice Control” or “Turn off VoiceOver.” Learn how to use Siri .
+Use a Vocal Shortcut
+You can teach iPhone to turn on an accessibility feature when you speak a word or another sound of your choosing. See Use Vocal Shortcuts .

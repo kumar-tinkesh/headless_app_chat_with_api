@@ -1,0 +1,13 @@
+iPhone User Guide
+View or cancel app subscriptions on iPhone
+You can view and manage your subscriptions from Apple and subscriptions that you purchased in apps from the App Store. You can also cancel any subscriptions you no longer want.
+View and manage your subscriptions
+Go to Settings > [ your name ] > Subscriptions.
+Do any of the following:
+Change an existing subscription.
+Renew an expired subscription.
+Share an eligible subscription with other family members in your Family Sharing group.
+Turn on Renewal Receipts.
+Cancel a subscription
+Go to Settings > [ your name ] > Subscriptions.
+Tap a subscription, then tap Cancel Subscription or Cancel All Services.

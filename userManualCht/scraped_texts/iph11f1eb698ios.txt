@@ -1,0 +1,9 @@
+iPhone User Guide
+Back up your Health data in iCloud on iPhone
+If you sign in with your Apple Account , your health and fitness information in the Health app is stored automatically in iCloud. Your information is encrypted as it goes between iCloud and your device and while it’s stored in iCloud.
+In addition to using iCloud, or if you aren’t using iCloud, you can back up your Health data by encrypting a computer backup. See Back up iPhone .
+Note: For your Health app data to sync across devices, make sure your devices are signed in to the same Apple Account , are connected to the internet, and are updated to the latest OS version.
+Manage your Health data in iCloud
+You can make sure your Health data is synced across all of your devices. You can also stop storing your data at any time.
+Go to Settings > [ your name ] > iCloud.
+Tap Show All, tap Health, then turn Sync with iPhone on or off.

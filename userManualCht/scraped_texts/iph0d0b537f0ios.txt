@@ -1,0 +1,3 @@
+iPhone User Guide
+Class 1 Laser information for iPhone
+iPhone 7 and later are classified as Class 1 Laser products per IEC 60825-1 Ed. 3. These devices comply with 21 CFR 1040.10 and 1040.11, except for conformance with IEC 60825-1 Ed. 3., as described in Laser Notice No. 56, dated May 8, 2019. Caution: These devices contain one or more lasers. Use other than as described in the user guide, repair, or disassembly may cause damage, which could result in hazardous exposure to infrared laser emissions that are not visible. This equipment should be serviced by Apple or an authorized service provider.

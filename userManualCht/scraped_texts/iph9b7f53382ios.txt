@@ -1,0 +1,36 @@
+iPhone User Guide
+Set up Apple Pay in Wallet on iPhone
+Using Apple Pay can be simpler than using a physical card, and safer too. With your cards stored in the Wallet app, you can use Apple Pay to make secure payments in stores, for transit, in apps, and on websites that support Apple Pay.
+Note: The availability of Apple Pay and its features varies by country or region. See the Apple Support article Countries and regions that support Apple Pay .
+To set up Apple Pay, add your debit, credit, and prepaid cards to Wallet.
+Add a debit or credit card
+You can add a supported card from a participating card issuer. To check if your card is compatible with Apple Pay, contact the card issuer.
+Go to the Wallet app on your iPhone.
+Tap . You may be asked to sign in to your Apple Account .
+Add any of the following types of cards:
+A new card: Tap Debit or Credit Card, tap Continue, then hold iPhone near the chip on the card. If the card doesn’t have a chip, tap Enter Card Details Manually, then enter the card number or tap Scan Card with Camera.
+Apple Card: See Use Apple Card on iPhone .
+Your previous cards: Tap Previous Cards, then choose any cards you previously used. These cards may include the card associated with your Apple Account, cards you use with Apple Pay on your other devices, cards you added to Safari AutoFill , or cards you removed from Wallet. Tap Continue, authenticate with Face ID or Touch ID, then follow the onscreen instructions.
+A card from a supported app: Below “From Apps on Your iPhone", tap the app of your bank or card issuer.
+Verify your information with your bank or card issuer. They may ask you to provide more information or to download an app before approving your card for use with Apple Pay.
+Tip: If you have a paired Apple Watch, you have the option to also add the card to your watch.
+See the Apple Support article If you can’t add a card to Apple Wallet to use with Apple Pay .
+Set the default card for payments
+The first debit or credit card you add to Wallet becomes the default card. To choose a different card, do the following:
+Go to the Wallet app on your iPhone.
+Touch and hold the card you want to set as the default, then drag it to the front of the stack.
+Connect your account to Wallet
+With participating card issuers, you can connect your account to Wallet. When your account is connected, you can see your account balance, full transaction history, and more in Wallet.
+Go to the Wallet app on your iPhone.
+Tap the card you want to connect.
+Tap Get Started, then follow the onscreen instructions to connect your account.
+If you don’t see Get Started below the card, the card issuer doesn’t support this feature. See the Apple Support article View your account balance and full transaction history in the Wallet app .
+View and manage card details
+If you have Apple Card, see Use Apple Card on iPhone . For other cards, do the following:
+Go to the Wallet app on your iPhone.
+Tap the card.
+Note: The latest transactions may appear, showing authorized amounts that may differ from the amount of the payment charged to your account. For example, a gas station may request an authorization of $99, even though you pumped only $25 worth of gasoline. To see the final charges, see the statement from your card issuer, which includes all Apple Pay transactions.
+Tap , then tap any of the following:
+Card Number: View the last four digits of the card number and Device Account Number—the number transmitted to the merchant.
+Card Details: See more information; change the billing address; turn the transaction history on or off; or remove the card from Wallet.
+Notifications: Turn notifications on or off.

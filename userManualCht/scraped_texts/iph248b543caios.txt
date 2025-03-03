@@ -1,0 +1,44 @@
+iPhone User Guide
+Remove or delete apps from iPhone
+You can remove or delete some of the built-in apps that come with your iPhone.
+Note: When you remove a built-in app from your iPhone, you also remove any related user data and configuration files. Removing built-in apps from your iPhone can also affect other system functionality.
+If you change your mind after deleting apps, you can download them again later (if they’re still available in the App Store).
+Delete apps
+Do any of the following:
+Remove an app from the Home Screen: Touch and hold the app on the Home Screen, tap Remove App, then tap Remove from Home Screen to keep it in App Library, or tap Delete App to delete it from iPhone.
+Delete an app from App Library and the Home Screen: Touch and hold the app in App Library, tap Delete App, then tap Delete. (See Find your apps in App Library .)
+If you change your mind, you can redownload apps you remove.
+In addition to removing third-party apps, you can remove the following built-in Apple apps that came with your iPhone:
+Books
+Calculator
+Calendar
+Clock
+Compass
+Contacts (Contact information remains available through Phone, Messages, Mail, FaceTime, and other apps. To remove a contact, you must restore Contacts.)
+FaceTime (If you remove the FaceTime app from your iPhone, you can still make or receive FaceTime calls in Contacts and the Phone app, but you can’t use SharePlay on your iPhone unless you redownload the app . See Make FaceTime calls .)
+Files
+Find My (Removing this app doesn’t turn off location sharing or Find My for your device or items—it just removes the ability to view locations in the Find My app on that device.)
+Fitness
+Freeform
+Health
+Home
+iTunes Store
+Magnifier
+Mail
+Maps
+Measure
+Music
+News
+Notes
+Podcasts
+Reminders
+Shortcuts
+Stocks
+Tips
+Translate
+TV
+Voice Memos
+Wallet (Removing this app doesn’t delete cards and passes you have stored in iCloud.)
+Watch
+Weather
+Note: In the European Union, there may be other built-in apps you can delete. For more information, see Delete certain built-in apps from your iPhone or iPad in the European Union .

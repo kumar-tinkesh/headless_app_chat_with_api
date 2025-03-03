@@ -1,0 +1,9 @@
+iPhone User Guide
+Receive warnings about sensitive content on iPhone
+You can have your iPhone (or your family member’s iPhone) check for sensitive images and warn you before you view them.
+Turn on Sensitive Content Warning
+Go to Settings > Privacy & Security.
+Scroll down and tap Sensitive Content Warning, then turn on Sensitive Content Warning.
+You (or your family member) will receive a warning before receiving or sending sensitive images.
+Note: Sensitive Content Warning is turned on automatically if you set up Screen Time and turn on Communication Safety. See Check for sensitive images on iPhone .
+In Screen Time, you can also block inappropriate content and set restrictions on purchases. See Block content and prevent iTunes & App Store purchases .

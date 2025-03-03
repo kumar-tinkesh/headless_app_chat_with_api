@@ -1,0 +1,29 @@
+iPhone User Guide
+Use security keys to sign in to your Apple Account on iPhone
+Security Keys for your Apple Account is an optional security feature designed for people (such as celebrities, journalists, and members of government) who want extra protection from targeted attacks on their account, including phishing and social engineering scams.
+A security key is a small third-party hardware device that you can connect to your iPhone and use to verify your identity when signing in to your Apple Account. The physical key replaces the six-digit verification codes normally used in two-factor authentication, which keeps this information from being intercepted or requested by an attacker.
+For details about security key requirements, see the Apple Support article About security keys for your Apple Account .
+Set up security keys
+You need to set up at least two security keys so you can use one of them as a backup in case the other one is lost, damaged, or stolen. You can pair up to six keys with your account.
+Go to Settings > [ your name ] > Sign-In & Security.
+Tap Two-Factor Authentication, tap Security Keys, then tap Add Security Keys and follow the onscreen instructions.
+Sign in to a device, website, or app using a security key
+When prompted, insert your security key (if it’s an NFC key, hold or place it near the top of your iPhone).
+Follow the onscreen instructions.
+Use a security key to reset your Apple Account password
+If you forget your Apple Account password, you can use a security key that’s paired with your account to reset it.
+Go to Settings > [ your name ] > Sign-In & Security. (If you aren’t already signed in to your Apple Account on your iPhone, first use your paired security key to sign in.)
+Tap Change Password, then follow the onscreen instructions.
+Use a security key to unlock your Apple Account
+If you try unsuccessfully six times in a row to sign in to your Apple Account, or if your iPhone detects other signs of suspicious activity, you’ll receive an onscreen notification that your Apple Account is locked. You can use your security key to unlock it.
+Go to Settings > [ your name ] > Sign-In & Security.
+Tap Unlock Account, then follow the onscreen instructions to unlock your Apple Account.
+If you think your account might have been locked because someone else knows your password, tap Change Password and enter a new one.
+Tap Done.
+Remove security keys
+You can pair up to six security keys with your Apple Account. If you reach the limit and need to pair additional keys, you can remove one or more of your paired keys. You can replace keys you’ve removed at any time.
+Go to Settings > [ your name ] > Sign-In & Security.
+Tap Security Keys.
+To remove all keys, tap Remove All Keys, then tap Remove.
+To remove individual keys, tap the ones you want to remove, then tap Remove Key.
+Note: If you remove all security keys from a device, the device reverts to using six-digit verification codes for two-factor authentication.

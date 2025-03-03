@@ -1,0 +1,9 @@
+iPhone User Guide
+Rearrange the icons on CarPlay Home
+When you’re not operating your vehicle, open Settings on your iPhone, go to General > CarPlay, select your vehicle, then tap Customize.
+Do one of the following:
+Move an icon: Drag up or down in the list.
+Remove an icon: Tap next to the icon, then tap Remove.
+Only icons that have next to them can be removed.
+Add an icon back to CarPlay: Below More Apps at the bottom of the page, tap next to the icon.
+Your icon changes appear on CarPlay Home the next time you connect to CarPlay.

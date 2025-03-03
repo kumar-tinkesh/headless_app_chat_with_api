@@ -1,0 +1,16 @@
+iPhone User Guide
+Search for places in Maps on iPhone
+You can search for addresses, landmarks, services, and more.
+Search for a place
+Siri: Say something like: “Show me the Golden Gate Bridge.” Learn how to use Siri .
+Or you can tap the search field (at the top of the card), then begin typing.
+You can search in different ways. For example:
+Intersection (“8th and Market”)
+Area (“Greenwich Village”)
+Landmark (“Guggenheim”)
+Zip code (“60622”)
+Business (“movies,” “restaurants San Francisco CA,” “Apple Inc New York”)
+If you get a list of results, scroll the list to see more. To learn about a place or get directions to it, tap a search result.
+Display, lengthen, or shorten the card
+If you see a different kind of card instead of the one with the search field, tap at the top right of the card.
+To resize the card, drag the top of the card up or down.

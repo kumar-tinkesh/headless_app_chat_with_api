@@ -1,0 +1,36 @@
+iPhone User Guide
+Edit or delete a recording in Voice Memos on iPhone
+You can fine-tune your recordings using the editing tools. Remove parts, record over parts, or replace an entire recording. You can also delete a recording you no longer need.
+Edit a voice recording
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+In the list of recordings, tap the recording you want to edit, tap , then tap Edit Recording.
+Tap at the top right, then drag the yellow trim handles to enclose the section you want to keep or delete.
+You can pinch open to zoom in on the waveform for more precise editing.
+To check your selection, tap .
+To keep the selection (and delete the rest of the recording), tap Trim, or to delete the selection, tap Delete.
+Tap Apply, then tap Done.
+Tap Save Recording to overwrite the original recording, or tap Save as New Recording to save the edited version as a new recording (leaving the original as it was).
+Replace a recording
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+In the list of recordings, tap the recording you want to replace, tap , then tap Edit Recording.
+Drag the waveform to position the playhead where you want to start recording new audio.
+You can pinch open to zoom in on the waveform for more precise placement.
+Tap Replace to begin recording (the waveform turns red as you record).
+Tap to pause; tap Resume to continue.
+To check your recording, tap .
+Tap Done, then tap Save Recording to replace the original recording, or tap Save as New Recording to save the changes as a new recording (leaving the original as it was).
+Delete a recording
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+Do any of the following:
+In the list of recordings, tap the recording you want to delete, then tap .
+Tap Edit above the list of recordings, select one or more recordings, then tap .
+Deleted recordings move to the Recently Deleted folder, where they’re kept for 30 days by default. To change how long deleted recordings are kept, go to Settings > Apps > Voice Memos > Clear Deleted, then select an option.
+Recover or erase a deleted recording
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+Tap the Recently Deleted folder, then tap the recording you want to recover or erase.
+If you don’t see the Recently Deleted folder, tap at the top left.
+Do any of the following:
+Recover the selected recording: Tap Recover.
+Delete the selected recording: Tap Delete.
+Recover everything in the Recently Deleted folder: Tap Edit above the Recently Deleted list, then tap Recover All.
+Delete everything in the Recently Deleted folder: Tap Edit above the Recently Deleted list, then tap Delete All.

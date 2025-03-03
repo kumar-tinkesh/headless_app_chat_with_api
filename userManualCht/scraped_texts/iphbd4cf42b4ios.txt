@@ -1,0 +1,26 @@
+iPhone User Guide
+Use Apple Pay for contactless payments on iPhone
+With your payment cards stored in the Wallet app on iPhone, you can use Apple Pay for secure, contactless payments in stores, restaurants, and more.
+Note: Apple Pay is available in certain countries and regions; see Countries and regions that support Apple Pay .
+Find places that accept Apple Pay
+You can use Apple Pay where you see contactless payment symbols such as the following:
+Note: In addition to accepting Apple Pay, the merchant must accept your payment card and payment network.
+In other countries and regions, you may see different contactless payment symbols. See Learn where to use Apple Pay .
+Pay with your default card on an iPhone with Face ID
+Double-click the side button.
+When your default card appears, authenticate with Face ID or your passcode.
+Hold the top of your iPhone near the card reader until you see Done or a checkmark on the screen.
+Pay with your default card on an iPhone with Touch ID
+Rest your finger on Touch ID.
+Hold the top of your iPhone near the card reader until you see Done or a checkmark on the screen.
+Pay with a different card instead of your default card
+When your default card appears, tap it, then choose another card.
+Authenticate with Face ID, Touch ID, or your passcode.
+Hold the top of your iPhone near the card reader until you see Done or a checkmark on the screen.
+Use a loyalty or rewards card and Apple Pay
+At participating stores, you can receive or redeem rewards when you use Apple Pay.
+Add your rewards card to the Wallet app.
+To have your rewards card appear automatically when you’re in the store, tap on the card, tap Pass Details, then turn on Automatic Selection.
+At the payment terminal in the store, present your rewards card by holding iPhone near the contactless reader.
+Apple Pay then switches to your default payment card to pay for the purchase. In some stores, you can apply your rewards card and payment card in one step. In other stores, you need to wait until the terminal or cashier asks for payment.
+Note: If you have Location Services turned on, the location of your iPhone at the time you make a payment may be sent to Apple and the card issuer to help prevent fraud. See Control the location information you share .

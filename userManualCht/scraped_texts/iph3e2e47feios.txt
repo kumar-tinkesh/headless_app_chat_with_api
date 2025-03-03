@@ -1,0 +1,36 @@
+iPhone User Guide
+Set up and use RTT and TTY on iPhone
+If you have hearing or speech difficulties, you can communicate by telephone using Teletype (TTY) or real-time text (RTT)—protocols that transmit text as you type and allow the recipient to read the message right away. RTT is a more advanced protocol that transmits audio as you type text.
+iPhone provides built-in Software RTT and TTY from the Phone app—it requires no additional devices. If you turn on Software RTT/TTY, iPhone defaults to the RTT protocol whenever it’s supported by the carrier.
+iPhone also supports Hardware TTY, so you can connect iPhone to an external TTY device with the iPhone TTY Adapter (sold separately in many regions).
+Important: RTT and TTY aren’t supported by all carriers or in all countries or regions. RTT and TTY functionality depends on your carrier and network environment. When making an emergency call in the U.S., iPhone sends special characters or tones to alert the operator. The operator’s ability to receive or respond to these tones can vary depending on your location. Apple doesn’t guarantee that the operator will be able to receive or respond to an RTT or TTY call.
+Set up RTT and TTY
+Go to Settings > Accessibility > RTT/TTY.
+Note: Depending on your carrier, you might see RTT, TTY, or RTT/TTY.
+Turn on Software RTT, then do any of the following:
+If your iPhone has Dual SIM, choose a line.
+Tap Relay Number, then enter the phone number to use for relay calls using Software RTT.
+Turn on Send Immediately to send each character as you type. Turn it off to complete messages before sending.
+Turn on Answer All Calls as RTT/TTY.
+If you want to answer and make TTY calls from an external TTY device instead of from your iPhone, turn on Hardware TTY.
+When RTT or TTY is turned on, appears in the status bar at the top of the screen.
+Connect iPhone to an external TTY device
+If you turned on Hardware TTY in Settings > Accessibility > RTT/TTY, connect your iPhone to your TTY device using the iPhone TTY Adapter. If Software TTY is also turned on, incoming calls default to Hardware TTY. For information about using a particular TTY device, see the documentation that came with it.
+Start an RTT or TTY call
+Go to the Phone app on your iPhone.
+Tap Contacts, then choose a contact.
+Tap Call, then choose RTT/TTY Call or RTT/TTY Relay Call.
+Wait for the call to connect, then tap .
+iPhone defaults to the RTT protocol whenever it’s supported by the carrier.
+If you haven’t turned RTT on and you receive an incoming RTT call, tap the RTT button to answer the call with RTT.
+Type text during an RTT or TTY call
+When you accept or start an RTT or TTY call , tap Use RTT, then tap .
+Enter your message in the text field.
+If you turned on Send Immediately in Settings, your recipient sees each character as you type. Otherwise, tap to send the message.
+To also transmit audio, tap in the top-right corner.
+Review the transcript of a Software RTT or TTY call
+Your iPhone can capture voice messages and provide auto-answer transcriptions for incoming calls.
+Go to the Phone app on your iPhone.
+Tap Recents, then tap next to a caller.
+RTT and TTY calls with transcripts are marked with a in your call history. Tap the call to see its transcript.
+Note: Continuity features aren’t available for RTT and TTY support. Standard voice call rates apply for both Software RTT/TTY and Hardware TTY calls.

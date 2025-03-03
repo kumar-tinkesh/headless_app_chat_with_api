@@ -1,0 +1,23 @@
+iPhone User Guide
+Search for websites in Safari on iPhone
+Enter a URL or a search term to find websites or specific information.
+Search the web
+Go to the Safari app on your iPhone.
+Enter a search term, phrase, or URL in the search field.
+Tap a search suggestion, or tap Go on the keyboard.
+If you don’t want to see suggested search terms, go to Settings > Apps > Safari, then turn off Search Engine Suggestions.
+See your favorite websites while you search
+Go to Settings > Apps > Safari.
+Tap Favorites, then select the folder with the favorites you want to see.
+Search a webpage
+You can find a specific word or phrase on a webpage.
+Go to the Safari app on your iPhone.
+Tap , then tap .
+Enter the word or phrase in the search field.
+Tap to jump to other mentions.
+Choose a search engine
+Go to Settings > Apps > Safari.
+Tap Search Engine, then choose a search engine.
+Search for objects in your photos
+With Visual Look Up, you can identify and learn about popular landmarks, plants, pets, and more that appear in your photos and videos. See Use Visual Look Up to identify objects in your photos and videos .
+Tip: You can use the same feature to scan text and search online. See Use Live Text with your iPhone camera .

@@ -1,0 +1,25 @@
+iPhone User Guide
+Adjust your Activity ring goals in Fitness on iPhone
+You can change your personal health details, change your Activity goals, and customize your Activity ring goals by the day of the week. You can also pause your Activity rings and resume at any time.
+Update your health details
+Go to the Fitness app on your iPhone.
+Tap your picture or initials at the top right.
+Tap Health Details, tap a field to make a change, then tap Done.
+Change your Activity ring goals
+You can change your daily goals for each of your Activity rings. You can also customize your Activity ring goals by the day of the week.
+Go to the Fitness app on your iPhone.
+Tap the Activity rings, then tap next to an Activity ring.
+Tap one of the following:
+Adjust Goal for Today: Set a temporary goal for your Activity ring for today.
+Adjust Goal Schedule: Customize your Activity ring goal by the day of the week.
+If you’re customizing your goal, tap Schedule in the top-right corner.
+Tap or to adjust the goal.
+When you’re finished, tap Change [ activity ] Goal for Today, or Set [ activity ] Goal Schedule.
+Every Monday, you’re notified about the previous week’s achievements, and you can adjust your goals for the upcoming week. Goals are suggested based on your performance in the previous week.
+Pause your rings
+If you need to take a break, you can pause your Activity rings for up to 90 days without breaking your award streak, and resume at any time.
+Go to the Fitness app on your iPhone.
+Tap the Activity rings, scroll down, then tap Pause Rings.
+Tap a duration, or tap Custom to set a custom duration.
+When you’re finished, tap Done.
+To resume your rings, tap the Activity rings, then tap Resume Rings. To edit the duration of your pause, tap Edit Pause, set a custom duration, then tap Set.

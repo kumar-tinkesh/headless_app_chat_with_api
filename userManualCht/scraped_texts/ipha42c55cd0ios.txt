@@ -1,0 +1,11 @@
+iPhone User Guide
+Capture action shots with Burst mode on your iPhone camera
+Use Burst mode with your iPhone camera to capture photos of a moving subject, or when you want to take multiple high-speed photos so that you have a range of photos to choose from. You can take Burst photos with the rear and front-facing cameras.
+Open Camera on your iPhone.
+Swipe the Shutter button to the left to begin taking photos in rapid succession.
+Lift your finger to stop.
+To select the photos you want to keep, tap the Burst thumbnail, then tap Select.
+Gray dots below the thumbnails mark the suggested photos to keep.
+Tap the circle in the lower-right corner of each photo you want to save as an individual photo, then tap Done.
+To delete the entire Burst, tap the thumbnail, then tap .
+Tip: You can also press and hold the volume up button to take Burst shots. Go to Settings > Camera, then turn on Use Volume Up for Burst.

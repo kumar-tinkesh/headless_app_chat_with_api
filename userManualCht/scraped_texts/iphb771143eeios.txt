@@ -1,0 +1,12 @@
+iPhone User Guide
+Choose iPhone settings for travel
+When you travel with iPhone, choose settings that comply with airline requirements. Some airlines let you keep your iPhone turned on if you switch to Airplane Mode. By default, Wi-Fi and Bluetooth® are disabled in Airplane Mode—you can’t make calls, but you can listen to music, play games, watch videos, and use other apps that don’t require network or phone connections.
+To choose settings that minimize cellular charges when you travel, see View or change cellular data settings on iPhone .
+Turn on Airplane Mode
+Open Control Center , then tap .
+You can also turn Airplane Mode on or off in Settings . When Airplane Mode is on, the Airplane Mode icon appears in the status bar.
+Turn on Wi-Fi or Bluetooth while in Airplane Mode
+If your airline allows it, you can use Wi-Fi or Bluetooth while in Airplane Mode.
+Open Control Center , then turn on Airplane Mode.
+Tap to turn on Wi-Fi or to turn on Bluetooth.
+If you turn on Wi-Fi or Bluetooth while in Airplane Mode, it may be on the next time you return to Airplane Mode. You can turn it off again in Control Center.

@@ -1,0 +1,17 @@
+iPhone User Guide
+Print from iPhone
+Use AirPrint to print wirelessly to an AirPrint-enabled printer from apps such as Mail, Photos, and Safari. Many apps available on the App Store also support AirPrint.
+Note: Your iPhone and the printer must be on the same Wi-Fi network. See the Apple Support article About AirPrint .
+Choose an AirPrint-enabled printer
+After confirming that your printer supports AirPrint and that your iPhone and printer are on the same Wi-Fi network, do the following:
+Open the app you want to print from.
+Tap , , , or (depending on the app).
+Tap Print, tap No Printer Selected, then choose an AirPrint-enabled printer.
+Print a document
+Open the app you want to print from.
+Tap , , , or (depending on the app).
+Tap Print. (If you don’t see Print, swipe up.)
+See the status of a print job
+Open the App Switcher , then tap Print Center.
+The badge on the icon shows how many documents are in the queue.
+To cancel a print job, select it in Print Center, then tap Cancel Printing.

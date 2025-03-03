@@ -1,0 +1,21 @@
+iPhone User Guide
+Restore all content to iPhone from a backup
+You can restore content, settings, and apps from a backup to a new or newly erased iPhone.
+Important: To restore your iPhone, you must have a backup to restore from. See Back up iPhone .
+Restore iPhone from an iCloud backup
+Turn on your iPhone.
+The Hello screen should appear. If you already set up your device, you need to erase all of its content before you can use these steps to restore from your backup.
+Do one of the following:
+Tap Set Up Manually, tap Restore from iCloud Backup, then follow the onscreen instructions.
+If you have another iPhone, iPad, or iPod touch with iOS 11, iPadOS 13, or later, you can use Quick Start to automatically set up your new device. Bring the two devices close together, then follow the onscreen instructions to securely copy many of your settings, preferences, and iCloud Keychain. You can then restore the rest of your data and content to your new device from your iCloud backup.
+Or, if both devices have iOS 12.4, iPadOS 13, or later, you can transfer all your data wirelessly from your previous device to your new one. Keep your devices near each other and plugged into power until the migration process is complete.
+You’re asked for your Apple Account. If you’ve forgotten your Apple Account, go to iforgot.apple.com .
+Restore iPhone from a computer backup
+Using USB , connect a new or newly erased iPhone to the computer containing your backup.
+Do one of the following:
+On a Mac (macOS 10.15 or later): In the Finder sidebar, select your iPhone, click Trust, then click “Restore from this backup.”
+On a Mac (macOS 10.14 or earlier) or a Windows device: Open the iTunes app, click the button resembling an iPhone near the top left of the iTunes window, click Summary, then click Restore Backup.
+Note: Use the latest version of iTunes. See the Apple Support article Update to the latest version of iTunes .
+Choose your backup from the list, then click Continue.
+If your backup is encrypted, you must enter the password before restoring your files and settings.
+See the Apple Support articles Restore your iPhone, iPad, or iPod touch from a backup and If you can’t update or restore your iPhone, iPad, or iPod touch .

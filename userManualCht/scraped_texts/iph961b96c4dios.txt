@@ -1,0 +1,26 @@
+iPhone User Guide
+Back up and sync your photos with iCloud
+You can use iCloud Photos to keep your photos and videos securely stored in iCloud. If you turn on iCloud Photos on all your devices, you can see the photos and videos you took on iPhone on any device. You can also access your iCloud photos and videos in a web browser.
+When iCloud Photos is turned on, the photos and videos you take are uploaded automatically and stored in their original format at full resolution. Any changes you make to your photo collection on one device are reflected on your other devices, too.
+Note: Make sure that you’re signed in to the same Apple Account on all your devices, and that your devices meet these minimum system requirements: iOS 8.3, iPadOS 13.1, macOS 10.10.3, or later, or a Windows device with iCloud for Windows 7.x or later.
+To learn more, see Set up iCloud Photos on all your devices .
+Turn on iCloud Photos
+Go to Settings > [ your name ] > iCloud.
+Tap Photos, then turn on Sync this iPhone.
+iCloud automatically uploads every photo and video you take to iCloud, so your photos are backed up and in sync, and you can access your library from any device, anytime.
+Check if your photos are backed up to iCloud
+You can check that iCloud Photos is syncing your photos to iCloud, so that you have copies if something happens to your iPhone.
+Go to the Photos app on your iPhone.
+In the top-right corner of the screen, you can see a preview of your syncing status. You may see any of the following:
+Yellow badge: iCloud syncing is paused. Tap your account icon to see the details.
+Yellow warning icon: Your iCloud storage is almost full. Tap your account icon to see the details.
+Red exclamation mark: Your iCloud storage is full. See Save space or Get more iCloud storage .
+Blue badge: You have notifications from a shared library or shared album. Tap your account icon to see the details.
+Partially filled blue circle around your account icon: Photos are actively uploading to iCloud. Tap your account icon to see the details.
+Partially filled gray outline around your account icon: Uploads are paused. Tap your account icon to see the details.
+Tap your account to see more details. The last time your iPhone synced with iCloud appears below the account profile.
+Save space on your iPhone
+iCloud Photos can help you make the most of the storage space on your iPhone. When Optimize iPhone Storage is turned on, all your full‑resolution photos and videos are stored in iCloud in their original formats, with storage-saving versions kept on your iPhone. Optimize iPhone Storage is turned on by default.
+To turn it off, go to Settings > [ your name ] > iCloud. Tap Photos, then tap Download and Keep Originals.
+Get more iCloud storage
+If your uploaded photos and videos exceed your storage plan, you can upgrade to iCloud+ for more storage and additional features. See Subscribe to iCloud+ .

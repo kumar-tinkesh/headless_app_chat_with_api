@@ -1,0 +1,28 @@
+iPhone User Guide
+Position items on a Freeform board on iPhone
+You can move, rotate, or resize items on your Freeform board. You can align, distribute, or group them, and move them to the background or foreground. You can turn on a grid or guides to help you position items, and lock items when you want to prevent any further changes.
+Move, rotate, or resize an item
+Go to the Freeform app on your iPhone.
+Open a board , select an item you want to position by tapping it, then do any of the following:
+Reposition it: Drag from the center of the item.
+Move it in a straight line: To constrain an item’s movement horizontally, vertically, or diagonally, drag the item with one finger while you use another finger to touch and hold anywhere on the board.
+Rotate it: Place two fingers on the item, then turn your hand in the direction you want to rotate it.
+Put it in the background or foreground: Tap , then tap Back or Front.
+Resize it: Drag a blue dot.
+In text boxes, drag a green dot to resize both the box and the text within it.
+Match its size to another item: Start resizing, then use a second finger to touch and hold the item whose size you want to match. When the words Match Size appear, lift both your fingers at the same time.
+Select, align, and group multiple items on a board
+After you add items to a Freeform board, you can select and align multiple items relative to one another. You can also group several items to more easily move, rotate, or resize them as a single unit.
+Go to the Freeform app on your iPhone.
+Open a board , then select multiple items by doing one of the following:
+Touch and hold an item on your board, then, with another finger, tap other items.
+Touch and hold the canvas, then drag the box that appears around the items you want to select.
+Tap an empty space on the canvas, then tap Select Objects. Tap each item you want to select. Tap the item again if you want to deselect it.
+Move, rotate, or resize the selected items, or tap , then tap an alignment option or Group.
+Some items—such as 3D objects—can’t be grouped.
+Lock an item on a board
+After you add an item to a Freeform board, you can lock it so you don’t inadvertently move, modify, or delete it. For example, you might lock one or more text boxes to serve as headings. (This could help set off areas on a board where participants can share items.)
+Go to the Freeform app on your iPhone.
+Open a board , then tap a drawing, shape, text box, or other item on your board to select it.
+Tap , then tap Lock.
+Tip: When you want to define a workspace for your participants (rather than having a wide open canvas), try adding a large rectangle shape . Select the shape, tap , tap Back, then lock it.

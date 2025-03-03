@@ -1,0 +1,7 @@
+iPhone User Guide
+Merge duplicate photos and videos on iPhone
+The Photos app identifies duplicate photos and videos in your photo library in the Duplicates collection. You can merge duplicate photos and videos to save space and clean up your library.
+Go to the Photos app on your iPhone.
+Scroll down to the Utilities section, then tap Duplicates.
+Tap Merge to combine a set of duplicates, then tap Merge [ number ] Items.
+If you don’t have any duplicate photos or videos in your library, the Duplicates collection doesn’t appear.

@@ -1,0 +1,36 @@
+iPhone User Guide
+Locate a friend in Find My on iPhone
+When a friend shares their location with you, you can use the Find My app to locate them on a map.
+Note: Location sharing and finding people aren’t available in all countries or regions. If you want to see how far away your friends are from you, make sure you turn on Precise Location for the Find My app. See Control the location information you share .
+See the location of a friend
+Go to the Find My app on your iPhone.
+Tap People at the bottom of the screen, then tap the name of the person you want to locate.
+If your friend can be located: They appear on a map so you can see where they are.
+If your friend can’t be located: You see “No location found” below their name.
+If you aren’t following your friend: You see “Can see your location” below their name. You can ask to see a friend’s location .
+You can also use Siri to locate a friend who has shared their location with you.
+Siri: Say something like: “Where’s Gordon?” Learn how to use Siri .
+Contact a friend
+Go to the Find My app on your iPhone.
+Tap People at the bottom of the screen, then tap the name of the person you want to contact.
+Tap Contact and choose how you want to contact your friend. See Add and use contact information .
+Get directions to a friend
+You can get directions to a friend’s current location in the Maps app.
+Go to the Find My app on your iPhone.
+Tap People at the bottom of the screen, then tap the name of the person you want to get directions to.
+Tap Directions to open Maps.
+See Get directions in Maps .
+Set a label for a friend’s location
+You can set a label for a friend’s current location to make it more meaningful (like Home or Work). The label appears below your friend’s name when they’re at that location.
+Go to the Find My app on your iPhone.
+Tap People at the bottom of the screen, then tap the name of the person you want to set a location label for.
+Tap Edit Location Name, then select a label.
+To add a new label, tap Add Custom Label, enter a name, then tap Done.
+Mark a friend as a favorite
+Favorite friends appear at the top of the People list and are marked by a star.
+Go to the Find My app on your iPhone.
+Tap People at the bottom of the screen, then find the person you want to mark as a favorite.
+Do one of the following:
+Tap the name of the person, then tap Add [ name ] to Favorites.
+Swipe left across the person’s name, then tap the star.
+To remove a friend from your Favorites, swipe left and tap the star, or tap the friend, then tap Remove [ name ] from Favorites.

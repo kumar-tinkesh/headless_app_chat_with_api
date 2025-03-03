@@ -1,0 +1,48 @@
+iPhone User Guide
+Take portraits with your iPhone camera
+You can apply a depth-of-field effect that keeps your subject—people, pets, or objects—sharp while creating a beautifully blurred foreground and background. You can also apply and adjust different lighting effects to your portraits.
+Take a portrait in Portrait mode
+Open Camera on your iPhone.
+Select Portrait mode , or on iPhone 16 models, use the Camera Control to select the Depth setting .
+If prompted, follow the tips onscreen to frame your subject in the yellow portrait box.
+Depending on your model, tap 1x, 2x, or 3x to switch between different zoom options.
+On iPhone 15 models and iPhone 16 models, you can pinch the iPhone screen to zoom in and out.
+Drag to choose a lighting effect:
+Natural Light: The face is in sharp focus against a blurred background.
+Studio Light: The face is brightly lit, and the photo has an overall clean look.
+Contour Light: The face has dramatic shadows with highlights and lowlights.
+Stage Light: The face is spotlit against a deep black background.
+Stage Light Mono: The effect is similar to Stage Light, but the photo is in classic black and white.
+High-Key Light Mono: Creates a grayscale subject on a white background.
+Tap the Shutter button or click the Camera Control ( on supported models ) to take the shot.
+After you take a photo in Portrait mode, you can remove the portrait effect if you don’t like it. In the Photos app, open the photo, tap Edit, then tap Portrait to turn the effect on or off.
+Note: On supported models , Night mode turns on when you take a portrait in low-light situations with the wide (1x) lens. To learn more about Night mode, see Take Night mode photos .
+Note: Photographic Styles are applied to portraits that you take in Portrait mode.
+Note: On iPhone X R , Stage Light, Stage Light Mono, and High-Key Light Mono are only available when you use the front camera.
+Adjust Depth Control in Portrait mode
+Use the Depth Control slider to adjust the level of background blur in your portraits.
+Open Camera on your iPhone.
+Select Portrait mode , then frame your subject.
+Tap in the top-right corner of the screen.
+The Depth Control slider appears below the frame.
+Drag the slider to the right or left to adjust the effect.
+Tap the Shutter button to take the shot.
+On iPhone 16 models, you can also adjust the depth control using the Camera Control. See Select and adjust the Camera Control settings .
+After you capture a portrait, you can use the Depth Control slider in the Photos app to further adjust the background blur effect. See Edit Portrait mode photos .
+Adjust Portrait Lighting in Portrait mode
+You can virtually adjust the position and intensity of the Portrait Lighting to sharpen eyes or brighten and smooth facial features.
+Open Camera on your iPhone.
+Select Portrait mode , then drag to choose a lighting effect.
+Tap at the top of the screen.
+The Portrait Lighting slider appears below the frame.
+Drag the slider to the right or left to adjust the effect.
+Tap the Shutter button to take the shot.
+After you capture a portrait, you can edit the Portrait Lighting levels in the Photos app. See Edit Portrait mode photos .
+Take a portrait in Photo mode
+On iPhone 15 models and iPhone 16 models you can apply the portrait effect and blur the background on photos you take in Photo mode.
+Open Camera on your iPhone.
+If your iPhone detects a person, dog, or cat, automatically appears at the bottom of the view finder.
+Note: Your iPhone captures depth information when appears while taking photos in Photo mode, so if you decide not to apply the portrait effect when you take the shot, you can apply it later in the Photos app. See Apply the portrait effect to photos taken in Photo mode .
+If doesn’t appear, tap a subject in the view finder to focus on it and will appear. If you want to change the focus point of the portrait, tap a different subject in the view finder.
+Tap , then tap the Shutter button or click the Camera Control ( on supported models ) to take the photo with the portrait effect.
+Note: Photographic Styles are applied to portraits that you take in Photo mode.

@@ -1,0 +1,7 @@
+iPhone User Guide
+Hear audio descriptions for video content on iPhone
+If you can’t see your screen and your content includes audio descriptions, you can listen to an audio description—a separate audio track that narrates or describes the visual content of a clip, show, or movie.
+Go to Settings > Accessibility > Audio Descriptions.
+Turn on Audio Descriptions.
+If you don’t see audio descriptions, see the Apple Support article Turn on audio descriptions on your iPhone or iPad .
+If you’re a content creator and want to add audio descriptions to a file, see Add descriptive audio tracks in the Compressor User Guide.

@@ -1,0 +1,8 @@
+iPhone User Guide
+Annotate and save a webpage as a PDF in Safari on iPhone
+You can mark up a webpage, highlight your favorite parts, draw and write notes, and share your document as a PDF with others.
+Go to the Safari app on your iPhone.
+Tap .
+Tap Markup , then use the tools to annotate the webpage.
+Tap Done, then tap Save File To.
+Choose a file to save it to, then tap Save.

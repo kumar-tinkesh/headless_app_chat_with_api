@@ -1,0 +1,8 @@
+iPhone User Guide
+Share places in Maps on iPhone
+You can share places with others. For example, you can send a message or email to show people where to meet you.
+Tip: To share your current location when you don’t have the Maps app open, just touch and hold the Maps icon on the Home Screen, then tap Send My Location. See Perform quick actions .
+Go to the Maps app on your iPhone.
+Tap a place on the map or a search result.
+Tap (at the top of the place card), then choose an option.
+You can also touch and hold the place, then tap Share Location.

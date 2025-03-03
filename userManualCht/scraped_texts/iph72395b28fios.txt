@@ -1,0 +1,9 @@
+iPhone User Guide
+Customize the Main and Fusion camera lens on iPhone
+On iPhone 15 Pro, iPhone 15 Pro Max, iPhone 16 Pro, and iPhone 16 Pro Max, the default for the 1x Main and Fusion camera lens is 24 mm. You can add 28 mm and 35 mm as secondary lenses, and change which lens is the default Main or Fusion lens.
+Go to Settings > Camera > Formats > Photo Mode, then tap 24 MP.
+Go to Settings > Camera, then tap Main Camera or Fusion Camera (depending on your model).
+Below Additional Lenses, turn on the lenses you want to add as additional Main or Fusion lenses.
+Below Default Lens, tap the option you want to use for the default Main or Fusion lens.
+Swipe up from the bottom of the screen to exit Settings.
+Open Camera after setting your Main or Fusion camera lens. Depending on your selection, the camera default lens will be either 1x (24 mm), 1.2x (28 mm), or 1.5x (35 mm). Tap the Main or Fusion camera lens to switch between the additional lenses you chose.

@@ -1,0 +1,29 @@
+iPhone User Guide
+Make a Group FaceTime call on iPhone
+In the FaceTime app , you can talk with up to 32 participants in a Group FaceTime call (not available in all countries or regions).
+Start a Group FaceTime call
+In FaceTime, tap New FaceTime near the top of the screen.
+Type the names or numbers of the people you want to call in the entry field at the top.
+You can also tap to open Contacts and add people from there. Or tap suggested contacts.
+Tap to make a video call or tap to make a FaceTime audio call.
+Each participant appears in a tile on the screen. When a participant speaks (verbally or by using sign language) or you tap the tile, that tile becomes highlighted or more prominent. Tiles that can’t fit on the screen appear in a row at the bottom. To find a participant you don’t see, swipe through the row. (The participant’s initials may appear in the tile if an image isn’t available.)
+Note: To see participants’ images arranged in a grid, see View participants in a grid layout in FaceTime on iPhone .
+To prevent the tile of the person speaking or signing from becoming more prominent during a Group FaceTime call, go to Settings > Apps > FaceTime, then turn off Speaking below Automatic Prominence.
+Note: Sign language detection requires a supported model for the presenter. In addition, both the presenter and participants need iOS 14, iPadOS 14, macOS 11, or later.
+Start a Group FaceTime call from a group Messages conversation
+In a group iMessage conversation, you can start a Group FaceTime call with all the people you’re chatting with in Messages.
+Tap at the top right of the iMessage conversation.
+Do any of the following:
+Tap FaceTime Audio.
+Tap FaceTime Video.
+Add another person to a call
+Any participant can add another person at any time during a FaceTime call.
+During a FaceTime call, tap the screen to show the FaceTime controls (if they aren’t visible), tap at the top of the controls, then tap Add People.
+Type the name, Apple Account, or phone number of the person you want to add in the entry field at the top.
+Or tap to add someone from Contacts.
+Tap Add People.
+Join a Group FaceTime call
+When someone invites you to join a Group FaceTime call, you receive a notification of the incoming call—you can either join or decline. See Answer a FaceTime call .
+Leave a Group FaceTime call
+To leave a group call at any time, tap Leave.
+The call remains active if one or more participants remain.

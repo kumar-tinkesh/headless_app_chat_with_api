@@ -1,0 +1,14 @@
+iPhone User Guide
+Choose a default travel mode and Maps units on iPhone
+You can review and change your settings for the Maps app, including travel mode and units.
+Choose a default travel mode and preferences
+Maps defaults to your preferred travel mode when providing directions. You can choose driving, walking, transit, or cycling.
+Go to the Maps app on your iPhone.
+Tap your picture or initials next to the search field, tap Preferences, then tap options.
+(If neither your picture nor initials appear next to the search field, tap Cancel next to the field, or tap the search field, then tap Cancel.)
+To find more options, tap Maps Settings at the bottom of the screen.
+Depending on the mode of travel, you may have other route options, such as choosing an arrival time when driving, avoiding heavy traffic or hills when cycling or walking, or choosing which transit method you prefer.
+Change the units used in Maps
+On a 2D map, a scale appears in the upper left as you zoom out. You can change the units used for the scale.
+Go to Settings > General > Language & Region > Measurement System.
+Select an option.

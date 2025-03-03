@@ -1,0 +1,14 @@
+iPhone User Guide
+Browse photos by location on iPhone
+The Photos app creates collections of your photos and videos based on where they were taken. You can use the Map view to see photos taken in a specific location, look for photos taken nearby, and see collections of photos on a map.
+Browse photos by location
+Go to the Photos app on your iPhone.
+In Pinned Collections, tap Map.
+Only pictures and videos that have embedded location information (GPS data) are included.
+Tip: Pinch the map to zoom in and out, or drag to see more locations.
+See where a photo was taken
+Go to the Photos app on your iPhone.
+Open a photo, then swipe up to see photo and video information .
+Tap the map or address link to see more details.
+Tip: To see more photos from this location, tap Show Nearby Photos.
+To change the location or address where the photo was taken, see Change the date, time, or location .

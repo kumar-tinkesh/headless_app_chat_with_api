@@ -1,0 +1,22 @@
+iPhone User Guide
+Control the location information you share on iPhone
+You control whether iPhone and apps have information about your location.
+To figure out where you are when getting directions, setting up meetings, and more, Location Services uses information (when available) from GPS networks, your Bluetooth® connections, your local Wi-Fi networks, and your cellular network. When an app is using Location Services, appears in the status bar.
+When you set up iPhone, you’re asked if you want to turn on Location Services. Afterward, you can turn Location Services on or off at any time.
+The first time an app wants location data from your iPhone, you receive a request with an explanation. Some apps may make a one-time only request for your location. Other apps may ask you to share your location now and in the future. Whether you grant or deny ongoing access to your location, you can change an app’s access later.
+Turn on Location Services
+If you didn’t turn on Location Services when you first set up iPhone, go to Settings > Privacy & Security > Location Services, then turn on Location Services.
+Important: If you turn off Location Services, many important iPhone features stop working.
+View apps using your location information
+Go to Settings > Privacy & Security > Location Services.
+To review or change access settings for an app or to see its explanation for requesting Location Services, tap the app.
+To allow an app to use your specific location, leave Precise Location turned on. To share only your approximate location—which may be sufficient for an app that doesn’t need your exact location—turn Precise Location off.
+Note: If you set the access for an app to Ask Next Time, you’re asked to turn on Location Services again the next time an app tries to use it.
+To understand how a third-party app uses the information it’s requesting, review its terms and privacy policy. See the Apple Support article About privacy and Location Services .
+Hide the map in Location Services alerts
+When you allow an app to always use your location in the background, you may receive alerts about the app’s use of that information. (These alerts let you change your permission, if you want to.) In the alerts, a map shows locations recently accessed by the app.
+To hide the map, go to Settings > Privacy & Security > Location Services > Location Alerts, then turn off Show Map in Location Alerts.
+With the setting off, you continue to receive location alerts, but the map isn’t shown.
+Review or change Location Services settings for system services
+Several system services, such as location-based suggestions and location-based ads, use Location Services.
+To see the status for each service, to turn Location Services on or off for each service, or to show in the status bar when enabled system services use your location, go to Settings > Privacy & Security > Location Services > System Services.

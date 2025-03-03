@@ -1,0 +1,32 @@
+iPhone User Guide
+Check the weather on iPhone
+Check the weather for your current location. View the upcoming hourly and 10-day forecast, see severe weather information, and more.
+Note: Weather uses Location Services to get the forecast for your current location. To make sure Location Services is turned on, go to Settings > Privacy & Security > Location Services > Weather. Turn on Precise Location to increase the accuracy of the forecast in your current location.
+Check the local forecast and conditions
+Go to the Weather app on your iPhone.
+The details for your current location are shown. If you don’t see them, tap , then tap My Location.
+Swipe up to view weather details such as:
+Hourly forecast: Swipe the hourly display left or right.
+Tip: Tap the hourly forecast to see the hourly temperature forecast, chance of precipitation, high and low temperatures, and more. Tap to change the displayed weather condition. Swipe left to see the same information for the days ahead.
+10-day forecast: View weather conditions, chance of precipitation, and high and low temperatures for the coming days.
+Severe weather alerts: View updates for weather events such as winter storms and flash floods. Tap the alert to read the full government-issued alert.
+Maps: View a map that displays the temperature, precipitation, air quality, or wind conditions in the area. Tap the map to view it in full screen or to change the map view between temperature, precipitation, air quality, and wind. See View weather maps .
+Air quality: Tap to view health information and details about air pollutants.
+Note: The air quality scale appears above the hourly forecast when air quality reaches a particular level for that location. For some locations, the air quality scale always appears above the hourly forecast.
+News: Read a news article when there’s a story relevant to the weather in that location.
+Additional weather details: View additional weather information such as the UV index, wind, visibility, moon phases, and more. Tap a weather detail for more features and information specific to that detail.
+Tip: The Averages weather detail shows how today’s temperature or precipitation compares to the historical average; tap it for additional information.
+Some Weather app features—such as severe weather alerts, air quality, next-hour precipitation, and news—aren’t available in all countries and regions. To learn about the data sources for the Weather app, see the Apple Support article Feature availability and data sources in the Weather app .
+Customize the weather units
+You can change the units used in weather data. This includes Fahrenheit or Celsius for temperature, and miles per hour, kilometers per hour, knots, or Beaufort for wind.
+Go to the Weather app on your iPhone.
+Tap .
+Tap , tap Units, then do any of the following:
+Change temperature units: Tap Fahrenheit, Celsius, or “Use system setting.”
+Change wind, precipitation, pressure, or distance units: Tap next to the current measurement unit, then choose an option.
+Send a report about the weather
+You can report the weather in your location if it doesn’t match what’s shown in the Weather app.
+Go to the Weather app on your iPhone.
+Tap , tap , then tap Report an Issue.
+Tap the options that best describe the weather conditions in your location, then tap Submit.
+The information you share with Apple isn’t associated with your Apple Account .

@@ -1,0 +1,9 @@
+iPhone User Guide
+Clear your cache and cookies on iPhone
+You can erase your browsing history and data to clear the cache on your iPhone. This action removes the history of websites you visited and recent searches from your iPhone. This process also removes the cookies and permissions you granted to websites to use your location or send you notifications.
+Note: Clearing your browsing history in Safari doesn’t clear any browsing histories kept independently by websites you visited, or your browsing history in other apps.
+Go to the Safari app on your iPhone.
+Tap , tap , then tap Clear.
+Below Clear Timeframe, choose how much of your browsing history to clear.
+Note: If you have Safari profiles set up, select a profile to clear only the history of that profile, or select All Profiles.
+Tap Clear History.

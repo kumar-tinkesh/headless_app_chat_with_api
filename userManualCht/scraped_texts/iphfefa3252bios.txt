@@ -1,0 +1,24 @@
+iPhone User Guide
+Add a second layer to a Voice Memos recording on iPhone
+On iPhone 16 Pro and iPhone 16 Pro Max, you can record a vocal layer on top of an instrumental recording without using headphones (iOS 18.2 or later). This allows you to capture a musical inspiration—add vocals or a voiceover to an existing instrumental recording, try out lyrics, harmonize with instrumental music, and more.
+Add a second layer
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+In the list of recordings, tap the recording you want to add a vocal layer to, then tap to view the waveform.
+Tap .
+Tap , then record your second layer.
+In the list of recordings, layered recordings are indicated by .
+Although you can only create a layered recording on an iPhone 16 Pro or an iPhone 16 Pro Max, you can play a layered recording on any device with iOS 18.2, iPadOS 18.2, macOS Sequoia 15.2, or later.
+Layered recordings are in QTA (QuickTime Audio) format. They won’t appear on devices with iOS 18.1, iPadOS 18.1, macOS Sequoia 15.1, or earlier. However, when you separate the layers , each layer is in .m4a format and will appear on devices with iOS 18.1, iPadOS 18.1, macOS Sequoia 15.1, or earlier.
+Note: Only the first layer can be transcribed or recorded in stereo . (See View a Voice Memos transcription on iPhone for the hardware, software, and languages that support transcription.) You can edit both layers of a layered recording together, unless you separate them .
+Mix the layers
+After recording the second layer, you can mix the two layers.
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+Tap the layered recording you want to mix.
+Tap to view the waveform, then tap .
+Drag the Layer Mix slider to mix the layers.
+Separate the layers
+After recording the second layer, you can separate the two layers to edit or play them separately.
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+While viewing the waveform, tap , then tap Separate Layers.
+Tap Done to return to the list of recordings.
+The two layers appear as separate recordings in the list. You can select them, edit them , and play them separately.

@@ -1,0 +1,46 @@
+iPhone User Guide
+Browse the web privately in Safari on iPhone
+You can view the Privacy Report and adjust settings in the Safari app to keep your browsing activities private, and help protect yourself from malicious websites.
+Visit sites privately
+You can use Private Browsing to open private tabs that don’t appear in History on iPhone or in the list of tabs on your other devices. Tabs in Private Browsing aren’t shared with your other Apple devices, even if you’re signed in to the same Apple Account .
+If you have a passcode set on your iPhone, Private Browsing locks when it’s not in use. Private Browsing may not lock immediately.
+Go to the Safari app on your iPhone.
+Tap .
+Swipe right on the tab bar at the bottom of the screen until Private Browsing opens, then tap Unlock.
+To exit Private Browsing, tap , then swipe left to open a Tab Group from the menu at the bottom of your screen. The websites you have open in Private Browsing stay open, and Private Browsing locks.
+To allow Private Browsing to be locked, go to Settings > Apps > Safari, then turn on Require Passcode to Unlock Private Browsing, Require Face ID to Unlock Private Browsing ( supported models ), or Require Touch ID to Unlock Private Browsing ( supported models ).
+Note: Any Safari extensions you have installed that have access to browsing data are automatically turned off in Private Browsing. To turn on an extension in Private Browsing, see Change Safari extension settings .
+Choose a search engine for Private Browsing
+Go to Settings > Apps > Safari.
+Turn off Also Use in Private Browsing.
+Tap Private Search Engine, then choose a search engine.
+View the Privacy Report
+Safari helps prevent trackers from following you across websites and viewing your IP address. You can review the Privacy Report to see a summary of trackers that have been encountered and prevented by Intelligent Tracking Prevention on the current webpage you’re visiting. You can also review and adjust Safari settings to keep your browsing activities private from others who use the same device, and help protect yourself from malicious websites.
+Go to the Safari app on your iPhone.
+Tap , then tap .
+Tap Privacy Report .
+Use iCloud Private Relay to browse the web with more privacy
+When you subscribe to iCloud+ , you can use iCloud Private Relay to help prevent websites and network providers from creating a detailed profile about you. When iCloud Private Relay is turned on, the traffic leaving your iPhone is encrypted and sent through two separate internet relays. This prevents websites from seeing your IP address and exact location while it prevents network providers from collecting your browsing activity in Safari.
+See Protect your web browsing with iCloud Private Relay to learn how to:
+Turn iCloud Private Relay completely on or off for your iPhone.
+Turn iCloud Private Relay on or off for a specific Wi-Fi or cellular network.
+Turn iCloud Private Relay off temporarily.
+Set the specificity of your IP address location.
+Note: iCloud Private Relay isn’t available in all countries or regions. See the iOS and iPadOS Feature Availability website .
+Temporarily allow a website to see your IP address
+If a website relies on IP filtering, monitoring, or rate-limiting, it might require your IP address to be visible. You can turn off iCloud Private Relay temporarily for that website only.
+Go to the Safari app on your iPhone.
+On the website, tap on the left side of the URL field, then tap .
+Tap Show IP Address.
+Your IP address remains visible to that website until you leave the website or close its Safari tab. iCloud Private Relay remains on for other websites.
+To turn off or pause iCloud Private Relay for all websites, see Protect your web browsing with iCloud Private Relay .
+Control privacy and security settings for Safari
+Go to Settings > Apps > Safari.
+Turn any of the following on or off:
+Prevent Cross-Site Tracking: Safari limits third-party cookies and data by default. Turn this option off to allow cross-site tracking.
+Hide IP address: Safari automatically protects your IP address from known trackers. For eligible iCloud+ subscribers, your IP address is protected from trackers and websites as you browse in Safari. If this option is off, your IP address isn’t hidden.
+Fraudulent Website Warning: Safari displays a warning if you’re visiting a suspected phishing website. Turn this option off if you don’t want to be warned about fraudulent websites.
+Camera: Choose whether Safari websites can use your camera without asking you first. Tap Camera, then choose Ask, Deny, or Allow.
+Microphone: Choose whether Safari websites can use your microphone without asking you first. Tap Microphone, then choose Ask, Deny, or Allow.
+Location: Choose whether Safari websites can use your location without asking you first. Tap Location, then choose Ask, Deny, or Allow.
+To set exceptions for a specific website, open the website in the Safari app, tap , tap , then tap the setting you want to change below Website Settings For.

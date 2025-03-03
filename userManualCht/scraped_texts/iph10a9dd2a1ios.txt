@@ -1,0 +1,17 @@
+iPhone User Guide
+Feature a person or holidays less often in Photos on iPhone
+You can set the Photos app to show certain people, days, and holidays less frequently or not at all in your memories, in featured photos, and in the Photos widget. You can also turn off memories and featured photos in the Photos app and the widget on your iPhone Home Screen.
+Show a person less frequently or not at all
+Go to the Photos app on your iPhone.
+Open a photo of the person you want to show less often.
+Tap , then tap Feature This Person Less.
+Choose Feature This Person Less, then choose an option.
+Tap Confirm.
+Turn off holiday memories
+You can turn off all memories that feature holiday events in your home country or region.
+Go to Settings > Apps > Photos.
+Turn off Show Holiday Events.
+Turn off Memories and Featured Photos
+You can turn off Memories and Featured Photos in the Photos app and the Photos widget.
+Go to Settings > Apps > Photos.
+Turn off Show Featured Content.

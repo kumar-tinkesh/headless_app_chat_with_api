@@ -1,0 +1,50 @@
+iPhone User Guide
+Manage multiple watchlists in Stocks on iPhone
+You can create your own watchlists to organize the stocks you follow. For example, you could organize them according to categories such as entertainment or sustainability. You can switch between watchlists and view them on your other devices.
+Create a new watchlist
+Go to the Stocks app on your iPhone.
+Tap My Symbols, then tap New Watchlist.
+Name the watchlist, then tap Save.
+To switch between your watchlists, tap My Symbols or the name of the current watchlist you’re viewing, then tap the name of the watchlist you want to see.
+Add symbols to a watchlist
+Go to the Stocks app on your iPhone.
+In the search field, enter the name of a ticker symbol, company, fund, or index.
+Tap , then tap Done.
+Tip: You can easily add a symbol that’s in one watchlist to another watchlist. Swipe left on the symbol, tap , select a watchlist, then tap Done.
+Each symbol you add to a new watchlist is also added to the My Symbols watchlist. See Manage symbols in the My Symbols watchlist .
+Remove symbols from a watchlist
+Go to the Stocks app on your iPhone.
+Swipe left on the symbol.
+When you remove a symbol from a watchlist that you created, that symbol remains in the My Symbols watchlist. See Manage symbols in the My Symbols watchlist .
+Sort symbols in a watchlist
+You can choose how the symbols in your watchlists are sorted.
+Go to the Stocks app on your iPhone.
+Select the watchlist you want to sort, then tap .
+Tap Sort Watchlist By, then tap one of the following options:
+Manual
+Price Change
+Percentage Change
+Market Cap
+Symbol
+Name
+To change the order of the symbols in the watchlist, tap , tap Sort Watchlist By, then tap Ascending or Descending.
+Change the value displayed in a watchlist
+You can change the value displayed below each symbol’s price in a watchlist.
+Go to the Stocks app on your iPhone.
+Select the watchlist you want to change, then tap .
+Tap Watchlist Shows, then tap one of the following options:
+Price Change
+Percentage Change
+Market Cap
+Delete, reorder, and rename watchlists
+Go to the Stocks app on your iPhone.
+Tap the name of the watchlist, tap Manage Watchlists, then do any of the following:
+Delete a watchlist: Tap next to the symbol, tap , then tap Delete Watchlist.
+Reorder your watchlists: Touch and hold , then drag the watchlist to a new position.
+Rename a watchlist: Tap , type a new name, then tap Save.
+View your watchlists on all your devices
+You can view your watchlists on your iPhone, iPad, and Mac where you’re signed in to the same Apple Account .
+On your iPhone or iPad: Go to Settings > [ your name ] > iCloud, tap See All (next to Saved to iCloud), then turn on Stocks.
+On a Mac with macOS 13 or later: Choose Apple menu > System Settings, click your name at the top of the sidebar, click iCloud, then turn on Stocks. (If you don’t see your name, click “Sign in” to sign in to your Apple Account or to create one.)
+On a Mac with macOS 10.15–12.7: Choose Apple menu > System Preferences, click Apple ID, click iCloud, then turn on Stocks.
+On a Mac with macOS 10.14 or earlier: Choose Apple menu > System Preferences, then click iCloud. Select iCloud Drive, click Options, then turn on Stocks.

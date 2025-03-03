@@ -1,0 +1,24 @@
+iPhone User Guide
+Use video conferencing features on iPhone
+During a video call in the FaceTime app or a third-party video conferencing app, you can use full-screen video effects and add reactions with hand gestures that fill the camera frame with 3D effects.
+Use video effects in a video call
+During a video call on your iPhone, in the FaceTime app or a third-party video conferencing app, open Control Center .
+Tap FaceTime Controls, then choose any of the following:
+Portrait: Automatically blurs the background and puts the visual focus on you. Tap to adjust the amount of the background blur. See Blur the background with Portrait mode .
+Studio Light: Dims the background and illuminates your face. Tap to adjust the intensity of the studio light .
+Reactions: Allows you to use hand gestures to add reactions. When Reactions is turned off in Control Center, you can’t use hand gestures to add reactions, but you can add reactions by tapping the icons that appear when you touch and hold your tile in the call. See Add reactions in a video call .
+Add reactions in a video call
+With simple hand gestures in the FaceTime app (and third-party video conferencing apps), you can add reactions that fill the camera frame with fun, 3D augmented reality effects—including hearts, balloons, fireworks, and more.
+You can also add these reactions by touching and holding your tile in the call, then tapping the icons that appear.
+Note: To use hand gestures, open Control Center on an iPhone 12 or later, tap FaceTime Controls, then make sure Reactions is turned on. When using gestures, hold your hands away from your face, and pause for a moment or two to activate the effect. (Only the front camera supports reactions and gestures.)
+Reaction
+Gesture
+Icon
+Hearts
+Thumbs-up
+Thumbs-down
+Balloons
+Rain
+Confetti
+Laser burst
+Fireworks

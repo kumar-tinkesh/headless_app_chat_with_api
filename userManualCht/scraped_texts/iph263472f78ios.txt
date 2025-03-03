@@ -1,0 +1,37 @@
+iPhone User Guide
+iPhone camera basics
+Learn how to take photos with your iPhone camera. Choose from camera modes such as Photo, Video, Cinematic, Pano, and Portrait, and zoom in or out to frame your shot.
+Open Camera
+To open your iPhone camera, do any of the following:
+Tap the Camera app on the iPhone Home Screen.
+Swipe left on the iPhone Lock Screen.
+Touch and hold on the iPhone Lock Screen.
+Open Control Center , then tap .
+Siri: Say something like: “Open Camera.” Learn how to use Siri .
+On models with an Action button , you can assign the Action button to open Camera. See Use and customize the Action button on iPhone .
+On iPhone 16 models, click the Camera Control to open Camera.
+Note: For your security, a green dot appears in the top-right corner of the screen when Camera is in use. See Control access to hardware features .
+Take a photo
+Open Camera on your iPhone.
+Tap the Shutter button or press either volume button.
+On iPhone 16 models, click the Camera Control to open Camera, then click it again to take a photo.
+Switch between camera modes
+Photo mode is selected when you first open Camera. Use Photo mode to take still photos, Live Photos , and on supported models, you can take a portrait in Photo mode .
+Open Camera on your iPhone.
+Swipe left or right on the camera screen to switch to one of the following camera modes:
+Video: Record a video; see Record a video .
+Time-lapse: Create a time‑lapse video of motion over a period of time; see Record a time-lapse video .
+Slo-mo: Record a video with a slow-motion effect; see Record a slow-motion video .
+Pano: Capture a panoramic landscape or other scene; see Take a panoramic photo .
+Portrait: Apply a depth-of-field effect to your photos; see Take a portrait in Portrait mode .
+Cinematic: Apply a depth-of-field effect to your videos ( on supported models ); see Record Cinematic videos .
+Spatial: Take spatial photos and videos to relive in 3D on Apple Vision Pro; see Take spatial photos and record spatial videos for Apple Vision Pro .
+Square: Take photos with a square ratio.
+On iPhone 11 and later, tap , then tap 4:3 to choose between Square, 4:3, or 16:9 aspect ratios.
+To set a mode other than Photo as the default mode when you open Camera, see Save camera settings on iPhone .
+Zoom in or out
+Open Camera on your iPhone.
+Do one of the following:
+On all models, pinch the screen to zoom in or out.
+On iPhone models with Dual and Triple camera systems , switch between 0.5x, 1x, 2x, 2.5x, 3x, and 5x to quickly zoom in or out (depending on your model). For a more precise zoom, touch and hold the zoom controls, then drag the slider right or left.
+On iPhone 16 models, lightly double-press the Camera Control to open an overlay that shows the available camera settings. Slide your finger on the Camera Control to the Zoom setting, then lightly press to select it. Slide your finger to zoom in and out.

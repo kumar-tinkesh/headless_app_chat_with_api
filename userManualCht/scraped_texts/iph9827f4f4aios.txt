@@ -1,0 +1,7 @@
+iPhone User Guide
+Interact with Apple Watch on your iPhone
+Apple Watch Mirroring allows you to see and control your Apple Watch screen from your paired iPhone. You can use touch or assistive features like Voice Control, Switch Control, and more on your iPhone to interact with Apple Watch. (Apple Watch Mirroring is available on Apple Watch Series 6 and later.)
+To turn on Apple Watch Mirroring, do any of the following:
+Go to Settings > Accessibility > Apple Watch Mirroring.
+You can triple-click a button if you set up Accessibility Shortcut .
+To turn off Apple Watch Mirroring, tap .

@@ -1,0 +1,13 @@
+iPhone User Guide
+Import contacts on iPhone
+You can import contacts from a SIM card, vCard, or from a directory.
+Import contacts from a SIM card (GSM)
+Go to Settings > Apps > Contacts.
+Tap Import SIM Contacts.
+Import contacts from a vCard
+Tap a .vcf attachment in an email or message.
+Add a contact from a directory
+Go to the Contacts app on your iPhone.
+Tap Lists, then tap the GAL, CardDAV, or LDAP directory you want to search.
+Enter your search.
+Tap the person’s name to save their information to your contacts.

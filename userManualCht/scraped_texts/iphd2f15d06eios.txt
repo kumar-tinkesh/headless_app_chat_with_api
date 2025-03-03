@@ -1,0 +1,21 @@
+iPhone User Guide
+Use a Stocks widget on your iPhone
+Use a widget to check stocks at a glance on your iPhone Home Screen. You can choose the size of the widget and the amount of information the widget displays.
+Add a Stocks widget to your Home Screen
+Touch and hold the Home Screen until the apps begin to jiggle.
+Tap at the top of the screen to open the widget gallery.
+Swipe up to find Stocks, then tap it.
+Swipe left and right to view the different widget types (Watchlist and Symbol) and sizes. When you see the option you want, tap Add Widget, then tap Done.
+To move the widget on your Home Screen, touch and hold the Home Screen until the apps begin to jiggle. Drag the widget to a new location, then tap Done.
+Change the widget display
+After you add a Stocks widget to your Home Screen, you can change its appearance and the information it displays.
+Touch and hold the Stocks widget on your Home Screen.
+Tap Edit Widget.
+Depending on the type of widget you chose, Watchlist or Symbol, you can make the following changes:
+Change the widget symbol: Tap the current symbol, then tap the new symbol you want from the watchlist. Or use the search field to search for a new symbol.
+Change the widget watchlist: Tap the name of the current watchlist, then tap the watchlist you want to display.
+Change when news stories appear: Tap In Off Hours, then choose an option.
+Show the watchlist name: Turn on Show Watchlist Name.
+Show more symbols or additional symbol information: Turn on Show More Details.
+Tip: You can add more than one Stocks widget to your Home Screen—and choose a different size for each—so you can quickly see updates for different symbols or watchlists.
+Stocks widgets are also available for the iPhone Lock Screen. See Create a custom Lock Screen .

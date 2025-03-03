@@ -1,0 +1,29 @@
+iPhone User Guide
+Bookmark a website in Safari on iPhone
+You can bookmark a website, add a website to Favorites, or add a website icon to the Home Screen to easily revisit it later.
+Bookmark a favorite website
+Go to the Safari app on your iPhone.
+Open the webpage you want to bookmark.
+Touch and hold , then tap Add Bookmark.
+View and organize your bookmarks
+Go to the Safari app on your iPhone.
+Tap .
+Tap Edit, then do any of the following:
+Create a new folder: Tap New Folder at the bottom left, enter a name, then tap Done.
+Move a bookmark into a folder: Tap the bookmark, tap below Location, then tap a folder. Tap to return to your bookmarks.
+Delete bookmarks: Tap , then tap Delete.
+Rename bookmarks: Tap the bookmark, enter a new name, then tap Done.
+Reorder bookmarks: Touch and hold , then drag the bookmark to a new location.
+See your Mac bookmarks on iPhone
+Go to Settings > [ your name ] > iCloud.
+Tap See All (next to Saved to iCloud), then make sure Safari is turned on.
+Note: You must also have Safari turned on in iCloud settings on your Mac and be signed in to the same Apple Account . See Set up iCloud for the Safari app on all your devices in the iCloud User Guide.
+Add a website icon to your Home Screen
+You can add a website icon to your iPhone Home Screen for quick access.
+Go to the Safari app on your iPhone.
+Go to the website you want to add to your Home Screen.
+Tap in the menu bar.
+Scroll down the list of options, then tap Add to Home Screen.
+If you don’t see Add to Home Screen, you can add it. Scroll down to the bottom of the list, tap Edit Actions, then tap Add to Home Screen.
+The icon appears only on the device where you add it.
+Note: Some websites may ask for permission to send you notifications. You can change your notification settings at any time. See Change notification settings .

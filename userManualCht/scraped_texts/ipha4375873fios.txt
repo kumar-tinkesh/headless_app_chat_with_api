@@ -1,0 +1,30 @@
+iPhone User Guide
+Control iPhone with an external keyboard
+If you use Magic Keyboard or another physical keyboard with iPhone, you can use Full Keyboard Access to control your device with keyboard shortcuts instead of the touchscreen. Full Keyboard Access highlights the item on the screen that has focus.
+Control iPhone using Full Keyboard Access
+Go to Settings > Accessibility > Keyboards, tap Full Keyboard Access, then turn on Full Keyboard Access.
+Navigate iPhone using the following default commands.
+Action
+Shortcut
+View available Full Keyboard Access commands
+Tab-H
+Move forward
+Tab
+Move backward
+Shift-Tab
+Activate the selected item
+Space bar
+Go to the Home Screen
+Fn-H
+Open the App Switcher
+Fn-Up Arrow
+Open Control Center
+Fn-C
+Open Notification Center
+Fn-N
+Customize Full Keyboard Access
+You can change the keyboard shortcuts associated with Full Keyboard Access commands, and customize the appearance of Full Keyboard Access (such as the color, contrast, and size of the highlight).
+Go to Settings > Accessibility > Keyboards, then tap Full Keyboard Access.
+Do any of the following:
+View a complete list of Full Keyboard Access commands and customize them: Tap Commands.
+Change the look of Full Keyboard Access: Tap an option below Appearance.

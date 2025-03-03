@@ -1,0 +1,43 @@
+iPhone User Guide
+View your data in Health on iPhone
+You can view your health and fitness information in one place. For example, you can check whether your metrics change over time, and see how well you’re meeting goals for activity, sleep, mindfulness, and more.
+Customize your pinned health categories on the Summary screen
+You can pin and arrange the health categories that are most important to you, like Medications, Heart Rate, Steps, and more.
+Go to the Health app on your iPhone.
+Tap Summary at the bottom left.
+Tap Edit next to Pinned, then do any of the following:
+Pin a health category: Tap next to a category.
+Unpin a health category: Tap next to a category.
+Reorder the health categories in your Pinned list: Drag next to an category up or down.
+When you’re finished, tap Done.
+View your highlights
+Go to the Health app on your iPhone.
+Tap Summary at the bottom left, then scroll down to Highlights to see highlights of your recent health and fitness data.
+Do the following:
+View more data about a highlight: Tap its graph.
+View more highlights: Tap Show All Highlights.
+View your health trends
+To help you keep track of your health data over time, Health can alert you to significant changes in types of data like resting heart rate, number of steps, and amount of sleep. Trend lines show you how much these metrics have changed and for how long.
+Go to the Health app on your iPhone.
+Tap Summary at the bottom left, then scroll down to Trends to view any recent trends.
+If Health has detected trends, you can do the following:
+View more data about a trend: Tap its graph.
+View more trends: Tap Show All Health Trends.
+To receive notifications about your health trends, tap Summary at the bottom left, tap your picture or initials at the top right, tap Notifications, then turn on Trends.
+View trends, highlights, and details for a specific health category
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right to display the Health Categories screen, then do one of the following:
+Tap a category. (To see all categories, scroll up and down.)
+Tap the search field, then type the name of a category (such as Mobility) or a specific type of data (such as Walking Speed).
+Depending on the data type, you may be able to do the following:
+View details about any of the data: Tap .
+See weekly, monthly, and yearly views of the data: Tap the tabs at the top of the screen.
+Manually enter data: Tap Add Data in the top-right corner of the screen.
+Add a data type to Favorites on the Summary screen: Tap Add to Favorites. (You may need to scroll down.)
+View which apps and devices are allowed to share the data: Below Options, tap Data Sources & Access. (You may need to scroll down.)
+Delete data: Tap Show All Data below Options, swipe left on a data record, then tap Delete. To delete all data, tap Edit, then tap Delete All.
+Change the measurement unit: Tap Unit below Options, then select a unit.
+Learn more about health and fitness
+Go to the Health app on your iPhone.
+Scroll down to Get More From Health or Articles, then tap an item to learn more.
+When you view the details in many health categories, recommended apps are shown in addition to your data.

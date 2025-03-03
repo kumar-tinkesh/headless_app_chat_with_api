@@ -1,0 +1,8 @@
+iPhone User Guide
+Search your Freeform boards on iPhone
+You can search all your Freeform boards for text in handwritten text, sticky notes, text boxes, shapes, and filenames.
+Go to the Freeform app on your iPhone.
+Do any of the following:
+Search within a board: Tap the board’s name or (near the top-right corner), then tap Find.
+Search all boards: Tap the search bar near the top of the All Boards screen. Any board that contains the text appears in the search results.
+(If you’re in a board, tap to access Search in All Boards.)

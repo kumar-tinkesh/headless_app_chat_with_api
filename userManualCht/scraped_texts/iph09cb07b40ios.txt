@@ -1,0 +1,34 @@
+iPhone User Guide
+Add or update a third-party item in Find My on iPhone
+You can use certain third-party products with the Find My app . You can pair these products with your Apple Account using your iPhone, and then use Find My to locate them if they’re lost or misplaced.
+You can also get notified if you leave your item behind. See Set separation alerts in case you leave an AirTag or item behind in Find My on iPhone .
+You can also add an AirTag to Find My. See Add an AirTag in Find My on iPhone .
+Note: Finding items isn’t available in all countries or regions.
+Add a third-party item
+Go to the Find My app on your iPhone.
+Follow the manufacturer’s instructions to make the item discoverable.
+Tap , then choose Add Other Item.
+Tap Connect, type a name and select an emoji, then tap Continue.
+Tap Continue to register the item to your Apple Account, then tap Finish.
+If you have trouble adding an item, contact the manufacturer to see if Find My is supported.
+If the item is registered to someone else’s Apple Account, they need to remove it before you can add it. See Remove an AirTag or other item from Find My .
+Change an item’s name or emoji
+Go to the Find My app on your iPhone.
+Tap Items at the bottom of the screen, then tap the item whose name or emoji you want to change.
+Tap Rename Item.
+Choose a name from the list or choose Custom Name to type a name and select an emoji.
+Tap Done.
+Keep your item up to date
+Keep your item up to date so you can use all the features in Find My.
+Go to the Find My app on your iPhone.
+Tap Items at the bottom of the screen, then tap the item you want to update.
+Tap Update Available, then follow the onscreen instructions.
+Note: If you don’t see Update Available, your item is up to date.
+While the item is updating, you can’t use Find My features.
+View details about an item
+When you register an item to your Apple Account, you can use Find My to see more details about it, like the serial number or model. You can also see if a third-party app is available from the manufacturer.
+Go to the Find My app on your iPhone.
+Tap Items at the bottom of the screen, then tap the item you want more details about.
+Do either of the following:
+View details: Tap Show Details.
+Get or open third-party app: If an app is available, you see the app icon. Tap Get or to download the app. If you’ve already downloaded it, tap Open to open it on your iPhone.

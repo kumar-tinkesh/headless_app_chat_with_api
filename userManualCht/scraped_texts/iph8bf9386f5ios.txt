@@ -1,0 +1,11 @@
+iPhone User Guide
+Use iPhone as a remote microphone with Live Listen
+You can stream sound from the microphone on iPhone to your MFi hearing devices or AirPods. This can help you hear better in some situations—for example, when having a conversation in a noisy environment.
+If you’re using AirPods, place them in your ears.
+If your AirPods don’t automatically connect to iPhone, tap in Control Center or on the Lock Screen, then choose your AirPods.
+To turn Live Listen on or off, do one of the following:
+Open Control Center , tap , tap your hearing device or AirPods, then tap Live Listen.
+(If you don’t see , add it to Control Center—go to Settings > Control Center, then tap next to Hearing.)
+If you’ve set up the Accessibility Shortcut , triple-click the side or Home button, tap Hearing Devices, then tap Live Listen.
+If you’re using hearing aids, go to Settings > Accessibility > Hearing Devices, then turn on Live Listen.
+Position iPhone near the sound source.

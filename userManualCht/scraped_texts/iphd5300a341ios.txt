@@ -1,0 +1,25 @@
+iPhone User Guide
+Add shapes, lines, and arrows to a Freeform board on iPhone
+You can add shapes, lines, and arrows to a Freeform board.
+Add and format shapes, lines, and arrows
+Go to the Freeform app on your iPhone.
+Open a board, or tap to start a new one.
+Tap , and tap a shape, line, or arrow to add it to the board.
+Tap to select the shape or line and show its formatting tools, then do any of the following:
+Change the fill color: Tap .
+Change the line style: Tap , then choose the stroke color and weight you want for a shape or line.
+Tap to turn lines into arrows or to add other styles of endings.
+If you’ve selected a connection line, tap to change its style to straight, corner, or curved.
+Change the type of shape: Tap , tap Change Shape, then choose another shape.
+You can also add shapes and lines to your board by drawing them and then smoothing or straightening the strokes. See Draw or handwrite on a Freeform board .
+Note: The color of a button may change to reflect its current state.
+Split or combine shapes
+When you add multipart shapes to a Freeform board, you can divide them into their parts and then edit each part individually. For example, you can divide the map of the United States (in the Places category) and change the color of each state. You can also subtract shapes from other shapes, remove the overlapping area between two shapes, or create a new shape by combining one shape with another.
+After you’ve added shapes to your Freeform board, do one of the following:
+Split a multipart shape apart: Tap , then tap Break Apart.
+Combine shapes: Select multiple items , tap , then below Combine Shapes tap an option to unite, intersect, subtract, or exclude.
+Change size, width, or length
+After you add a shape or line to a Freeform board, you can change its dimensions or change how lines connect.
+Tap to select a shape or line, then drag a dot.
+Shapes: Drag a blue dot to change the size or proportions of the shape. Drag any green dot to change aspects particular to that shape, such as its number of sides.
+Connection lines: Drag a blue dot to change an endpoint. Drag the green dot to adjust the curve. If it’s part of a diagram, see Change connection points .

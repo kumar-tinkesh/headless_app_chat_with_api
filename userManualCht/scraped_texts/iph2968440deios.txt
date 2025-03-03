@@ -1,0 +1,19 @@
+iPhone User Guide
+Use Emergency SOS via satellite on your iPhone
+On iPhone 14 or later (any model), you can use Emergency SOS via satellite to text emergency services when you’re outside of cellular and Wi-Fi coverage.
+Note: Emergency SOS via satellite isn’t available in all countries or regions. See the Apple Support article Emergency SOS via satellite availability .
+Before you disconnect from cellular and Wi-Fi coverage
+If you’re going somewhere that might not have cellular and Wi-Fi coverage, create your Medical ID, add emergency contacts, and try the Emergency SOS demo before you go.
+Go to Settings > Emergency SOS on your iPhone.
+Scroll down and tap Try Demo.
+To create your Medical ID and add emergency contacts, see Set up and view your Medical ID .
+Note: The Emergency SOS demo doesn’t start a call to emergency services.
+Connect to Emergency SOS via satellite on your iPhone
+If you need emergency services and you don’t have a cellular or Wi-Fi connection, you can use Emergency SOS via satellite.
+Try calling 911 or emergency services. Even if your normal cellular carrier network isn’t available, iPhone will attempt to route the 911 call through other networks, if available.
+If the call doesn’t go through, tap Emergency Text via Satellite to text emergency services. You can also go to the Messages app and text 911 or SOS, then tap Emergency Services.
+Tap Report Emergency and follow the onscreen instructions.
+Important: To help you connect to a satellite, make sure to hold your phone naturally in your hand—you don’t need to raise your arm or hold your phone up, but make sure your phone has a clear line of sight to the sky. If you’re under heavy foliage or surrounded by other obstructions, you might not be able to connect to a satellite.
+After you’re connected, your iPhone starts a text conversation by sharing critical information like your Medical ID and emergency contact information (if you set them up ), your answers to the emergency questionnaire, your location (including elevation), and your iPhone’s battery level. You can also choose to share the information you send to emergency services with your emergency contacts.
+To learn how to proactively share your location in the Find My app when you’re in a location without cellular or Wi-Fi coverage, see Send your location via satellite in Find My on iPhone .
+For information about Emergency SOS via satellite and privacy, see Connect to a satellite with your iPhone .

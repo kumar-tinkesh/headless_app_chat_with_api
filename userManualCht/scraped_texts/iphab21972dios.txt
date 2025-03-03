@@ -1,0 +1,11 @@
+iPhone User Guide
+Buy books and audiobooks on iPhone
+In the Books app, you can find today’s bestsellers, view top charts, explore series, and browse lists curated by Apple Books editors. After you select a book or audiobook, you can read or listen to it right in the Books app.
+Go to the Books app on your iPhone.
+Tap Book Store or Audiobooks to browse titles, or tap Search to look for a specific title, author, series, or genre.
+Tip: Tap Sections at the top of the screen to view titles in categories like Top Charts and Book Clubs, or genres like Biographies & Memoirs and Young Adults.
+Tap a book cover to see more details, read a sample, listen to a preview, or mark as Want to Read.
+Tap Buy to purchase a title, or tap Get to download a free title.
+All purchases are made with the payment method associated with your Apple Account .
+You can allow books and audiobooks to download automatically over your cellular network when you aren’t connected to Wi-Fi. Go to Settings > Apps > Books, then turn on Automatic Downloads. Tap Downloads, then choose Always Allow, Ask If Over 200 MB, or Always Ask.
+Apple Footer

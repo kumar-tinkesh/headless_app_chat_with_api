@@ -1,0 +1,18 @@
+iPhone User Guide
+Check your voicemail on iPhone
+Use the Phone app to listen to, delete, or share your voicemail messages. You can also check your voicemail messages when Visual Voicemail isn’t available.
+Play, share, or delete a voicemail message
+Siri: Say something like: “Play the voicemail from Eliza.” Learn how to use Siri .
+Or do the following:
+Go to the Phone app on your iPhone.
+Tap Voicemail, then tap a message.
+Do any of the following:
+Play the message: Tap .
+Messages are saved until you delete them (or until your carrier erases them, if they’re not stored in iCloud).
+Share the message: Tap .
+Delete the message: Tap .
+Important: In some countries or regions, deleted messages may be permanently erased by your carrier. Your voice messages may also be deleted if you change your SIM card.
+To recover a deleted message, tap Deleted Messages, tap the message, then tap Undelete.
+Check your messages when Visual Voicemail isn’t available
+On your iPhone: Tap Voicemail, then follow the instructions.
+On another phone: Dial your own mobile number, press * or # (depending on your carrier) to bypass your greeting, then enter your voicemail password.

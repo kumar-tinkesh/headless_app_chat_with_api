@@ -1,0 +1,15 @@
+iPhone User Guide
+Silence iPhone
+With the push of a button or flip of a switch, you can quickly silence your iPhone.
+Turn Silent mode on or off
+When Silent mode is on, iPhone doesn’t ring or play alerts or other sound effects (but iPhone may still vibrate). When Silent mode is off, iPhone plays all sounds.
+On models with an Action button : Go to Settings > Sounds & Haptics, then turn Silent mode on or off.
+You can also configure the Action button to turn Silent mode on or off, in addition to other functions. See Use and customize the Action button on iPhone .
+On other models: Flip the Ring/Silent switch toward the back of your iPhone to turn Silent mode on. Flip it toward the front to turn Silent mode off.
+Important: Clock alarms, audio apps such as Music, and many games play sounds through the built-in speaker, even when Silent mode is on. In some countries or regions, the sound effects for Camera, Voice Memos, and Emergency Alerts are played, even when the Ring/Silent switch is set to silent.
+Turn on Do Not Disturb
+You can temporarily silence calls, alerts, and notifications by turning on Do Not Disturb.
+Open Control Center .
+Tap Focus, then tap Do Not Disturb.
+When Do Not Disturb is turned on, you won’t hear ringtones or text tones for incoming calls, texts, or notifications. Also appears in the status bar at the top of the screen.
+See Turn on or schedule a Focus .

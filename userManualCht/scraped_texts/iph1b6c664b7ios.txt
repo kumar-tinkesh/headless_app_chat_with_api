@@ -1,0 +1,12 @@
+iPhone User Guide
+Use NameDrop on iPhone to share your contact info
+You can use NameDrop to quickly share new contact information with a nearby iPhone or Apple Watch (Apple Watch Ultra, Apple Watch Series 7 and later, and Apple Watch SE 2nd generation).
+Note: NameDrop only works for sending new contact information, not updating an existing contact.
+Use NameDrop on iPhone
+Hold the display of your iPhone a few centimeters from the top of the other person’s iPhone or Apple Watch.
+Continue holding your devices near each other until NameDrop appears on both screens.
+Choose to share your contact card and receive the other person’s, or to only receive the other person’s.
+If you’re sharing your contact card, tap , select the fields you want to include, then tap Save. The same fields will be selected by default next the time you use NameDrop.
+To cancel, move the two devices away from each other or lock your iPhone before the NameDrop transfer completes.
+Turn off NameDrop on iPhone
+NameDrop is on by default. To turn off NameDrop (and other Bring Devices Together features), go to Settings > General > AirDrop, then turn off Bring Devices Together.

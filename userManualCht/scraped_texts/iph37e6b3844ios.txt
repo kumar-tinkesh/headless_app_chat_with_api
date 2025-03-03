@@ -1,0 +1,27 @@
+iPhone User Guide
+Get live descriptions of your surroundings with VoiceOver on iPhone
+If you’re blind or have low vision, you can use VoiceOver Recognition on iPhone to scan your surroundings and get live descriptions of the scenes detected in the camera view. You can also get descriptions of onscreen images and user interface elements, even in apps and on webpages that don’t provide accessibility information.
+Important: VoiceOver Recognition should not be relied upon in circumstances where you could be harmed or injured, in high-risk situations, for navigation, or for the diagnosis or treatment of any medical condition.
+Get live descriptions of your surroundings
+With VoiceOver on, triple-tap the screen with four fingers to start Live Recognition.
+Choose the kinds of visual information you want VoiceOver to describe, like scenes, people, doors, furniture, or text. At the bottom of the screen, select a category, then double-tap to turn it on or off. If you turn on Point & Speak, you can point your finger at text and have VoiceOver read it aloud.
+Note: Detection of people, doors, and furniture is available only on supported iPhone models .
+Position iPhone so the rear camera can detect what’s around you. VoiceOver describes what it detects.
+To interrupt VoiceOver speech and move to the next detected item, tap the screen with two fingers.
+To turn off Live Recognition, triple-tap the screen with four fingers. Or if the VoiceOver cursor is focused on an interface element for Live Recognition, do a two-finger scrub (move two fingers back and forth three times quickly, making a “z”).
+Tip: You can also set up a shortcut to quickly start and stop Live Recognition. See Set up shortcuts for Live Recognition .
+You can also use Detection Mode in the Magnifier app to detect and describe scenes, people, and more. See Get live descriptions of visual information around you with Magnifier .
+To change Live Recognition settings, go to the Magnifier app , tap , then tap Detect. Tap Scenes , People , Doors , Furniture , Text , or Point & Speak .
+Get descriptions of images in apps and on the web
+With VoiceOver Recognition, you can get descriptions of the people, objects, and text in images in apps and on webpages, even if they don’t provide accessibility information. You can move your finger over a photo to discover a person’s position relative to other objects, or navigate nutrition labels and receipts in the order items are listed.
+Go to Settings > Accessibility > VoiceOver > VoiceOver Recognition, then turn on Image Descriptions.
+To get descriptions of text found in images, turn on Text Recognition.
+Go to an app such as Photos or Safari , then select an image.
+Swipe up to hear more options, then double-tap when you hear Explore Image
+Move your finger around the image to find out the position of each object.
+You can add custom descriptions to your images with Markup.
+Note: Image Descriptions are not available in all languages. See the iOS and iPadOS 18 Feature Availability webpage.
+Get descriptions of user interface elements
+With VoiceOver Recognition, you can get descriptions of user interface elements in apps and on webpages, even if they don’t provide accessibility information.
+Go to Settings > Accessibility > VoiceOver > VoiceOver Recognition.
+Turn on Screen Recognition.

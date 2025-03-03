@@ -1,0 +1,8 @@
+iPhone User Guide
+Hide distractions when browsing webpages in Safari on iPhone
+Use Distraction Control to hide menus and other diversions on a webpage.
+Go to the Safari app on your iPhone.
+On a website, tap , then tap Hide Distracting Items.
+Tap the items you want to hide from the webpage.
+Tap Done.
+To unhide, tap , then tap Show Distracting Items.

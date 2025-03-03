@@ -1,0 +1,35 @@
+iPhone User Guide
+Set up parental controls with Family Sharing on iPhone
+With Family Sharing , the organizer, or another adult designated as parent/guardian, can set up parental controls for children or other members in the Family Sharing group. You can use Screen Time to manage how your children use their Apple devices. You can also turn on Ask to Buy, so children must receive approval for eligible purchases and free downloads.
+Learn about types of Family Sharing members .
+Customize parental controls during setup
+When you add a child to your Family Sharing group or set up a device for a child , you can customize parental controls from the start. You can change those settings at any time.
+Follow the onscreen instructions during setup to add any of the following:
+Age-related restrictions for content in apps, books, TV shows, and movies
+Downtime and limits for specific apps
+Restrictions for who your child can communicate with
+Approvals for purchases or free downloads
+See the Apple Support article Use parental controls on your child’s iPhone, iPad, and iPod touch .
+Receive warnings about sensitive content
+Screen Time can check whether you or other family members have received or sent any sexually explicit photos or videos. See Check for sensitive images on iPhone .
+You can also block sensitive content and set restrictions on purchases. See Block content and prevent iTunes & App Store purchases .
+Set up Screen Time for a child
+Screen Time allows you to manage settings for downtime, app use, contacts, content ratings, and more. To use Screen Time, your child must be using an eligible device. See the Screen Time section in the Apple Support article System Requirements for iCloud .
+Go to Settings > Family > [ child’s name ] > Screen Time.
+Tap the child for whom you want to set up Screen Time.
+Tap Screen Time, then do any of the following:
+Change restrictions for iTunes & App Store purchases: Tap iTunes & App Store purchases, then choose options for purchasing and downloading from the iTunes Store and App Store.
+Change access to apps and features: Tap Allowed Apps & Features, then turn off any apps or features you want to restrict access to. If you turn off an app, it isn’t deleted; it’s temporarily hidden from your Home Screen until you turn it back on.
+Change ratings and restrictions for App Store, Media, Web, & Game Center content: Tap App Store, Media, Web, & Games, then choose options for age-appropriate content ratings and access.
+Continue following the onscreen instructions to set up Screen Time options.
+For information about Screen Time settings, see Set up Screen Time .
+To learn more about the different content and privacy restrictions, see the Apple Support article Use parental controls on your child’s iPhone, iPad, and iPod touch .
+If your child requests more screen time, you can approve or decline the request in Settings > Screen Time or in Messages .
+Turn on Ask to Buy
+When you set up Ask to Buy, a child’s purchases must be approved by the family organizer or a parent or guardian in the family group.
+Go to Settings > Family.
+Tap the child for whom you want to set up Ask to Buy.
+Tap Ask To Buy, then follow the onscreen instructions.
+See the Apple Support article Approve what kids buy with Ask to Buy .
+Note: Age restrictions for Ask to Buy vary by region. In the United States, the family organizer can turn on Ask to Buy for any family member under age 18; for children under age 13, it’s on by default.
+You can also set up an Apple Cash Family account for a child. See Use Apple Cash and Apple Card with Family Sharing (U.S. only) .

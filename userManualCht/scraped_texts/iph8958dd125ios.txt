@@ -1,0 +1,25 @@
+iPhone User Guide
+Work with PDFs in Notes on iPhone
+In the Notes app, you can attach, view, edit, and collaborate on PDFs, including documents you scanned into a note . You can also annotate or sketch directly on PDFs and scanned documents in your note. You can even preview multiple PDFs in the same note.
+Attach a PDF to a note
+To attach a PDF from an app such as Files or Mail, do any of the following:
+Drag the file into a note.
+Touch and hold the file, tap Share, tap Notes, then choose a note.
+View and edit a PDF in a note
+Go to the Notes app on your iPhone.
+In the note with the PDF, tap , then do any of the following:
+Change the preview size: Tap View As, then choose Small, Medium, or Large.
+View in full screen: Tap Quick Look.
+Copy, share, rename, or delete the PDF: Choose an action.
+When using the Medium or Large preview size, you can also do any of the following:
+Show or hide thumbnails: Tap .
+Zoom in and see more: Pinch the screen or swipe right to see more pages.
+Edit a page: Tap the thumbnail for the page, tap , then choose an action such as Rotate Left, Rotate Right, Filters, Crop Page, or Insert Blank Page. (Filters and Crop Page are supported only in scanned documents.)
+Search in PDFs
+See Search through your notes .
+Annotate a PDF in a note
+Small preview size: Tap the PDF to open it, then tap .
+Medium and large preview sizes: Tap .
+See Write and draw in documents with Markup .
+Collaborate with others
+Get real-time updates when you collaborate on a note with other people. As you mark up a document, draw a diagram, or add a sticker, the people you share with can see the changes on their devices.

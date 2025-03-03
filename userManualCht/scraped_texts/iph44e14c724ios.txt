@@ -1,0 +1,8 @@
+iPhone User Guide
+Remove a password from your iPhone and iCloud Keychain
+You can delete the password you use to sign in to a website or app on your iPhone.
+Go to the Passwords app on your iPhone.
+Tap All, then tap the account for the password you want to delete.
+Tap Edit.
+Tap Delete, then tap Delete Password again to confirm.
+Note: This action doesn’t remove the password from the website or app where you created it.

@@ -1,0 +1,9 @@
+iPhone User Guide
+Change the password for a website or app on iPhone
+You can change the password you use to sign in to a website or app on your iPhone.
+Go to the Passwords app on your iPhone.
+Tap All, then locate the account for the website or app.
+Tap the account.
+Tap Edit, tap Change Password, then change your password on the website or in the app.
+If the website or app allows you to upgrade to Sign in with Apple , you can take advantage of the security and convenience of that feature. If you aren’t given the upgrade option when you change your password, many accounts allow iPhone to automatically create a strong password that you don’t have to remember.
+Note: If iPhone warns you about a password for a website or app that’s no longer available, you can remove its account from your iPhone and iCloud Keychain. Go to the Passwords app on your iPhone, tap All, then swipe left on the account.

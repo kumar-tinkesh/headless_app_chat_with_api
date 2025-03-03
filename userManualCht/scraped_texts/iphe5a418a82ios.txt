@@ -1,0 +1,49 @@
+iPhone User Guide
+Share music with friends on iPhone
+After you create an Apple Music profile , you can share music with your friends. You can allow anyone to follow you or just those you choose, and block others.
+Choose music to share with your followers
+By default, your followers see the playlists you create, but you can choose not to share some playlists.
+Go to the Music app on your iPhone.
+Tap or your profile picture.
+Tap View Profile, tap Edit, then turn Shared Playlists on or off.
+To share playlists with people who don’t follow you, touch and hold a playlist, then tap Share Playlist.
+Note: If you make changes to music you share—edit or stop sharing a playlist, for example—those changes are reflected on your followers’ devices.
+Hide music from your followers
+Go to the Music app on your iPhone.
+Tap or your profile picture.
+Tap View Profile.
+Touch and hold the playlist or album (below Listening To).
+Tap Hide from Profile.
+The listening history for this item won’t appear in your profile or be visible to the people who follow you. If you don’t want your followers to see any of the music you listen to, tap Edit on the profile screen, then turn off Listening To at the bottom of the screen.
+Note: It may take up to 10 minutes before music you hide is no longer visible to your followers.
+To hide all the music you play from your followers on Apple Music, see Tell Apple Music to ignore your listening habits .
+Share your profile
+You can share your profile using email, Messages, or another app you choose.
+Go to the Music app on your iPhone.
+Tap or your profile picture.
+Tap View Profile.
+Tap , tap Share Profile, then choose a sharing option.
+You can also share the profile of anyone you follow, or who follows you.
+Choose who you share music with
+Go to the Music app on your iPhone.
+Tap or your profile picture.
+Tap View Profile, tap Edit, then tap People You Approve if you want to be followed only by people you choose. (Everyone includes all Apple Music subscribers who have a profile.)
+For additional privacy settings, see Hide music from your followers .
+Respond to follow requests
+If someone requests to follow you, you can accept or decline the request. You receive requests only if you select People You Approve in your profile. See Choose who you share music with .
+Go to the Music app on your iPhone.
+Tap or your profile picture.
+Tap Follow Requests, then accept or decline the requests.
+You may receive follow requests in other ways—as a link in an email or a text message, for example. To accept, tap the link.
+Turn on or off notifications about your friends’ activity
+Go to the Music app on your iPhone.
+Tap or your profile picture.
+Tap Notifications, then turn on (or off) Friend Activity.
+When the option is on, you get notified when friends follow you and add your playlists.
+Prevent users from following you
+Go to the Music app on your iPhone.
+Tap or your profile picture.
+Tap View Profile, touch and hold a profile picture, then choose Block.
+People you block won’t see your music or be able to find your profile. They can still play your shared playlists if they added them to their library.
+Report a concern
+If you have a concern about a follower, touch and hold their profile picture, then tap Report a Concern.

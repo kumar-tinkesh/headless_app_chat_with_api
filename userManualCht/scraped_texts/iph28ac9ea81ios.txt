@@ -1,0 +1,33 @@
+iPhone User Guide
+Set up or join an iCloud Shared Photo Library on iPhone
+With the iCloud Shared Photo Library feature, you can set up or join a shared library to share photos and videos with up to five friends or family members. You and those close to you can collaborate on the photo collection and enjoy more complete memories, all in one place. You can belong to one shared library at a time.
+When you join a shared library, the photos and videos that you contribute move from your personal library to the shared library, and all members of the library can view, edit, and delete them. Shared library photos and videos are integrated seamlessly in the Photos app alongside your personal content, but you can also use a filter to quickly switch between your personal and shared libraries .
+Note: iOS 16.1, iPadOS 16.1, macOS 13, or later are the minimum system requirements to use iCloud Shared Photo Library. Photos and videos added to a shared library won’t be available on devices with earlier versions of the software.
+Before you begin
+Before you set up or join an iCloud Shared Photo Library, make sure you have iCloud Photos turned on.
+Go to Settings > [ your name ] > iCloud > Photos, then make sure Sync this iPhone is on.
+Note: You don’t need Family Sharing turned on to set up a shared library.
+Set up an iCloud Shared Photo Library
+The person who sets up a shared library is the organizer.
+Go to the Photos app on your iPhone.
+Tap your account in the top-right corner.
+Tap Shared Library, then follow the onscreen instructions to add participants and move photos and videos into the shared library.
+Note: Photos and videos you add to the shared library don’t appear in your personal library; see Switch between viewing your iCloud Shared Photo Library and personal library .
+You can preview the photos and videos you add to the shared library and make changes before you invite participants using Messages or a web link.
+Join an iCloud Shared Photo Library
+To join an iCloud Shared Photo Library, tap the invitation sent from the organizer, tap Get Started, then follow the onscreen instructions. During setup, you can add photos and videos to the shared library the same way as the organizer (see Set up an iCloud Shared Photo Library ).
+After you join a shared library, you can add photos and videos to it in several ways, and access the same content within it as the organizer and other participants. See Add content to an iCloud Shared Photo Library .
+Add participants to an iCloud Shared Photo Library
+The person who sets up an iCloud Shared Photo Library (the organizer) can add new participants to the shared library.
+Go to the Photos app on your iPhone.
+Tap your account in the top-right corner.
+Tap Manage to the right of Shared Library, then tap Add Participants.
+Note: A shared library can include up to six participants including the organizer; you can belong to one shared library at a time.
+Delete or leave an iCloud Shared Photo Library
+If you’re the organizer of an iCloud Shared Photo Library, you can delete it. If you aren’t the organizer, you can leave the shared library.
+Go to the Photos app on your iPhone.
+Tap your account in the top-right corner.
+Tap Manage to the right of Shared Library, then tap one of the following:
+Delete Shared Library: When a shared library is deleted, participants who have been members of the shared library for more than 7 days can copy everything from the shared library into their own libraries. Participants who have been members for less than 7 days can copy only the content they contributed.
+Leave Shared Library: When you leave a shared library, you can copy everything from the shared library into your own library, or just the content you contributed.
+All content added to a shared library counts toward the iCloud storage space of the library organizer. See Add storage space to your iCloud Shared Photo Library .

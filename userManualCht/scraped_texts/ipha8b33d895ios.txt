@@ -1,0 +1,8 @@
+iPhone User Guide
+Add your TV provider to the Apple TV app on iPhone
+You can add your cable or satellite service to the Apple TV app and watch shows and movies on your iPhone, iPad, Mac, Apple TV, Apple Vision Pro, and supported smart TVs and streaming devices.
+Add your cable or satellite service to the Apple TV app
+Single sign-on provides immediate access to all the supported video apps in your subscription package.
+Go to Settings > General > TV Provider.
+Choose your TV provider, then sign in with your provider credentials.
+If your TV provider isn’t listed, sign in directly from the app you want to use.

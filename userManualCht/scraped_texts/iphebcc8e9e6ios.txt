@@ -1,0 +1,29 @@
+iPhone User Guide
+Play music with CarPlay
+Use Siri or open Music in CarPlay to play music that’s available on your iPhone—including songs, artists, albums, playlists, and Radio.
+Siri: Say something like:
+“Let’s hear the Acoustic playlist”
+“Play ‘You Need to Calm Down’ by Taylor Swift”
+“Play more songs like this one”
+“Play the rest of this album”
+“Skip this song”
+“Repeat this song”
+“Shuffle this playlist”
+“Tune into ESPN Radio”
+Learn how to use Siri
+If Siri doesn’t find what you asked for, be more specific. For example, say “Play the radio station ‘Pure Pop’” rather than saying “Play ‘Pure Pop.’”
+You can also use the controls on your vehicle’s steering wheel, buttons on the Now Playing screen, and CarPlay Dashboard to control music playback.
+You can also play music together using SharePlay. See Play music together in the car using SharePlay and CarPlay on iPhone .
+Note: If you’re viewing CarPlay Dashboard, tap to see pages of all of your CarPlay apps, including Music.
+Button
+Description
+Pause playback.
+Play the current song.
+Skip to the next song. When pressed and held, fast forward through the current song.
+Return to the song’s beginning. When pressed again, return to the previous song. When pressed and held, rewind through the current song.
+Play songs in random order.
+Continually repeat the current song.
+Display controls to create a custom station based on the current song and to rate the current song.
+Up Next
+Display a list of songs queued for playback. (You can select a song from the list to skip the songs that proceed it.)
+On some systems, Now Playing displays only a partial list of choices while you’re driving. To choose among options not in the list, select More at the bottom of the screen, or use Siri by pressing and holding the voice command button on your steering wheel.

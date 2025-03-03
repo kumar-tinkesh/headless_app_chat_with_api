@@ -1,0 +1,25 @@
+iPhone User Guide
+Check the weather in other locations on iPhone
+Check the weather for any location around the world and quickly access forecasts for locations you save to your list.
+Check the weather in another location
+Go to the Weather app on your iPhone.
+Tap in the bottom-right corner of the screen.
+Tap the search field at the top of the screen, then enter the name of the city, neighborhood, or location.
+Tip: To see your Home and Work locations in search results, go to Settings > Apps > Weather, then turn on Home and Work. Also make sure to turn on Location Services for Weather.
+Tap the location in the search results to display the forecast.
+Tap Cancel to close the forecast, then tap Cancel to clear the search results and return to the list.
+Note: Neighborhood search results aren’t available in all locations.
+Add a location to your list
+You can add locations to the list to quickly check the weather in places important to you.
+Go to the Weather app on your iPhone.
+Do one of the following:
+While looking at the location list: Tap the search field at the top of the list, enter the name of a city, neighborhood, or location that you want to add to your list, tap the location in the search results, then tap Add.
+While looking at one location’s forecast: Tap in the bottom-left corner of the screen, change the location of the weather map , touch and hold where you want to add a location, then tap .
+To check the weather in locations you added to your list, swipe the iPhone screen left or right when viewing a location, or tap , then tap a location.
+Delete and rearrange locations in your list
+Go to the Weather app on your iPhone.
+Tap to display your list.
+Do either of the following:
+Delete a location: Swipe left on the location, then tap . Or, tap , then tap Edit List.
+Rearrange the order of locations on your list: Touch and hold the location, then move it up or down. Or, tap , then tap Edit List.
+Your list of locations stays up to date across your devices when you’re signed in to the same Apple Account .

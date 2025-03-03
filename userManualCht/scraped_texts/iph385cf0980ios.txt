@@ -1,0 +1,39 @@
+iPhone User Guide
+Use Apple Cash in Wallet on iPhone
+With Apple Cash (available in the U.S.), you can send and receive money, get cash back from Apple Card transactions, make purchases, and transfer your Apple Cash balance to your bank account.
+Set up Apple Cash
+Go to Settings > Wallet & Apple Pay.
+Tap Apple Cash, then follow the onscreen instructions.
+For more information, see the Apple Support article Set up Apple Cash .
+Make purchases with Apple Cash
+You can make purchases with Apple Cash using Apple Pay or the virtual card number:
+At payment terminals: At locations that accept Visa, you can use Apple Pay for contactless payments .
+In apps or on the web: Use Apple Pay in apps and on the web .
+With the virtual card number: Go to the Wallet app , tap the Apple Cash card, tap , then tap Card Number.
+See the Apple Support article Use your virtual card number for Apple Cash .
+Send and receive payments with Apple Cash in Messages
+You can start a person-to-person payment in the following ways:
+In Wallet: Go to the Wallet app , tap the Apple Cash card, tap Send or Request, then follow the prompts.
+In Messages: Go to the Messages app , start a new message or tap an existing conversation, tap , tap Apple Cash, then follow the prompts.
+For more information, see the Apple Support article Send and receive money with Apple Cash .
+Send Apple Cash with Tap to Cash
+With Tap to Cash, you can send Apple Cash to someone by holding your iPhone or Apple Watch near their iPhone or Apple Watch, without having to share your phone number or email address.
+Note: Tap to Cash is supported on all iPhone models with iOS 18 or later and all Apple Watch models with watchOS 11 or later.
+Go to the Wallet app on your iPhone.
+Tap the Apple Cash card, tap Send or Request, then tap Tap to Cash.
+Enter the amount, add a note (optional), then tap Next.
+Authenticate with Face ID, Touch ID, or your passcode.
+Hold your iPhone near the recipient’s iPhone or Apple Watch.
+Continue holding the devices near each other until the payment information appears on the recipient’s screen.
+The recipient can choose Accept or Decline.
+For more information, see the Apple Support article Use Tap to Cash .
+Manage your Apple Cash
+Go to the Wallet app on your iPhone.
+Tap the Apple Cash card, then tap .
+Do any of the following:
+Add money or set up Auto Reload: See the Apple Support article Add money to Apple Cash .
+Transfer funds to your bank: See the Apple Support article Transfer money in Apple Cash to your bank account or debit card .
+Set up and manage recurring payments: See the Apple Support article Send and receive money with Apple Cash .
+See the virtual card number: Tap Card Number, then use the information for purchases in apps or on the web.
+View card details: Update your bank account information, request transaction statements, contact support, and more.
+Apple Footer

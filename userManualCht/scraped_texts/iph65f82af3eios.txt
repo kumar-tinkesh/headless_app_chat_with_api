@@ -1,0 +1,8 @@
+iPhone User Guide
+Change the date and time on iPhone
+The time zone on your iPhone is set automatically, but if you don’t have Location Services turned on or you don’t have service, you can change it manually.
+Go to Settings > General > Date & Time.
+Turn off Set Automatically, then tap Time Zone.
+Enter a location in the search field, then tap the result to change the time zone.
+To change the default date and time, turn off Set Automatically, then change the date and time displayed.
+Tip: To change the font color and style of the clock on the Lock Screen, see Change the clock style on the Lock Screen .

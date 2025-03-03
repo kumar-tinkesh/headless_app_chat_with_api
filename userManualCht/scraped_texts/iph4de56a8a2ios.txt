@@ -1,0 +1,41 @@
+iPhone User Guide
+Set up a custom email domain with iCloud Mail on iPhone
+When you subscribe to iCloud+, you can add up to five custom email domains and create email addresses for those domains on your iPhone. You can then send and receive email in the Mail app on your iPhone, iPad, and Mac, in your Mail account on iCloud.com, and in an email app on a Windows device.
+You need to have a primary iCloud Mail address before you can add a custom email domain on iPhone. See Create a primary email address for iCloud Mail in the iCloud User Guide.
+To learn more, see Personalize iCloud Mail with a custom email domain and share with others in the iCloud User Guide.
+Note: Make sure you’re signed in to the same Apple Account on each device. If you have devices where you’re not signed in to your Apple Account or that have the Mail feature turned off, you won’t be able to see your custom email domains and mail on those devices.
+Add a custom email domain to iCloud Mail
+You can add a custom email domain you already own to iCloud Mail, or buy a new one.
+Note: You need to have a primary iCloud Mail address before you can add a custom email domain on iPhone. See Create a primary email address for iCloud Mail in the iCloud User Guide.
+Go to Settings > [ your name ] > iCloud > Mail (under Saved to iCloud), then make sure “Use on this iPhone” is turned on.
+Tap Custom Email Domain, then tap one of the following:
+Buy a Domain: Choose this option if you don’t yet have a custom domain. After you purchase it, you can create custom email addresses.
+Use a Domain You Own: Choose this option if you already have a domain, and you want to use it with iCloud Mail. You can configure email addresses you already have at that domain, and create more.
+Follow the onscreen instructions.
+If you’re adding a domain you already own, some registrars require you to change DNS records to set up your domain. See the Apple Support article Set up an existing domain with iCloud Mail .
+Import existing email messages
+After you or a member of your Family Sharing group sets up a custom email domain for iCloud Mail, you can use iCloud.com to import existing email messages from your previous email provider (not available for all email providers). See Import existing email messages to your custom iCloud Mail address in the iCloud User Guide.
+Create and delete email addresses
+After you add a custom email domain, you can easily create and delete email addresses for that domain.
+Go to Settings > [ your name ] > iCloud > Mail (under Saved to iCloud), then make sure “Use on this iPhone” is turned on.
+Tap Custom Email Domain, then tap the domain you want to make changes to.
+Tap Manage Email Addresses, then do one of the following:
+Add a new email address: Tap Create Email Address, enter the new address, then tap Continue.
+Delete an email address: Swipe left on an email address, tap Delete, then tap Remove.
+Add People: Tap to invite someone to your custom email domain.
+Remove a custom email domain
+If you no longer want to use a custom email domain, you can remove it using your iPhone. When you remove a custom email domain, you can’t send or receive email for any addresses at that domain in Mail.
+Go to Settings > [ your name ] > iCloud > Mail (under Saved to iCloud).
+Tap Custom Email Domain, then tap Edit next to Your Domains.
+Tap , then tap Delete.
+If you’re moving your domain to a new provider, make sure to do the following:
+Go to your domain registrar to update the domain records to your new email provider and remove iCloud-related records.
+Set up any email addresses you want to continue using with your new provider.
+Note: When you remove a custom email domain, you can still send and receive email from your primary @icloud.com address.
+Allow all incoming messages to your domain
+You can use your iCloud Mail email address as a catch-all address. This allows you to receive all messages sent to your custom email domain, even if the exact address they were sent to hasn’t already been created.
+Go to Settings > [ your name ] > iCloud > Mail (under Saved to iCloud).
+Tap Custom Email Domain, then tap your custom domain.
+Turn on Allow All Incoming Messages.
+If the domain owner allows all incoming messages, any messages that aren’t sent to an active email address go to the domain owner’s inbox. If this setting isn’t turned on, those messages are returned to the sender.
+Note: Messages sent to deleted email addresses are automatically returned to the sender.

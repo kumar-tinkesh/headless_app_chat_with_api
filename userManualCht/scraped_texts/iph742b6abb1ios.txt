@@ -1,0 +1,51 @@
+iPhone User Guide
+Send email in Mail on iPhone
+You can write, send, and schedule email messages from any of your email accounts.
+Write and send an email
+Go to the Mail app on your iPhone.
+Tap .
+Tap in the email, then type your message.
+To change the formatting, tap above the keyboard, then tap .
+You can change the font style and color of text, use a bold or italic style, add a bulleted or numbered list, and more.
+Tap to send your message.
+Tip: You can create and add stickers to messages as you compose them. See Add emoji, Memoji, and stickers with the iPhone keyboard .
+Add recipients
+Go to the Mail app on your iPhone.
+Tap , tap the To field, then type the names of recipients.
+As you type, Mail automatically suggests people from your Contacts.
+You can also tap to open Contacts and add recipients from there.
+If you want to send a copy to other people, tap the Cc/Bcc field, then do any of the following:
+Tap the Cc field, then enter the names of people you’re sending a copy to.
+Tap the Bcc field, then enter the names of people you don’t want other recipients to see.
+Tip: After you enter recipients, you can reorder their names in the address fields, or drag them from one address field to another—for example, to the Bcc field if you decide you don’t want their names to appear.
+Add a hyperlink to an email message
+In Safari or another web browser, copy the URL of a webpage.
+As you compose a message in Mail , highlight the text you want to link.
+Tap Paste.
+Edit a link in an email draft
+Go to the Mail app on your iPhone.
+In a message you’re writing, tap a link or linked text, then tap .
+Do any of the following:
+Show Link Preview: Change the hyperlinked text to a rich embedded website preview image.
+Open Link: Go to that website in a web browser.
+Edit Link: Change the URL of the link.
+Remove Link: Delete the link from your  message draft.
+Edit Text Description: Change the text that’s linked.
+Use Camera to capture an email address
+You can use Live Text to scan an email address printed on a business card, poster, and more using the Mail app on iPhone. This allows you to quickly begin emails without entering an address manually.
+Go to the Camera app on your iPhone.
+Position iPhone so the email address appears within the camera frame.
+Tap the email address, then tap in the lower-right corner of the camera field.
+To draft a message, tap the email address in the lower-left side of the camera field.
+Tip: You can also capture an email address from a photo. See Use Live Text to interact with content in a photo or video .
+Schedule an email with Send Later
+Go to the Mail app on your iPhone.
+In a message you’re writing, touch and hold , then choose when you want to send the message.
+To see more options, tap Send Later.
+Send an email from a different account
+If you have more than one email account, you can specify which account to send email from.
+Go to the Mail app on your iPhone.
+In your message draft, tap the Cc/Bcc, From field.
+Tap the From field, then choose an account.
+Use Writing Tools to summarize, proofread, and modify your email
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max, you can use Writing Tools to summarize selected text with a tap, proofread your work, and create different versions of the same text to help you find the right wording and tone. See Use Writing Tools with Apple Intelligence on iPhone .

@@ -1,0 +1,6 @@
+iPhone User Guide
+Route and automatically answer calls on iPhone
+You can automatically direct the audio of phone or FaceTime calls to the iPhone speaker, a Bluetooth® headset, or your hearing device. iPhone can also automatically answer calls after a length of time you set.
+Go to Settings > Accessibility > Touch > Call Audio Routing, then choose an audio destination.
+Tap Auto-Answer Calls, turn on Auto-Answer Calls, then set the duration of time before the call is answered by tapping or .
+During a call, you can switch the audio routing from your hearing aid to the iPhone speaker by removing the hearing aid from your ear.

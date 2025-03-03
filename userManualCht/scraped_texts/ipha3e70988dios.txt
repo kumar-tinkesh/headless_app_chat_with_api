@@ -1,0 +1,8 @@
+iPhone User Guide
+Set up call waiting on iPhone
+You can set up call waiting on iPhone if you have cellular service through a GSM network.
+If you have cellular service through a CDMA network, contact your carrier for information about setting up call waiting.
+Go to Settings > Apps > Phone.
+Tap Call Waiting, then turn on Call Waiting.
+If you’re on a call and call waiting is turned off, incoming calls go directly to voicemail.
+On models with Dual SIM, call waiting works only for incoming calls on the same line, unless the other line has Wi-Fi Calling turned on and a data connection is available. See Set up cellular service on iPhone .

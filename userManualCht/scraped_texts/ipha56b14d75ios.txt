@@ -1,0 +1,9 @@
+iPhone User Guide
+Help protect your vision health with Screen Distance on iPhone
+Viewing a device (or a book) too closely for an extended period of time can increase the risk of myopia for younger users and eyestrain for users of all ages. The Screen Distance feature in Screen Time uses the TrueDepth camera (on supported models ) to detect when you hold iPhone closer than 12 inches for an extended period, and encourages you to move it farther away.
+Screen Distance can remind younger users to engage in healthy viewing habits that can lower their risk of myopia. It gives adult users the opportunity to reduce digital eyestrain.
+Note: Screen Distance is turned on by default for children under 13 in a Family Sharing group.
+Turn Screen Distance on or off
+Go to Settings > Screen Time.
+Tap Screen Distance, then turn Screen Distance on or off.
+With Screen Distance on, when you hold the screen too close to your face for an extended period, Screen Distance covers the screen with an alert, preventing you from continuing. When you move iPhone more than 12 inches away, you can tap Continue to resume using it.

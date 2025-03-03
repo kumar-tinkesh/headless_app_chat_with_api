@@ -1,0 +1,14 @@
+iPhone User Guide
+Manage your library in the Apple TV app on iPhone
+Your library contains shows and movies you purchased, rented, and downloaded. If you use Family Sharing , you can also view purchases made by family members.
+Browse your library
+Go to the Apple TV app on your iPhone.
+Tap Library, then tap TV Shows, Movies, or Genres.
+Share purchases made by family members
+If you use Family Sharing , you and your family members can share purchases in the Apple TV app.
+Tap Library, tap Family Sharing, then choose a family member.
+Remove a downloaded item
+Go to the Apple TV app on your iPhone.
+Tap Library, then tap Downloaded.
+Swipe left on the item you want to remove, then tap Delete.
+Removing an item from iPhone doesn’t delete it from your purchases in iCloud. You can download the item to iPhone again later.

@@ -1,0 +1,25 @@
+iPhone User Guide
+Organize recordings in Voice Memos on iPhone
+You can mark audio recordings as favorites and organize your recordings into folders.
+Note: Apple Watch recordings, recently deleted recordings, and favorites are grouped into Smart Folders, which automatically gather files by type and subject matter.
+Mark recordings as favorites
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+In the list of recordings, do any of the following:
+Tap the recording you want to mark as a favorite, tap , then tap .
+Tap Edit above the list of recordings, select one or more recordings, tap , tap Move to Folder, then tap Favorites. (If there isn’t a Favorites folder, create one by entering Favorites in the field.)
+Recordings marked as favorites automatically appear in the Favorites folder.
+Organize recordings into folders
+You can group related recordings together into folders so you can locate them easily.
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+Tap Edit above the list of recordings.
+Select one or more recordings, tap , tap Move to Folder, then choose a folder.
+To create a new folder, tap , type a name for the folder, then tap Save.
+To view your folders, tap ; tap a folder to check its contents.
+To return to the list of recordings, tap All Recordings.
+Delete or reorder folders
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+Tap to go to the list of folders.
+Tap Edit above the folders, then do any of the following:
+Delete a folder: Tap next to the folder, then tap .
+Change the order of the folders: Drag next to any folder.
+Tap Done.

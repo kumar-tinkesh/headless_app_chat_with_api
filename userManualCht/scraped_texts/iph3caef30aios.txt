@@ -1,0 +1,29 @@
+iPhone User Guide
+Reply to and forward emails in Mail on iPhone
+You can reply to or forward emails in the Mail app.
+Reply to an email
+Go to the Mail app on your iPhone.
+Tap the message, tap , then do one of the following:
+Reply to just the sender: Tap Reply.
+Reply to the sender and the other recipients: Tap Reply All.
+Type your response.
+Quote some text when you reply to an email
+When you reply to an email message, you can include text from the sender to clarify what you’re responding to.
+Go to the Mail app on your iPhone.
+In the sender’s message, touch and hold the first word of the text, then drag to the last word. (See Select, cut, copy, and paste text .)
+Tap , tap Reply, then type your message.
+Note: To turn off the indentation of quoted text, go to Settings > Apps > Mail > Increase Quote Level (below Composing), then turn off Increase Quote Level.
+Forward an email
+You can send an email message forward to new recipients.
+Go to the Mail app on your iPhone.
+Tap in the message, tap , then tap Forward.
+If there are attachments in the original message—like photos or documents—you can decide whether to include them in the forwarded message. Choose Include or Don’t Include.
+Enter the email addresses of the new recipients.
+Tap in the message, then type your response. The forwarded message appears below.
+Follow up on emails
+If you send an email message and don’t receive a response for several days, the message automatically moves back to the top of your inbox to help you remember to follow up.
+To turn off Follow Up Suggestions, go to Settings > Apps > Mail, then turn off Follow Up Suggestions.
+Set up an automatic reply in Mail
+On iCloud.com , you can set up an automatic reply to respond to incoming email messages or automatically forward messages to another inbox. See Set up an automatic reply in Mail on iCloud.com .
+Use Smart Reply
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max, Apple Intelligence can suggest a reply to email you receive. See Use Smart Reply in Mail .

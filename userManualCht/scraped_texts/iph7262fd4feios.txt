@@ -1,0 +1,28 @@
+iPhone User Guide
+Add or remove accounts in Notes on iPhone
+In the Notes app , you can use multiple accounts—such as iCloud, enterprise-managed iCloud, Microsoft Exchange, Google, and Yahoo—and keep all your notes in one place. Your notes stay up to date on all your devices that use the same accounts. You can also have an On My iPhone account for notes you keep only on this device.
+Note: All Notes features described in this guide are available when you use iCloud and the On My iPhone account. Some features aren’t available when using other accounts.
+Keep your notes up to date on all your devices with iCloud
+Your iCloud notes—and any changes you make to them—appear on your iPhone, iPad, and Mac where you’re signed in to your Apple Account .
+Go to Settings > [ your name ] > iCloud.
+Turn on Notes.
+Add other accounts
+You can use the Notes app to manage your notes in other accounts, such as Microsoft Exchange, Google, and Yahoo.
+Go to Settings > Apps > Notes.
+Tap Notes Accounts, then tap Add Account.
+Do one of the following:
+Choose an account provider, then enter your account information.
+If your account provider isn’t listed, tap Other, tap Add Mail Account, enter your email account information, then turn on Notes for that account.
+Set up an On My iPhone account
+Notes in this account appear only on your iPhone, and they’re included in your iPhone backups to iCloud.
+Go to Settings > Apps > Notes.
+Turn on “On My iPhone” Account.
+Remove an account
+When you remove or delete an account, the notes in that account no longer appear on your iPhone. The notes remain in your internet account (for example, iCloud.com or Google) and any other devices you had already set up.
+Go to Settings > Apps > Notes.
+Tap Notes Accounts, then tap the account you want to remove.
+Do one of the following:
+Stop using Notes on the account: Turn off Notes.
+You can continue to use the account for other services, such as Mail.
+Stop using all services on the account: Tap Sign Out (for an iCloud account) or Delete Account (for other accounts).
+If you don’t see Sign Out or Delete Account, your account may be managed by your organization. See an administrator for removal instructions.

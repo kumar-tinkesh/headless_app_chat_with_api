@@ -1,0 +1,32 @@
+iPhone User Guide
+Set an alarm in Clock on iPhone
+You can turn your iPhone into an alarm clock. You can also ask Siri to set an alarm for you. Set alarms for any time of day and have them repeat on one or more days of the week.
+Siri: Say something like: “Set an alarm for 7 a.m.” Learn how to use Siri .
+Note: You can also set up a wake up alarm as part of a full sleep schedule (including bedtimes, wake up times, and more) in the Health app. If you don’t want to set up a sleep schedule, you can set a regular alarm in Clock for the time you want to wake up.
+Set an alarm
+You can set alarms for any time, including one for the time you want to wake up. Any alarm you set up in Clock is unrelated to a sleep schedule.
+Go to the Clock app on your iPhone.
+Tap Alarms, then tap .
+Set the time, then choose any of the following options:
+Repeat: Choose the days of the week you want the alarm to repeat.
+Label: Give the alarm a name, like “Water the plants.”
+Sound: Choose a vibration, song, or ringtone.
+Snooze: Turn on to see a Snooze button with your alarm. (It pauses the alarm for 9 minutes.)
+Tap Save.
+To change the alarm, tap the alarm time. Or tap Edit at the top left, then tap the alarm time.
+Change the alarm’s volume
+Go to Settings > Sounds & Haptics.
+Under Ringtone and Alert Volume, drag the slider.
+Tip: To use the volume buttons on your device to change the alarm volume, turn on Change with Buttons.
+Your alarm sounds even when you:
+Turn on Silent mode .
+Turn on Do Not Disturb (or another Focus ).
+Connect headphones to your iPhone. The alarm plays at a set volume through both the built-in speakers on your iPhone as well as your headphones.
+Turn off an alarm
+Go to the Clock app on your iPhone.
+Tap Alarms.
+Tap the button next to the alarm time.
+Remove an alarm
+Go to the Clock app on your iPhone.
+Tap Alarms.
+Swipe left on the alarm, then tap Delete.

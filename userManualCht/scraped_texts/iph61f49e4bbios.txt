@@ -1,0 +1,54 @@
+iPhone User Guide
+Record videos with your iPhone camera
+Use your iPhone camera to record videos and QuickTake videos. Learn how to switch between video formats, change modes to take Cinematic, slow-motion, and time-lapse videos, and use Action mode to improve video stabilization.
+Note: Video recording isn’t available during a phone or FaceTime call.
+Record a video
+Open Camera on your iPhone.
+Select Video mode (see Switch between camera modes ).
+Tap the Record button, press either volume button, or click the Camera Control ( on supported models ) to start recording. While recording, you can do the following:
+Tap the white Shutter button to take a still photo.
+Tap the Pause button to pause recording.
+Pinch the screen to zoom in and out.
+For a more precise zoom, touch and hold 1x, then drag the slider (on supported models).
+On iPhone 16 models, use the Camera Control to zoom in and out.
+Tap the Record button, press either volume button, or click the Camera Control ( on supported models ) to stop recording.
+Note: For your security, a green dot appears at the top of the screen when Camera is in use. See Control access to hardware features on iPhone .
+Record HD or 4K video
+Depending on your iPhone model, you can record video in high-quality formats, like HD, 4K, HD (PAL), and 4K (PAL).
+Go to Settings > Camera, then tap Record Video.
+Select from the list of video formats and frame rates that your iPhone supports.
+Note: Faster frame rates and higher resolutions result in larger video files.
+Videos you record at faster frame rates can be played back at slower speeds in the Photos app. See Trim video length, adjust slow motion, and edit audio .
+Note: PAL is a television video format used in many countries and regions in Europe, Africa, Asia, and South America.
+Use Action mode
+On supported models , Action mode provides improved stabilization while recording in Video mode. Tap at the top of the screen to turn Action mode on and to turn it off.
+Note: Action mode works best in bright light. If you want to use Action mode in lower light, go to Settings > Camera, tap Record Video, then turn on Action Mode Lower Light. Action mode has a maximum capture resolution of 2.8K.
+Record a video while in Photo mode
+QuickTake lets you record a video while in Photo mode instead of switching to Video mode. While recording, you can move the Record button into the lock position and take still photos at the same time.
+Open Camera on your iPhone.
+Touch and hold the Shutter button to start recording.
+Slide the Shutter button to the right and let go over the lock for hands-free recording.
+Both the Record and Shutter buttons appear below the frame—tap the Shutter button to take a still photo while recording.
+Swipe up to zoom in on your subject, or if you’re recording hands-free, you can pinch out on the screen to zoom in.
+Tap the Record button to stop recording.
+Tip: Press and hold the volume up or volume down button to start recording a video in Photo mode.
+On iPhone 16 models, you can click and hold the Camera Control to record videos in full resolution.
+Tap the thumbnail to view the video in the Photos app.
+Record a slow-motion video
+When you record a video in Slo-mo mode, your video records as normal and you see the slow-motion effect when you play it back. You can also edit your video so that the slow-motion action starts and stops at a specific time.
+Open Camera on your iPhone.
+Select Slo-mo mode .
+On supported models , you can tap to record in Slo-mo mode with the front camera.
+To start recording, tap the Record button, press either volume button, or click the Camera Control ( on supported models ).
+You can tap the Shutter button to take a still photo while recording.
+To stop recording, tap the Record button, press either volume button, or click the Camera Control ( on supported models ).
+To set a portion of the video to play in slow motion and the rest at regular speed, tap the video thumbnail, then tap Edit. Slide the vertical bars below the frame viewer to define the section you want to play back in slow motion.
+Depending on your model, you can change the slow motion frame rate and resolution. To change slow-motion recording settings, go to Settings > Camera, then tap Record Slo-mo.
+Tip: Use quick toggles to adjust the video resolution and frame rate while you record. See Use quick toggles to change video resolution and frame rate .
+Record a time-lapse video
+Capture footage at selected intervals to create a time‑lapse video of an experience over a period of time—such as a setting sun or traffic flowing.
+Open Camera on your iPhone.
+Select Time-lapse mode .
+Set up your iPhone where you want to capture a scene in motion.
+Tap the Record button or click the Camera Control ( on supported models ) to start recording; tap or click again to stop recording.
+Tip: On iPhone 12 models and later, use a tripod to capture time-lapse videos with more detail and brightness when recording in low-light situations.

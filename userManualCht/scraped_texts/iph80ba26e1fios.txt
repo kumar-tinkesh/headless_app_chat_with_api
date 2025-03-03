@@ -1,0 +1,20 @@
+iPhone User Guide
+Make a grocery list in Reminders on iPhone
+In the Reminders app, you can create a grocery list to make shopping easier. Items are automatically sorted into categories such as Produce and Seafood. You can change how items are grouped, and the list remembers your preferences.
+Note: All Reminders features described in this guide are available when you use updated reminders in iCloud . Some features aren’t available when using other accounts.
+Create a new grocery list
+Go to the Reminders app on your iPhone.
+Enter a name for the list, tap List Type, then choose Groceries.
+Choose a color and symbol for the list (optional).
+Convert an existing list to a grocery list
+Go to the Reminders app on your iPhone.
+Tap a list, tap , then tap Show List Info.
+Tap List Type, then choose Groceries.
+Add an item to your grocery list
+Siri: You can quickly add an item using Siri. Say something like: “Add artichokes to my groceries list.” Learn how to use Siri .
+Or without using Siri:
+Go to the Reminders app on your iPhone.
+In your grocery list, tap New Item, then enter a description.
+To enter more information, tap Add Note.
+Tap to edit the item details. For example, you can attach a photo, set a location-based reminder, or flag an important item.
+Items added to the list are automatically placed in categories. If you enter grocery items in a language different from the system language of your iPhone, you can add an additional language in Settings . (Grocery categorization is available for supported languages .)

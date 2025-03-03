@@ -1,0 +1,6 @@
+iPhone User Guide
+Play audiobooks with CarPlay
+Use CarPlay to play the audiobooks that are on your iPhone.
+Siri: Say something like: “Play Pride and Prejudice audiobook” or “Rewind 15 seconds.” Learn how to use Siri .
+Or you can use your vehicles’s built-in controls to open Audiobooks and select a book to play. You can also use the controls on your vehicle’s steering wheel, buttons on the Now Playing screen, and CarPlay Dashboard to control audiobook playback.
+Note: If you’re viewing CarPlay Dashboard, tap to see pages of all of your CarPlay apps, including Audiobooks.

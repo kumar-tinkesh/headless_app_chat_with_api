@@ -1,0 +1,31 @@
+iPhone User Guide
+Create multiple Safari profiles on iPhone
+You can create multiple Safari profiles—like Work and Personal—and use them to separate your internet browsing into different themes. Each profile has separate favorites, histories, tabs, and Tab Groups. You can add, edit, or remove a profile at any time.
+Create a profile
+The profiles you create on iPhone also appear in Safari settings on any iPhone, iPad, or Mac where you’re signed in to the same Apple Account .
+Go to Settings > Apps > Safari.
+Tap New Profile, then tap Name.
+Enter a name for this profile, then choose an icon and color.
+Below Settings, tap Favorites to choose a bookmarks folder.
+If you have multiple folders of bookmarks, this option selects the folder of bookmarked websites that are recommended as you enter an address, search, or create a new tab. For example, if you have a folder of bookmarks related to work, you can create a work profile and use this field to ensure that those websites are suggested as you type in the address field.
+Tap Open New Tabs and choose the page you want new tabs to open to.
+Use profiles in Safari
+You can easily browse the internet with a profile, or move between profiles.
+Go to the Safari app on your iPhone.
+Tap , then tap .
+Tap Profile, then select the profile you want to use.
+Note: You can access your saved bookmarks and passwords in iCloud keychain from any profile.
+Edit a profile
+Go to Settings > Apps > Safari.
+Tap the profile you want to edit.
+Choose which extensions to use with a profile
+You can install extensions to customize the way your browser works on iPhone. See Get extensions to customize Safari .
+If you have extensions installed on your iPhone, you can customize which extensions you want to use with each profile.
+Go to Settings > Apps > Safari.
+Tap Extensions, then tap an extension.
+Turn on the profiles you want to use with this extension (below Allow Extension In).
+Remove a profile
+You can delete a profile at any time. This action also erases the favorites, history, and Tab Groups associated with the profile, and closes all websites open in the profile.
+Important: This action can’t be undone.
+Go to Settings > Apps > Safari.
+Tap a profile, then tap Delete Profile.

@@ -1,0 +1,41 @@
+iPhone User Guide
+Use iPhone camera tools to set up your shot
+Before taking a photo, you can use the camera tools on your iPhone to customize and improve your shot.
+Adjust the camera’s focus and exposure
+Before you take a photo, the iPhone camera automatically sets the focus and exposure, and face detection balances the exposure across many faces. If you want to manually adjust the focus and exposure, do the following:
+Open Camera on your iPhone.
+Tap the screen to show the automatic focus area and exposure setting.
+Tap where you want to move the focus area.
+Next to the focus area, drag up or down to adjust the exposure.
+Tip: To lock your manual focus and exposure settings for upcoming shots, touch and hold the focus area until you see AE/AF Lock; tap the screen to unlock settings.
+On iPhone 16 models, lightly double-press the Camera Control to open an overlay that shows the available camera settings. Slide your finger on the Camera Control to the Exposure setting, then lightly press to select it. Slide your finger to adjust the exposure.
+Lock the exposure setting
+On iPhone 11 and later, you can lock the exposure setting for upcoming shots.
+Open Camera on your iPhone.
+Tap .
+Tap , then move the slider to adjust the exposure.
+The exposure locks until the next time you open Camera. To save the exposure control so it’s not reset when you open Camera, go to Settings > Camera > Preserve Settings, then turn on Exposure Adjustment.
+Turn the flash on or off
+Your iPhone camera is set to automatically use the flash when needed. To manually control the flash before you take a photo, do the following:
+Open Camera on your iPhone.
+Do one of the following:
+Tap to turn the automatic flash on or off.
+Tap , tap below the frame, then choose Auto, On, or Off.
+Take a photo with a filter
+On supported models, you can use a filter to give your photo a color effect.
+Open Camera on your iPhone.
+Make sure Camera is in Photo or Portrait mode; see Switch between camera modes .
+Tap , then tap .
+Below the camera frame, swipe left or right to preview the filters, then tap one to apply it.
+Tap the Shutter button to take the shot with the filter you chose.
+You can remove or change a photo’s filter in the Photos app. See Apply filter effects .
+On iPhone 16 models, use Photographic Styles instead of filters to give your photos a customized look.
+Use the timer
+You can set a timer on your iPhone camera to give yourself time to get in the shot.
+Open Camera on your iPhone.
+Tap
+Tap , then choose 3s or 10s.
+Tap the Shutter button to start the timer.
+Use a grid and level to straighten your shot
+To display a grid or level on the camera screen that can help you straighten and compose your shot, go to Settings > Camera, then turn on Grid and Level.
+After you take a photo, you can use the editing tools in the Photos app to further align shots and adjust horizontal and vertical perspective. See Straighten a photo or video and adjust its perspective .

@@ -1,0 +1,12 @@
+iPhone User Guide
+Control access to information in apps on iPhone
+You control whether third-party apps have access to information in Contacts, Photos, Calendar, and other apps.
+Review or change access to information in apps
+The first time an app wants to use information from another app, you receive a request with an explanation. For example, a messaging app may request access to your contacts to find friends who are using the same app. After you grant or deny access, you can change access later.
+Go to Settings > Privacy & Security.
+Tap a category of information, such as Calendars, Reminders, or Motion & Fitness.
+A list appears showing the apps that requested access. You can turn access on or off for any app on the list.
+Review how apps are using the permissions you grant them
+Go to Settings > Privacy & Security, then tap App Privacy Report.
+The App Privacy Report shows you how apps are using the permissions you granted them and shows you their network activity.
+To turn off the report and delete its data, go to Settings > Privacy & Security > App Privacy Report, then tap Turn Off App Privacy Report. You can return to this Settings screen to turn the report on again.

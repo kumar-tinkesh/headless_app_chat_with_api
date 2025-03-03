@@ -1,0 +1,15 @@
+iPhone User Guide
+Find receipts, QR codes, recently edited photos, and more on iPhone
+In the Photos app, you can find collections of photos and videos in Utilities. You can easily revisit photos you recently edited, saved, viewed, or shared, or find collections based on their content—like documents, receipts, handwriting, illustrations, and QR codes.
+Find receipts, QR codes, and more in Utilities
+Go to the Photos app on your iPhone.
+Scroll down, then tap Utilities.
+Tap the collection you want to view.
+Note: Some Utilities collections, like Hidden and Recently Deleted, are locked by default for your privacy. See Lock and unlock the Recently Deleted and Hidden collections .
+Find recovered items and save or delete them
+If a photo or video wasn’t saved properly and couldn’t be added to your library, you may find a copy of it in Recovered.
+Go to the Photos app on your iPhone.
+Scroll down, then tap Utilities.
+Tap Recovered, then tap the photo or video you want to recover.
+Tap Permanently Delete or Restore to Library.
+Important: When you delete a recovered photo or video, it’s deleted permanently. You can’t recover photos that you deleted from the Recovered collection in Utilities.

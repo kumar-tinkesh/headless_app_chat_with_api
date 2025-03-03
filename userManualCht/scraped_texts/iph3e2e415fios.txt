@@ -1,0 +1,27 @@
+iPhone User Guide
+Turn on and practice VoiceOver on iPhone
+With VoiceOver—a gesture-based screen reader—you can use iPhone even if you can’t see the screen. VoiceOver gives audible descriptions of what’s on your screen—for example, hear the battery level, who’s calling, or what item your finger is on. You can also customize the VoiceOver speaking voice to suit your needs.
+When you touch the screen or drag your finger over it, VoiceOver speaks the name of the item your finger is on, including icons and text. To interact with the item, such as a button or link, or to navigate to another item, use VoiceOver gestures .
+When you go to a new screen, VoiceOver plays a sound, then selects and speaks the name of the first item on the screen (typically in the top-left corner). VoiceOver tells you when the screen changes to landscape or portrait orientation, when the screen becomes dimmed or locked, and what’s active on the Lock Screen when you wake iPhone.
+Turn VoiceOver on or off
+Important: VoiceOver changes the gestures you use to control iPhone. When VoiceOver is on, you must use VoiceOver gestures to operate iPhone.
+To turn VoiceOver on or off, do any of the following:
+Go to Settings > Accessibility > VoiceOver, then turn VoiceOver on or off.
+Use Control Center if you’ve added VoiceOver there.
+Use the Accessibility Shortcut if you’ve set it up to turn on VoiceOver.
+Siri: Say something like: “Turn on VoiceOver” or “Turn off VoiceOver.” Learn how to use Siri .
+Siri knows when VoiceOver is on and often reads more information back to you than appears on the screen. You can also use VoiceOver to read what Siri shows on the screen.
+Use an interactive tutorial to learn VoiceOver
+You can learn VoiceOver basics and practice essential gestures with the interactive VoiceOver Tutorial.
+With VoiceOver turned on, go to Settings > Accessibility > VoiceOver, then tap VoiceOver Tutorial to get started.
+Practice VoiceOver gestures
+You can use the VoiceOver Practice area to safely try out VoiceOver gestures and hear what they do—without performing any action or otherwise affecting iPhone.
+Try different techniques to discover which works best for you. If a gesture doesn’t work, try a quicker movement, especially for a double tap or swipe gesture. To swipe, try brushing the screen quickly with your finger or fingers. For best results using multifinger gestures, touch the screen with some space between your fingers.
+Go to Settings > Accessibility > VoiceOver.
+Turn on VoiceOver, tap VoiceOver Practice, then double-tap to start.
+Practice the following gestures with one, two, three, and four fingers:
+Tap
+Double tap
+Triple tap
+Swipe left, right, up, or down
+When you finish practicing, tap Done, then double-tap to exit.

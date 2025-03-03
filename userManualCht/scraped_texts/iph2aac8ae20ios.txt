@@ -1,0 +1,20 @@
+iPhone User Guide
+Send your location via satellite in Find My on iPhone
+On iPhone 14 or later with iOS 16.1 or later, you can use the Find My app to share your location via satellite when you’re outside cellular and Wi-Fi coverage.
+Note: Sharing your location via satellite isn’t available in all countries or regions. See the Apple Support article Emergency SOS via satellite availability .
+Before you disconnect from cellular and Wi-Fi coverage
+Most Find My features are only available if you’re connected to a cellular or Wi-Fi network. To share your location with friends via satellite, do the following before you’re outside cellular or Wi-Fi coverage:
+Set the iPhone you’re bringing with you as the iPhone that shares your location. On your iPhone 14 or later open the Find My app, tap Me at the bottom of the screen, then make sure Share My Location is turned on. If your iPhone isn’t currently sharing your location, tap Use This iPhone as My Location.
+Add the contacts you want to share your location with. See Share your location in Find My .
+Send your location via satellite
+You can use the Find My app to share your location via satellite if you’re not connected to a cellular or Wi-Fi network. To share your location with a friend via satellite, you must already be sharing your location with that friend in Find My. See Share your location in Find My .
+Go to the Find My app on your iPhone.
+Make sure that you’re outside with a clear view of the sky and the horizon. If you’re under heavy foliage or surrounded by other obstructions, you might not be able to connect to a satellite.
+Tap Me at the bottom of the screen.
+Tap Send My Location (below My Location via Satellite), then follow the onscreen instructions.
+If you need to turn left or right to connect to a satellite, your iPhone provides guidance—just follow the onscreen instructions.
+Note: It may take a few minutes to send your location via satellite; continue to follow the onscreen instructions until the message is sent.
+You can send your location once every 15 minutes. When you send your location via satellite, you don’t see your friend’s location in the Find My app.
+See a friend’s location sent via satellite
+In order to see a friend’s location sent via satellite, you need to have iOS 16.1 or later installed on your iPhone (you don’t need iPhone 14 or later).
+When a contact sends you their location via satellite, a satellite icon appears next to their picture and Satellite Location appears in the text in the Find My app. Their most recent location is viewable for up to 7 days.

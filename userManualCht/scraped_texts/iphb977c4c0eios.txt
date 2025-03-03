@@ -1,0 +1,51 @@
+iPhone User Guide
+Use the scientific calculator on iPhone
+You can use the scientific calculator for exponential, logarithmic, and trigonometric functions. You can also view complete expressions with parentheses, trigonometry, and multiple operations before tapping the equal sign for the final answer.
+Note: The Calculator app uses the standard order of operations. For example, multiplication is completed before addition and subtraction. Add parentheses around expressions that you want calculated first.
+Switch to the scientific calculator
+Go to the Calculator app on your iPhone.
+Tap , then tap Scientific.
+Work with stored values
+Go to the Calculator app on your iPhone.
+Tap , then tap Scientific.
+As you calculate, you can do any of the following:
+Add the value on the screen to memory: Tap m+.
+Subtract the value on the screen from memory: Tap m-.
+Recall the stored value in memory: Tap mr.
+Clear the stored value from memory: Tap mc.
+Use exponential and logarithmic functions or notation
+Go to the Calculator app on your iPhone.
+Tap , then tap Scientific.
+Do any of the following:
+Square a value: Enter a number, tap x 2 , then tap =.
+Cube a value: Enter a number, tap x 3 , then tap =.
+Raise a value to the power of y: Enter a base number, tap x y , enter the value of y, then tap =.
+Raise e to the power of x: Tap e x , enter the value of x, then tap =.
+Raise 10 to the power of x: Tap 10 x , enter the value of x, then tap =.
+Tip: Tap EE as a shortcut to use scientific notation, instead of tapping the × and 10 x keys.
+Use the keys just below those keys to get the inverse functions: the square root, cube root, y th root, natural logarithm, and logarithm.
+To access additional functions (such as y x or powers of 2), tap the “2 nd ” key near the top left.
+Use trigonometric and hyperbolic functions
+Go to the Calculator app on your iPhone.
+Tap , then tap Scientific.
+Find any of the following:
+Sine: Tap sin, enter a number, then tap =.
+Cosine: Tap cos, enter a number, then tap =.
+Tangent: Tap tan, enter a number, then tap =.
+Hyperbolic sine: Tap sinh, enter a number, then tap =.
+Hyperbolic cosine: Tap cosh, enter a number, then tap =.
+Hyperbolic tangent: Tap tanh, enter a number, then tap =.
+To access the inverse of these functions (such as arcsine or arctangent), tap the “2 nd ” key near the top left.
+Use radians or degrees
+The scientific calculator uses degrees by default.
+Go to the Calculator app on your iPhone.
+Tap , then tap Scientific.
+Tap Rad to switch to radians.
+When you’re using radians instead of degrees, the label Rad appears in the lower left of the display, and the Rad key becomes Deg.
+To switch back to degrees, tap the Deg key.
+When you hold your iPhone vertically (in portrait mode), the Rad/Deg key is just above the ÷ key. When you hold it horizontally (in landscape mode), the Rad/Deg key is near the bottom center.
+Generate a random number between 0 and 1
+Go to the Calculator app on your iPhone.
+Tap , then tap Scientific.
+Tap Rand.
+When you hold your iPhone vertically (in portrait mode), the Rand key is just above the AC key. When you hold it horizontally (in landscape mode), the Rand key is to the left of the zero.

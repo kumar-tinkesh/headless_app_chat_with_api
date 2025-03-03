@@ -1,0 +1,8 @@
+iPhone User Guide
+Flash the iPhone indicator light for notifications
+You can set the iPhone indicator light to blink when you receive a notification. This can be useful if you can’t hear the sounds that announce incoming calls or other alerts, or if you might miss audible alerts in a noisy environment.
+The indicator light is the light-emitting diode (LED) located on the back of iPhone, next to the camera lens.
+Go to Settings > Accessibility > Audio & Visual, then turn on LED Flash for Alerts.
+Turn any of the following on or off:
+Flash While Unlocked: The indicator light flashes even when iPhone is unlocked.
+Flash in Silent Mode: The indicator light flashes even when iPhone is in Silent mode .

@@ -1,0 +1,12 @@
+iPhone User Guide
+Transfer files wirelessly between your iPhone and computer with email, messages, or AirDrop
+Use email to transfer files
+To transfer files using Mail on your iPhone, see Add email attachments in Mail on iPhone and Download email attachments in Mail on iPhone .
+To transfer files using Mail on your Mac, see Add attachments to emails in Mail on Mac and Save email attachments in Mail on Mac .
+Use text messages to transfer files
+To transfer files using Messages on your iPhone, see Send an item using AirDrop .
+To transfer files using Messages on your Mac, see Send photos and videos in Messages on Mac .
+Use AirDrop to transfer files
+To transfer files using AirDrop on your iPhone, see Use AirDrop on iPhone to send items to nearby Apple devices .
+To transfer files using AirDrop on your Mac, see Use AirDrop on your Mac to send files to devices near you .
+Files sent to your iPhone are located in the app where you saved the file or in the app that opens automatically when the file is received. Files sent to your Mac are located in the app where you saved the file or in the Downloads folder.

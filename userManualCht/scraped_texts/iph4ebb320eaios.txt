@@ -1,0 +1,10 @@
+iPhone User Guide
+Create a password for a website or app on iPhone
+Your iPhone can generate a password to use on a website or app.
+Go to the Passwords app on your iPhone.
+Tap All.
+Tap in the lower-right corner.
+A secure password is created for you.
+Enter details about the website or app, and a user name for your account.
+Tap Save.
+You can also create a password when you sign up for services on websites and in apps. See Create a strong password for a new account .

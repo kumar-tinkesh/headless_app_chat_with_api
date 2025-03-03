@@ -1,0 +1,44 @@
+iPhone User Guide
+Transfer files from iPhone to a storage device, a server, or the cloud
+With iPhone and a computer, you can transfer files using an external storage device, a file server, or a cloud storage service like iCloud, Box, or Dropbox.
+Transfer files with an external storage device
+Connect your iPhone or computer to an external storage device, such as a USB drive or SD card.
+To connect to iPhone, you might need a cable adapter. See Connect external storage devices .
+Note: If an alert appears on iPhone asking whether to trust this computer, select Trust. See the Apple Support article About the ‘Trust This Computer’ alert .
+Use a supported app (like Files or Pages) to copy files to the storage device. See Organize files and folders .
+Disconnect the storage device, then connect it to the device where you want the copied files to appear.
+Copy the files to the connected device. See Connect and use other storage devices with Mac in the Mac User Guide.
+Access an external storage device
+You can rename, erase, and get information about a connected external storage device.
+Go to the Files app on your iPhone.
+Tap Browse at the bottom of the screen.
+Touch and hold the name of the storage device below Locations, then do any of the following:
+Rename the storage device: Tap Rename [ device ].
+Erase the storage device: Tap Erase.
+Get information about the storage device: Tap Get Info.
+In the Files app , you can quickly change an external drive to APFS, ExFAT, or MSDOS (Fat32) file formats on iPhone models with USB-C.
+Connect to a computer or file server
+Go to the Files app on your iPhone.
+Tap Browse at the bottom of the screen.
+Tap at the top of the Browse sidebar.
+If you don’t see the Browse sidebar, tap Browse at the bottom of the screen.
+Tap Connect to Server.
+Enter a local hostname or a network address, then tap Connect.
+Tip: After you connect to a computer or file server, it appears in the Recent Servers list on the Connect to Server screen. To connect to a recent server, tap its name.
+Select how you want to connect:
+Guest: You can connect as a Guest user if the shared computer permits guest access.
+Registered User: If you select Registered User, enter your user name and password.
+Tap Next, then select the server volume or shared folder in the Browse sidebar (below Shared).
+To disconnect from the file server, tap next to the server in the Browse sidebar.
+For information on how to set up your Mac to share files, see Set up file sharing on Mac in the Mac User Guide.
+Transfer files with a cloud storage service like Box or Dropbox
+Note: Subscription fees might apply.
+On your iPhone or computer, follow the instructions from your cloud storage service to upload the files you want to share.
+To access your shared files on iPhone, go to the Files app , tap Browse at the bottom of the screen, then tap the name of the storage service below Locations.
+To access the shared files on a computer, follow the service’s instructions.
+Keep selected files downloaded
+You can keep files downloaded that you always want to be able to access on your iPhone. If you make changes to these files while offline, your changes will sync with iCloud when you are back online.
+Go to the Files app on your iPhone.
+Locate a file you want to keep downloaded.
+Touch and hold the file you want to keep downloaded, then tap Keep Downloaded in the menu that opens.
+If Keep Downloaded doesn’t appear in the menu, the file is already on your iPhone.

@@ -1,0 +1,45 @@
+iPhone User Guide
+Delete messages and attachments in Messages on iPhone
+You can delete text messages, attachments, and entire conversations from your iPhone anytime, without affecting what your recipients see.
+Tip: Use Undo send to retract (within 2 minutes) a message you sent accidentally, deleting it from both your phone and your recipient’s phone.
+Deleted messages and attachments remain in your Recently Deleted folder for up to 30 days, and you can recover them.
+Delete messages and attachments
+Go to the Messages app on your iPhone.
+Open a conversation, touch and hold a message bubble or attachment, then tap More.
+Select the messages or attachments you want to delete, then tap .
+You can also delete a conversation entirely.
+Delete multiple attachments of the same type
+Go to the Messages app on your iPhone.
+Tap the name of the person or group you’re communicating with at the top of a conversation.
+Scroll down to a category, such as Photos, then tap See All.
+Tap Select, tap each item you want to delete, then tap Delete.
+Delete a conversation
+Go to the Messages app on your iPhone.
+In the Messages conversation list, do one of the following:
+Swipe left on the conversation, then tap .
+Touch and hold the conversation, then tap Delete.
+Delete multiple conversations
+Go to the Messages app on your iPhone.
+In the Messages conversation list, do one of the following:
+Tap Edit in the top-left corner.
+Tap in the top-right corner.
+Tap Select Messages, then choose the conversations you want to delete.
+Do one of the following:
+Tap Delete.
+Tap Delete and Report Junk if you want to send conversations from unknown senders to your carrier and Apple.
+Permanently remove recently deleted messages and attachments
+Deleted messages and attachments remain in the Recently Deleted folder for 30 days, but you can permanently remove them before that.
+Go to the Messages app on your iPhone.
+In the Messages conversation list, do one of the following:
+Tap Edit in the top-left corner, then tap Show Recently Deleted.
+Tap Filters in the top-left corner, then tap Recently Deleted.
+If you’re in a conversation, tap to return to the conversation list.
+Select the conversations whose messages you want to delete permanently, tap Delete, then follow the onscreen instructions.
+Automatically delete old messages
+You can delete messages and attachments that are older than 30 days or a year old, on an ongoing basis.
+Go to Settings > Apps > Messages.
+Scroll down, tap Keep Messages (below Message History), then choose an option.
+Important: If you choose an option other than Forever, your conversations (including all attachments) are automatically removed after the specified time period elapses.
+If you use Messages in iCloud , deleting a message or conversation on your iPhone deletes it from all your devices where Messages in iCloud is on. See Keep your messages up to date with iCloud in the iCloud User Guide.
+Note: Deleting messages only affects your iPhone and other Apple devices where you’re signed in to the same Apple Account . You can’t delete messages, attachments, and conversations for anyone else.
+To delete everything (not just your messages), see Erase iPhone .

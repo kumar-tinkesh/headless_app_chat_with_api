@@ -1,0 +1,16 @@
+iPhone User Guide
+Clear your reading history in News on iPhone
+In the News app, you can clear your reading history and adjust how you get reading recommendations.
+Clear your history
+Go to the News app on your iPhone.
+Tap Following, tap History, tap Clear, then do any of the following:
+Remove your reading history: Tap Clear History.
+Remove information used to recommend stories: Tap Clear Recommendations.
+Choosing this option can change the types of channels, topics, and stories shown in the Today and other feeds in Apple News on all your Apple devices.
+Remove your history, recommendations, and downloaded content: Tap Clear All.
+Your News history and recommendation information are removed from all devices where you’re signed in to the same Apple Account . Downloaded content is removed from this iPhone only.
+When you clear your history, the identifier used by Apple News to report statistics to news publishers is also reset. You can reset the identifier at any time by going to Settings > Apps > News, then turning on Reset Identifier.
+Recommend stories based on News app reading only
+When you turn off Siri & Search for the News app, recommendations are based on your reading habits in the News app only, not in Safari and other apps.
+Go to Settings > Apps > News.
+Tap Siri & Search, then turn off Show in App.

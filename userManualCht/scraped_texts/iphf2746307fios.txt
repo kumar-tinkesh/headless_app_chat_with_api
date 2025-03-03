@@ -1,0 +1,17 @@
+iPhone User Guide
+Send files from the Files app on iPhone
+You can send a copy of any file to others. If you have a document you want to send that isn’t digitized, you can scan it with the Files app first.
+Send a file
+Go to the Files app on your iPhone.
+Touch and hold the file you want to send, then tap Share.
+Tip: To send a smaller version of the file, tap Compress before you tap Share, touch and hold the compressed version of the file (identified as a zip file), then tap Share.
+Choose an option for sending (for example, AirDrop, Messages, or Mail), then tap Send.
+Reply to a received document
+If you save an attachment from the Mail app, you can quickly reply to the email and optionally return the attachment.
+Go to the Files app on your iPhone.
+Touch and hold the file you want to reply to, then tap “Reply to.”
+Scan a document
+Go to the Files app on your iPhone.
+Open the location or folder where the document you want to scan is located.
+Tap at the top of the screen, then tap Scan Documents.
+Tip: If the files or folders you want to share are stored in iCloud Drive, you can invite others to view or edit their contents—you don’t need to send them copies.

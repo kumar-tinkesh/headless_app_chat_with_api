@@ -1,0 +1,56 @@
+iPhone User Guide
+Create and edit events in Calendar on iPhone
+Use the Calendar app to create and edit events, appointments, and meetings.
+Siri: Say something like:
+“Set up a meeting with Gordon at 9”
+“Do I have a meeting at 10?”
+“Where is my 3:30 meeting?”
+Learn how to use Siri
+Add an event
+Go to the Calendar app on your iPhone.
+In Day view, tap at the top of the screen.
+Enter the title of the event.
+Tap Location or Video Call, then enter a physical location or tap FaceTime to enter a video link for a remote event.
+You can also copy a FaceTime link you created or received and paste it in the Location field. See Create a link to a FaceTime call .
+Enter the start and end times for the event, the travel time, invitees, attachments, and so on. (Swipe up, if necessary, to enter all the meeting information.)
+Tap Add.
+Add an alert
+You can set an alert to be reminded of an event beforehand.
+Go to the Calendar app on your iPhone.
+Tap the event, then tap Edit near the top right.
+In the event details, tap Alert.
+Choose when you want to be reminded.
+For example, “At time of event,” “5 minutes before,” or another choice.
+Note: If you add the address of the event’s location, Calendar uses Apple Maps to look up locations, traffic conditions, and transit options to tell you when it’s time to leave.
+Add an attachment
+You can add an attachment to a calendar event to share with invitees.
+Go to the Calendar app on your iPhone.
+Tap the event, then tap Edit near the top right.
+In the event details, tap Add attachment.
+Locate the file you want to attach.
+To find the file, you can enter its name in the search field, scroll, tap folders to open them, tap Browse to look in other locations (such as iCloud Drive), and so on. See Modify files, folders, and find downloads in Files .
+Tap Done.
+To remove the attachment, tap the event, tap Edit near the top right, swipe left over the attachment, then tap Remove.
+Find events in other apps
+Siri can suggest events found in Mail, Messages, and Safari—such as flight reservations and hotel bookings—so you can add them easily in Calendar.
+Go to Settings > Apps > Calendar.
+Tap Siri, then turn on Show in App to allow Siri to suggest events found in other apps.
+To allow Siri to make suggestions in other apps based on how you use Calendar, turn on Learn from this App.
+Copy and paste an event
+You can copy an event and paste it to another date.
+Go to the Calendar app on your iPhone.
+Touch and hold the event, then tap Copy.
+On another date, touch and hold the time where you want to paste the event.
+When you release, the New Event screen appears and the copied event appears below Title with the date and time where you want to paste the event.
+Tip: You can also tap at the top of the screen after copying an event.
+Tap the copied event below Title.
+Tap Add.
+Edit an event
+You can change the time of an event and any of the other event details.
+Go to the Calendar app on your iPhone.
+Do any of the following:
+Quickly change the event time or duration: In Day or Week view, touch and hold the event, then drag it to a new time, or adjust the grab points.
+Change event details: Tap the event, then tap Edit near the top right. In the event details, tap a setting to change it, or tap in a field to type new information.
+Delete an event
+Go to the Calendar app on your iPhone.
+In Day view, tap the event, then tap Delete Event at the bottom of the screen.

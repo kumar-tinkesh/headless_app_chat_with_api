@@ -1,0 +1,20 @@
+iPhone User Guide
+Leave or remove a member from a Family Sharing group on iPhone
+In a Family Sharing group , the organizer can remove members or disband the group, and family members (other than teens with parental controls or children) can remove themselves.
+Learn about types of Family Sharing members .
+Remove a member from a family group
+The organizer of a Family Sharing group can remove other members. When a family member is removed, they immediately lose access to shared subscriptions and content purchased by other members.
+Go to Settings > Family.
+Tap [ member’s name ], then tap Remove [ member’s name ] from Family.
+You can’t remove a child from your Family Sharing group. However, you can move them to another group or delete their Apple Account. See the Apple Support article Move a child to another group using Family Sharing .
+If you turned on Screen Time for a teen, you need to turn off Screen Time settings before you can remove them from the group. See Set up Screen Time for a family member .
+Leave a Family Sharing group
+When you leave a Family Sharing group, you stop sharing your purchases and subscriptions with family members and immediately lose access to any content they’ve shared.
+Note: The organizer can’t leave the Family Sharing group. If you want to change the organizer, you must disband the group, and have another adult create a new one.
+Go to Settings > Family.
+Tap [ your name ], then tap Stop Using Family Sharing.
+Disband a Family Sharing group
+When the family organizer turns off Family Sharing, all family members are removed from the group at the same time. When a Family Sharing group is disbanded, all members immediately lose access to the shared content and subscriptions.
+Note: If a child is in the Family Sharing group, the organizer must move the child to another group or delete their Apple Account before disbanding the group. See the Apple Support article Move a child to another group using Family Sharing .
+Go to Settings > Family.
+Tap [ your name ], then tap Stop Using Family Sharing.

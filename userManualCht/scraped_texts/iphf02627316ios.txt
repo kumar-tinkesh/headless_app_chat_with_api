@@ -1,0 +1,7 @@
+iPhone User Guide
+See the websites you’ve excluded from automatically filling in passwords on iPhone
+When you enter a password for a website, you’re asked if you want the password saved and automatically entered in the future. In iOS 18.2 or later, you can see all the websites for which you’ve chosen to never save the password.
+Go to Settings > Apps > Passwords.
+Below Save Passwords, tap “Show excluded websites.”
+The list includes all websites for which you’ve opted not to save your password.
+Tip: You can remove a website from the list. Swipe left on the website, or tap Remove All. The next time you enter your password for the website, you’ll be asked if you want the password saved and automatically entered in the future.

@@ -1,0 +1,12 @@
+iPhone User Guide
+Collaborate on a document in FaceTime on iPhone
+In a FaceTime call, you can collaborate on a shared document. You can initiate collaboration in a FaceTime call that’s in progress, or you can initiate collaboration from the app where the document was created.
+Start a conversation in the FaceTime app with the people you want to collaborate with. (See Make a FaceTime call .)
+Tap , then choose the app you want to use below Collaborate.
+If you don’t see , tap the screen to open the FaceTime controls.
+Open the document, then do one of the following:
+Tap Collaborate in the notification that appears.
+Tap , choose how to share the document (FaceTime, AirDrop, Mail, or Messages), then tap Collaborate.
+Tap Start in the collaboration notification that appears at the top of your screen.
+Participants get a notification that you’ve shared a document you want to collaborate on. When they tap Open in the notification, the document opens on their device.
+Everyone who receives and opens the document can make changes and see changes made by others. When someone makes a change, a notification is sent to everyone who’s collaborating on the document.

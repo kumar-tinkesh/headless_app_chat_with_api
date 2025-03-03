@@ -1,0 +1,54 @@
+iPhone User Guide
+Change your Freeform settings on iPhone
+You can customize the settings for the Freeform app.
+Turn the background dot grid on or off
+You can show a grid of gray dots on your board, which allows you to see more easily whether items line up.
+Go to the Freeform app on your iPhone.
+Open a board, or tap to start a new one.
+Tap , then tap Hide Grid or Show Grid.
+Align items to the background grid
+You can make edges and points align to the nearest dot on the grid as you resize or move an item.
+Go to Settings > Apps > Freeform.
+Turn on Snap to Grid.
+You can also access these settings when you’re working in a board. Tap , tap Alignment Settings, then tap Snap to Grid.
+Turn alignment guides on or off
+You can use alignment guides to help you place items more precisely. When guides are on, they appear as you drag an item on a board and it aligns with another item.
+Go to Settings > Apps > Freeform.
+Tap on or off any of the following:
+Center Guides: These appear when the midpoints of items align.
+Edge Guides: These appear when the edges of items align.
+Spacing Guides: These appear when three or more items are equally spaced in a line.
+You can also access these settings when you’re working in a board. Tap , tap Alignment Settings, then turn on the guides you want to use. Or turn them off if you don’t want them appearing as you move items near one another on the board.
+Get math hints
+You can choose how you want your iPhone to respond to the math problems you enter.
+Go to Settings > Apps > Freeform.
+Tap Math Results, then select one of the following:
+If you want problems to be solved automatically: Choose Insert Results. (The answer appears in writing that matches your own.)
+If you want suggestions to appear: Choose Suggest Results. (A Solve button appears that, when tapped, adds the answer in writing that matches your own.)
+If you don't want to see math results: Choose Off.
+You can also access these settings when you’re working in a board. Tap , then tap Math Results.
+Manage sharing settings
+You can change access and permissions for individuals or for everyone after you’ve started sharing a board.
+Go to the Freeform app on your iPhone.
+Open the board whose sharing settings you want to change.
+Tap .
+A list of participants appears, showing who is working in the board.
+Tap Manage Shared Board, then do any of the following:
+Lock the board for edits: Tap Share Options, then tap “View only.”
+Note: If you don’t want participants to be able to invite others, select “Only people you invite” and “Only you can add people.”
+Give editing access: Tap Share Options, then tap “Can make changes.”
+Change access and permissions individually: Tap a participant’s name, then adjust their settings.
+Invite others with a link: Tap Share Options, tap “Anyone with the link,” tap , then tap Copy Link.
+Note: Anyone can copy the link to send to others, but if you select “Only people you invite,” then only those invited to open the board can use the link. If you don’t want participants to be able to invite others, select “Only people you invite” and “Only you can add people.”
+Tip: You can also manage any board you’ve previously shared while browsing All Boards. Touch and hold its thumbnail or name, then tap Manage Shared Board.
+Store your Freeform boards in iCloud
+Go to Settings > [ your name ] > iCloud.
+Tap See All, then turn on Freeform.
+To back up without using iCloud, see the Apple Support article About encrypted backups on your iPhone, iPad, or iPod touch .
+Sort your boards
+Go to the Freeform app on your iPhone.
+Tap , then do any of the following:
+View more boards at the same time (with smaller thumbnails): Tap List.
+List boards alphabetically (instead of by most recently updated): Tap Sort by Name.
+Categorize boards by how long ago they were last opened: When viewing All Boards, tap Sort by Date, then tap Use Groups.
+Categorize boards by board owner: When viewing Shared boards, tap Use Groups.

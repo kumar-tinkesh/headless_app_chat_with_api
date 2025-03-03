@@ -1,0 +1,29 @@
+iPhone User Guide
+Share screens using Messages on iPhone
+While using Messages on an iPhone that meets minimum system requirements , you can share your screen or ask to see someone else’s screen. In supported apps, you can also use SharePlay to get together with friends while you watch the latest episode of your favorite show or listen to a new song in real time.
+Show someone else what’s on your screen
+You can jump from Messages to FaceTime to share your screen to bring apps, webpages, and more into the conversation.
+Go to the Messages app on your iPhone.
+In a conversation with just one other person, tap .
+Tap Share My Screen. See Share your screen .
+See another person’s screen
+You can jump from Messages to FaceTime to see another person’s screen, or even remotely control it.
+Go to the Messages app on your iPhone.
+In a conversation with just one other person, tap .
+Tap Ask to Share Screen. See Request remote control .
+Use SharePlay to enjoy content together
+You can start a Messages conversation right from a supported app like Apple TV and Music.
+To use SharePlay in Messages, you and your recipients must be using iMessage . Shared playback controls keep everyone in sync.
+In a supported app, find a show, movie, song, album, or other content you want to share, then tap the item to see its details.
+Do one of the following:
+Tap , then tap SharePlay.
+Tap at the top right, tap , then tap SharePlay.
+Tap next to the content, then tap SharePlay.
+In the To field, enter the contacts you want to share with, then tap Messages.
+Tap Start or Play to begin using SharePlay.
+To begin viewing or listening, recipients tap the content’s title at the top of the Messages conversation, then tap Open. For everyone who has access to the content, the video starts playing at the same time.
+Note: If the shared content requires a subscription, the service may ask those who don’t have access to subscribe, make a transaction, or sign up for a free trial, if available.
+When you select content to share and tap the Play button, you can also select Play for Everyone (if it appears) to begin it for everyone in the conversation. (Others on the thread may have to tap Join SharePlay to see the video.)
+Each person in the conversation can use the playback controls to play, pause, rewind, or fast-forward for everyone, but settings like closed-captioning and volume are controlled separately by each person.
+Use Messages when you want no interruptions to the sound of the movie, show, song, or podcast, or tap to switch to FaceTime when you want to see and hear other people as you chat.
+Tip: After the video starts playing, you can stream it to Apple TV. See Send what you’re watching in SharePlay to Apple TV .

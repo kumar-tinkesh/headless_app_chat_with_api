@@ -1,0 +1,21 @@
+iPhone User Guide
+Subscribe to iCloud+ on iPhone
+iCloud+ gives you everything iCloud offers plus premium features including iCloud Private Relay, Hide My Email, HomeKit Secure Video support, and all the storage you need for your photos, files, and more.
+You can subscribe to iCloud+ or to Apple One, which includes iCloud+ and other Apple services. See the Apple Support article Bundle Apple subscriptions with Apple One .
+Note: Some iCloud+ features have minimum system requirements . The availability of iCloud+ and its features varies by country or region.
+What’s included with iCloud+
+When you subscribe to iCloud+, you can do the following on iPhone:
+Get 50 GB, 200 GB, 2 TB, 6 TB, or 12 TB (depending on your plan) of storage for photos, files, backups, and more.
+Create unique, random email addresses that forward to your personal inbox with Hide My Email. See Use Hide My Email in Safari and Use Hide My Email in Mail .
+Browse the web in an even more secure and private way with iCloud Private Relay. See Protect your web browsing .
+Set up home security cameras with HomeKit Secure Video so you can view your footage from anywhere while keeping it private and secure. See Set up security cameras .
+Use a custom email domain to personalize iCloud Mail. See Set up a custom email domain .
+To learn more about iCloud+ features and how they work across all your devices, see the iCloud User Guide .
+Upgrade, change, or cancel your iCloud+ subscription
+Go to Settings > [ your name ] > iCloud.
+Tap Manage Account Storage, tap Change Storage Plan, select an option, then follow the onscreen instructions.
+Note: If you cancel your iCloud+ subscription, you lose access to the additional iCloud storage and iCloud+ features.
+Share iCloud+
+You can use Family Sharing to share iCloud+ with up to five other family members. When your family members accept your invitation to share iCloud+, they have instant access to the additional storage and features.
+Note: To stop sharing iCloud+ with a family group, you can cancel the subscription, leave the family group, or leave or turn off Family Sharing. See Add a member to a Family Sharing group .
+For information about combining your Apple subscriptions, see the Apple Support article Bundle Apple subscriptions with Apple One .

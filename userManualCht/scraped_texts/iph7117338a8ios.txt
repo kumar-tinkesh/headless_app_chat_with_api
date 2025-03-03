@@ -1,0 +1,11 @@
+iPhone User Guide
+Keep the iPhone display on longer
+The iPhone display stays on while you’re looking at it, but it dims and eventually locks (for your security) when you look away for a while. If you need the display to stay on longer (for example, when you’re navigating with Maps), you can change how long it takes iPhone to automatically dim and lock.
+Change when iPhone automatically locks
+You can set how long it takes iPhone to automatically lock.
+Go to Settings > Display & Brightness > Auto-Lock, then choose a length of time.
+Keep your Lock Screen visible with Always-On display
+On supported models , the Always-On display setting allows a dimmed version of your Lock Screen to stay visible, even when your iPhone is locked. By glancing at the dimmed screen, you can check essential information, like notifications, the date and time, and information in your widgets.
+The display automatically turns off when iPhone is either face down or obstructed from view, not near a paired Apple Watch, when a CarPlay session begins, while Continuity Camera is in use, while Low Power Mode is on, while Sleep Focus is on, or at your usual bedtime.
+The Always-On display setting is on by default. To turn it off, go to Settings > Display & Brightness, then turn off Always On Display.
+Tip: When Always-On display is turned on, you can choose whether to show your wallpaper or notifications on your Lock Screen. In Settings > Display & Brightness > Always On Display, turn Show Wallpaper or Show Notifications on or off.

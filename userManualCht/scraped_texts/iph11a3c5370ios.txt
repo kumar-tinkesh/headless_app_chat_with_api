@@ -1,0 +1,11 @@
+iPhone User Guide
+Control your home from CarPlay
+You can use suggestions from Siri that appear on CarPlay Dashboard or use Siri directly to control HomeKit-enabled accessories, such as garage doors, lights, and door locks.
+Siri: Say something like:
+“Open the garage door”
+“Did I leave the garage door open?”
+“Close the garage door”
+“Lock the front door”
+“Turn on the lights”
+“Turn off the lights”
+Learn how to use Siri

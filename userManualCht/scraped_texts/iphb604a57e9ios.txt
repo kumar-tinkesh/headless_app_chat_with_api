@@ -1,0 +1,45 @@
+iPhone User Guide
+Listen to News stories in News on iPhone
+If you subscribe to Apple News+, you can listen to audio versions of select News+ stories. You can also listen to select Apple News+ audio stories in the Podcasts app .
+Note: Apple News, Apple News+, and the audio feature aren’t available in all countries or regions. See the iOS and iPadOS Feature Availability website .
+Browse audio stories
+Go to the News app on your iPhone.
+Tap to show Apple News+ audio stories and Apple News Today. If you’re a subscriber, you have access to the following:
+Editors’ Picks: Features audio stories chosen by the Apple News editors as well as the latest episodes of Apple News Today and Apple News In Conversation.
+Up Next: Stories you’re currently listening to or have added to the Up Next queue.
+For You: Stories recommended to you based on your interests.
+Story groups: Dynamic collections of stories curated by the Apple News editors, based on a topic or theme, such as space exploration or stories to accompany your commute.
+More to Explore: Links to all audio stories, Apple News Today episodes, recently played stories, and story categories such as Arts & Entertainment, News & Politics, and Sports.
+To learn more about a story before listening to it, tap See Details.
+If you’re not an Apple News+ subscriber, you can hear previews of audio stories in Editors’ Picks, Audio Stories For You, and in story groups. You can also listen to full episodes of Apple News Today and Apple News In Conversation.
+Play audio stories
+Go to the News app on your iPhone.
+Tap , then tap a story.
+For more playback controls, tap the mini player at the bottom to open the full-screen player.
+To return to the mini player, swipe down to minimize the full-screen player.
+To close the full-screen player, tap , then tap Close Audio Player. To close the mini player, tap .
+Audio stories can also appear in a feed. To listen to the story, tap Play Now (Apple News+ subscription required). You can also tap the story to read it, then tap Play Now at the top of the story.
+Use any of the following controls:
+Control
+Description
+Play
+Pause
+Next story
+Jump back 15 seconds
+Choose a faster or slower playback speed
+Stream audio to other devices
+Choose more actions such as place a story next or last in the queue, read a story, or share it
+Add stories to Up Next
+Go to the News app on your iPhone.
+Do one of the following:
+In the Audio tab or a news feed, tap , then choose Play Next or Play Last.
+At the top of a story, touch and hold Play Now, then choose Play Next or Play Last.
+To continue listening from your most recent reading or listening position, tap Play Next from Here or Play Last from Here.
+To reorder stories in the queue, tap See All, touch and hold , then drag stories to the order you prefer.
+Read, share, and remove audio stories
+Go to the News app on your iPhone.
+Do any of the following:
+Read, save, share, and more: Tap , then choose an option.
+Remove stories from the Up Next queue or For You: Touch and hold the story, then select Remove.
+Note: Some of these options are also available when you swipe a story left or right.
+When listening to a story, open the full-screen player, then tap to see a list of similar options.

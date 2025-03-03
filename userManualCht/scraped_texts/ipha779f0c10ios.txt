@@ -1,0 +1,32 @@
+iPhone User Guide
+Locate an AirTag or other item in Find My on iPhone
+You can use the Find My app to locate a missing AirTag or third-party item that you’ve registered to your Apple Account. If you have an iPhone 15 or later model, you can also find their exact location.
+Learn how to register an AirTag or third-party item .
+Note: Location sharing and finding items aren’t available in all countries or regions.
+See the location of an item
+Tap Items at the bottom of the screen, then tap the item you want to locate.
+If the item can be located: It appears on the map so you can see where it is. The location and timestamp appear below the item’s name. The item’s location is updated when it connects to the Find My network.
+If the item can’t be located: You see where and when it was last located. Below Notifications, turn on Notify When Found. You receive a notification once it’s located again.
+Important: Make sure you allow notifications for the Find My app. See Change notification settings on iPhone .
+Play a sound
+If the item is nearby, you can play a sound on it to help you find it.
+Note: If you can’t play a sound on an item, you won’t see the Play Sound button.
+Go to the Find My app on your iPhone.
+Tap Items at the bottom of the screen, then tap the item you want to play a sound on.
+Tap Play Sound.
+To stop playing the sound before it ends automatically, tap Stop Sound.
+Get directions to an item
+You can get directions to an item’s current or last known location in the Maps app.
+Go to the Find My app on your iPhone.
+Tap Items at the bottom of the screen, then tap the item you want to get directions to.
+Tap Directions to open Maps.
+See Get directions .
+Find the precise location of an AirTag
+If you have a supported iPhone and are near your AirTag, you can find the precise location of the AirTag.
+Go to the Find My app on your iPhone.
+Tap Items at the bottom of the screen, then tap the nearby AirTag.
+Tap Find.
+Do any of the following:
+Move closer to the AirTag: Start moving around to locate the AirTag and follow the onscreen instructions. You may see an arrow pointing in the direction of the AirTag, an approximate distance telling you how far away it is, and a note if it’s located on a different floor.
+Play a sound: Tap to play a sound on the AirTag.
+When you locate the AirTag, tap .

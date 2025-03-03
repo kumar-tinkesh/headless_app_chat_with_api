@@ -1,0 +1,38 @@
+iPhone User Guide
+Use two-factor authentication for your Apple Account on iPhone
+Using two-factor authentication helps prevent others from accessing your Apple Account account, even if they know your Apple Account password. When it’s on, you need both your Apple Account password and a six-digit verification code to sign in to your Apple Account . The verification code is sent to the phone number associated with your Apple Account, or displayed on your trusted devices.
+Note: Certain account types might not support two-factor authentication. Two-factor authentication isn’t available in all countries or regions. See the Apple Support article Availability of two-factor authentication for your Apple Account .
+Turn on two-factor authentication
+On your iPhone go to Settings > [ your name ] > Sign-In & Security.
+Tap Turn On Two-Factor Authentication, then tap Continue.
+Enter a trusted phone number (the number you’ll use to receive verification codes), then tap Next.
+A verification code is sent to your trusted phone number.
+Enter the verification code on your iPhone.
+Two-factor authentication is turned on for your Apple Account, and your iPhone is now a trusted device.
+Add another trusted device
+After you turn on two-factor authentication on your iPhone, you can add other trusted devices to your Apple Account.
+On the device you want to add, sign in to the same Apple Account you used to turn on two-factor authentication.
+When prompted, enter the six-digit verification code that appears on your iPhone, another trusted device, a trusted phone number, or your Mac.
+Enter the verification code on the new device.
+You won’t be asked for a verification code again unless you sign out completely, erase your device, sign in to your Apple Account page in a web browser, or need to change your Apple Account password for security reasons.
+Add or remove a trusted phone number
+Adding trusted phone numbers can be useful if you want to use two-factor authentication but don’t have access to the phone number you added when you turned it on.
+Go to Settings > [ your name ] > Sign-In & Security.
+Tap Two-Factor Authentication, tap Edit (above the list of trusted phone numbers), then enter your device passcode when prompted.
+Do one of the following:
+Add a number: Tap Add a Trusted Phone Number, then enter the phone number.
+Remove a number: Tap next to the phone number.
+When you’re finished making changes, tap Done.
+Trusted phone numbers don’t automatically receive verification codes. If you can’t access any trusted devices when setting up a new device for two-factor authentication, tap “Didn’t get a verification code?” on the new device, then choose one of your trusted phone numbers to receive the verification code.
+View or remove trusted devices
+Go to Settings > [ your name ].
+A list of the devices associated with your Apple Account appears near the bottom of the screen.
+To remove a device, tap it, then tap Remove from Account.
+If you remove a trusted device, it can no longer display verification codes and its access to iCloud (and other Apple services on the device) is blocked. To add it back, use two-factor authentication to sign in to your Apple Account again.
+Generate a password for an app that signs in to your Apple Account
+To sign in to your Apple Account from a third-party app or service (such as an email, contacts, or calendar app) using two-factor authentication, generate an app-specific password.
+Sign in to your Apple Account .
+Tap App-Specific Passwords, then tap “Generate an app-specific password.”
+Follow the onscreen instructions.
+After you generate your app-specific password, enter or paste it into the password field of the app as you would normally.
+For more information, see the Apple Support article Sign in to apps with your Apple Account using app-specific passwords .

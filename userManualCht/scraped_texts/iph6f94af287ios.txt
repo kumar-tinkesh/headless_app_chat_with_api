@@ -1,0 +1,22 @@
+iPhone User Guide
+Siri Suggestions on iPhone
+Siri makes suggestions for what you might want to do next, such as call into a meeting or confirm an appointment, based on your routines and how you use your apps.
+For example, Siri might help when you do any of the following:
+Glance at the Lock Screen or start a search: As Siri learns your routines, you get suggestions for just what you need, at just the right time.
+Create email and events: When you start adding people to an email or calendar event, Siri suggests the people you included in previous emails or events.
+Receive calls: If you get an incoming call from an unknown number, Siri lets you know who might be calling—based on phone numbers included in your emails.
+Type: As you enter text, Siri can suggest names of movies, places—anything you viewed on iPhone recently. If you tell a friend you’re on your way, Siri can even suggest your estimated arrival time.
+Confirm an appointment or book a flight on a travel website: Siri asks if you want to add it to your calendar.
+Turn Siri Suggestions on or off for an app
+Siri Suggestions are on by default for your apps. You can turn them off or change the settings at any time.
+Go to Settings > Siri > Apps.
+Tap an app, then turn settings on or off.
+Change where Siri Suggestions appear
+Go to Settings > Siri.
+Turn on or off any of the following:
+Allow Notifications
+Show in App Library
+Show When Sharing
+Show Listening Suggestions
+Your personal information—which is encrypted and remains private—stays up to date across all your devices where you’re signed in to the same Apple Account . As Siri learns about you on one device, your experience with Siri is improved on your other devices. If you don’t want Siri personalization to update across your devices, you can disable Siri in iCloud settings. See Keep what Siri knows about you up to date on your Apple devices .
+Siri is designed to protect your information, and you can choose what you share. To learn more, see the Siri Suggestions, Search & Privacy website .

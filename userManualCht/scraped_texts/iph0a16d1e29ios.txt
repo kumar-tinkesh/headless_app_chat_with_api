@@ -1,0 +1,37 @@
+iPhone User Guide
+Get started with News on iPhone
+The News app collects all the stories you want to read, from your favorite sources, about the topics that interest you most. To personalize News, you can choose from a selection of publications (called channels ) and topics such as Entertainment, Food, and Science.
+You need a Wi-Fi or cellular connection to view the latest News content. Apple News+ subscribers can access downloaded content in Offline Mode , even without an internet connection.
+The more you read, the better News understands your interests. Siri learns what’s important to you and suggests stories you might like. You can receive notifications about important stories from channels you follow.
+And you can subscribe to Apple News+ , which includes hundreds of magazines, popular newspapers, and premium digital publishers. Apple News+ subscribers can also listen to audio stories and solve daily crossword, crossword mini, Quartiles, and sudoku puzzles.
+Note: Apple News and Apple News+ aren’t available in all countries or regions. See the Apple Support article Availability of Apple Media Services .
+Personalize your news
+When you follow a channel or topic , related stories appear more often in the Today feed, and the channel or topic appears in the Following tab.
+Go to the News app on your iPhone.
+Tap Following, then, below Suggested by Siri, tap next to the channels and topics you want to follow.
+To make a channel or topic a favorite , tap Edit, then tap next to the channel or topic. It will appear in a group near the top of the Today feed.
+If there’s a channel or topic that you don’t want to appear in your feed, touch and hold it, then choose Block Channel, Block Topic, or Stop Suggesting.
+When you block a channel or topic, its stories don’t appear in the Today feed and widgets. To see the channels and topics you’ve blocked, tap Following > Blocked Channels & Topics.
+Note: When you browse Top Stories and other areas that feature stories curated by Apple News editors, stories from channels you blocked show a gray headline and a message indicating that you blocked the channel. See Follow, unfollow, block, and unblock channels and topics .
+Tap Discover Channels at the bottom of the screen, then tap for each channel you want to follow.
+To stop following a channel or topic, swipe it to the left, then tap Unfollow.
+To quickly find specific channels and topics to follow, tap the search field at the top of the screen, enter the channel or topic’s name, then tap in the results below.
+Get notifications
+Some channels you follow may send notifications about important stories.
+Go to the News app on your iPhone.
+Tap Following, swipe to the bottom of the screen, then tap Notifications & Email below Manage.
+Turn on notifications for your preferred channels.
+Turn on notifications from Apple News, such as Apple News Top Stories, Apple News Spotlight, and more.
+If you subscribe to Apple News+, you can additionally receive notifications when new issues are available of publications you follow. You can also receive New Features & Tips notifications.
+Receive Apple News newsletters
+You can choose to receive newsletters in your email inbox from Apple News editors. Newsletters feature top stories, personalized based on your interests. If you subscribe to Apple News+, newsletters can also include new issues of your favorite magazines.
+Go to the News app on your iPhone.
+Tap Following, swipe to the bottom of the screen, then tap Notifications & Email.
+Swipe to the bottom of the screen, then turn on Apple News Newsletters or tap Sign Up for Newsletters, then tap Sign Me Up.
+In the U.S., several different newsletters may be available, and you can choose which ones you’d like to receive. Tap Sign Up to opt in, or Subscribed to opt out.
+To stop receiving newsletters, return to the Notifications & Email screen, then turn off Apple News Newsletters. In the U.S., tap Manage Newsletters, then unsubscribe from each newsletter you no longer want to receive.
+Note: Personalized newsletters aren’t available in all countries or regions.
+See stories only from the channels you follow
+Go to Settings > Apps > News.
+Turn on Restrict Stories in Today, then confirm your choice.
+Note: Restricting stories significantly limits the variety of stories that appear in the Today feed and all other feeds. For example, if you restrict stories and follow only one entertainment-related channel, your Entertainment topic feed will contain stories only from that channel. When you restrict stories, you don’t see Top Stories and Trending Stories.

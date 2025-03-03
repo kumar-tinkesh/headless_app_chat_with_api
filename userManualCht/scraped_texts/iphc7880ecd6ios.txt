@@ -1,0 +1,17 @@
+iPhone User Guide
+Get started with Reminders on iPhone
+The Reminders app helps you remember anything you need to track. You can set reminders, make grocery lists, create checklists for projects, and organize tasks in to-do lists.
+Set a reminder
+Simply type, dictate, or ask Siri when you need to remember something.
+Create a grocery list
+Make your shopping easier with a grocery list that automatically sorts items into categories. To convert a regular list into a grocery list, tap , tap Show List Info, tap List Type, then choose Groceries.
+Collaborate on a list
+To invite people to work on a list, tap , then choose a sharing option.
+Organize your reminders
+You can create new lists to suit your needs, categorize with tags, and manage your reminders with Smart Lists.
+Note: All Reminders features described in this guide are available when you use updated reminders in iCloud . Some features aren’t available when using other accounts.
+Want to learn more?
+Set reminders on iPhone
+Make a grocery list in Reminders on iPhone
+Share lists and collaborate in Reminders on iPhone
+Use Smart Lists in Reminders on iPhone

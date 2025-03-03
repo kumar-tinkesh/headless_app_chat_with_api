@@ -1,0 +1,17 @@
+iPhone User Guide
+Buy, rent, or pre-order items in the Apple TV app on iPhone
+You can buy, rent, or pre-order TV shows and movies in the Apple TV app. Once you find something you want to watch, you can purchase it, rent it (if it’s a movie), or choose how to watch it (if it’s available on multiple channels and apps).
+Note: The availability of Apple Media Services varies by country or region. See the Apple Support article Availability of Apple Media Services .
+Browse featured and recommended TV shows and movies
+Go to the Apple TV app on your iPhone.
+Tap Store, then browse featured items, collections, and genres.
+Tap an item to see previews, ratings, descriptions, and viewing information.
+Buy, rent, or pre-order items
+Go to the Apple TV app on your iPhone.
+Tap Store, then choose any of the following options (not all options are available for all titles):
+Buy: Purchased items are added to your library.
+Rent: When you rent a movie, you have 30 days to start watching it. After you start watching the movie, you can play it as many times as you want for 48 hours, after which the rental period ends. When the rental period ends, the movie is deleted.
+Pre-order: When the pre-ordered item becomes available, your payment method is billed, and you receive an email notification. If you turned on automatic downloads, the item is automatically downloaded to your iPhone.
+Confirm your selection, then complete the payment or pre-order.
+You can find your purchases and rentals in your library and play them in the Apple TV app.
+Apple Footer

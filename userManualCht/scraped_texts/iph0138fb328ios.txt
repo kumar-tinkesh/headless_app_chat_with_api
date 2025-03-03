@@ -1,0 +1,30 @@
+iPhone User Guide
+Play music on iPhone
+Play music you added or downloaded from Apple Music, music and videos you synced to iPhone, and your iTunes Store purchases.
+Play songs from your library
+Go to the Music app on your iPhone.
+Tap Library, then tap a category, such as Albums or Songs; tap Downloaded to view only music stored on iPhone.
+Tip: To play songs from an artist’s entire catalog—mixing hits and deep cuts—go to an artist page, then tap next to the artist’s name.
+Scroll to browse—or type in the search field to filter your results—to find what you want to play.
+Tap an item, then tap Play, or tap Shuffle to shuffle an album or playlist.
+You can also touch and hold a playlist or album, then tap Play.
+To change the list of Library categories, tap Edit, then select categories you’d like to add, such as Genres and Compilations. Tap any existing categories to remove them.
+Stream recommended songs
+Go to the Music app on your iPhone.
+Do any of the following to find music you want to play:
+View recommendations tailored for you: Tap Home, then tap a playlist or album.
+See what’s new in Apple Music: Tap New, then find music by mood, new releases, charts, and more.
+Search the Apple Music catalog: See Search for music .
+Tap an item, then tap Play, or tap Shuffle to shuffle an album or playlist.
+You can also touch and hold a playlist or album, then tap Play.
+Play music from the Lock Screen or when using another app
+Open Control Center , then tap the audio card.
+Play music shared on a nearby computer
+If a computer on your network shares music through Home Sharing, you can stream its music to your iPhone.
+On your iPhone, go to Settings > Apps > Music, tap Sign In below Home Sharing, then sign in to your Apple Account.
+Go to the Music app , tap Library > Home Sharing, then choose a shared library.
+Sort your music
+Go to the Music app on your iPhone.
+Tap Library, then tap Playlists, Albums, Songs, TV & Movies, or Music Videos.
+Tap , then choose a sorting method, such as Title, Artist, Date Added, or Release Date.
+Apple Footer

@@ -1,0 +1,8 @@
+iPhone User Guide
+Use iPhone more comfortably while riding in a vehicle
+If you experience discomfort when you use iPhone while riding as a passenger in a car or other on-road vehicle, you can turn on Vehicle Motion Cues—onscreen cues that may help reduce motion sickness. Vehicle Motion Cues appear as animated dots on the edges of the screen that represent how the vehicle is moving without interfering with what you’re doing on iPhone.
+Note: Vehicle Motion Cues should not be used while operating a moving vehicle and in other situations requiring attention to safety. For important information about avoiding distractions that could lead to dangerous situations, see Important safety information for iPhone . Vehicle Motion Cues work best when you’re seated facing forward in the vehicle.
+Go to Settings > Accessibility > Motion.
+Tap Show Vehicle Motion Cues, then tap an option. If you choose Automatic, animated dots appear on the screen when iPhone detects that you’re riding in a car or other on-road vehicle; the dots are hidden when the motion stops.
+To manually show or hide Vehicle Motion Cues, open Control Center , tap , then tap an option.
+Tip: You can also set up a shortcut to turn Vehicle Motion Cues on or off. See Quickly turn accessibility features on or off .

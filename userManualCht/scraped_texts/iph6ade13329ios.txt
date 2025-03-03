@@ -1,0 +1,21 @@
+iPhone User Guide
+Change settings in CarPlay
+In Settings in CarPlay, you can change the Wallpaper, turn on Driving Focus, change how CarPlay looks on the display, turn suggestions in CarPlay Dashboard on or off, and show or hide album art.
+Use the Driving Focus with CarPlay
+The Driving Focus helps you stay focused on the road. While your iPhone is connected to CarPlay and Driving Focus is on, notifications and text messages are silenced or limited.
+Open Settings in CarPlay using your vehicle’s built-in controls.
+Note: If you’re viewing CarPlay Dashboard and Settings doesn’t appear in the recent apps list on the left, tap to see pages of all of your CarPlay apps, including Settings.
+Go to Driving Focus, then select Activate With CarPlay.
+If you receive a Driving Focus notification when you’re not driving (for example, when you’re a passenger) you can turn it off—tap the notification, then tap “I’m not driving.”
+Switch the appearance of CarPlay
+CarPlay is set to dark appearance by default in most vehicles. If you prefer to have CarPlay automatically switch between dark and light appearance, do the following:
+Open Settings in CarPlay using your vehicle’s built-in controls.
+Select Appearance.
+Select Always Dark.
+The dark appearance is optimized for viewing in low-light environments, such as at night.
+Change the wallpaper in CarPlay
+Open Settings in CarPlay using your vehicle’s built-in controls, select Wallpaper, then choose one of the available options.
+Hide or show suggestions in CarPlay Dashboard
+Open Settings in CarPlay using your vehicle’s built-in controls, then turn Suggestions in CarPlay off or on.
+Hide or show album art
+Open Settings in CarPlay using your vehicle’s built-in controls, then turn Show Album Art off or on.

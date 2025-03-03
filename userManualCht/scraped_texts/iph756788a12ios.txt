@@ -1,0 +1,4 @@
+iPhone User Guide
+Keep the screen off when you use VoiceOver on iPhone
+If you use VoiceOver on iPhone, and don’t need to see what’s on the screen, you can turn on the screen curtain to improve battery life and maintain privacy. When the screen curtain is on, your iPhone is active even though the display is off.
+With VoiceOver on, triple-tap with three fingers to turn the screen curtain on or off. If both VoiceOver and the Zoom feature are turned on, quadruple-tap with three fingers.

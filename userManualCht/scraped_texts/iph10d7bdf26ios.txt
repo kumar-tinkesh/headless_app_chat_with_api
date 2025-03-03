@@ -1,0 +1,40 @@
+iPhone User Guide
+View maps on iPhone
+You can find your location on a map and zoom in and out to see the detail you need.
+On supported models and in select cities, Maps provides enhanced detail for elevation, roads, trees, buildings, landmarks, and more. (For availability, see Detailed City Experience on the iOS and iPadOS Feature Availability website .)
+WARNING: For important information about navigation and avoiding distractions that could lead to dangerous situations, see Important safety information .
+Allow Maps to use your precise location
+To find your location and provide accurate directions, iPhone must be connected to the internet, and Precise Location must be on.
+Go to the Maps app on your iPhone.
+Do one of the following:
+If Maps displays a message that Location Services is off: Tap the message, tap Turn On in Settings, then turn on Location Services.
+If Maps displays a message that Precise Location is off: Tap the message, tap Turn On in Settings, tap Location, then turn on Precise Location.
+Cellular data rates may apply (see View or change cellular data settings ).
+Note: To get useful location-related information in Maps, leave Significant Locations turned on in Settings > Privacy & Security > Location Services > System Services. See Find nearby attractions, restaurants, and services .
+Show your current location
+See Search for places to navigate from your current location to another.
+Go to the Maps app on your iPhone.
+Tap .
+Your position is marked in the middle of the map. The top of the map is north.
+To show your heading instead of north at the top, tap .
+To resume showing north, tap or .
+Choose the right map
+The button at the top right of a map indicates if the current map is for exploring , driving , riding transit , or satellite view . You can change the map type at any time.
+Go to the Maps app on your iPhone.
+Tap the button at the top right.
+Choose another map type, then tap .
+You can get driving , cycling , walking , and transit directions or get traffic and weather info in Maps.
+Move, zoom, or rotate a map or globe
+Go to the Maps app on your iPhone.
+Do any of the following:
+Move around in a map: Drag the map.
+Zoom in or out: Double-tap (leaving your finger on the screen after the second tap), then drag up to zoom in or drag down to zoom out. Or pinch open or closed on the map.
+Rotate the map: Touch and hold the map with two fingers, then rotate your fingers.
+To show north at the top of the screen after you rotate the map, tap .
+Add your input
+You can add your experiences and observations to the Maps app to help other users. You can:
+Report an issue .
+Report traffic incidents .
+Rate places and add photos in Maps on iPhone .
+Maps features vary by region and country.
+Note: Apple is committed to keeping personal information about your location safe and private. Read more about Apple’s commitment: go to Settings > Apps > Maps, then tap About Apple Maps & Privacy. You can also clear your location history or delete recent directions .

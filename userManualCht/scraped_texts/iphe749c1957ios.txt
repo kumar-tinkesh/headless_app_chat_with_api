@@ -1,0 +1,28 @@
+iPhone User Guide
+Draw or handwrite on a Freeform board on iPhone
+You can sketch or jot a handwritten note with your finger. You can edit and work with handwritten text just as you do with typed text.
+Draw or handwrite
+Go to the Freeform app on your iPhone.
+Open a board, or tap to start a new one.
+Tap , then draw with your finger.
+Tip: Hold your finger still for a moment when you finish the drawing to smooth or straighten its shape.
+Tap a tool to switch to it. (Swipe to see other tools, such as Fill, Crayon, Fountain Pen, or Watercolor Brush.)
+Tap any tool a second time to change its qualities, like the thickness or opacity of a stroke.
+To fill a closed shape with color, use the Fill tool (the paint tube).
+To draw a straight line, tap the Ruler tool. (You can rotate it by placing two fingers on it and turning your hand.)
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max and Apple Intelligence is turned on, you can use Image Playground to create one-of-a-kind images in Freeform. See Create original images with Image Playground .
+Select and edit parts of a drawing
+When you draw in the Freeform app , your strokes are grouped. If you want to break a drawing apart, you can separate your strokes and merge them. You can also delete, resize, or straighten parts of a drawing.
+After you draw or write on your Freeform board with the drawing tools, tap (between the Eraser and Ruler) in the drawing tools.
+Tap or circle the part of the drawing you want to select, then choose an option. (Tap to see other options.)
+Tip: Choose Snap to Shape to smooth or straighten hand-drawn lines.
+You can also tap to select an entire drawing or other item when you’re not using the drawing tools. Tap an item to select it, tap in the formatting tools, then tap Cut, Copy, or Duplicate.
+Work with handwritten text
+When you write by hand in the Freeform app , your handwriting is recognized as words. You can search text you handwrite in the same way you search typed text. You can also select it, copy and paste it as text, straighten it, or translate it. When you write something like a phone number or an address, you can tap it to open related apps like Phone or Maps.
+After you draw or write on your Freeform board with the drawing tools, tap (between the Eraser and Ruler) in the drawing tools.
+Tap or circle the words you want to select, then choose an option from the menu that appears. (Tap to see other options.)
+Tip: Choose Straighten to align the baseline of your letters with the grid.
+Do any of the following:
+Open a menu or another related app: Tap a handwritten link, address, phone number, or date.
+Drag and drop: Touch and hold the text.
+Smart select: Double-tap the text.

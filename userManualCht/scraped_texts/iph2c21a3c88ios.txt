@@ -1,0 +1,64 @@
+iPhone User Guide
+Use Voice Control commands to interact with iPhone
+After you turn on Voice Control on your iPhone, you can speak commands to interact with what’s on the screen, perform gestures and button presses, dictate and edit text, and more.
+Note: When Voice Control is on, you use Voice Control to dictate text; standard iOS Dictation isn’t available. If you just want to enter text using Dictation, without controlling your iPhone with your voice, see Dictate text . Voice Control isn’t available in all languages. See the iOS and iPadOS Feature Availability webpage.
+Set up Voice Control
+Before you turn on Voice Control for the first time, make sure iPhone is connected to the internet over a Wi-Fi network. After iPhone completes a one-time file download from Apple, you don’t need an internet connection to use Voice Control.
+Go to Settings > Accessibility > Voice Control.
+Tap Set Up Voice Control, then tap Continue to start the file download.
+When the download is complete, appears in the status bar to indicate that Voice Control is turned on.
+Set options such as the following:
+Language: Set the language and download languages for offline use.
+Customize Commands: View the available commands and create new commands.
+Vocabulary: Teach Voice Control to recognize new words and phrases. You can enter a word or phrase and teach Voice Control how you pronounce it, or import a vocabulary list.
+Note: Not all Voice Control languages support a custom vocabulary.
+Show Confirmation: When Voice Control recognizes a command, a visual confirmation appears at the top of the screen.
+Play Sound: When Voice Control recognizes a command, an audible sound is played.
+Show Hints: See command suggestions and hints.
+Overlay: Display numbers, names, or a grid over screen elements.
+Attention Aware: On an iPhone with Face ID , Voice Control wakes up when you look at your iPhone and goes to sleep when you look away.
+Turn Voice Control on or off
+After you set up Voice Control, you can turn it on or off quickly by doing any of the following:
+Use Control Center if you’ve added Voice Control there.
+Use Accessibility Shortcut if you’ve set it up to turn on Voice Control.
+Siri: Say something like: “Turn on Voice Control” or “Turn off Voice Control.” Learn how to use Siri .
+Start using commands
+To use Voice Control on your iPhone, just say a command.
+Voice Control: Say, for example, “Open Control Center,” “Go home,” “Tap item name ,” or “Turn up volume.”
+Tip: Use the interactive Voice Control Tutorial to get familiar with Voice Control and practice essential commands. Go to Settings > Accessibility > Voice Control, then tap Open Voice Control Tutorial.
+Pause or resume Voice Control
+Pause Voice Control when you don’t want words you say to be interpreted as commands or dictation. Resume Voice Control when you’re ready for it to listen for commands and dictation again.
+Voice Control: Say “Stop listening” or “Start listening.”
+See what commands you can use
+Display a list of the available commands, which vary depending on the app you’re working in and what you’re doing. For example, you see text formatting commands while writing a document.
+Voice Control: Say “Show commands.”
+To browse the full list of supported commands and see examples of how to use them, go to Settings > Accessibility > Voice Control > Commands.
+Label onscreen items
+When you’re not sure what to call something, you can display a name or number next to each item on the screen. You can then use the item’s name or number to interact with it.
+Voice Control: Say “Show names” or “Show numbers.”
+To interact with an item, say its name or number, or say a command—such as “Long press”—followed by the item’s name or number. The item names or numbers disappear after you say the command.
+Show a numbered grid on the screen
+You can make it easier to interact with a precise area of the screen by superimposing a grid.
+Voice Control: Say “Show grid.”
+Interact with a location on the grid: If a number is at the location you want to interact with, say any command—such as “Tap”—followed by the grid number. The grid disappears after you say the command.
+Drill down on an area of the grid: If you need to further refine the location, say a grid number to show a more detailed grid in that area.
+Say “Hide names,” “Hide numbers,” or “Hide grid” to turn the overlay off.
+Enter text
+When working in a text input area, you can dictate word by word (with Dictation mode) or character by character (with Spelling mode). To avoid mistakenly entering a Voice Control command as text, have Voice Control respond only to commands (with Command mode).
+When you’re in a text input area and label onscreen items with numbers , numbers are shown next to each line of text. Select a line or another section of the text to display a number for each word in the selection; select a single word to show a number for each character in the word. To interact with a text item (such as a line or a word), say a command followed by the item’s name or number. For example, you can say “Delete [ item number ]” or “Uppercase [ item number ].”
+Command
+Description
+Voice Control: Say “Dictation mode.”
+Dictate word by word.
+Any words you say that aren’t Voice Control commands are entered as text. Dictation mode is on by default.
+In some Voice Control languages, if several words phonetically match what you say, they appear onscreen. Tap to choose the one you want.
+Voice Control: Say “Spelling mode.”
+Dictate character by character.
+Spelling mode is helpful when you need to enter a password, a web address, or another sequence of characters that wouldn’t be recognized as a word in Dictation mode.
+When Spelling mode is on, appears in the text input area.
+To increase accuracy when entering letters, you can use the letter’s phonetic alphabet code word (for example, say “Alfa Bravo Charlie” to enter “abc”).
+Note: Spelling mode isn’t available in all Voice Control languages.
+Voice Control: Say “Command mode.”
+Voice Control responds only to commands.
+Words and characters that aren’t commands are ignored and aren’t entered as text. Command mode is helpful when you need to say a series of commands and don’t want them inadvertently entered in a text input area.
+When Command mode is on, appears in the text input area to indicate you can’t dictate to enter text.

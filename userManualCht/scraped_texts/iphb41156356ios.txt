@@ -1,0 +1,8 @@
+iPhone User Guide
+Turn on Live Captions in a FaceTime call on iPhone
+During a video call in the FaceTime app , you can turn on Live Captions to have the spoken conversation turned into text and displayed in real time on your iPhone. If you’re having difficulty hearing the conversation, Live Captions can make it easier to follow along. Live Captions are available on iPhone 11 and later when the primary language is set to English (U.S.) or English (Canada).
+Important: The accuracy of Live Captions may vary and shouldn’t be relied upon in high-risk or emergency situations. Live Captions uses additional battery.
+During a FaceTime video call, tap the screen to show the FaceTime controls (if they aren’t visible).
+Tap at the top of the controls, turn on Live Captions, then tap Done.
+A Live Captions window appears, showing the automatically transcribed dialogue of the call near the top of the screen and who’s speaking.
+To stop showing the transcribed conversation on the screen, tap the screen, tap at the top of the FaceTime controls, then turn off Live Captions.

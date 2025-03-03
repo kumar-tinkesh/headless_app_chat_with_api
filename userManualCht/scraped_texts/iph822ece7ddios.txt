@@ -1,0 +1,23 @@
+iPhone User Guide
+Organize your apps in folders on iPhone
+You can organize your apps into folders to make them easier to find on your Home Screen pages.
+Create a folder
+Go to the Home Screen .
+Touch and hold the Home Screen background until the apps begin to jiggle.
+To create a folder, drag an app onto another app, then drag other apps into the folder.
+A folder can contain multiple pages of apps.
+To rename the folder, touch and hold it, tap Rename, then enter a new name.
+If the apps begin to jiggle, tap the Home Screen background and try again.
+When you’re finished, tap Done, then tap the Home Screen background twice.
+Note: Organizing your apps on the Home Screen doesn’t affect the organization of apps in App Library .
+Delete a folder from your Home Screen
+Go to the Home Screen .
+Touch and hold the Home Screen background until the apps begin to jiggle.
+Tap the folder to open it, then drag all the apps out of it onto the Home Screen.
+When the folder is empty, it’s deleted automatically.
+Move an app from a folder to the Home Screen
+You can move an app from a folder to the Home Screen to make it easier to locate and open.
+Go to the Home Screen .
+Locate the folder that contains the app, then tap the folder to open it.
+Touch and hold the app until the apps begin to jiggle.
+Drag the app from the folder to the Home Screen.

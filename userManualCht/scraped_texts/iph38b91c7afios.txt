@@ -1,0 +1,6 @@
+iPhone User Guide
+Keep recordings up to date in Voice Memos on iPhone
+You can keep your audio recordings up to date automatically on your iPhone, iPad, and Mac where you’re signed in to the same Apple Account and Voice Memos is turned on in iCloud settings.
+To turn on Voice Memos in iCloud on your devices, do the following:
+iOS or iPadOS: Go to Settings > [ your name ]  > iCloud > See All, then scroll down and turn on Voice Memos.
+macOS Sequoia: Choose Apple menu > System Settings, then click your name in the sidebar. If you don’t see your name, click “Sign in” to sign in to your Apple Account or create one. Click iCloud, click See All, then scroll down and turn on Voice Memos.

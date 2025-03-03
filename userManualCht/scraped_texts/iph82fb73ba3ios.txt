@@ -1,0 +1,50 @@
+iPhone User Guide
+Send and reply to messages on iPhone
+You can send text messages, images, and much more. You can reply within a conversation or to specific comments in a thread. You can even use Siri to listen and respond to your messages.
+To fully use all the features in the Messages app, make sure you set up Messages .
+Send a text message
+You can send a text message to one or more people to start a new conversation.
+Go to the Messages app on your iPhone.
+Tap at the top of the screen.
+Enter the phone number, contact name, or Apple Account of each recipient.
+Or tap on the right, then choose contacts from the list.
+Do any of the following:
+Tap the text field above the keyboard, then type your message. (Tap or to add emoji .)
+Tap to dictate text in the language of your keyboard .
+Tap the to send photos, videos , your location , audio messages , stickers , and more with iMessage apps .
+Tap to send.
+If a message can’t be sent, an alert appears. Tap to try sending the message again.
+To return to the Messages list from a conversation, tap .
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max and Apple Intelligence is turned on, you can create custom emoji—called Genmoji. Simply describe what you want the Genmoji to look like, or create one of friends and family based on their photos. See Create Genmoji with Apple Intelligence .
+Send a text message from your other number
+If your iPhone is set up with Dual SIM , you can tap your number to switch to your other outgoing line as you compose your message.
+Reply to a message
+Messages are grouped by conversation in the Messages list. A dot indicates you haven’t yet read one or more messages in that conversation.
+Go to the Messages app on your iPhone.
+In the Messages list, tap the conversation that you want to participate in.
+Tap the text field, create your message, then tap to send your message.
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max, Apple Intelligence can suggest an appropriate reply based on the content of the message. See Use Smart Reply in Messages .
+Tip: Find out when a message was sent to you. Drag the message bubble to the left to see timestamps for all messages in the conversation.
+Reply inline to a specific message
+You can respond to a specific message inline. An inline reply quotes the message you’re responding to. This keeps a busy conversation organized by clarifying which response relates to which message.
+Go to the Messages app on your iPhone.
+Swipe right on the message bubble that you want to reply to.
+Enter your message, then tap .
+To return to the main conversation, tap the blurred background.
+Touch and hold a message to react with a Tapback , such as a thumbs-up or a heart.
+If you’re replying in a group conversation and you don’t want everyone to read your message, start a new conversation with the person you want to reply to.
+Use Siri to send, read, and reply to messages
+You can use Siri to send messages for you, read your incoming texts out loud, and reply to messages. Learn how to use Siri .
+Siri: Say something like:
+“Send a message to Mayuri saying, how about tomorrow?”
+“Read my last message from Antonio”
+“Reply, that’s great news!”
+Siri can send a message right after it has been read back to you. Go to Settings > Siri > Messaging with Siri > Automatically Send Messages, then turn on Automatically Send Messages.
+WARNING: Avoid distractions while driving. See Important safety information .
+Reply to messages from your Lock Screen
+You can reply to messages on your Lock Screen without opening Messages. See Turn on Lock Screen features .
+Why are some bubbles blue and others green?
+If a message can be sent using iMessage , you see a blue Send arrow , and the message appears in a blue bubble.
+If you can’t use iMessage (which happens, for example, when a recipient isn’t using an Apple device), you can use SMS, MMS, or RCS. Messages sent with SMS, MMS, or RCS appear in green bubbles.
+For more information, see the Apple Support article What is the difference between iMessage, RCS, and SMS/MMS?
+Note: Content may not appear as expected when you send messages to recipients who are using non-Apple devices.

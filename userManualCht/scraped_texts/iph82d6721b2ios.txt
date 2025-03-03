@@ -1,0 +1,17 @@
+iPhone User Guide
+Make your passkeys and passwords available on all your devices with iPhone and iCloud Keychain
+Use iCloud Keychain to keep your website and app passkeys and passwords, credit card information, Wi-Fi network information, and other account information up to date across all your approved devices and Mac computers. iCloud Keychain is secured with 256-bit AES encryption during storage and transmission, and its data can’t be read by Apple.
+iCloud Keychain can also keep the accounts you use in Mail, Contacts, Calendar, and Messages up to date across all your iPhone and iPad devices and Mac computers.
+Set up iCloud Keychain
+If you didn’t set up iCloud Keychain when you first set up your iPhone, you can do so now.
+Go to Settings > [ your name ] > iCloud.
+Tap See All (next to Saved to iCloud), then tap Passwords & Keychain.
+Turn on Sync this iPhone, then follow the onscreen instructions.
+Set up iCloud Keychain on an additional device
+When you turn on iCloud Keychain on an additional device, your other devices using iCloud Keychain receive a notification requesting your approval of the additional device.
+On one of your other devices, approve the additional device. Your iCloud Keychain automatically begins updating on the additional device.
+To approve iCloud Keychain when you don’t have access to your other devices, follow the onscreen instructions to use your iCloud Security Code.
+Recover your iCloud Keychain if all your devices are lost or stolen
+iCloud Keychain syncs across devices to provide convenience and redundancy in case you lose a single device. If all your devices are lost and you’ve added a recovery contact to your Apple Account, your contact can help you recover your iCloud Keychain. Go to Settings > [ your name ] > Sign-In & Security, tap Recovery Contacts, then tap Learn More.
+You can also recover your iCloud Keychain through iCloud Keychain escrow, which is also protected against brute-force attacks. iCloud Keychain escrows a user’s keychain data with Apple without allowing Apple to read the passwords and other data it contains. Your keychain is encrypted using a strong passcode, and the escrow service provides a copy of the keychain only if a strict set of conditions is met.
+To recover your keychain through iCloud Keychain escrow, authenticate with your Apple Account on a new device, then respond to an SMS sent to a trusted phone number . After you authenticate and respond, you must enter the device passcode. iOS, iPadOS, and macOS allow only 10 attempts to authenticate. After several failed attempts, the record is locked and you must contact Apple Support on the Apple Support website to be granted more attempts.

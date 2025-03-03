@@ -1,0 +1,24 @@
+iPhone User Guide
+Request or give remote control in a FaceTime call on iPhone
+During a one-to-one FaceTime video or audio call, you can remotely control someone else’s screen or allow a trusted person to remotely control yours. The person controlling the screen can help with an issue or demonstrate how to use an app.
+Note: Before someone can remotely control your screen, they need to be saved in your contacts. To help protect your data and privacy, additional restrictions may apply to remote control requests.
+Request remote control
+You can request control of an iPhone screen that’s being shared with you.
+Note: Both you and the other participant need iOS 18 or later.
+In the FaceTime app on your iPhone, tap the window showing the shared screen.
+Tap .
+If the other participant accepts your request, you can tap or swipe on the shared screen. You can also use the onscreen keyboard within apps.
+Accept a remote control request
+A participant can request to remotely control your screen if they’re using an iPhone or iPad with iOS 18, iPadOS 18, or later.
+When you receive a remote control request notification in the FaceTime app on your iPhone, tap Allow.
+WARNING: The person remotely controlling the screen can perform tasks on your iPhone such as opening and closing apps, changing settings, deleting items, or sending messages. Only approve remote control requests from people you trust.
+The person remotely controlling the screen may be restricted from tasks such as changing your Apple Account or Face ID settings, making payments, or erasing your device. Your Face ID and Touch ID will be disabled during a remote control session.
+You can still tap, swipe, or type while your screen is remotely controlled—your actions take priority over remote actions.
+Decline a remote control request
+When you receive a remote control request notification in the FaceTime app on your iPhone, tap Don’t Allow. Screen sharing continues, and the other participant can still tap, draw, or write on your screen to highlight important areas.
+Stop remote control
+You can end remote control at any time. Do one of the following:
+If you’re allowing someone to control your screen: Tap Stop at the bottom of the screen sharing window.
+If you're controlling someone’s screen: Tap at the bottom of the screen sharing window.
+Ending a FaceTime call also ends remote control and screen sharing.
+Remote control isn’t available in all countries or regions. See iOS and iPadOS Feature Availability

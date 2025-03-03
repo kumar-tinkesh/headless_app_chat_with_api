@@ -1,0 +1,6 @@
+iPhone User Guide
+Charge iPhone with cleaner energy sources (U.S. only)
+With Clean Energy Charging, iPhone uses a forecast of the carbon emissions in your local energy grid to charge during times of cleaner energy production. iPhone learns from your daily charging routine so it can reach full charge before you need to use it.
+Turn on Clean Energy Charging
+Go to Settings > Battery.
+Tap Battery Health & Charging, then turn on Clean Energy Charging

@@ -1,0 +1,37 @@
+iPhone User Guide
+Create a Freeform board on iPhone
+You can use the Freeform app to create boards for brainstorming and collaborating. For example, propose a trip with friends and let everyone take part in the planning. You can add text, sticky notes, photos, videos, and other types of files. The canvas expands as you add content, so you’re never constrained by space limits or page formatting.
+Create a new board
+Go to the Freeform app on your iPhone.
+Tap .
+Tap one of the options at the bottom of the screen, such as a sticky note or text box , to start building your board.
+Move around your board by dragging your finger, and zoom in or out by pinching open or closed.
+Tip: To magnify more precisely, tap , then tap Zoom to.
+Your board is saved automatically as you work. To name it, tap , then tap Rename.
+To learn how to align items or move something to the background, see Position items on a Freeform board .
+Create a board from another app
+You can start a new Freeform board using content from another supported app, such as Notes, Maps, Safari, Files, Photos, and more.
+On your iPhone, go to the app whose content you want to use on a new Freeform board.
+Open the item you want to place on the Freeform board (for example, a note, map, webpage, PDF, or screenshot).
+To share just one part of a file to a board (rather than the entire webpage or note), select the item. If your selection includes text, only the text is shared.
+Tap Share or , then tap the Freeform app icon .
+Tap New Board or the name of an existing board.
+Either a link or the item appears in the board.
+Open a board
+Go to the Freeform app on your iPhone.
+Tap the board you want to open, or do one of the following:
+Open a board you’ve opened recently or marked as a favorite: Tap in the upper-left corner, tap a category, then tap a board.
+If you’re in a board: Tap in the upper-left corner, tap a category, then tap a board.
+Note: Any collaborations you get invited to in the Messages app appear in an Invitations section on the Shared Boards screen until you accept them.
+Duplicate a board
+Go to the Freeform app on your iPhone.
+Do one of the following:
+While browsing All Boards: Tap , then tap Select. Tap the boards you want to duplicate (a checkmark appears as you select each one), then tap Duplicate.
+Or touch and hold the thumbnail or name of the board, then tap Duplicate .
+If you’re in a board: Tap , then tap Duplicate.
+Note: If you duplicate a shared board, the copy isn’t shared. See Send a copy of a board to send someone a snapshot of the board, or Invite others to collaborate on a board to reshare the board.
+Add a board to Favorites
+Go to the Freeform app on your iPhone.
+Do one of the following:
+While browsing All Boards: Touch and hold the thumbnail or name of the board, then tap Favorite .
+If you’re in a board: Tap , then tap Favorite .

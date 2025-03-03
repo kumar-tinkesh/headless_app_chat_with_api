@@ -1,0 +1,31 @@
+iPhone User Guide
+Change your Wallet & Apple Pay settings on iPhone
+In Settings, you can customize your preferences for Wallet app and Apple Pay .
+Customize your Wallet & Apple Pay settings
+Go to Settings > Wallet & Apple Pay.
+Adjust any of the following:
+Location: Control the location information you share .
+Siri & Search: Allow Siri to make suggestions across apps based on the way you use Wallet & Apple Pay. You can also allow suggestions and content from Wallet & Apple Pay to appear in Search and widgets .
+Notifications: Change notification settings .
+Live Activities: Turn on or off Live Activities on the Lock Screen .
+Cellular Data: Turn on or off cellular data usage .
+Apple Cash: Turn on or off Apple Cash .
+Double-Click Side Button: (on an iPhone with Face ID) Your cards and passes appear on the screen when you double-click the side button.
+Double-Click Home Button: (on an iPhone with a Home button) Your cards and passes appear on the screen when you double-click the Home button.
+Hide Expired Passes: Turn on to archive old passes .
+Express Transit Card: Choose a card to pay for transit automatically without requiring authentication. See the Apple Support article Use Express Mode with transit cards, passes, and keys in Apple Wallet .
+Transaction Defaults: Enter your default information for Apple Pay in apps and on the web .
+Pay Later: Shows available payment options from your cards in Wallet when you check out with Apple Pay.
+Rewards: Shows rewards from your cards in Wallet when you check out with Apple Pay.
+Compatible Cards: Checks your saved cards in Safari AutoFill for compatibility with Apple Pay and allows you to use them in Wallet.
+Allow Payments on Mac: Allows iPhone to confirm payments on your nearby Mac.
+Add Orders to Wallet: Orders from participating merchants are automatically added to Wallet for order tracking .
+Order Notifications: Receive notifications for order tracking.
+Other Pay Later Options: See additional pay later services not associated with your cards in Wallet when you check out with Apple Pay.
+Change your default shipping and contact information
+Go to Settings > Wallet & Apple Pay.
+Below Transaction Defaults, set your shipping address, email, and phone number.
+Keep your passes up to date on your other devices
+Go to Settings > [ your name ] > iCloud, then turn on Wallet.
+Allow access to passes when iPhone is locked
+Go to Settings > Face ID & Passcode or Touch ID & Passcode, then turn on Wallet (below Allow Access When Locked).

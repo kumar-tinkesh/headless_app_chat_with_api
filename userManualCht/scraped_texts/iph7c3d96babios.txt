@@ -1,0 +1,45 @@
+iPhone User Guide
+Change notification settings on iPhone
+Choose when and how notifications appear, which apps can send them, and what sounds they make. You can also set up location-based alerts, allow government alerts, and more. Many notification settings apply to all app notifications, while others can be customized for individual apps.
+Change the appearance of notifications
+Go to Settings > Notifications.
+Choose how you want notifications displayed on the Lock Screen:
+View just the number of notifications: Tap Count.
+View the notifications grouped into stacks by app: Tap Stack.
+View the notifications in a list: Tap List.
+When notifications arrive, you can change the layout by pinching the notifications on the Lock Screen.
+To turn off notifications selectively for apps, go to Settings > Notifications > Siri Suggestions, turn on Allow Notifications, then turn off any app.
+Change the frequency of notifications
+To minimize interruptions from notifications throughout the day, you can schedule a notification summary that includes notifications for several apps at once.
+Go to Settings > Notifications > Scheduled Summary.
+Turn on Scheduled Summary, then tap Continue.
+Schedule times for the notification summary.
+Select the apps to include in your notification summary,  then tap Add Apps.
+To choose when you want notification previews to appear, tap Show Previews, select an option, then tap at the top of the screen.
+Previews can include things like text (from Messages and Mail) and invitation details (from Calendar). You can override this setting for individual apps.
+When you use Focus, it delays the delivery of notifications on iPhone to prevent interruptions. You can schedule a time to receive a summary of the notifications you missed. See Schedule a notification summary .
+Choose notification sounds for individual apps
+You can choose the sound that plays when a notification arrives for an app.
+Go to Settings > Notifications.
+Tap an app below Notification Style, then turn on Allow Notifications.
+Tap Sounds, select a sound, then tap at the top of the screen.
+You can choose immediate or scheduled delivery for the app’s notifications and where you want them to appear (on the Lock Screen, in Notification Center, or as Banner at the top of the screen), and more.
+Turn off notifications selectively for individual apps
+Go to Settings > Notifications > Siri Suggestions.
+Turn on Allow Notifications.
+Turn off any app.
+Turn off location-based alerts
+Some apps use your location to send you relevant alerts based on where you are. For example, the Weather app might send you alerts based on your location.
+If you don’t want to see these types of alerts, you can turn them off.
+Go to Settings > Privacy & Security > Location Services.
+Turn on Location Services.
+Tap an app (if any appear in the list), then choose whether you want to share your location while using that app.
+See the Apple Support article About privacy and Location Services .
+Turn government alerts on or off
+In some countries or regions, you can turn on alerts in the Government Alerts list. For example, on iPhone in the United States, you can receive National Alerts, and you can turn AMBER, Public Safety, and Emergency Alerts (which include both Severe and Extreme Imminent Threat Alerts) on or off (they’re on by default). On iPhone in Japan, you can receive Emergency Earthquake Alerts from the Japan Meteorological Agency.
+Go to Settings > Notifications.
+Scroll down to the Government Alerts section, then turn on the alerts you want to receive.
+Tap Emergency Alerts if you want to turn on Emergency Alerts and Local Awareness.
+Note: In some regions, Local Awareness may improve the timeliness, accuracy, and reliability of certain Emergency Alerts. For example, Earthquake Alerts received on iPhone in California, Oregon, and Washington (including bordering regions) may be more timely or delivered with increased accuracy when Local Awareness is turned on.
+Turn on Always Play Sound to have Emergency Alerts play a sound even if iPhone is in Silent mode.
+Government alerts vary by carrier and iPhone model, and may not work under all conditions. See the Apple Support article About emergency and government alerts .

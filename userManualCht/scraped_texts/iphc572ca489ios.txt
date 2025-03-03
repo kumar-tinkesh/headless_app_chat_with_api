@@ -1,0 +1,12 @@
+iPhone User Guide
+Customize sharing options in an iPhone app
+You can choose which options appear in an app’s Share menu and rearrange the options.
+Open a document in the app, then tap .
+Swipe left over the row of buttons, tap More, then tap Edit.
+Do any of the following:
+Show an option: Tap to turn it on.
+Hide an option: Tap to turn it off.
+Add an option to Favorites: Tap .
+Remove an option from Favorites: Tap .
+Change the order of options in Favorites: Drag next to any option.
+Tap Done.

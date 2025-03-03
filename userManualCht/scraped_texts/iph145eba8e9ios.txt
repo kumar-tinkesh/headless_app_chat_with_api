@@ -1,0 +1,8 @@
+iPhone User Guide
+Reach the top of the iPhone screen with one hand
+When you use iPhone with one hand in portrait orientation, you can use Reachability to lower the top half of the screen so it’s within easy reach of your thumb.
+Go to Settings > Accessibility > Touch, then turn on Reachability.
+To lower the top half of the screen, do one the following:
+On an iPhone with Face ID: Swipe down on the bottom edge of the screen.
+On an iPhone with a Home button: Lightly double-tap the Home button.
+To return to the full screen, tap the upper half of the screen.

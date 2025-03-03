@@ -1,0 +1,35 @@
+iPhone User Guide
+Read or listen to business news in Stocks on iPhone
+In the Stocks app, you can read and listen to business news that’s driving the market. In countries where Apple News is available, you also see stories selected by the Apple News editors and stories from Apple News+.
+To learn more about Apple News+, see Subscribe to Apple News+ .
+Note: Apple News and Apple News+ aren’t available in all countries or regions. See the Apple Support article Availability of Apple Media Services .
+Read a story
+Go to the Stocks app on your iPhone.
+Swipe up on Business News or Top Stories to view stories, or tap a symbol in your watchlist to browse related stories. See Manage symbols in the My Symbols watchlist .
+Tap a story to read it. While viewing a story, you have these options:
+Return to your newsfeed in Stocks: Tap or Done in the top-left corner.
+See more stories from the publication in Apple News: Tap the publisher logo at the top of the screen.
+Save the story to Apple News: Tap at the top of the screen.
+Note: In order to save stories to Apple News, make sure you’re signed in to your Apple Account , then go to Settings > [ your name ] > iCloud, tap See All next to Saved to iCloud, then turn on News.
+Change the text size: Do one of the following, depending on your location:
+Tap , then tap the smaller or larger letter to change the text size in the story.
+Tap , tap Text Size, then tap the smaller or larger letter to change the text size in the story.
+Share the story: Tap , then choose a sharing option, such as Messages or Mail.
+Note: If you tap an Apple News+ story and you’re not an Apple News+ subscriber, tap the subscribe or free trial button, then follow the onscreen instructions. To learn more about Apple News+, see Subscribe to Apple News+ .
+Stories from publications you have blocked in Apple News don’t appear in the newsfeed. See See news stories chosen just for you .
+Listen to audio stories
+Some news stories include an audio version that you can listen to in the Stocks app or listen to later in the News app (not available in all countries or regions).
+Go to the Stocks app on your iPhone.
+To listen to the audio version of a story, tap Play Now. Or, tap the story to read it, then tap Play Now at the top of the story.
+Use the mini player at the bottom of the screen to pause the story or jump back 15 seconds. To open the full-screen player, tap the mini player.
+To return to the mini player, swipe down to minimize the full-screen player.
+To close the mini player, tap .
+Add an audio story from Stocks to your News queue
+If you subscribe to Apple News+ , you can add an audio story from Stocks to your Up Next queue in News.
+Make sure you’re signed in to your Apple Account .
+Go to Settings > [ your name ] > iCloud, tap See All next to Saved to iCloud, then turn on News.
+Go to the Stocks app on your iPhone.
+Do either of the following:
+Add from a Stocks newsfeed: Touch and hold the story, tap Play Later in News, then choose Play Next or Play Last.
+Add from the story: Open the story, then touch and hold Play Now at the top of the story. Tap Play Later in News, then choose Play Next or Play Last.
+Note: Apple News and Apple News+ aren’t available in all countries or regions. See the Apple Support article Availability of Apple Media Services .

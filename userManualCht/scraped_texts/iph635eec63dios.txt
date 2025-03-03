@@ -1,0 +1,31 @@
+iPhone User Guide
+Watch MLS in the Apple TV app on iPhone
+MLS in the Apple TV app gives you access to Major League Soccer events when you subscribe to MLS Season Pass.
+You can also follow your favorite MLS clubs using My Sports (not available in all countries or regions), catch up on key plays during a live game, and watch on-demand content—including MLS club profiles, player profiles, league and club highlights from the last season, and more.
+Note: Some MLS games may be offered for free on a promotional basis, but full access to all games, shows, and features requires an MLS Season Pass subscription . MLS Season Pass isn’t available in all countries or regions.
+Browse and watch with MLS Season Pass
+Go to the Apple TV app on your iPhone.
+Tap Search, then tap MLS Season Pass.
+Do any of the following:
+Explore featured matches, pregame and postgame shows, and more: Scroll to a category row.
+Browse matches, club profiles, player profiles, and more for a particular club: Scroll down to the All Clubs row, then tap a club.
+To start watching, tap an event or show.
+Follow your favorite MLS clubs
+Go to the Apple TV app on your iPhone.
+Tap Search, then tap MLS Season Pass.
+Scroll down to the All Clubs row, tap a club, then tap at the top right.
+Tip: You can also touch and hold a club in the All Clubs row, then tap Follow Team.
+Clubs you follow appear at the front of the All Clubs row with a star next to the club’s name.
+You can also follow MLS clubs with My Sports. See Follow teams with My Sports .
+Note: When you follow a club, their matches automatically appear in Continue Watching.
+Catch up with Key Plays
+When you start watching a live match in progress, you can catch up to the action by watching all the key plays you missed. You can also browse and watch key plays at any time during the match.
+Go to the Apple TV app on your iPhone.
+Tap Search, then tap MLS Season Pass.
+Do either of the following:
+Catch up to a match in progress: Tap a match, then tap Catch Up.
+Go to key plays during a match: While watching a match, tap the screen to show the playback controls, tap Key Plays, then select a key play from the collection row.
+Key plays start playing in order from the beginning of the match if you’re catching up, or from the key play you select from the Key Play menu.
+While watching key plays, you can do either of the following:
+Browse the collection: Swipe left or right.
+Return to the match: Tap Jump to Live in the lower-left corner of the screen, or to resume playback from the last spot you were watching, tap .

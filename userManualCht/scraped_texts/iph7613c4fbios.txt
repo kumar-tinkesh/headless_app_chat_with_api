@@ -1,0 +1,39 @@
+iPhone User Guide
+Share iCloud calendars on iPhone
+In the Calendar app, you can share an iCloud calendar with other iCloud users. When you share a calendar, others can see it, and you can let them add or change events. You can also share a read-only version that anyone can view but not change.
+Create an iCloud calendar
+Go to the Calendar app on your iPhone.
+Tap Calendars at the bottom of the screen.
+Tap Add Calendar.
+Tap Add Calendar, enter a name for the new calendar, then tap Done.
+If iCloud isn’t your default calendar, tap Accounts, then tap iCloud. See Change your Calendar settings .
+Share an iCloud calendar
+You can share a calendar with one or more people in iCloud. Those you invite receive an invitation to join the calendar.
+Go to the Calendar app on your iPhone.
+Tap Calendars at the bottom of the screen.
+Tap next to the iCloud calendar you want to share.
+Tap Add Person, then enter a name or email address, or tap to browse your contacts.
+Note: Your contacts must have an email address to share an iCloud calendar. See Add and use contact information .
+Tap Add, then tap Done.
+Change a person’s access to a shared calendar
+After you invite a person to share your calendar, you can turn on or off their ability to edit the calendar, or stop sharing the calendar with that person.
+Go to the Calendar app on your iPhone.
+Tap Calendars, tap next to the shared calendar, then tap the person’s name.
+Do any of the following:
+Turn Allow Editing on or off.
+Tap Stop Sharing.
+Turn off notifications for shared calendars
+When someone modifies a calendar you’re sharing, you’re notified of the change. You can turn off notifications, if you don’t want to receive them.
+Go to Settings > Notifications > Calendar > Customize Notifications.
+Turn off Shared Calendar Changes.
+Share a read-only calendar with anyone
+Go to the Calendar app on your iPhone.
+Tap Calendars, then tap next to the iCloud calendar you want to share.
+Turn on Public Calendar, then tap Share Link to copy or send the URL for your calendar.
+Choose a method for sending the URL—Messages, Mail, and so on.
+Anyone you send the URL to can use it to subscribe to the calendar using a compatible app, such as Calendar for macOS.
+Delete a calendar
+Go to the Calendar app on your iPhone.
+Tap Calendars at the bottom of the screen.
+Tap next to the iCloud calendar you want to delete.
+Tap Delete Calendar at the bottom of the list.

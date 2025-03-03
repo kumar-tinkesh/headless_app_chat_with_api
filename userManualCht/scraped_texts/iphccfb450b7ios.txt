@@ -1,0 +1,38 @@
+iPhone User Guide
+Automatically fill in your information in Safari on iPhone
+Use AutoFill to automatically fill in credit card information, contact information, and user names and passwords.
+Important: Never enter your password or credit card number on sites with a “Not Secure” warning. See the Apple Support article If you see a “Not Secure” warning while browsing with Safari .
+Set up AutoFill
+You can save your personal information or credit card number on your iPhone to speed up filling in online forms and making purchases.
+Go to Settings > Apps > Safari.
+Tap AutoFill, then do any of the following:
+Set up contact info: Turn on Use Contact Info, tap My Info, then choose your contact card. The contact information from that card is entered when you tap AutoFill on webpages in Safari.
+Set up credit card info: Turn on Credit Cards, tap Saved Credit Cards, then tap Add Credit Card. Enter your credit card information into the fields provided or tap Use Camera to enter the information without typing.
+Fill in your contact information automatically
+You can quickly add your personal information to online forms using AutoFill.
+Go to the Safari app on your iPhone.
+In a form on a website that supports AutoFill, tap a blank field.
+Tap AutoFill Contact above the keyboard, then select a contact.
+Tap any field to make changes.
+Follow the onscreen instructions to submit the form.
+Note: You can use AutoFill to enter another person’s information from your contact list. For example, if you’re purchasing a gift and shipping it to a friend, you can use AutoFill to enter their address. Tap AutoFill Contact, tap Other Contact, then choose their contact card.
+Fill in your payment information automatically
+After you add a credit card, or if you have Apple Card or Apple Cash in Wallet, you can use AutoFill to make online purchases without having to enter your full card number.
+Note: You can use Apple Cash in apps or on the web where Apple Pay isn’t yet accepted. See Use Apple Cash in Wallet .
+Go to the Safari app on your iPhone.
+In a form on a website, tap the credit card information field.
+Tap the saved card you want to use, or tap Scan Card to take a picture of the front of a credit card.
+Tip: After you enter a new card, you can save it in Safari AutoFill, then add it to Wallet. See Set up Apple Pay in Wallet .
+You can use virtual card numbers at checkout and keep your real credit card number private. See Set up Apple Pay in Wallet . After you’ve set up a virtual card number, tap a card with above the keyboard to use it at checkout.
+Fill in your passwords automatically
+When you sign up for services on websites and in apps, you can let iPhone create and save strong passwords for many of your accounts. See Automatically fill in strong passwords .
+Change AutoFill options
+You can change the personal information or credit card number on your iPhone for filling in online forms and making purchases.
+Go to Settings > Apps > Safari.
+Tap AutoFill, then do any of the following:
+Change contact info: Tap My Info, then choose a contact card that has the information you want to enter when you tap AutoFill on webpages in Safari.
+Change credit card info: Tap Saved Credit Cards, then choose the credit card you want to use to make purchases (or tap Add Credit Card).
+Turn off AutoFill
+You can turn off AutoFill for your contact or credit card information, and for passwords. This is helpful in situations where you don’t want your contact or credit card information to be readily available—for example if you share a device with others.
+Turn off AutoFill for your contact or credit card information: Go to Settings > Apps > Safari > AutoFill, then turn off either option.
+Turn off AutoFill for passwords: Go to Settings > General > AutoFill & Passwords, then turn off AutoFill Passwords and Passkeys.

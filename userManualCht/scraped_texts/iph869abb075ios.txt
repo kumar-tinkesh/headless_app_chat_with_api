@@ -1,0 +1,11 @@
+iPhone User Guide
+Remove an AirTag or other item from Find My on iPhone
+You can use the Find My app to remove an AirTag or third-party item from your Apple Account so someone else can register it.
+Learn how to register an AirTag or third-party item .
+Note: Finding items isn’t available in all countries or regions.
+Go to the Find My app on your iPhone.
+Tap Items at the bottom of the screen, then tap the item you want to remove.
+Bring the item near your iPhone.
+If the item isn’t near your device, you can still remove it from your account. However, the item must be reset before anyone can register it to their Apple Account.
+Tap Remove Item, then follow the onscreen instructions.
+Note: Follow the manufacturer’s instructions to reset an item. For an AirTag, see the Apple Support article How to reset your AirTag .

@@ -1,0 +1,32 @@
+iPhone User Guide
+Organize your notes in folders on iPhone
+In the Notes app, you can organize your notes into folders and pin the important notes to the top of the notes list.
+Create, rename, move, or delete folders
+Go to the Notes app on your iPhone.
+In the folders list, do any of the following:
+Create a folder: Tap , choose an account (if you have more than one), tap New Folder, then enter a name.
+Create a subfolder: Touch and hold a folder, then drag it onto another folder.
+Rename a folder: Touch and hold a folder, tap Rename, then enter a new name.
+Move a folder: Touch and hold the folder, then drag it to a new location. The folder becomes a subfolder if you drag it onto another folder.
+Delete a folder: Swipe left on the folder, then tap . Or touch and hold the folder, then tap Delete.
+If you change your mind, open the Recently Deleted folder to recover the notes.
+Pin notes
+To pin an important note to the top of the notes list, do the following:
+Go to the Notes app on your iPhone.
+In the notes list, touch and hold the note, then tap Pin Note. Or swipe right on the note, then tap the pin.
+Sort and change the folder view
+Go to the Notes app on your iPhone.
+In the notes list, tap , then do any of the following:
+Change the folder view: Choose View as Gallery or View as List.
+Sort the notes by title: Tap Sort By, then choose Title.
+Sort the notes by date: Tap Sort By, then choose Date Edited or Date Created.
+By default, the notes are grouped by date. To turn this off, tap , then tap Group By Date.
+Reverse the sort order: Tap Sort By, then choose Oldest First (when sorting by date) or Descending (when sorting by title).
+To choose a default sorting method for all your folders, go to Settings > Apps > Notes, then tap Sort Notes By.
+Move a note to another folder
+Go to the Notes app on your iPhone.
+In the notes list, swipe left on the note, then tap . Or touch and hold the note, tap Move, then choose a folder.
+Delete a note
+Go to the Notes app on your iPhone.
+In the notes list, swipe left on the note, then tap . Or touch and hold the note, then tap Delete.
+If you change your mind, open the Recently Deleted folder to recover the note.

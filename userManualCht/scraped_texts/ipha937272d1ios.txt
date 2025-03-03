@@ -1,0 +1,20 @@
+iPhone User Guide
+Explore 3D maps or a globe on iPhone
+While exploring any location on a map, you can rotate the map to see an area with extra dimensions.
+On supported models and in select cities, Maps provides enhanced detail for elevation, roads, trees, buildings, landmarks, and more. (For availability, see Detailed City Experience on the iOS and iPadOS Feature Availability website .)
+View a 3D map
+Go to the Maps app on your iPhone.
+To turn a 2D map into a 3D map, do one of the following:
+Drag two fingers up.
+On the Satellite map, tap 3D near the top right.
+On supported models and in select cities, tap 3D near the top right. (See Detailed City Experience on the iOS and iPadOS Feature Availability website .)
+While looking at a 3D map, you can do any of the following:
+Adjust the angle: Drag two fingers up or down.
+See buildings and other small places in 3D: Zoom in.
+Return to a 2D map: Tap 2D near the top right.
+You can also take Flyover tours or look around places .
+View the Earth with an interactive 3D globe
+Go to the Maps app on your iPhone.
+Zoom out until the map changes to a globe.
+Drag the globe to rotate it, or zoom in or out to explore details for mountain ranges, deserts, oceans, and more (on supported models ).
+Maps features vary by region and country.

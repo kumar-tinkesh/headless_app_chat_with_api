@@ -1,0 +1,40 @@
+iPhone User Guide
+Adjust the screen brightness and color on iPhone
+On iPhone, you can make your screen dimmer or brighter (dimming the screen extends battery life). You can also adjust the screen brightness and color manually or automatically with Dark Mode, True Tone, and Night Shift.
+Adjust the screen brightness manually
+To make your iPhone screen dimmer or brighter, do one of the following:
+Open Control Center , then drag up or down.
+Go to Settings > Display & Brightness, then drag the slider.
+Adjust the screen brightness automatically
+iPhone adjusts the screen brightness for current light conditions using the built-in ambient light sensor.
+Go to Settings > Accessibility.
+Tap Display & Text Size, then turn on Auto-Brightness.
+Turn Dark Mode on or off
+Dark Mode gives the entire iPhone experience a dark color scheme that’s perfect for low-light environments. With Dark Mode on, you can use your iPhone while, for example, reading in bed, without disturbing the person next to you.
+Do any of the following:
+Open Control Center , touch and hold , then tap to turn Dark Mode on or off.
+Go to Settings > Display & Brightness, then select Dark to turn on Dark Mode, or select Light to turn it off.
+Schedule Dark Mode to turn on and off automatically
+You can set Dark Mode to turn on automatically at night (or on a custom schedule).
+Go to Settings > Display & Brightness.
+Turn on Automatic, then tap Options.
+Select either Sunset to Sunrise or Custom Schedule.
+If you choose Custom Schedule, tap the options to schedule the times you want Dark Mode to turn on and off.
+If you select Sunset to Sunrise, iPhone uses the data from your clock and geolocation to determine when it’s nighttime for you.
+Turn Night Shift on or off
+You can turn on Night Shift manually, which is helpful when you’re in a darkened room during the day.
+Open Control Center , touch and hold , then tap .
+Schedule Night Shift to turn on and off automatically
+Schedule Night Shift to shift the colors in your display to the warmer end of the spectrum at night and make viewing the screen easier on your eyes.
+Go to Settings > Display & Brightness > Night Shift.
+Turn on Scheduled.
+To adjust the color balance for Night Shift, drag the slider below Color Temperature toward the warmer or cooler end of the spectrum.
+Tap From, then select either Sunset to Sunrise or Custom Schedule.
+If you choose Custom Schedule, tap the options to schedule the times you want Night Shift to turn on and off.
+If you select Sunset to Sunrise, iPhone uses the data from your clock and geolocation to determine when it’s nighttime for you.
+Note: The Sunset to Sunrise option isn’t available if you turned off Location Services in Settings > Privacy & Security, or if you turned off Setting Time Zone in Settings > Privacy & Security > Location Services > System Services.
+Turn True Tone on or off
+On supported models , True Tone automatically adapts the color and intensity of the display to match the light in your environment.
+Do any of the following:
+Open Control Center , touch and hold , then tap to turn True Tone on or off.
+Go to Settings > Display & Brightness, then turn True Tone on or off.

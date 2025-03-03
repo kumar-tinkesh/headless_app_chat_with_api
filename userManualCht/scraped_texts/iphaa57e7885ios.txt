@@ -1,0 +1,7 @@
+iPhone User Guide
+Tap the back of iPhone to perform actions or shortcuts
+You can double-tap or triple-tap the back of iPhone to perform actions such as taking a screenshot, turning on an accessibility feature, running a shortcut, and more.
+Go to Settings > Accessibility > Touch > Back Tap.
+Choose Double Tap or Triple Tap, then choose an action.
+To perform the action you set, double-tap or triple-tap the back of iPhone.
+To turn off Back tap, go to Settings > Accessibility > Touch > Back Tap, choose Double Tap or Triple Tap, then tap None.

@@ -1,0 +1,8 @@
+iPhone User Guide
+Set up shortcuts for Live Recognition on iPhone
+You can set up a shortcut to quickly start Live Recognition when VoiceOver is on. If VoiceOver is off, the shortcut opens the Magnifier app in Detection Mode .
+Use a VoiceOver gesture: When VoiceOver is on, triple-tap the screen with four fingers to turn Live Recognition on or off. To assign a different gesture, go to Settings > Accessibility > VoiceOver > Commands > Touch Gestures.
+Triple-click the side button or Home button: Go to Settings > Accessibility > Accessibility Shortcut, then select Live Recognition. See Quickly turn accessibility features on or off .
+Tap the back of iPhone: Go to Settings > Accessibility > Touch > Back Tap, choose Double Tap or Triple Tap, then choose Live Recognition. See Tap the back of iPhone to perform actions or shortcuts .
+Press the Action button: Customize the Action button to start Live Recognition. See Use and customize the Action button .
+Note: The Action button is available on supported iPhone models .

@@ -1,0 +1,26 @@
+iPhone User Guide
+Use Live Text to interact with content in a photo or video on iPhone
+Live Text recognizes text within your photos, videos, and images you find online. You can interact with this text in multiple ways. You can select text to copy, share, or translate, or you can use quick actions to perform tasks like making a phone call, opening a website, or converting currencies.
+Live Text is available on supported models and can be used in Safari, Photos, Camera, Quick Look, and more.
+Turn on Live Text
+Before you start using Live Text, make sure it’s turned on for all supported languages.
+Go to Settings > General > Language & Region.
+Turn on Live Text (green is on).
+Copy, translate, and look up text in a photo or video
+Open a photo or pause a video that contains text.
+Tap , then touch and hold the selected text.
+Use the grab points to select specific text, then do any of the following:
+Copy Text: Copy text to paste into another app such as Notes or Messages.
+Select All: Select all the text within the frame.
+Look Up: Show personalized web suggestions.
+Translate: Translate text.
+Search the web: Look up the selected text on the web.
+Share: Share text using AirDrop, Messages, Mail, or other available options.
+Tap to return to the photo or video.
+Perform tasks within a photo or video with quick actions
+Depending on the content of the photo or video, you can tap a quick action at the bottom of the screen to do things like make a phone call, get directions, translate languages, convert currencies, and more.
+Open a photo or pause a video that contains text.
+Tap .
+Tap a quick action at the bottom of the screen.
+Tap to return to the photo or video.
+Live Text isn’t available in all regions or languages. See iOS and iPadOS Feature Availability .

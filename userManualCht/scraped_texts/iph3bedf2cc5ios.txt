@@ -1,0 +1,23 @@
+iPhone User Guide
+Share location of a lost item in Find My on iPhone
+In the Find My app on your iPhone, you can create a temporary webpage to share the location of a lost AirTag or other item. For example, you can share the webpage with an airline to help them track your mishandled bag.
+If you want to share an item with a contact, see Share an AirTag .
+Note: You can’t share the location of an item if it’s within proximity of the device sharing your location. Finding items and sharing item location aren't available in all countries or regions.
+Create and share a webpage for location updates
+Go to the Find My app on your iPhone.
+Tap Items, tap the item that you want to share location updates for, then tap Share Item Location.
+Follow the onscreen instructions to create and share a temporary webpage.
+Note: To provide updated locations, at least one of your Apple devices where you’re signed in to your Apple Account needs to be online.
+Tap Done.
+View and manage the shared item location
+Go to the Find My app on your iPhone.
+Tap Items, tap the item with the shared webpage, then tap Share Item Location.
+Do any of the following:
+Copy the URL: Tap the field at the top.
+View the details: View the Visited By and Expiration rows.
+Share the webpage with additional people: Tap Share Location Link, then choose a sharing option (such as AirDrop or Mail).
+Stop sharing location updates
+Sharing stops when you reunite with the item, after 7 days, or when you end it manually.
+Go to the Find My app on your iPhone.
+Tap Items, tap the item with the shared webpage, then tap Share Item Location.
+Tap Stop Sharing Item Location.

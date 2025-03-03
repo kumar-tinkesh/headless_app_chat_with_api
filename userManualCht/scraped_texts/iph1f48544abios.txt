@@ -1,0 +1,6 @@
+iPhone User Guide
+Customize visual accessibility settings for specific apps on iPhone
+You can choose different color, text size, and motion settings for certain apps or for the Home Screen and App Library.
+Go to Settings > Accessibility > Per-App Settings.
+Tap Add App, then choose an app from the list (or Home Screen & App Library).
+Tap the name of the app (or Home Screen & App Library) to access its settings.

@@ -1,0 +1,14 @@
+iPhone User Guide
+Change the language and region on iPhone
+You choose the language and region of your iPhone during setup. If you travel or move, you can change the language or region.
+Go to Settings > General > Language & Region.
+Set the following:
+The language for iPhone
+Your preferred form of address. (Choose feminine, masculine, or neutral. Turn on Share with All Apps so all apps personalize how they address you. Available for some primary languages—for example, Spanish.)
+The region
+The calendar format
+The temperature unit (Celsius or Fahrenheit)
+The measurement system (metric, US, or UK)
+The first day of the week
+Live Text (text you can select in images to copy or take action on)
+To add another language and keyboard to your iPhone, tap Add Language, then select a language.

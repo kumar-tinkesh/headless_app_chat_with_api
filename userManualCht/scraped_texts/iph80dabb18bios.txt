@@ -1,0 +1,30 @@
+iPhone User Guide
+Change your Mail settings on iPhone
+You can adjust your preferences for the Mail app in Settings. Customize your email signature, mark addresses outside specific domains, and more.
+Customize your Mail settings
+Go to Settings > Apps > Mail.
+Adjust any of the following settings:
+Accounts: Add or remove email accounts .
+Siri: Allow Siri to make suggestions across apps based on the way you use Mail.
+Search: Allow suggestions and content from Mail to appear in Search and widgets .
+Notifications: Allow notifications , choose the alert style and Lock Screen appearance, and customize notifications by account.
+Default Mail App: Choose the email app for new emails you draft outside of a specific app, such as emails you create using Siri.
+Message List: Change settings for your message list, such as showing To/Cc labels, choosing the length of email previews, and customizing swipe options.
+Messages: Turn on Privacy Protection , Ask Before Deleting, and Follow Up Suggestions.
+Threading: Turn on Organize by Thread to group emails in a conversation together in your message list. Adjust other settings for how threads appear and muting threads.
+Composing: Customize settings for writing emails such as including attachments with replies, showing link previews, and more.
+Undo Send Delay: Set a time period of up to 30 seconds to allow yourself to unsend a message .
+Customize your email signature
+You can customize the email signature that appears automatically at the bottom of every message you send.
+Go to Settings > Apps > Mail.
+Tap Signature (below Composing).
+Tap the text field, then edit your signature.
+You can only use text in your Mail signatures.
+Tip: If you have more than one email account, tap Per Account to set a different signature for each account.
+Mark addresses outside certain domains
+When you’re addressing an email message to a recipient who’s not in your organization’s domain, you can have the recipient’s name appear in red to alert you.
+Go to Settings > Apps > Mail.
+Tap Mark Addresses (below Composing).
+Enter the domains that are in your organization—ones that you don’t want marked in red.
+You can enter multiple domains separated by commas (for example, “apple.com, example.org”).
+The names of recipients in domains outside your organization appear in red, whether you send them an email or receive one from them.

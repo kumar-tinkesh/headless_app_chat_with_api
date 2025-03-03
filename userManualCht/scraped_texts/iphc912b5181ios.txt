@@ -1,0 +1,14 @@
+iPhone User Guide
+Configure a router in Home on iPhone
+You can use the Home app to make your smart home more secure by allowing a compatible router to control which services your HomeKit accessories can communicate with on your home Wi-Fi network and on the internet. HomeKit-enabled routers require that you have an Apple TV or HomePod set up as a home hub. See the Home Accessories website for a list of compatible routers.
+Configure your router’s settings
+Go to the Home app on your iPhone.
+Set up the router with the manufacturer’s app on an iPhone or iPad.
+On the Home tab, tap , then tap Home Settings.
+Tap Wi-Fi Network & Routers.
+Turn on HomeKit Accessory Security, tap an accessory, then choose one of these settings:
+Restrict to Home: The router only allows the accessory to connect to your home hub.
+This option may prevent firmware updates or other services.
+Automatic: The router allows the accessory to connect to an automatically updated list of manufacturer-approved internet services and local devices.
+No Restriction: The router allows the accessory to connect to any internet service or local device.
+This provides the lowest level of security.

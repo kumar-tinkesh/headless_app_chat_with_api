@@ -1,0 +1,35 @@
+iPhone User Guide
+Add email attachments in Mail on iPhone
+You can attach photos, videos, and documents to an email message. You can also scan a paper document and send it as a PDF attachment, or draw directly in a message and send the drawing as an attachment. Depending on the file size, the attachment might appear inline with the text in the message or as at the end of the message.
+Attach a photo, video, or document to an email
+You can attach and send documents, videos, and photos in your email messages for recipients to easily download and save.
+Go to the Mail app on your iPhone.
+Tap in the message where you want to insert the attachment, tap above the keyboard, then tap .
+Do one of the following:
+Attach a document: Tap , then locate the document in Files .
+In Files, tap Recent, Shared, or Browse at the bottom of the screen, then tap a file, location, or folder to open it.
+Attach a saved photo or video: Tap , then choose a photo or video. Tap Done to return to the message.
+Take a new photo or video and attach it to the message: Tap , then take a new photo or video. Tap Use Photo or Use Video to insert it into your message, or tap Retake if you want to reshoot it.
+Note: If your file exceeds the maximum size allowed by your email account, follow the onscreen instructions to send it using Mail Drop. See the Apple Support article Mail Drop limits .
+Scan and attach a document to an email
+You can scan a paper document and send it as a PDF.
+Go to the Mail app on your iPhone.
+Tap in the message where you want to insert the scanned document, tap above the keyboard, then tap .
+Tap above the keyboard.
+Position iPhone so that the document page appears on the screen—iPhone automatically captures the page.
+To capture the page manually, tap or press a volume button. To turn the flash on or off, tap .
+Tap Retake or Keep Scan, scan additional pages, then tap Save when you’re done.
+To make changes to the saved scan, tap it, then do any of the following:
+Crop the image: Tap .
+Apply a filter: Tap .
+Rotate the image: Tap .
+Delete the scan: Tap .
+Create and attach a drawing to your email
+You can draw in an email message to demonstrate ideas that are hard to put into words. Your drawing is added to the message as an attachment for recipients to view and download.
+Go to the Mail app on your iPhone.
+Tap in the message where you want to insert a drawing, then tap above the keyboard.
+Tap to show the Markup toolbar.
+Choose a drawing tool and color, then write or draw with your finger.
+See Write and draw in documents with Markup .
+When you’re finished, tap Done, then tap Insert Drawing.
+To resume work on a drawing, tap the drawing in the message, then tap .

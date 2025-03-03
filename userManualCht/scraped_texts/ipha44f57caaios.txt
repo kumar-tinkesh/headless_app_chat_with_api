@@ -1,0 +1,37 @@
+iPhone User Guide
+Get transit directions in Maps on iPhone
+You can get detailed transit directions to your destination, including departure times, connection information, and fare amounts. You can also add transit cards, see low balances, and replenish your card while using Maps to get directions.
+Note: Public transportation information is available in select areas. Features vary by country and region. See the iOS and iPadOS Feature Availability website .
+Get transit directions
+Go to the Maps app on your iPhone.
+Touch and hold anywhere on the map or enter an address in the search field, then tap Directions or .
+Tap Prefer (below the destination), then select the transit methods you want to use.
+Tap Go or Steps for the route you want to take.
+Siri: You can also say something like: “Give me transit directions to the Ferry Building.” Learn how to use Siri .
+Note: Siri transit directions are available in select areas. Features vary by country and region.
+When you get directions for select transit systems in Maps, you may also get a message that you can use Apple Pay to pay for transit, add a transit card, or add money to your transit card without opening the Wallet app or leaving Maps. See Pay for transit , below.
+Plan for a future departure or arrival time
+Go to the Maps app on your iPhone.
+Get transit directions .
+Tap Now (below the destination), select a time or date for departure or arrival, then tap Done.
+See nearby transit departures
+You can get one-tap access to the departure times for stops and stations near you.
+Go to the Maps app on your iPhone.
+Tap , then tap Nearby Transit to add it to your library.
+Tap Nearby Transit, then tap a nearby stop to see schedules and delays (when available.)
+Touch and hold an individual stop or line, then tap Pin to add it to your library.
+Tip: Swipe right to pin a line to the top of the screen.
+See major transit lines
+Go to the Maps app on your iPhone.
+With a map showing, tap the button at the top right.
+Select Transit, then tap .
+Show cash fares
+In some countries and regions, fares are listed for the suggested routes.
+Go to the Maps app on your iPhone.
+Get transit directions .
+Tap Transit Card Fares (below the destination), then tap Cash Fares.
+Pay for transit with your iPhone
+With many transit agencies, you can use your iPhone to pay for your fare.
+Use Apple Pay: With Apple Cash, credit cards, and debit cards in the Wallet app , you can make contactless transit payments with agencies that support Apple Pay .
+Use transit cards: With participating transit systems, you can pay for your fare when you store your transit cards in Wallet. See the Apple Support article Where you can ride transit using Apple Pay .
+Use transit apps: Many systems that don’t support Wallet have apps that allow you to add a card for payment. Go to the  transit agency’s official website for more information or get apps in the App Store .

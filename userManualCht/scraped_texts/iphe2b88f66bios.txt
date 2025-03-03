@@ -1,0 +1,9 @@
+iPhone User Guide
+How to subscribe to individual channels in News on iPhone
+In addition to subscribing to Apple News+ , you can subscribe to individual publications from select publishers. There are three ways to access these subscriptions in News:
+Subscribe within News: You can purchase a subscription directly in News. In a channel that offers subscriptions, tap the subscription button.
+Access an existing subscription purchased from a publisher’s app: If you downloaded a publisher’s app from the App Store, and subscriptions you’ve bought as in-app purchases are also available in News, you’re automatically granted access in News. See the Apple Support article Buy additional app features with in-app purchases and subscriptions .
+Access an existing subscription purchased from a publisher: If you’ve purchased a subscription directly from a publisher’s website or from the publisher’s app on a non-Apple device, the publisher may allow you to sign in to your account in News to access your subscription there.
+To sign in, tap a story that requires a subscription to read, then tap the “Already subscribed” link. Enter the user name and password for your existing subscription.
+When you subscribe to a channel, you automatically follow it, and stories from the channel appear in the Today feed.
+To cancel a subscription, tap the Following tab, swipe up, tap Subscriptions below the Manage heading, select the subscription, then tap Cancel Subscription.

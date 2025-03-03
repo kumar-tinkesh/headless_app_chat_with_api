@@ -1,0 +1,11 @@
+iPhone User Guide
+Set reminders on iPhone
+In the Reminders app, you can easily set reminders. Simply type or dictate in a list, ask Siri, or add a reminder from the Calendar app.
+Note: All Reminders features described in this guide are available when you use updated reminders in iCloud . Some features aren’t available when using other accounts.
+Set a reminder
+Go to the Reminders app on your iPhone.
+Tap New Reminder, then enter a description.
+Ask Siri to set a reminder
+Siri: Say something like: “Add artichokes to my groceries list.” Learn how to use Siri .
+Add a reminder in Calendar
+See Use Reminders in Calendar .

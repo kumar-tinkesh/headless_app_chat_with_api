@@ -1,0 +1,11 @@
+iPhone User Guide
+View podcast transcripts on iPhone
+In the Podcasts app, you can view and search episode transcripts.
+When an episode transcript is available, you can read it.
+Go to the Podcasts app on your iPhone.
+Do any of the following:
+While playing an episode: Tap . (You may need to tap the player near the bottom of the screen to open Now Playing.)
+While viewing episode information: Scroll down to the Transcripts section. You can also tap , then tap View Transcript.
+From the Up Next section: Tap , then tap View Transcript.
+You can read along with an episode as you play it. Tap a word to jump to that time in the episode. Tap to find a specific word or phrase.
+Note: Transcript availability may vary by language, and by country or region. See the Apple Support article Follow and play shows in Apple Podcasts on iPhone and iPad .

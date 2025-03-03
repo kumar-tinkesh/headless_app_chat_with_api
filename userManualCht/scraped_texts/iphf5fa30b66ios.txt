@@ -1,0 +1,26 @@
+iPhone User Guide
+Use Continuity to work across Apple devices
+With Continuity, you can use your iPhone together with your iPad, Mac, and Apple Watch to work smarter and move seamlessly between your devices.
+What is Continuity?
+Continuity is the way that your Apple devices work together. There are many Continuity features that allow you to easily work across your Apple devices, without ever missing a beat. There’s no specific Continuity app—it’s built into the operating system and many apps you use every day. You just need to be signed in to the same Apple Account on your Apple devices. Many features also require that you have Wi-Fi and Bluetooth ® turned on.
+There are minimum system requirements for Continuity features; see the Apple Support article System requirements for Continuity features on Apple devices .
+Share content between devices
+You can easily share content between your devices, whether it’s copying text from an iPhone and pasting on your Mac, sharing a file from your iPad to your iPhone, or handing off tasks between them.
+Quickly share photos, videos, contacts, and anything else, with anyone near you—wirelessly. AirDrop makes sharing to iPhone, iPad, and Mac as simple as dragging and dropping. See Use AirDrop on iPhone to send items to nearby Apple devices .
+Or if you want to add a photo, video, or other item directly from one device into a specific app on the other device, you can simply drag and drop it between iPhone and Mac in either direction using iPhone Mirroring. See Use iPhone Mirroring on your Mac .
+Copy text, images, photos, and videos on one Apple device and then paste the content on another Apple device with Universal Clipboard. For example, you can copy a recipe from Safari on your iPhone, then paste it into Notes on your nearby Mac. See Copy and paste between your iPhone and other Apple devices .
+Start a document, an email, or a message on one device and pick up where you left off on another device. Handoff works with apps like Mail, Safari, Maps, Messages, Reminders, Calendar, Contacts, Pages, Numbers, and Keynote. See Hand off tasks between your iPhone and your other devices .
+Use your iPhone on your Mac with iPhone Mirroring
+iPhone Mirroring allows you to use iPhone from your nearby Mac. See Use your iPhone from your Mac with iPhone Mirroring .
+Receive iPhone Notifications on your Mac
+iPhone Mirroring allows you to receive iPhone Notifications on your Mac. See Receive iPhone Notifications on your Mac .
+Answer calls, send texts, and share your internet connection
+Make it easy to stay connected when you set up your Mac or iPad to receive calls and text messages and share the Personal Hotspot on your iPhone.
+Relay calls from your iPhone to your Mac or iPad, as well as send and receive texts. You can also hand off a FaceTime call from one device to another, so if you start a call on your iPhone and want to continue it on a larger screen, it’s easy to transfer the call to your Mac. See Use iPhone to allow calls and text messages on your iPad and Mac .
+Your Mac or iPad (and other devices) can connect to the internet using the Personal Hotspot on your iPhone when they’re within range of each other—no setup is required. Your iPhone automatically appears in the Wi‑Fi status menu—just select it to connect to the internet. See Share your internet connection from your iPhone with Personal Hotspot .
+Stream content to a larger screen
+Want to see it on the big screen? Share, play, or present videos, music, photos, and more from your iPhone to your Mac. You can also stream content from iPhone to your Mac, an Apple TV, or an AirPlay 2-enabled TV. See Stream video and audio from your iPhone with AirPlay .
+Use your iPhone camera with your Mac
+With Continuity Camera, you can use your iPhone as your Mac computer’s webcam or microphone. You can also use video effects when using your iPhone as a webcam, like Portrait mode or Center Stage. See Use your iPhone as a webcam on Mac .
+With the camera on your iPhone, you can take a picture or scan a document with your iPhone and have it appear instantly on your Mac. (You can also use Markup tools on an image or draw a sketch on your iPhone and have it appear on your Mac.) See Insert sketches, photos, and scans from your iPhone on Mac .
+You can also use your iPhone camera when you make a FaceTime call on Apple TV. See Use FaceTime on Apple TV 4K (2nd generation or later) .

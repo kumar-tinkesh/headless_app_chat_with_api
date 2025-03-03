@@ -1,0 +1,28 @@
+iPhone User Guide
+Change your Phone settings on iPhone
+Change your outgoing call settings
+Go to Settings > Apps > Phone.
+Do any of the following:
+Turn on Show My Caller ID: (GSM) Your phone number is shown in My Number. For FaceTime calls, your phone number is displayed even if caller ID is turned off.
+Turn on Dial Assist for international calls: (GSM) When Dial Assist is turned on, iPhone automatically adds the correct international or local prefix when you call your contacts and favorites.
+For information about making international calls (including rates and other charges that may apply), contact your carrier.
+Hide your Caller ID
+You can prevent your Caller ID information from showing on outgoing calls on iPhone.
+Go to Settings > Apps > Phone.
+Tap Show My Caller ID, then turn it off.
+Note: If you don’t see Show My Caller ID, your carrier may not allow you to turn off your caller ID information.
+Prioritize caller identification apps
+There are multiple main sources of caller ID information:
+Contacts app: The people in your contacts app.
+Share Name and Photo: Callers who have turned on Name & Photo Sharing in Settings > Apps > Share Name and Photo.
+Carrier Call Directory: Caller information identified by supported carriers.
+Business Call Identification: Caller information identified by Apple Business Connect or your cellular provider.
+Call Identification apps: Any caller information identified by supported caller ID apps.
+If you have additional caller identification apps installed, you can prioritize them for identifying incoming calls and reorder them at any point. For example, you might want one caller identification app to be the preferred one and the others to come into play only if the primary app can’t identify the caller.
+Go to Settings > Apps > Phone > Call Blocking & Identification.
+Tap Edit at the top of the screen.
+Drag to reorder the priority of the apps.
+Turn on Dial Assist
+Dial assist automatically determines the correct international or local prefix when dialing.
+Go to Settings > Apps > Phone.
+Scroll down, then turn on Dial Assist.

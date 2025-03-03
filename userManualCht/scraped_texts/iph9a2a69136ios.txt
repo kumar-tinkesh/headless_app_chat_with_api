@@ -1,0 +1,7 @@
+iPhone User Guide
+Turn on Lock Screen features on iPhone
+You can make some commonly used features (such as Control Center, widgets, and media playback controls) available on the Lock Screen for easy access when iPhone is locked.
+Go to Settings > Face ID & Passcode (on an iPhone with Face ID) or Touch ID & Passcode (on an iPhone with a Home button).
+Turn on options below Allow Access When Locked.
+You can also supply medical information and emergency contacts in a Medical ID that first responders and others can view on your iPhone when it’s locked. See Set up and view your Medical ID .
+If you turn off Lock Screen access to a feature, you prevent someone who has your iPhone from viewing any personal information that it might contain (such as an upcoming event in the Calendar widget). However, you also lose quick access to the information yourself.

@@ -1,0 +1,7 @@
+iPhone User Guide
+Make and receive phone calls with CarPlay
+Use CarPlay to make phone calls and listen to voicemail from your iPhone.
+Siri: Say something like: “Call Eliza.” Learn how to use Siri .
+Or you can use your vehicle’s built-in controls to help make a call.
+Open Phone in CarPlay, then select an option.
+Note: If you’re viewing CarPlay Dashboard and Phone doesn’t appear in the recent apps list on the left, tap to see pages of all of your CarPlay apps, including Phone.

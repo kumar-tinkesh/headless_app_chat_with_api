@@ -1,0 +1,18 @@
+iPhone User Guide
+Schedule or display events in a different time zone in Calendar on iPhone
+In the Calendar app, events appear according to the time zone of your current location. However, you can schedule an event in a different time zone from the one currently shown in Calendar. You can also set your calendar to always display a specific time zone, even if you travel to a different location.
+Change the time zone for a new event
+You can create and edit events in Calendar and change the time zone of the event—even if it’s different from the time zone you’re currently in. For example, if you live in New York, you can create or edit an event and schedule it according to the time zone in another location—like Chicago.
+Go to the Calendar app on your iPhone.
+Tap at the top of the screen.
+Add the event details (title, location, travel time, attachments, and so on).
+Enter the start and end times for the event, then tap Time Zone.
+Search for a location, tap it, then tap Add.
+Note: You can edit the time zone of the event later if you need to.
+Always display your calendar in a specific time zone
+You can override the default time zone setting so you can display Calendar in the time zone of your choice. This can be helpful if you’re working remotely and need to keep track of the time when scheduling meetings with your colleagues in a different time zone. For example, if you live in San Francisco, but your job is based out of Boston, you can override the time zone of your current location and view your calendar events according to the time zone in Boston.
+Go to Settings > Apps > Calendar.
+Tap Time Zone Override, then tap Time Zone Override to turn it on.
+Tap Time Zone, search for a location (like Boston, for example), then tap the location.
+Events created before you turn on Time Zone Override appear in the new time zone, but also show the original time zone used when they were created.
+Note: Time Zone Override only changes the time zone shown in the Calendar app.

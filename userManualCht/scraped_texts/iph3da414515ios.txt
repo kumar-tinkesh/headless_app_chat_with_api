@@ -1,0 +1,7 @@
+iPhone User Guide
+Use shortcuts on Magic Keyboard with iPhone
+You can perform searches and use text replacements from anywhere on iPhone without taking your hands away from Magic Keyboard.
+Open Search: Press Command-Space.
+Note: You can change the actions that are performed by the Command key (and other modifier keys like Caps Lock). Go to Settings > General > Keyboard > Hardware Keyboard, tap Modifier Keys, tap a key, then choose the action you want it to perform.
+Use text replacements: You can set up text replacements that enter words or phrases after you type just a few characters. For example, type “omw” to enter “On my way!” See Save keystrokes with text replacements on iPhone .
+Choose additional accessibility keyboard shortcuts: Go to Settings > Accessibility > Keyboards > Full Keyboard Access, then turn on Full Keyboard Access. See Control iPhone with an external keyboard .

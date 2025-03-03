@@ -1,0 +1,8 @@
+iPhone User Guide
+Use a private network address on iPhone
+To help protect your privacy, your iPhone uses a unique private network address, called a media access control (MAC) address , on each Wi-Fi network it joins.
+If a network can’t use a private address (for example, to provide parental controls or to identify your iPhone as authorized to join), you can stop using a private address for that network.
+Turn a private address off for a network
+Go to Settings > Wi-Fi, then tap for a network.
+Turn Private Address off.
+Important: For better privacy, leave Private Address turned on for all networks that support it. Using a private address helps reduce tracking of your iPhone across different Wi-Fi networks.

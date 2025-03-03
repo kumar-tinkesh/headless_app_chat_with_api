@@ -1,0 +1,7 @@
+iPhone User Guide
+Annotate email attachments on iPhone
+In the Mail app, you can give feedback on a draft, decorate a photo, and more. You can also draw and write on a photo, video, or PDF attachment, then save it or send it back.
+Go to the Mail app on your iPhone.
+In the message, tap the attachment, then tap .
+Using the drawing tools, draw with your finger.
+When you’re finished, tap Done, then choose to reply to the attachment sender, start a new message, save the annotated attachment to your files, or discard your edited attachment.

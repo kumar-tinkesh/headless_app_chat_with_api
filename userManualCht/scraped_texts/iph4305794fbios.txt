@@ -1,0 +1,23 @@
+iPhone User Guide
+Learn the weather icons on iPhone
+The icons in the Weather app indicate different weather conditions, like fog or haze. Here’s a list of some of the weather icons and what they mean.
+Icon
+Description
+Sunrise
+Sunset
+Clear / Mostly clear
+Partly cloudy
+Haze
+Fog
+Windy / Breezy
+Cloudy
+Thunderstorm
+Rain
+Heavy rain
+Drizzle / Freezing drizzle
+Snow
+Heavy snow / Blizzard
+Freezing rain / Sleet / Wintry mix
+Clear / Mostly clear (night)
+Partly cloudy (night)
+Drizzle (night)

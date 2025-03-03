@@ -1,0 +1,25 @@
+iPhone User Guide
+Share Apple and App Store subscriptions with family members on iPhone
+When you’re in a Family Sharing group , you can share Apple subscriptions and eligible App Store subscriptions with other family members.
+If your Family Sharing group has purchase sharing turned on, any subscriptions shared with the group are billed directly to the organizer’s default payment method.
+Note: Not all services are available in all countries or regions, and some selections are subject to content restrictions set in Screen Time.
+Share Apple subscriptions
+Go to Settings > Family.
+Tap Subscriptions, then do one of the following:
+Tap a subscription you want to share, then follow the onscreen instructions.
+Tap Manage Subscriptions, then tap a subscription.
+See any of the following to learn more.
+Apple Arcade: See Subscribe to Apple Arcade . All members of your family can download and play Apple Arcade games from the App Store. Each player gets a personalized account—your progress is carried over between devices.
+Apple Fitness+: See Apple Fitness+ at a glance in the Apple Fitness+ User Guide. All members of your family can access workouts in the Fitness app on their iPhone or iPad.
+Apple Music: See Subscribe to Apple Music . With a family subscription, each family member gets their own music library and personal recommendations.
+Apple News+: See Subscribe to Apple News+ . All members of your family can read Apple News+ publications for no additional charge.
+Apple TV+ and Apple TV channels: See Subscribe to Apple TV+, MLS Season Pass, or an Apple TV channel and Subscribe to Apple TV channels and apps . Each family member can watch on their iPhone, iPad, iPod touch, Mac, Apple TV, and supported smart TVs and streaming devices, using their own Apple Account and password.
+iCloud+: See Subscribe to iCloud+ . When you share iCloud+, all family members have access to iCloud+ features and storage. For storage, you only share the space—your photos and documents stay private and everyone keeps using their own accounts.
+For information about combining your Apple subscriptions, see the Apple Support article Bundle Apple subscriptions with Apple One .
+Share App Store subscriptions
+You can choose which eligible App Store subscriptions you share with family members. For information about the App Store, see Get apps in the App Store .
+Go to Settings > Family > Subscriptions > Manage Subscriptions.
+Do either of the following:
+Share all new subscriptions: Turn on Share with Family. When you purchase a new subscription that’s eligible for sharing, it’s shared with your Family Sharing members by default.
+Change the settings of a specific subscription: Tap a subscription, then turn Share with Family on or off.
+If you don’t see Share with Family, the subscription isn’t eligible for sharing.

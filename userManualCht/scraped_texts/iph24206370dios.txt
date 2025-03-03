@@ -1,0 +1,8 @@
+iPhone User Guide
+Dictate text while using Magic Keyboard with iPhone
+You can dictate text instead of typing it on Magic Keyboard.
+Note: Dictation may not be available in all languages or in all countries or regions, and features may vary. Cellular data charges may apply.
+Go to Settings > General > Keyboard, turn on Enable Dictation, then choose a dictation shortcut.
+To insert text by dictating, tap to place the insertion point, then press the dictation shortcut key twice.
+To use Magic Keyboard again, quickly press the dictation shortcut key twice.
+As you speak to insert text, iPhone automatically inserts punctuation for you. You can insert emoji by saying their names (for example, “mind blown emoji” or “happy emoji”).

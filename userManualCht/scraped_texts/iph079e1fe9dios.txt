@@ -1,0 +1,6 @@
+iPhone User Guide
+Find settings on iPhone
+In the Settings app , you can search for iPhone settings you want to change, such as your passcode, notification sounds, and more.
+Tap Settings on the Home Screen (or in App Library ).
+Swipe down to reveal the search field, tap the search field, enter a term—“volume,” for example—then tap a setting.
+Tip: You can also search for settings from the Home Screen or Lock Screen.

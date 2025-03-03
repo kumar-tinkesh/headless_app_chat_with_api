@@ -1,0 +1,32 @@
+iPhone User Guide
+Work with graphs in Math Notes in Calculator on iPhone
+In Math Notes, you can insert a graph or overlay the graphs of multiple equations on the same grid to see how they relate.
+Note: Math Notes uses common mathematical symbols, the same operations as the scientific calculator , and digits from select numeric systems. Learn more on the iOS and iPadOS Feature Availability website .
+Create a graph
+Go to the Calculator app on your iPhone.
+Tap , then tap Math Notes.
+Type or write an equation with exactly two undefined variables, with one on each side of the equal sign.
+You can include defined variables as well. For example, if you know a = 3, you can graph velocity = 0.5 a t ^2. The graph’s y-axis shows velocity , and the x-axis shows t .
+When you finish the equation, a menu appears. Tap Insert Graph, then, if asked, tap to assign a variable to the x-axis.
+You can also tap an equal sign of any equation you already wrote to create a new graph.
+All graphs interpret the equations you enter as y = f(x) . The variable to the left of the equal sign graphs on the y-axis, and the other variable graphs on the x-axis.
+Modify a graph
+Go to the Calculator app on your iPhone.
+Tap , tap Math Notes, then open a Math Note with a graph.
+Do any of the following:
+See coordinates: Touch and hold the graphed function, then move your finger along the line to see each point’s x- and y-values.
+Change the shape of the function: Edit your equation. The graph updates automatically.
+Reframe the graph: Tap the graph, then swipe with two fingers to pan.
+Zoom in or out: Tap the graph, then pinch open and closed.
+Resize the graph: Tap the graph, then drag an edge or corner handle.
+Duplicate the graph: Tap the graph, then tap .
+Recolor the graph line: Tap the graph, tap , then tap the color dot to the left of the equation.
+Work with multiple graphs
+Go to the Calculator app on your iPhone.
+Tap , then tap Math Notes.
+Create a graph , as above.
+Type or write another equation, then tap Insert Graph or Add to Existing Graph.
+You can also tap an equal sign of any equation you already wrote to add it to an existing graph.
+Do any of the following:
+Combine graphs on one grid: Tap a graph, tap , then tap the equation in the list that you want to add to the graph. The appears.
+Hide a graph line: Tap the graph, tap , then tap to uncheck it.

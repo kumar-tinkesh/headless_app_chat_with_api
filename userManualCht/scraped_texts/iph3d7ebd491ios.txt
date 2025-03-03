@@ -1,0 +1,24 @@
+iPhone User Guide
+Save walks or hikes in Maps on iPhone
+You can customize a walking path to plan a hike, an exercise route, or a city tour. In U.S. national parks, you can browse hikes and filter them by length, elevation, and route type. You can also save the routes—along with any notes you add—to access when you’re offline.
+Note: Availability may vary by country or region.
+Create your own walking or hiking route
+Go to the Maps app on your iPhone.
+To select a starting point on the map, touch and hold any road, path, trail, or other place accessible by walking to drop a pin, tap More , then tap Create a Custom Route.
+Tap other points along your route to choose a path, then tap Out & Back or Close Loop to complete your route.
+Do one of the following:
+Navigate to the starting point: Tap Directions (available near the start of the route).
+Start turn-by-turn walking directions: Tap Go (available if you’re not near the route).
+Save the route for later: Tap Save, name the route and add notes (optional), then tap Done.
+Tip: Make sure Download Route is turned on if you want to access the route and the surrounding map even when you don’t have access to an internet connection.
+Browse and save hikes
+You need to be online to search for hikes.
+Go to the Maps app on your iPhone.
+Make sure you’re in the Explore map, indicated by at the top right of your map. See Choose the right map .
+Search for “hikes in [ national park name ],” then tap the search result.
+To narrow down your choices, tap the filters—such as All Lengths or All Route Types. Swipe to see more options.
+Tap to open the hike, tap Add to Library, name the hike and add notes (optional), then tap Done.
+You can also do one of the following instead of saving the hike to your library:
+If you’re near the start of the route: Tap Directions if you want to navigate to the trailhead.
+If you’re not near the route: Tap Go to start turn-by-turn walking directions.
+Tip: Make sure Download Route is turned on if you want to access the route and the surrounding map on your iPhone when you don’t have access to an internet connection.

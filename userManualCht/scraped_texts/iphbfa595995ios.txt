@@ -1,0 +1,19 @@
+iPhone User Guide
+Get started with Screen Time on iPhone
+You can get information about how you and your family members spend time on your devices—including which apps and websites you use and how often you pick up your device. Screen Time also lets you schedule time away from the screen and set limits for app use .
+Turn on Screen Time
+Go to Settings > Screen Time.
+Tap App & Website Activity, then tap Turn On App & Website Activity.
+Use Screen Time on all your devices
+You can share your Screen Time settings and reports across all your devices where you’re signed in to the same Apple Account.
+Go to Settings > Screen Time.
+Scroll down, then turn on Share Across Devices.
+View your Screen Time summary
+Any time after you turn on Screen Time , you can view a report of your device use, including how much time you spend using certain kinds of apps, how often you pick up your iPhone and other devices, which apps send you the most notifications, and more.
+Go to Settings > Screen Time.
+Tap See All App & Website Activity, then tap Devices to select which device you want to see usage for.
+Tap Week to see a summary of your weekly use, or tap Day to see a summary of your daily use.
+Use the Screen Time widget to check your device use at a glance
+You can quickly check your device use by adding a Screen Time widget to your Home Screen. The widget displays information from your Screen Time summary—the larger the widget you add, the more information it displays.
+If you set up Screen Time for family members through Family Sharing, you can tap the widget to see a list of the people in your family group. Tap the name of a family member whose report you want to view.
+You can also view your summary by tapping a Screen Time Weekly Report notification when one appears on your screen. (If the notification disappears, you can find it in Notification Center .)

@@ -1,0 +1,5 @@
+iPhone User Guide
+View participants in a grid layout in FaceTime on iPhone
+During a call with four or more people in the FaceTime app , you can view participants in same-size tiles, arranged in a grid. The speaker’s tile is highlighted automatically, so it’s easy to know who’s talking. (Depending on your iPhone model, some tiles may appear blurred.)
+In a call in the FaceTime app , tap the Grid button at the bottom left of the screen (if the button isn’t visible, tap the screen).
+To turn the grid off, tap the button again.

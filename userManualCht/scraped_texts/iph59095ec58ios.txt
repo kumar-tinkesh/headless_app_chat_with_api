@@ -1,0 +1,46 @@
+iPhone User Guide
+Use and customize Control Center on iPhone
+Control Center on iPhone gives you instant access to useful controls—including Airplane Mode, Do Not Disturb, flashlight, volume, screen brightness, and more.
+Open Control Center
+To open Control Center, do one of the following:
+On an iPhone with Face ID: Swipe down from the top-right corner of the screen.
+You can jump to specific groups of controls by swiping down through the icons on the right edge of the screen. Swipe up through the icons to go back to the first group.
+To close Control Center, swipe up from the bottom center of the screen.
+On an iPhone with a Home button: Swipe up from the bottom. If you continue swiping up, you see more groups of controls.
+To close Control Center, press the Home button.
+Access more controls in Control Center
+Many controls offer additional options. To see available options, touch and hold a control. For example, you can do the following in Control Center:
+Touch and hold the top-left group of controls, then tap to open the AirDrop options.
+Touch and hold to take a selfie, record a video, or take a photo.
+Customize controls
+You can rearrange, add, and remove controls in Control Center.
+Open Control Center .
+Tap at the top left of Control Center to begin editing the controls.
+Do any of the following:
+Rearrange controls: Drag a control to a new position.
+Remove a control or a set of controls: Tap at the upper left of the control.
+Resize a control: Drag the handle at the lower right of the control.
+Add more controls: Tap Add a Control at the bottom of the screen to open the controls gallery, then tap a control to add it to Control Center.
+When you finish customizing, close Control Center by swiping up from the bottom center of the screen.
+Add a custom group of controls
+You can add a new group of controls to Control Center.
+Open Control Center .
+Tap at the top left of the screen.
+Tap the bottommost icon (the little circle) along the right edge of the screen.
+Tap Add a Control at the bottom of the screen to open the controls gallery.
+Tap a control in the controls gallery to add it to the group.
+To further customize the new group of controls, do any of the following:
+Rearrange controls: Drag a control to a new position.
+Remove a control or a set of controls: Tap at the upper left of the control.
+Resize a control: Drag the handle at the lower right of the control.
+Add more controls: Tap Add a Control at the bottom of Control Center to open the controls gallery, then tap another control to add it to the group.
+When you finish customizing, close Control Center by swiping up from the bottom center of the screen.
+Temporarily disconnect from a Wi-Fi network
+In Control Center, tap ; to reconnect, tap it again.
+To see the name of the connected Wi-Fi network, touch and hold .
+Because Wi-Fi isn’t turned off when you disconnect from a network, AirPlay and AirDrop still work, and iPhone joins known networks when you change locations or restart iPhone. To turn off Wi-Fi, go to Settings > Wi-Fi. (To turn on Wi-Fi again in Control Center, tap .) For information about turning Wi-Fi on or off in Control Center while in Airplane Mode, see Choose iPhone settings for travel .
+Temporarily disconnect from Bluetooth devices
+In Control Center, tap ; to allow connections, tap the button again.
+Because Bluetooth® isn’t turned off when you disconnect from devices, location accuracy and other services are still enabled. To turn off Bluetooth, go to Settings > Bluetooth, then turn off Bluetooth. To turn on Bluetooth again in Control Center, tap . For information about turning Bluetooth on or off in Control Center while in Airplane Mode, see Choose iPhone settings for travel .
+Turn off access to Control Center in apps
+Go to Settings > Control Center, then turn off Access Within Apps.

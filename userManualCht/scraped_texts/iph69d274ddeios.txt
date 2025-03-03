@@ -1,0 +1,9 @@
+iPhone User Guide
+Convert units or currency in Calculator on iPhone
+Turn on unit conversions to convert length, weight, currencies, and more while using the basic or scientific calculator.
+Go to the Calculator app on your iPhone.
+While using the basic or scientific calculator, tap , then turn on Convert.
+Tap and choose the units or currencies you want to convert from and to.
+Swipe the categories at the top of the list to see others, such as Speed, Time, and Weight.
+Enter a value in either field to see conversions as you type.
+You can also convert units and currencies in Math Notes . For example, write or type “50 m in feet =” in a note.

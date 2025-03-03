@@ -1,0 +1,28 @@
+iPhone User Guide
+Use accessibility features during iPhone setup
+iPhone has accessibility features that you can turn on the first time you turn on your iPhone, to make it easier to set up and personalize other iPhone features.
+Hear what’s onscreen with VoiceOver
+VoiceOver—a gesture-based screen reader—tells you what’s happening onscreen.
+After iPhone is turned on, triple-click the side button (on an iPhone with Face ID) or triple-click the Home button (on other iPhone models) to turn on VoiceOver .
+Do any of the following and more:
+Speak the entire screen: Swipe up with two fingers.
+Find out what you’re touching: Touch the screen or drag your finger over it. VoiceOver speaks the name of the item your finger is on, including icons and text. Swipe right to elect the next item. Tap with four fingers near the top to select the first item on the screen.
+Select an item: Tap to select a button or link, and activate it by double-tapping.
+Scroll to another page: Swipe with three fingers.
+Open the onscreen rotor: Turn two fingers on the screen, as if rotating a dial. See Control VoiceOver using the rotor .
+Note: When VoiceOver is on, basic gestures don’t work as usual. See Use VoiceOver gestures and Operate iPhone when VoiceOver is on .
+You can adjust audio options, language, voice, speaking rate, how much detail VoiceOver provides, and more in VoiceOver settings .
+Zoom in on part of the screen
+Double-tap the screen with three fingers, then use the slider to set a magnification level.
+Use three fingers to scroll around the zoomed-in screen.
+See Zoom in on the iPhone screen .
+Turn on other features during setup
+You can turn on additional accessibility features from the Quick Start screen.
+Tap to turn on or adjust settings for any of the following:
+VoiceOver
+Zoom
+Display & Text Size
+Motion
+Spoken Content
+Touch (such as AssistiveTouch and Touch Accommodations , Switch Control , or any external keyboard .)
+If you’ve set up accessibility features on an iPhone or iPad that’s nearby, you can transfer your settings to your new iPhone with Quick Start—just follow the onscreen instructions. See Turn on and set up your iPhone . (See Move from an Android device to iPhone if your previous device wasn’t made by Apple.)

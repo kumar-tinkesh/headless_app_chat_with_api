@@ -1,0 +1,7 @@
+iPhone User Guide
+Show transcriptions for Intercom messages from HomePod on iPhone
+If members of your home use HomePod for Intercom messages , iPhone can transcribe the messages for you.
+Go to Settings > Accessibility > Subtitles & Captioning, then turn on Show Audio Transcriptions.
+In the Home app , tap , then tap Home Settings.
+Tap Intercom, then choose when you receive notifications.
+See Use HomePod as an Intercom in the HomePod User Guide.

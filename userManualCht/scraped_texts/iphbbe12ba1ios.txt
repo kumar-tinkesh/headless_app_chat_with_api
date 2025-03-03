@@ -1,0 +1,34 @@
+iPhone User Guide
+Important handling information for iPhone
+Cleaning. Clean iPhone immediately if it comes in contact with anything that may cause stains, or other damage—for example, dirt or sand, ink, makeup, soap, detergent, acids or acidic foods, or lotions. To clean:
+Disconnect all cables, then do one of the following to turn off iPhone:
+On an iPhone with Face ID: Simultaneously press and hold the side button and either volume button until the sliders appear, then drag the top slider.
+On an iPhone with a Home button: Press and hold the side button, then drag the slider.
+All models: Go to Settings > General > Shut Down, then drag the slider.
+Use a soft, slightly damp, lint-free cloth—for example, a lens cloth.
+Avoid getting moisture in openings.
+Don’t use cleaning products or compressed air.
+iPhone has a fingerprint-resistant oleophobic (oil-repellant) coating. This coating wears over time with normal usage. Cleaning products and abrasive materials will further diminish the coating and may scratch iPhone.
+Exposure to liquid and dust. If liquid splashes on iPhone or dust gets on it, wipe it off with a soft, lint-free cloth (for example, a lens cloth) and ensure that your iPhone is dry and free of dust before opening the SIM tray. Minimize exposing iPhone to soap, detergent, acids or acidic foods, and any liquids—for example, salt water, soapy water, pool water, perfume, insect repellent, lotion, sunscreen, oil, adhesive remover, hair dye, and solvents. If iPhone comes into contact with any of these substances, follow the instructions above in the Cleaning section.
+Supported models are splash, water, and dust resistant and were tested under controlled laboratory conditions with a rating of either IP68 or IP67 under IEC standard 60529. Splash, water, and dust resistance are not permanent conditions and resistance might decrease as a result of normal wear. Liquid damage not covered under warranty. See the Apple Support article About splash, water, and dust resistance of iPhone 7 and later . To prevent liquid damage on iPhone, avoid the following:
+Swimming or bathing with iPhone
+Exposing iPhone to pressurized water or high velocity water, such as when showering, water skiing, wake boarding, surfing, jet skiing, and so on
+Using iPhone in a sauna or steam room
+Intentionally submerging iPhone in water
+Operating iPhone outside the suggested temperature ranges or in extremely humid conditions
+Dropping iPhone or subjecting it to other impacts
+Disassembling iPhone, including removing screws
+If your iPhone has been exposed to liquid, unplug all cables and do not charge your device until it’s completely dry. Using accessories or charging when wet may damage your iPhone. Allow at least 5 hours before charging or connecting a Lightning or USB-C accessory.
+To dry iPhone, tap it gently against your hand with the Lightning or USB-C connector facing down to remove excess liquid. Leave the device in a dry area with sufficient airflow. Placing the device in front of a fan blowing cool air directly into the Lightning or USB-C connector may help the drying process.
+Do not dry your iPhone using an external heat source or insert a foreign object into the Lightning or USB-C connector such as a cotton swab or a paper towel.
+Using connectors, ports, and buttons. Never force a connector into a port or apply excessive pressure to a button, because this may cause damage that is not covered under the warranty. If the connector and port don’t join with reasonable ease, they probably don’t match. Check for obstructions and make sure that the connector matches the port and that you have positioned the connector correctly in relation to the port.
+USB-C or USB-C to Lightning Cables. Discoloration of the Lightning or USB-C connector after regular use is normal. Dirt, debris, and exposure to moisture may cause discoloration. If your Lightning or USB-C cable or connector becomes warm during use or iPhone won’t charge or sync, disconnect it from your computer or power adapter and clean the Lightning or USB-C connector with a soft, dry, lint-free cloth. Do not use liquids or cleaning products when cleaning the Lightning or USB-C connector.
+Certain usage patterns can contribute to the fraying or breaking of cables. The included cable, like any other metal wire or cable, is subject to becoming weak or brittle if repeatedly bent in the same spot. Aim for gentle curves instead of angles in the cable. Regularly inspect the cable and connector for any kinks, breaks, bends, or other damage. Should you find any such damage, discontinue use of the cable.
+Operating temperature. iPhone is designed to work in ambient temperatures between 32° and 95° F (0° and 35° C) and stored in temperatures between -4° and 113° F (-20° and 45° C). iPhone can be damaged and battery life shortened if stored or operated outside of these temperature ranges. Avoid exposing iPhone to dramatic changes in temperature or humidity. When you’re using iPhone or charging the battery, it is normal for iPhone to get warm.
+If the interior temperature of iPhone exceeds normal operating temperatures (for example, in a hot car or in direct sunlight for extended periods of time), you may experience the following as it attempts to regulate its temperature:
+iPhone stops charging.
+The screen dims.
+A temperature warning screen appears.
+Some apps may close.
+Important: You may not be able to use iPhone while the temperature warning screen is displayed. If iPhone can’t regulate its internal temperature, it goes into deep sleep mode until it cools. Move iPhone to a cooler location out of direct sunlight and wait a few minutes before trying to use iPhone again.
+See the Apple Support article Keeping iPhone, iPad, and iPod touch within acceptable operating temperatures .

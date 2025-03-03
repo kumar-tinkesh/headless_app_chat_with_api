@@ -1,0 +1,18 @@
+iPhone User Guide
+Automatically keep your files up to date on your iPhone and computer with iCloud
+You can store your files, photos, videos, and more in iCloud so you can access them and keep them synced on all your devices. Any change you make to a file on a device that’s signed in to iCloud appears on all devices that are signed in.
+You can also access your information in iCloud from anywhere by using a supported web browser. See System requirements for iCloud .
+Important: OS X 10.10 (or later) or Windows 7 (or later) are required. You must be signed in to your Apple Account on both your iPhone and your computer, along with any web browsers you might be using.
+Set up iCloud on your iPhone
+On your iPhone, go to Settings > [ your name ].
+If you don’t see your name, tap Apple Account, enter your email address or phone number, then enter your password.
+Tap iCloud, then turn on items you want to keep there.
+For example, turn on iCloud Drive to make your files in iCloud Drive available to your computer.
+Set up iCloud on your Mac
+Follow the instructions to set up iCloud features on Mac in the Mac User Guide.
+Turn on the same items that you turned on for iPhone.
+Set up iCloud on your Windows device
+Follow the instructions to set up iCloud in the iCloud for Windows User Guide.
+Turn on the same items that you turned on for iPhone, then click Apply.
+iCloud comes with an email account and 5 GB of free storage for your data. For more storage and additional features, you can subscribe to iCloud+ .
+Note: Some iCloud features have minimum system requirements. iCloud might not be available in all areas, and iCloud features might vary by area. See the Apple Support article System requirements for iCloud . For information about features, go to apple.com/icloud/ .

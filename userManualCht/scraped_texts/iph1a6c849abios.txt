@@ -1,0 +1,25 @@
+iPhone User Guide
+Use iCloud Shared Photo Library on iPhone
+After you set up or join an iCloud Shared Photo Library, you can share photos and videos with friends and family in the Photos app. You and up to five other participants can add photos and videos to the library, and any edits, comments, or other adjustments made to them are seen by everyone in real time. Content in a shared library is also added to everyone’s memories, featured photos, and the Photos widget.
+Photos and videos added to a shared library are separate from your personal library. You can easily switch between viewing the shared library, your personal library, or both in the Photos app.
+Switch between viewing your iCloud Shared Photo Library and personal library
+Go to the Photos app on your iPhone.
+Tap your account in the top-right corner, then do any of the following:
+View your Photos content and iCloud Shared Photo Library content: Tap Both Libraries.
+View only your personal Photos content: Tap Personal Library.
+View only iCloud Shared Photo Library content: Tap Shared Library.
+Content that’s part of the shared library has a badge in the top-right corner of the thumbnail when you select the All Photos option at the top of the screen.
+Make edits and changes to content in an iCloud Shared Photo Library
+When you make the following changes to photos and videos in an iCloud Shared Photo Library, all participants see the changes:
+Edits; see Edit photos and videos .
+Favorites, captions, keywords, or date and time adjustments; see See photo and video information .
+Deleted content; see Delete or hide photos and videos .
+Note: You receive notifications if content you added to the shared library is deleted. To turn off notifications, tap your account in the top-right corner of the screen in Photos, tap Shared Library, then turn off Deletion Notifications. If content you added is deleted, you can move it from Recently Deleted back to your personal library within 30 days.
+Move shared content from an iCloud Shared Photo Library to your personal library
+Photos that are stored in your shared library have a badge in their top-right corner. You can move photos and videos that you contributed to the shared library back to your personal library.
+Go to the Photos app on your iPhone.
+Open a photo or video, then tap at the top of the screen.
+Tap Move to Personal Library.
+Add storage space to your iCloud Shared Photo Library
+The content in an iCloud Shared Photo Library is available to all participants, but the iCloud storage used to store the content counts against the library organizer’s storage space.
+If the shared library content exceeds the organizer’s available storage space, the organizer can upgrade to iCloud+ or add additional storage to their existing iCloud+ subscription. See Subscribe to iCloud+ .

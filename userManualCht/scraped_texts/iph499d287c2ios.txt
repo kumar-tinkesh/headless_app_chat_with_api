@@ -1,0 +1,28 @@
+iPhone User Guide
+Protect your web browsing with iCloud Private Relay on iPhone
+When you subscribe to iCloud+ , you can use iCloud Private Relay to help prevent websites and network providers from creating a detailed profile about you. When iCloud Private Relay is on, the traffic leaving your iPhone is encrypted and sent through two separate internet relays. This prevents websites from seeing your IP address and exact location while preventing network providers from collecting your browsing activity in Safari.
+Note: iCloud Private Relay isn’t available in all countries or regions. For more information, see the iOS and iPadOS Feature Availability website .
+Turn iCloud Private Relay on
+Go to Settings > [ your name ] > iCloud > Private Relay, then tap Private Relay.
+Note: You need to turn on iCloud Private Relay on each device where you want to use it.
+Turn iCloud Private Relay off
+Go to Settings > [ your name ] > iCloud > Private Relay, then tap Private Relay.
+Do one of the following:
+Turn off iCloud Private Relay temporarily: Tap Turn Off Until Tomorrow.
+Within 24 hours, iCloud Private Relay will turn back on automatically. If you want it to resume sooner, follow the instructions for turning it on at any time.
+Turn off iCloud Private Relay completely: Tap Turn Off Private Relay.
+For information about turning off iCloud Private Relay temporarily for a specific website, see Temporarily allow a website to see your IP address .
+Turn iCloud Private Relay on or off for a Wi-Fi network
+Go to Settings > Wi-Fi.
+Tap , then turn Limit IP Address Tracking on or off.
+If you turn off Limit IP Address Tracking for a Wi-Fi network on your iPhone, iCloud Private Relay is turned off for this network across all your devices where you’re signed in to the same Apple Account .
+Turn iCloud Private Relay on or off for a cellular network
+Go to Settings > Cellular, then do one of the following:
+If your iPhone has a single line: Tap Cellular Data Options.
+If your iPhone has multiple lines: Select a line (below SIMs).
+Turn Limit IP Address Tracking on or off.
+The network setting is specific to a physical SIM or eSim in your iPhone (eSIM not available in all countries or regions). See View or change cellular data settings .
+Set the specificity of your IP address location
+Go to Settings > [ your name ] > iCloud > Private Relay > IP Address Location, then choose one of the following:
+Maintain General Location (for example, to see local content in Safari)
+Use Country and Time Zone (to make your location more obscure)

@@ -1,0 +1,22 @@
+iPhone User Guide
+Take a screenshot on iPhone
+Take a picture of what appears on your iPhone screen so you can view it later, share it with others, or attach it to documents.
+Take a screenshot with an iPhone that has Face ID
+Quickly press and release the side button and the volume up button at the same time.
+A thumbnail of the screenshot temporarily appears in the lower-left corner of your screen.
+Tap the thumbnail to view the screenshot or swipe left to dismiss it.
+Screenshots are automatically saved to your photo library in the Photos app. To see all of your screenshots in one place, open Photos, scroll down to Media Types, tap Media Types, then tap Screenshots.
+Take a screenshot with an iPhone that has Touch ID
+Quickly press and release the side button and the Home button at the same time.
+A thumbnail of the screenshot temporarily appears in the lower-left corner of your screen.
+Tap the thumbnail to view the screenshot or swipe left to dismiss it.
+Screenshots are automatically saved to your photo library in the Photos app. To see all of your screenshots in one place, open Photos, scroll down to Media Types, tap Media Types, then tap Screenshots.
+Take a full-page screenshot
+You can take a screenshot of content that exceeds the length of your iPhone screen, such as an entire webpage in Safari.
+Do one of the following:
+On an iPhone with Face ID: Quickly press and release the side button and volume up button at the same time.
+On an iPhone with a Home button: Quickly press and release the side button and the Home button at the same time.
+Tap the screenshot thumbnail in the lower-left corner of the screen.
+Tap Full Page, tap Done, then do one of the following:
+Tap Save to Photos to save the screenshot in your Photos library.
+Tap Save PDF to Files, choose a location, then tap Save to save the screenshot in the Files app.

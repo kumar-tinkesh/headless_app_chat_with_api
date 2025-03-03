@@ -1,0 +1,8 @@
+iPhone User Guide
+Open apps on iPhone
+You can quickly open apps from one of your Home Screen pages (like the one shown below) or your App Library .
+To go to the Home Screen, swipe up from the bottom edge of the screen (on an iPhone with Face ID) or press the Home button (on an iPhone with a Home button).
+Swipe left to browse apps on other Home Screen pages.
+Swipe left past all your Home Screen pages to see App Library, where your apps are organized by category.
+To open an app, tap its icon.
+To return to App Library, swipe up from the bottom edge of the screen (on an iPhone with Face ID) or press the Home button (on an iPhone with a Home button).

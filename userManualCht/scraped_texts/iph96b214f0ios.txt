@@ -1,0 +1,23 @@
+iPhone User Guide
+Hear iPhone speak the screen, selected text, and typing feedback
+Even if VoiceOver is turned off, you can have iPhone read text on the screen out loud. Have iPhone read the entire screen or a specific selection. Or hear what you type spoken out loud, character by character or word by word.
+Have iPhone speak onscreen text
+Go to Settings > Accessibility > Spoken Content.
+Turn on any of the following:
+Speak Selection: Have iPhone speak the text you select.
+Speak Screen: Have iPhone read all text on the screen, starting from the top.
+Turn on Speech Controller to keep the Speak Screen controls on the screen.
+Turn on Highlight Content to have words or sentences highlighted as iPhone reads them out loud.
+Typing Feedback options: As you type, have iPhone speak character by character, word by word, and more.
+Do any of the following:
+Hear selected text (if you turned on Speak Selection): Select the text you want spoken, then tap Speak.
+Hear all text on the screen (if you turned on Speak Screen): Swipe down with two fingers from the top of the screen.
+Use the controls that appear to pause speaking, adjust the rate, navigate forward or back to the content you want to hear, or use Speak on Touch (tap the text you want iPhone to read).
+Hear what you type (if you turned on Typing Feedback options): Start typing.
+Siri: Say something like: “Speak screen.” Learn how to use Siri .
+Change how Spoken Content sounds
+Go to Settings > Accessibility > Spoken Content.
+Adjust any of the following:
+Voices: Choose a voice and dialect.
+Speaking Rate: Drag the slider.
+Pronunciations: Dictate or spell out how you want certain phrases to be spoken.

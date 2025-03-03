@@ -1,0 +1,10 @@
+iPhone User Guide
+Upgrade to the new Home architecture on iPhone
+iOS 16.2 introduced a new Home architecture that’s more reliable and efficient. For availability and details, see the Apple Support article Upgrade to the new Home architecture .
+Before you upgrade, make sure that Apple devices connected to your home are using the latest software. This includes any owner’s devices and any shared users’ devices.
+Note: A home hub such as Apple TV (4th generation or later) or HomePod is required for features such as remote access, sharing your Home, notifications, automations, HomeKit Secure Video, and Adaptive Lighting. iPad is not supported as a home hub with the new Home architecture. You can continue to use the Home app on iPad to connect and control your smart home accessories.
+Upgrade your home
+Go to the Home app on your iPhone.
+On the Home tab, tap , then tap Home Settings.
+Tap Software Update, tap Learn More, then follow the onscreen instructions.
+Note: Any connected devices that aren’t using the latest software will lose access to the upgraded home until they’re updated.

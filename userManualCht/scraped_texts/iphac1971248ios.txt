@@ -1,0 +1,24 @@
+iPhone User Guide
+Listen to audiobooks in the Books app on iPhone
+Use the Books app to listen to audiobooks on your iPhone.
+Play an audiobook
+Go to the Books app on your iPhone.
+Navigate to an audiobook, then tap the cover to start playing it.
+While the audiobook is playing, do any of the following:
+Skip forward or back: Tap or touch and hold the rounded arrows next to the Pause button. Or, use external controls such as headphones or car controls.
+Note: To change the number of seconds to skip forward or back, go to Settings > Apps > Books. Below Audiobooks, tap Skip Forward or Skip Back, then tap an option.
+Go to a specific time: Drag the slider below the audiobook cover left or right.
+Adjust the volume: Drag the slider below the Pause button left or right.
+Speed it up or slow it down: Tap 1x in the lower-left corner, then drag the dial up or down to adjust the narration speed. Touch and hold the narration speed to reset it to 1x.
+Set a sleep timer: Tap , then choose a duration.
+Play on a different device: Tap , then choose an available device such as HomePod, Apple TV, or Bluetooth® speakers.
+Go to a chapter: Tap , then tap a chapter.
+Note: Some audiobooks refer to chapters as tracks , or don’t define chapters.
+Switch to the audiobook mini-player: Swipe down from anywhere on the screen, or tap at the top of the screen. Tap the mini-player at the bottom of the screen to go back to full screen.
+Close the audiobook player: Swipe down from anywhere on the screen, or tap at the top of the screen. Touch and hold the mini-player, then tap Close Audio Player.
+If a Wi-Fi connection to the internet isn’t available, audiobooks play over your carrier’s cellular network, which may result in additional fees. To manage cellular data usage, see View or change cellular data settings .
+Find supplemental PDFs
+Some audiobooks come with supplemental PDFs.
+Go to the Books app on your iPhone.
+Tap Library, then tap below an audiobook cover.
+Tap View PDF Content.

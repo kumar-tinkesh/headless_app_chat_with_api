@@ -1,0 +1,6 @@
+iPhone User Guide
+Quit and reopen an app on iPhone
+If an app isn’t responding, you can quit it and then reopen it to try and resolve the issue. (Typically, there’s no reason to quit an app; quitting it doesn’t save battery power, for example.)
+To quit the app, open the App Switcher , swipe right to find the app, then swipe up on the app.
+To reopen the app, go to the Home Screen (or App Library ), then tap the app.
+If quitting and reopening the app doesn’t resolve the issue, try restarting iPhone.

@@ -1,0 +1,5 @@
+iPhone User Guide
+Change the layout in Safari on iPhone
+You can choose the tab bar layout that works best for you. Depending on the layout, the search field appears at the top (Single Tab layout) or bottom (Tab Bar layout) of the screen.
+Go to Settings > Apps > Safari.
+Scroll down to Tabs, then select either Tab Bar or Single Tab.

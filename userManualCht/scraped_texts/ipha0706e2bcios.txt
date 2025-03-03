@@ -1,0 +1,17 @@
+iPhone User Guide
+Record videos in Cinematic mode with your iPhone camera
+Cinematic mode applies a depth-of-field effect that keeps the subject of your video sharp while creating a beautifully blurred foreground and background. iPhone automatically identifies the subject of the video and keeps it in focus throughout the recording; if a new subject is identified, iPhone automatically transitions the point of focus. You can also manually adjust the point of focus while you record, or change it later in the Photos app.
+Cinematic mode is available on supported models .
+Open Camera on your iPhone.
+Select Cinematic mode , then do any of the following before you record:
+Tap , then drag the slider left or right to adjust the depth-of-field effect.
+On supported models , tap 2 or 3 next to 1x to zoom in.
+On iPhone 14 models, iPhone 15 models, and iPhone 16 models, use quick toggles to change the video resolution and frame rate.
+Tap the Record button or press either volume button to start recording.
+A yellow frame on the screen indicates the person in focus; a gray frame indicates a person is detected, but not in focus. Tap the gray box to change the focus; tap again to lock the focus on that person.
+If there isn’t a person in the video, tap anywhere on the screen to set the focus point.
+Touch and hold the screen to lock the focus at a single distance.
+On iPhone 15 Pro models and iPhone 16 Pro models, tap 2x to zoom, or pinch the iPhone screen to continuously zoom in and out.
+Tap the Record button or press either volume button to stop recording.
+Tip: On iPhone 16 models, you can use the Camera Control to adjust the depth-of-field effect. See Select and adjust the Camera Control settings .
+After you record a video in Cinematic mode, you can remove or change the cinematic effect. See Edit Cinematic mode videos .

@@ -1,0 +1,26 @@
+iPhone User Guide
+Charge the iPhone battery
+iPhone has an internal, lithium-ion rechargeable battery, which currently provides the best performance for your device. Compared with traditional battery technology, lithium-ion batteries are lighter, charge faster, last longer, and have a higher power density for more battery life.
+To understand how your battery works so you can get the most out of it, see the Apple Lithium-ion Batteries website .
+About charging the battery
+The battery icon in the top-right corner shows the battery level or charging status. When you’re syncing or using iPhone, it may take longer to charge the battery.
+If iPhone is very low on power, it may display an image of a nearly depleted battery, indicating that it needs to charge for up to 10 minutes before you can use it. If iPhone is extremely low on power when you begin to charge it, the display may be blank for up to 2 minutes before the low-battery image appears. See the Apple Support article If your iPhone won’t charge .
+Charge the battery
+To charge iPhone, do any of the following:
+Connect iPhone to a power outlet using the charging cable (included) and an Apple USB power adapter or other compatible power adapter (sold separately). See Power adapters .
+Place iPhone face up on MagSafe Charger or MagSafe Duo Charger (connected to Apple 20W USB-C power adapter or other compatible power adapter) or on a Qi-certified charger. (MagSafe Charger, MagSafe Duo Charger, power adapters, and Qi-certified chargers are sold separately.) See MagSafe chargers and battery packs and Qi-certified wireless chargers .
+Note: You can also use third-party power adapters and Qi-certified chargers that are compliant with applicable country regulations and international and regional safety standards. See “Charging” in Important safety information for iPhone .
+Connect iPhone and your computer with a cable.
+Make sure your computer is turned on—if iPhone is connected to a computer that’s turned off, the battery may drain instead of charge. Look for on the battery icon to make sure your iPhone is charging.
+Note: Don’t try to charge your iPhone by connecting it to your keyboard, unless your keyboard has a high-power USB port.
+Connecting iPhone to a power outlet or placing it on a wireless charger can start an iCloud backup or wireless computer syncing. See Back up iPhone and Sync supported content .
+WARNING: If you suspect there may be liquid in the charging port of iPhone, don’t plug the charging cable into it. For information about exposure to liquid, and other important safety information about the battery and charging iPhone, see Important safety information for iPhone .
+Optimize iPhone battery charging
+iPhone has a setting that helps slow the rate of your battery’s aging by reducing the time it spends fully charged. This setting uses machine learning to understand your daily charging routine, then waits to finish charging past 80 percent until you need it.
+Go to Settings > Battery > Battery Health & Charging.
+Do one of the following:
+On iPhone 14 and earlier models: Turn on Optimized Battery Charging.
+On iPhone 15 and later models: Tap Charging Optimization, then choose Optimized Battery Charging.
+If optimized charging doesn’t start when expected, see the Apple Support article About Optimized Battery Charging on your iPhone .
+Battery life and charge cycles vary with use and settings. To learn how to maximize your battery’s performance and lifespan, see the Apple Support article iPhone Battery and Performance .
+The iPhone battery should be serviced or recycled by Apple or an Apple Authorized Service Provider. See the Battery Service and Recycling website .

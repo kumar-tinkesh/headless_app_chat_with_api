@@ -1,0 +1,42 @@
+iPhone User Guide
+Use hearing devices with iPhone
+You can use MFi hearing aids or sound processors with iPhone and adjust their settings. For a list of models that work well with iPhone, see the Apple Support article Made for iPhone compatible hearing devices .
+If you have AirPods Pro 2, you can use your iPhone to take a hearing test. If you have perceived mild to moderate hearing loss, you can get hearing assistance with the Hearing Aid feature. See Use hearing health features with AirPods Pro 2 .
+Pair hearing devices with iPhone
+If your hearing devices aren’t listed in Settings > Accessibility > Hearing Devices, you need to pair them with iPhone.
+If your hearing devices are already paired to another nearby device, such as a Mac or iPad, make sure Bluetooth ® is turned off on those devices. (When you finish pairing your hearing devices to your iPhone, you can turn Bluetooth on again on those devices.)
+On iPhone, go to Settings > Bluetooth, then make sure Bluetooth is turned on.
+Go to Settings > Accessibility > Hearing Devices.
+Turn your hearing devices off and back on again.
+If you’re unsure how to turn them off, refer to the instructions that came with them, or check with the audiologist who helped you set them up.
+When their name appears below MFi Hearing Devices (this could take a minute), tap the name and respond to the pairing requests.
+Pairing can take as long as 60 seconds—don’t try to stream audio or otherwise use the hearing devices until pairing is finished. When pairing is finished, you hear a series of beeps and a tone, and a checkmark appears next to the hearing devices in the Devices list.
+You need to pair your devices only once (and your audiologist might do it for you). After that, your hearing devices automatically reconnect to iPhone whenever they turn on.
+Adjust the settings and view the status of your hearing devices
+In Settings: Go to Settings > Accessibility > Hearing Devices > MFi Hearing Devices.
+By triple-clicking the side or Home button: Use the Accessibility Shortcut if you’ve set it up.
+In Control Center: Tap . (If you don’t see , add it to Control Center .)
+On the Lock Screen: Go to Settings > Accessibility > Hearing Devices > MFi Hearing Devices, then turn on Control on Lock Screen. From the Lock Screen, you can do the following:
+Check battery status.
+Adjust ambient microphone volume and equalization.
+Choose which hearing device (left, right, or both) receives streaming audio.
+Control Live Listen.
+Choose whether phone and media audio are routed to the hearing device.
+Choose to play ringtones through the hearing device.
+Use your hearing devices with more than one device
+If you pair your hearing devices with more than one device (both iPhone and iPad, for example), the connection for your hearing devices automatically switches from one to the other when you do something that generates audio on the other device, or when you receive a phone call on iPhone.
+Changes you make to hearing device settings on one device are automatically synced with your other devices.
+Sign in to your Apple Account on all the devices.
+Connect all the devices to the same Wi-Fi network.
+Turn on Hearing Aid Compatibility
+Hearing Aid Compatibility may reduce interference and improve audio quality with some hearing aid models.
+Go to Settings > Accessibility > Hearing Devices.
+Turn on Hearing Aid Compatibility.
+For iPhone hearing aid compatibility ratings, see the Apple Support article About Hearing Aid Compatibility (HAC) requirements for iPhone .
+Hearing aid compatibility ratings aren’t a guarantee that a particular hearing aid works well with a particular phone. Some hearing aids might work well with phones that do not meet the FCC requirements for hearing aid compatibility. To ensure that a particular hearing aid works well with a particular phone, use them together before purchasing.
+Stream audio to your hearing devices
+You can stream audio from phone calls, music, movies, podcasts, Siri, and more.
+Tap in Control Center, on the Lock Screen, or in the Now Playing controls for the app you’re listening to.
+Choose your hearing device.
+You can also automatically route audio calls to a hearing device.
+To troubleshoot issues you have using your hearing devices with iPhone, see the Apple Support article Use Made for iPhone hearing devices .

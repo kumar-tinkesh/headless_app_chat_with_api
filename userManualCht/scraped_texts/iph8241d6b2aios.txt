@@ -1,0 +1,36 @@
+iPhone User Guide
+Set timers in Clock on iPhone
+You can set timers to count down from specified times.
+Siri: Say something like: “Set the timer for 3 minutes” or “Stop the timer.” Learn how to use Siri .
+Set a custom timer
+Go to the Clock app on your iPhone.
+Tap Timers, then set a duration of time.
+Choose any of the following options:
+Label: Give the timer a name, like “Egg timer.”
+When Timer Ends: Choose a sound to play when the timer ends.
+Tap Start.
+Note: The timer continues even if you open another app or if iPhone goes to sleep.
+When you set a custom timer, it appears below Recent—so you can start the same timer whenever you want.
+Set a timer to stop playing audio or video
+If you want to stop playing audio or video after a specific amount of time, you can set the timer to stop the playback—for example, when you fall asleep while listening to the radio.
+Go to the Clock app on your iPhone.
+Set a custom timer , as above.
+Tap When Timer Ends, then tap Stop Playing at the bottom of the list of sounds.
+Tap Start.
+Set multiple timers
+After you start a custom timer, you can add more timers to keep track of different tasks at the same time.
+Go to the Clock app on your iPhone.
+Tap Timers, then start a timer.
+Tap at the top right, then do one of the following:
+Add a custom timer: Set a duration of time, add a label or sound, then tap Start at the top right.
+Add a recent timer: Tap next to a timer you’ve recently set.
+Tap the timer to edit the label and sound.
+Stop, pause, or remove a timer
+When a timer ends, you get a notification at the top of your screen, no matter which app you’re using. Tap to clear the notification, or tap if you want the timer to run again.
+You can also turn off a timer before it ends.
+Go to the Clock app on your iPhone.
+Tap Timers, then do any of the following:
+Pause a timer: Tap next to the timer to stop it momentarily. Tap to continue counting down.
+Remove a timer: Swipe left, then tap Delete.
+Remove several timers: Tap Edit, tap .
+From your Lock Screen, you can swipe left on a timer, then tap Clear.

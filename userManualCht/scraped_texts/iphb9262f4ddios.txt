@@ -1,0 +1,31 @@
+iPhone User Guide
+Send a text message via satellite on iPhone
+On iPhone 14 models or later with iOS 18 or later, you can text friends and family via satellite when you’re outside of cellular and Wi-Fi coverage (U.S. and Canada only).
+Important: To connect with emergency services, use Emergency SOS .
+Before you begin
+To set up your iPhone to use either iMessage or SMS via satellite, do the following before you’re outside of cellular or Wi-Fi coverage:
+Turn on iMessage .
+Check that your SIM is active.
+If you want someone to be able to initiate an SMS conversation via satellite, add them to your Family Sharing group or emergency contacts (see Set up and view your Medical ID ). Anyone else must first get an SMS message from you (via satellite) before they can reply.
+Send and receive messages via satellite
+When you try to send a text message but you’re outside of cellular and Wi-Fi coverage, you get an alert to connect to your nearest satellite. You can then exchange texts, Tapbacks, and emoji over iMessage and SMS.
+Go to the Messages app on your iPhone.
+If you see an alert that you’re outside of cellular and Wi-Fi coverage, tap Use Messages via Satellite.
+Follow the instructions to connect to a satellite, while remaining aware of your surroundings. You don’t need to raise your phone—just hold it as you normally would, and make sure that you’re outside with a clear view of the sky and the horizon. If you’re under heavy foliage or surrounded by other obstructions, you might not be able to connect to a satellite.
+Other satellite-enabled services also become available, including Emergency SOS , Roadside Assistance , and Find My .
+Enter your message, then tap . (The Send button is green instead of blue when sending with SMS.)
+It may take a few minutes to send your message via satellite.
+When you connect, a green dot and appear at the top of your screen. If your connection weakens, the green dot turns orange, and and tell you where to find the signal.
+If you have cellular or Wi-Fi coverage and use iMessage via satellite to communicate with someone who doesn’t have either, an alert tells you if your contact is accepting messages via satellite. Tap , then tap Send via Satellite (below the message bubble) to send your message.
+How messages via satellite works
+When possible, iPhone uses iMessage to send or receive texts via satellite to people in your contact list.
+When iMessage isn’t available, iPhone uses SMS messaging via satellite to reach any mobile phone number. This may happen if any of the following is true of the person you’re texting:
+They don’t have iMessage.
+They’re not in your contacts.
+They haven’t updated their device to iOS 18, iPadOS 18, macOS Sequoia, watchOS 11, visionOS 2, or later.
+You haven’t been in contact with them over iMessage recently (in the last month or so).
+While using iMessage outside of cellular and Wi-Fi coverage, anyone you communicate with who’s in your contacts and has a cellular or Wi-Fi connection sees a status letting them know that you’re receiving messages via satellite if they recently updated their iOS .
+Messages via satellite is free for 2 years after activation.
+To preview how the feature works, go to Settings > Apps > Messages, then tap Satellite Connection Demo.
+Note: Not all carriers support SMS messaging via satellite, and some features may vary. Third parties and affiliates provide the network for satellite connection features.
+For more information, see the Apple Support article About Messages via satellite .

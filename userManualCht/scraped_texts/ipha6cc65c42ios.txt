@@ -1,0 +1,16 @@
+iPhone User Guide
+Transfer files or sync content between your iPhone and computer with the Finder or iTunes
+You can connect your iPhone to a computer to do the following:
+Transfer files used by iPhone apps that support file sharing.
+Sync supported content like movies and podcasts.
+Depending on your computer, you use either the Finder or iTunes on your computer to transfer files and sync content.
+Transfer files for supported apps
+You can transfer files by copying them from one device to another using the Finder or iTunes. Only files from iPhone apps that support file sharing can be transferred.
+To transfer files with your Mac (macOS 10.15 or later): See the Apple Support article Use the Finder to share files between your Mac and your iPhone .
+To transfer files with your Windows device or Mac (macOS 10.14 or earlier): See the Apple Support article Use iTunes to share files between your computer and your iOS or iPadOS device .
+Sync supported content
+Syncing with the Finder or iTunes keeps supported content up to date between your iPhone and computer. For example, you can set up syncing so that when you add a movie to your iPhone, it also appears on your computer. After you set up syncing between your devices with a cable, you can set them to sync wirelessly and automatically whenever they’re connected to the same Wi-Fi network.
+You can sync content like music, movies, TV shows, podcasts, photos, contacts, and calendars.
+To sync content with your Mac (macOS 10.15 or later): See Sync content between your Mac and iPhone or iPad in the Mac User Guide.
+To sync content with your Windows device or Mac (macOS 10.14 or earlier): See the Apple Support article Use iTunes to sync your iPhone or iPad with your computer .
+If the files you want to share between your iPhone and computer aren’t supported by syncing or transferring with the Finder or iTunes, see Transfer files between your iPhone and your computer for other options.

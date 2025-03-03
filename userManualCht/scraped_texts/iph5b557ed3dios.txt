@@ -1,0 +1,46 @@
+iPhone User Guide
+See news stories chosen just for you on iPhone
+The Today feed in the News app presents top stories selected by Apple News editors, the best stories from the channels and topics you follow, and stories and issues from Apple News+ . The Today feed also includes stories suggested by Siri—trending stories that are popular with other News readers, My Sports , and more. Depending on your location, the Today feed can also include Apple News Today audio briefings, puzzles , and local news (with your local weather conditions).
+Note: Apple News Today audio briefings, local news, and puzzles aren’t available in all countries or regions.
+Access stories in the Today feed
+Go to the News app on your iPhone.
+Do one of the following:
+Open a story: Tap the story.
+Read more stories within a group: Tap the arrow at the bottom of the group.
+Play a video: Tap in the thumbnail.
+Get newer stories: Pull down to refresh the Today feed with the latest stories.
+Follow, unfollow, block, and unblock channels and topics
+You can influence what appears in the Today feed by following and blocking channels and topics.
+Go to the News app on your iPhone.
+Do any of the following:
+Open a channel feed: Touch and hold a story, tap the channel name, then tap Go to Channel. Or tap a story in the Today feed, then tap the channel name at the top of the story.
+Open a topic feed: Tap the topic title—Movies or Travel, for example.
+At the top of the feed, do any of the following:
+Follow: Tap .
+Unfollow: Tap , then tap Unfollow Channel or Unfollow Topic.
+Block: Tap , then tap Block Channel or Block Topic.
+Unblock: Tap , then tap Unblock Channel or Unblock Topic.
+Note: When you browse Top Stories and other areas that feature stories curated by Apple News editors, stories from channels you blocked show a gray headline and a message indicating that you blocked the channel. To read a story from a blocked channel, tap it, then tap Read Story.
+See the Apple Support article Block and unblock channels and topics in Apple News .
+Manage your favorites
+Favorites shows the channels and topics from your Following list that you like best (you can have only a limited number of Favorites). Adding channels and topics to your Favorites makes them easier to access.
+Note: Only channels and topics that you currently follow can be added to your Favorites.
+The first time you use the News app on your iPhone, you won’t see any Favorites. You create your Favorites group by marking channels and topics as favorites. You can customize your list at any time.
+Go to the News app on your iPhone.
+Tap Following, tap Edit, then do any of the following:
+Add a channel or topic to your Favorites: Tap next to a channel or topic to mark it as a favorite, then tap Done.
+Remove a favorite: Tap next to a channel or topic you no longer want as a favorite, then tap Done.
+Reorder favorites: Touch and hold , drag favorites to the order you prefer, then tap Done,
+You can also swipe up to Favorites in the Today feed, tap , then tap Manage Favorites.
+To remove the Favorites group from your Today feed, swipe up to Favorites, tap , then tap Block from Today. To unblock Favorites, tap Following, swipe up, tap Blocked Channels & Topics, tap next to Favorites, then tap Unblock.
+Note: If you tap Block from Today in the Today feed, your Favorites group still appears in your Following list.
+Stop suggesting specific channels and topic groups in the Today feed
+Suggested channels and topic groups may appear in the Today feed, but you can stop these suggestions.
+Go to the News app on your iPhone.
+Tap Today.
+Tap in a channel or topic group, then tap Stop Suggesting.
+The channel or topic isn’t blocked, but News stops displaying the story group in Today.
+Tell News what kind of stories you prefer
+Go to the News app on your iPhone.
+Tap Today.
+Tap below a headline, then tap Suggest More or Suggest Less.

@@ -1,0 +1,23 @@
+iPhone User Guide
+Save keystrokes with text replacements on iPhone
+Set up a text replacement you can use to enter a word or phrase by typing just a few characters. For example, type “omw” to enter “On my way!” That one’s already set up for you, but you can also add your own.
+Create a text replacement
+While typing in a text field, touch and hold or .
+Tap Keyboard Settings, then tap Text Replacement.
+Tap at the top right.
+Type a phrase in the Phrase field and the text shortcut you want to use for it in the Shortcut field.
+Have a word or phrase you use and don’t want it corrected?
+Go to Settings > General > Keyboard, then tap Text Replacement.
+Tap at the top right, then enter your word or phrase in the Phrase field, but leave the Shortcut field blank.
+Create a text replacement for word and input pairs
+When using certain Chinese or Japanese keyboards, you can create a text replacement for word and input pairs. The text replacement is added to your personal dictionary. When you type the text shortcut for a word or input while using a supported keyboard, the paired word or input is substituted for the typed shortcut.
+Shortcuts are available for the following:
+Simplified Chinese: Pinyin
+Traditional Chinese: Pinyin and Zhuyin
+Japanese: Romaji and Kana
+Use iCloud to keep your personal dictionary up to date on your other devices
+Go to Settings > [ your name ] > iCloud, then turn on iCloud Drive.
+Reset your personal dictionary
+Go to Settings > General > Transfer or Reset iPhone.
+Tap Reset, then tap Reset Keyboard Dictionary.
+All custom words and shortcuts are deleted, and the keyboard dictionary returns to its default state.

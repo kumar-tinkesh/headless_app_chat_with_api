@@ -1,0 +1,7 @@
+iPhone User Guide
+Clear your location history in Maps on iPhone
+The Maps app uses information about your significant locations from Location Services to provide you with personalized services like predictive traffic routing. Your significant locations are end-to-end encrypted and can’t be read by Apple. You can delete your significant locations at any time—for example, to reset predictive traffic routing and similar personalized services.
+Go to Settings > Privacy & Security.
+Tap Location Services, tap System Services, then tap Significant Locations.
+Tap Clear History.
+This action clears all your significant locations everywhere you’re signed in to the same Apple Account .

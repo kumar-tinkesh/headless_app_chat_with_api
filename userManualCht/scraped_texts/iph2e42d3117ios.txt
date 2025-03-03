@@ -1,0 +1,38 @@
+iPhone User Guide
+Send and receive audio messages in Messages on iPhone
+You can record and send audio messages, along with transcripts of what’s said in the message. Audio messages are automatically deleted to save space on your iPhone, but if you want to save them, you can.
+Note: Audio message transcription available in select languages. See the iOS and iPadOS Feature Availability website .
+Record and send an audio message
+Instead of writing a text message, you can record an audio message that can be played right in the Messages conversation.
+Go to the Messages app on your iPhone.
+Start a new message or open a conversation, tap , then tap Audio.
+Begin speaking, tap to pause or end your recording, then do any of the following to your message:
+Send it: Tap .
+Listen to review it: Tap .
+Add to the end of it: Tap (with the message duration).
+Cancel it: Tap .
+Tap Keep to save an incoming or outgoing audio message on your iPhone.
+Otherwise, the recording is deleted from the conversation—on your iPhone only—2 minutes after you send or listen to it. Recipients can play your recording any time after they receive it. To save it, they need to tap Keep within 2 minutes after listening to it.
+Tip: Send follow-up audio messages more quickly by tapping in the text field above the keyboard.
+Audio messages are automatically transcribed in the language chosen in the sender’s Settings. See Change the language and region to switch to another language for your outgoing messages.
+Always keep audio messages
+Go to Settings > Apps > Messages.
+Tap Expire (below Audio Messages), then tap Never.
+Listen or reply to a recorded audio message
+Go to the Messages app on your iPhone.
+Open a conversation with an audio message, then tap to play it.
+Do any of the following:
+Slide right and left on the audio message to fast-forward or rewind.
+Touch and hold or to adjust the playback speed.
+Tap Keep to save an audio message in the Messages conversation.
+To save the message in the Voice Memos app , touch and hold the audio message, then tap Save to Voice Memos.
+Use Raise to Listen
+When you receive an audio message, you can move your iPhone to play and reply to the message. Do either of the following:
+Play an audio message: Raise your iPhone to your ear.
+Reply to an audio message: Lower your iPhone and raise it to your ear again, then speak after you hear a tone. Tap to send your reply.
+Turn off Raise to Listen
+If you don’t want audio messages to play when you raise your iPhone to your ear, you can turn the feature off.
+Go to Settings > Apps > Messages.
+Turn off Raise to Listen.
+Switch to FaceTime from Messages
+You can quickly make an audio or video call instead of sending a message by switching to FaceTime. In a Messages conversation, tap .

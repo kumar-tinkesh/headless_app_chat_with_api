@@ -1,0 +1,26 @@
+iPhone User Guide
+Make stickers from your photos on iPhone
+In the Photos app, you can make stickers from the subjects in your photos and animated stickers from the subjects in your Live Photos. Then use your stickers to decorate messages, photos, notes, and more.
+Turn a photo into a sticker
+You can turn the main subject of a photo into a sticker.
+Go to the Photos app on your iPhone.
+Tap a photo to open it in full screen.
+Touch and hold the subject, then release.
+Tap Add Sticker.
+The sticker appears in your stickers menu, which you can access when you use the iPhone onscreen keyboard or Markup tools.
+Tap Add Effect if you want to apply a visual effect such as Outline, Comic, or Puffy.
+Tip: You can use stickers you’ve created to decorate a photo. See Edit photos and videos .
+Turn a Live Photo into an animated sticker
+You can turn the moving subject of a Live Photo into an animated sticker.
+Go to the Photos app on your iPhone.
+Tap a Live Photo to open it in full screen.
+Touch and hold the subject of the Live Photo, slide it up until you see a duplicate image of the subject, then release it.
+Tap Add Sticker.
+The animated sticker appears in your stickers menu, which you can access when you use the iPhone onscreen keyboard or Markup tools.
+Tap Add Effect if you want to apply a visual effect such as Outline, Comic, or Puffy.
+Delete a sticker
+Go to the Photos app on your iPhone.
+Open a photo, then tap Edit.
+Tap , then tap .
+Tap Add Sticker, touch and hold the sticker you want to delete, then tap Remove.
+Your stickers sync with iCloud, so they’re available on your iPhone, iPad, Mac, and Apple Vision Pro devices where you’re signed in to the same Apple Account .

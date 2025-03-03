@@ -1,0 +1,56 @@
+iPhone User Guide
+Solve sudoku puzzles in News on iPhone
+In sudoku puzzles, you place the numbers 1 to 9 into squares in a grid consisting of nine blocks with nine squares each, so that every number appears exactly once in each block, row, and column. Each sudoku grid comes with a few givens —squares already filled in.
+Apple News+ offers subscribers new sudoku puzzles every day in three difficulties: easy, moderate, and challenging. Easy puzzles include more givens, while challenging puzzles require more complex strategies to narrow down options for each empty square.
+Note: Sudoku is available on devices with iOS 18.2, iPadOS 18.2, macOS 15.2, or later. Apple News, Apple News+, and puzzles aren’t available in all countries or regions. See the iOS and iPadOS Feature Availability website .
+Solve a puzzle
+Go to the News app on your iPhone.
+Open a sudoku puzzle.
+Do any of the following:
+Enter a number: With the Pen tab selected, tap a square, then tap a number key near the bottom of the screen.
+Delete an answer: Tap a square where you entered a number, then tap .
+Step back through your actions: Tap to undo.
+Continue entering numbers until every square is filled correctly.
+Tip: Turn on Autocheck to indicate when you successfully complete a block, row, or column. To turn off the vibrations you feel when you fill all the squares in a block, row, or column, see Change iPhone sounds and vibrations .
+Track possible answers
+You can keep track of which numbers might work in each square by using notes within the puzzle.
+Go to the News app on your iPhone.
+Open a sudoku puzzle.
+Do any of the following:
+Manually enter notes: Tap a square, tap Notes, then tap numbers to add them to the square. Tap the number again to remove it.
+When you enter an answer, any matching notes in that square’s block, row, or column are removed. To turn this feature off, tap , tap Settings, then turn off Automatically Remove Notes.
+Automatically show notes: Tap , then tap Autofill Notes. Notes representing possible numbers appear in empty squares, based on all filled squares at that moment—givens and your answers (even if incorrect). You can still add and delete notes manually. Using Autofill doesn’t affect stats or streaks.
+Play with or without notes: Tap , then tap Show Notes or Hide Notes.
+When you think a number in your notes is the right answer, you can commit it by touching and holding the number on the onscreen keypad.
+Get help
+If you’re unsure of an answer, you can get a little help.
+Go to the News app on your iPhone.
+Open a sudoku puzzle.
+Do any of the following:
+Highlight matching numbers: Tap a number on the keypad, or tap any square with a number in it. (The square you select can be a given or one where you entered or revealed the answer.) Matching numbers are highlighted in answers and notes. To turn this feature on or off, tap , tap Settings, then tap Highlight Matching Numbers.
+Check for duplicated numbers: Tap , tap Settings, then turn on Show Conflicts. When you enter a number that already appears in a block, row, or column, the squares’ bottom-right corners are marked with red triangles.
+Mark incorrect answers as you enter them: Tap , then tap Autocheck. All incorrect answers you already entered have a red slash through them. As you enter additional numbers, the app checks whether or not they’re correct.
+When you turn on Autocheck inside a puzzle, it stays on for that puzzle only. To turn Autocheck on for all sudoku puzzles, tap , tap Settings, turn on Always Autocheck, tap Done, tap , then tap Autocheck (if it’s not already on).
+Check answers: Tap , then tap Check Square or Check Puzzle. A red slash indicates incorrect answers. Checking a square or puzzle doesn’t affect stats or streaks.
+Identify a solvable square: Tap , then tap Get Hint. The square having the most information available to deduce its answer is highlighted. Tap to see the strategy and recommended actions, like obvious pairs and hidden triplets. Using hints doesn’t affect stats or streaks.
+Reveal answers: Tap , tap Reveal, then tap Square or Puzzle to display the correct answer.
+Note: When you reveal all or a portion of a puzzle, the puzzle isn’t counted toward stats in your Scoreboard or as part of a streak. To maintain a sudoku streak, solve at least one of the current day’s sudoku puzzles of any difficulty level without revealing answers. Revealing also prevents you from undoing previous actions.
+Review the sudoku tutorial: Tap , then tap How to Play.
+Restart your puzzle
+If you’d like a fresh start, you can clear a puzzle’s answers and reset the timer.
+Go to the News app on your iPhone.
+Open a sudoku puzzle.
+Tap , then tap Clear Puzzle.
+Show or hide the timer
+You can show or hide the timer that appears above your puzzle.
+Go to the News app on your iPhone.
+Open a sudoku puzzle.
+Do one of the following:
+Tap .
+Tap , tap Settings, then tap Show Timer or Hide Timer.
+You don’t have to solve puzzles all at once. The timer pauses while you’re away.
+Share your puzzle
+Go to the News app on your iPhone.
+Open a sudoku puzzle.
+Tap , then tap Share.
+Choose Messages, Mail, or another sharing option.

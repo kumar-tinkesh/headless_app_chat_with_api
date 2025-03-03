@@ -1,0 +1,21 @@
+iPhone User Guide
+View weather maps on iPhone
+You can view full-screen precipitation, temperature, air quality, and wind maps in your location or other areas.
+View a full-screen weather map
+Go to the Weather app on your iPhone.
+Select a location, then tap at the bottom of the screen.
+Note: The type of weather map shown can change depending on the weather conditions for the selected location.
+To switch to a precipitation, temperature, air quality, or wind map, tap in the upper right.
+In a precipitation or wind forecast map, do any of the following:
+Show the timeline: Tap near the bottom of the map.
+Change the duration of the timeline: While viewing a precipitation map, tap , then switch between 12-Hour Forecast and Next-Hour Forecast.
+Tap Done to close the map.
+Change the location of the weather map
+Go to the Weather app on your iPhone.
+View a full-screen weather map , then do any of the following:
+Move the map: Drag it.
+Zoom in and out: Pinch the screen.
+View another location from your list: Tap in the upper right, then tap a location.
+Return to your current location: Tap in the upper right.
+Add a location to your list, view its current conditions, or view it in Maps: Touch and hold the location on the map, then tap Add [ location ], View [ location ], or Open in Maps.
+Tap Done to close the map.

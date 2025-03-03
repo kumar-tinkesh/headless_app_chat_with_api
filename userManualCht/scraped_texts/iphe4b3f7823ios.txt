@@ -1,0 +1,22 @@
+iPhone User Guide
+Block or avoid unwanted calls on iPhone
+You can avoid unwanted calls by identifying callers, blocking certain people, and sending unknown and spam callers directly to voicemail.
+Turn on Call Identification
+iPhone can help identify incoming calls using information from Apple Business Connect, supported carriers, and supported call identification apps.
+Go to Settings > Apps > Phone.
+Tap Call Blocking & Identification, then turn on one or more of the following:
+Business Call Identification: Caller information is identified by Apple Business Connect or your carrier.
+Silence Junk Callers: Calls identified by your carrier as potential spam or fraud are silenced and automatically sent to voicemail.
+Call Identification apps: Caller information is identified by supported caller ID apps.
+Block voice calls, FaceTime calls, and messages from certain people
+Go to the Phone app on your iPhone.
+Tap Favorites, Recents, or Voicemail.
+Tap next to the number or contact you want to block, scroll down, then tap Block Caller.
+Unblock a blocked contact
+Go to Settings > Apps > Phone.
+Tap Blocked Contacts, then tap Edit.
+Tap , then tap Unblock.
+Send unknown and spam callers to voicemail
+Go to Settings > Apps > Phone, then tap any of the following:
+Silence Unknown Callers: You get notifications for calls from people in your contacts, recent outgoing calls, and Siri Suggestions.
+Call Blocking & Identification: Turn on Silence Junk Callers (available with certain carriers) to silence calls identified by your carrier as potential spam or fraud.

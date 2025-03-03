@@ -1,0 +1,15 @@
+iPhone User Guide
+Change FaceTime video settings on iPhone
+During a call in the FaceTime app, you can turn Portrait mode on or off, switch between cameras, or turn your camera on or off.
+Blur the background with Portrait mode
+During a FaceTime call, Portrait mode automatically blurs the background and puts the visual focus on you, the same way Portrait mode does in the Camera app.
+When you’re on a FaceTime call, tap your tile.
+Tap in your tile.
+To turn Portrait mode off, tap the button again.
+You can also turn on Portrait mode in Control Center. Open Control Center , then tap FaceTime Controls.
+Switch to the rear camera
+When you’re on a FaceTime call, tap your tile, then tap .
+To switch back to the front camera, tap again.
+Note: While you’re using the rear camera, you can enlarge the image by tapping 1x. Tapping it again returns the image to normal size.
+Turn off your camera
+When you’re on a FaceTime call, tap the screen to make the controls appear, then tap . (Tap it again to turn the camera back on.)

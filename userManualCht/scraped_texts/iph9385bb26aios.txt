@@ -1,0 +1,11 @@
+iPhone User Guide
+Unauthorized modification of iOS
+iOS is designed to be reliable and secure from the moment you turn on your device. Built-in security features help protect against malware and viruses and secure user access to personal information and corporate data. Unauthorized modifications to iOS (also known as “jailbreaking”) bypass security features and can cause numerous issues such as security vulnerabilities, instability, and shortened battery life to the hacked iPhone.
+Security vulnerabilities. Jailbreaking your device eliminates security layers designed to protect your personal information and your iOS device. With this security removed from your iPhone, hackers may steal your personal information, damage your device, attack your network, or introduce malware, spyware, or viruses.
+Instability. Unauthorized modifications can cause frequent and unexpected crashes of the device, crashes and freezes of built-in apps and third-party apps, and loss of data.
+Shortened battery life. Hacked software can cause an accelerated battery drain that shortens the operation of iPhone on a single battery charge.
+Unreliable voice and data. Unauthorized modifications can cause dropped calls, slow or unreliable data connections, and delayed or inaccurate location data.
+Disruption of services. Services such as iCloud, iMessage, FaceTime, Apple Pay, Visual Voicemail, Weather, and Stocks, may be disrupted or no longer work on the device. Additionally, third-party apps that use the Apple Push Notification Service may experience difficulty receiving notifications or may receive notifications intended for a different device. Other push-based services, such as iCloud and Exchange, may experience problems syncing data with their respective servers.
+Inability to apply future software updates. Some unauthorized modifications may cause damage to iOS that is not repairable. This can result in the hacked iPhone becoming permanently inoperable when a future Apple-supplied iOS update is installed.
+Apple strongly cautions against installing any software that modifies iOS. It is also important to note that unauthorized modification of iOS is a violation of the iOS and iPadOS Software License Agreement and because of this, Apple may deny service for an iPhone that has any unauthorized software installed.
+Apple Footer

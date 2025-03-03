@@ -1,0 +1,73 @@
+iPhone User Guide
+Create a custom iPhone Lock Screen
+You can personalize your Lock Screen by choosing a wallpaper, showcasing a favorite photo, changing the font of the time, adding widgets, and more.
+You can create more than one Lock Screen, switch between Lock Screens , and even link a Lock Screen to a Focus. So, for example, you could set a specific Lock Screen for when you’re working.
+Personalize a new Lock Screen
+Press the side button on your iPhone twice to go to the Lock Screen.
+Touch and hold the Lock Screen until the Customize and buttons appear at the bottom of the screen.
+If they don’t appear, touch and hold the Lock Screen again, then enter your passcode.
+Tap to create a new Lock Screen, or to make changes to a Lock Screen, swipe to the screen you want to change, tap Customize, then tap Lock Screen.
+If you’re creating a new Lock Screen, tap one of the wallpaper options to select it as your Lock Screen.
+If you choose Photos or Photo Shuffle, see Customize your Lock Screen photo .
+Tap the time to change the font, color, and style. (See Change the clock style on the Lock Screen .)
+To add widgets that include information such as today’s headlines, the weather, and calendar events, tap Add Widgets, the date, or the field below the time. (See Add, edit, and remove widgets .)
+Tap Add or Done, then do one of the following:
+Choose whether to use the wallpaper on both the Lock Screen and the Home Screen: Tap Set as Wallpaper Pair.
+Make further changes to the Home Screen: Tap Customize Home Screen. Tap a color to change the wallpaper color, tap to use a custom photo, or select Blur to blur the wallpaper so the apps stand out.
+Change the clock style on the Lock Screen
+You can change the font and color of the clock on your Lock Screen.
+Press the side button on your iPhone twice to go to the Lock Screen.
+Touch and hold the Lock Screen until the Customize and buttons appear at the bottom of the screen.
+If they don’t appear, touch and hold the Lock Screen again, then enter your passcode.
+Swipe to go to the Lock Screen you want to change, tap Customize, then tap the Lock Screen image.
+Tap the time, then choose a font and color.
+Drag the slider to make the font heavier or lighter (available for solid fonts).
+To change the date and time setting, see Change the date and time .
+Change the controls at the bottom of the Lock Screen
+You can swap out the controls at the bottom of the Lock Screen for other options, like the Calculator when you’re shopping or the Translate app when you’re traveling. You can also remove these controls entirely or have different controls on different Lock Screens.
+Tip: You can customize the controls at the bottom of a Lock Screen, then link a specific Focus to that Lock Screen that makes use of those controls.
+Press the side button on your iPhone twice to go to the Lock Screen.
+Touch and hold the Lock Screen until the Customize and buttons appear at the bottom of the screen.
+If they don’t appear, touch and hold the Lock Screen again, then enter your passcode.
+Tap Customize, then tap Lock Screen.
+Tap on one of the controls at the bottom of the screen, then tap to open the controls gallery.
+Tap a control in the controls gallery to replace the one on your Lock Screen.
+When you finish customizing the controls at the bottom of the Lock Screen, tap Done at the top of the screen, then tap the Lock Screen.
+Customize your Lock Screen photo
+If you choose a photo for your Lock Screen, you can reposition the photo, change the photo style, and more.
+Do any of the following:
+Reposition your photo: To reposition your selected image, pinch open to zoom in on it, drag the image with two fingers to move it, then pinch closed to zoom out.
+Change the photo style: Swipe left or right to try different photo styles with complementary color filters and fonts.
+Create a multilayered effect: If you have a photo that supports layering—like an image with people, pets, or the sky—tap at the bottom right, then choose Depth Effect.
+Note: The multilayered effect is available on supported models . Layering may not be available if the subject is too high or too low, or if it obscures too much of the clock.
+Create a motion effect with a Live Photo: If you select a Live Photo that can be translated into slow motion, tap at the bottom left to play the Live Photo when the device wakes up.
+Set the shuffle frequency: If you choose Photo Shuffle, you can preview the photos by tapping , and you can set the shuffle frequency by tapping and then selecting an option below Shuffle Frequency.
+Tip: Alternatively, you can add a photo directly from your photo library to your Home Screen and Lock Screen. In the Photos app , tap Library, select a photo, then tap . Scroll down and select Use as Wallpaper, tap Add, then choose whether to show it on both your Home Screen and Lock Screen.
+Link a Focus to your Lock Screen
+Focus helps you concentrate on a task by minimizing distractions. You can set up a Focus to temporarily silence all notifications, or to allow only specific notifications (ones that apply to your task, for example). By linking a Focus to your Lock Screen, your Focus settings apply whenever you use that particular Lock Screen.
+Press the side button on your iPhone twice to go to the Lock Screen.
+Touch and hold the Lock Screen until the Customize button appears at the bottom of the screen.
+Tap Focus near the bottom of the wallpaper to see the Focus options—for example, Do Not Disturb, Personal, Sleep, and Work.
+Note: If you don’t see Focus near the bottom of the wallpaper, go to Settings > Focus and set up a Focus .
+Select a Focus, then tap .
+Edit or change your Lock Screen
+After you create a custom Lock Screen, you can make changes to it.
+Press the side button on your iPhone twice to go to the Lock Screen.
+Touch and hold the Lock Screen until the Customize button appears at the bottom of the screen.
+If it doesn’t appear, touch and hold the Lock Screen again, then enter your passcode.
+Swipe to the screen you want to change, tap Customize, then tap Lock Screen.
+Do any of the following:
+Change the font, color, and style of the clock: Tap the time.
+Add widgets that include today’s headlines, the weather, and calendar events: Tap Add Widgets, the date, or the field below the time. (See Add, edit, and remove widgets .)
+Change the wallpaper: Tap Done, tap , choose a wallpaper, tap Add, then tap Set as Wallpaper Pair or Customize Home Screen.
+Switch between Lock Screens
+You can create multiple custom Lock Screens and switch between them throughout the day.
+Press the side button on your iPhone twice to go to the Lock Screen.
+Touch and hold the Lock Screen until the Customize button appears at the bottom of the screen.
+Swipe to the Lock Screen you want to use, then tap it.
+Note: If a Lock Screen links to a specific Focus, switching from that Lock Screen to another also switches your Focus. See Link a Focus to your Lock Screen .
+Delete a Lock Screen
+You can delete Lock Screens you no longer need.
+Press the side button on your iPhone twice to go to the Lock Screen.
+Touch and hold the Lock Screen until the Customize button appears at the bottom of the screen.
+Swipe to go to the Lock Screen you want to delete, swipe up on the screen, tap , then tap Delete This Wallpaper.

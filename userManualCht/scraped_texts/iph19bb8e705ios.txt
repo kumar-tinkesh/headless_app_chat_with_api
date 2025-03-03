@@ -1,0 +1,39 @@
+iPhone User Guide
+Find podcasts on iPhone
+Use the Podcasts app to find shows about science, news, politics, comedy, and more. If you find a show you like, you can follow it to add it to your library. Then you can easily listen offline, get notified about new episodes, access followed shows on your other Apple devices and on Apple Podcasts on the web , and more.
+Note: Shows may offer paid subscriptions that give you access to exclusive shows and episodes, new releases, episodes without ads, and more. You can subscribe to a show or channel and manage your subscriptions. If you already subscribe to Apple Music, Apple News+, or an eligible third-party app, you can listen to its subscriber content in Podcasts. See Listen to subscriber-only content in Podcasts on iPhone .
+Find podcasts
+Go to the Podcasts app on your iPhone.
+Do any of the following:
+Search by title, person, or topic: Tap Search, then enter a word or phrase in the search field. Suggested search phrases appear as you type; you can tap one, or tap Search on the onscreen keyboard to view all results for the word or phrase you typed. Top search results appear below suggested search phrases—tap a show or channel in the list to go directly to it.
+Discover new shows: Tap Browse to see new and trending shows, and the Apple editorial collections. You can also tap Search without typing anything; you see featured categories such as Top Charts.
+Tip: To quickly select a Top Charts category, tap All Categories in the Top Charts screen, then tap a category.
+Add shows by URL: Tap Library, tap , then tap Follow a Show by URL. Enter the URL, then tap Follow.
+Note: The URL must be for a valid podcast RSS feed.
+Get personalized recommendations
+You can get personalized podcast recommendations based on your listening activity and your favorite categories and channels.
+Go to the Podcasts app on your iPhone.
+Tap Home.
+Do any of the following:
+View recommended shows: Scroll left or right in the You Might Like row.
+Refine your show recommendations: Tap a show in the You Might Like row, tap , then tap Suggest Less.
+View suggested episodes based on your listening: Scroll down to the More to Discover row, then scroll left or right.
+Opt out of personalized recommendations: Tap your profile picture, tap your name, then turn off Personalized Recommendations.
+Note: Your Personalized Recommendations setting also applies to the App Store, Apple Books, iTunes Store, Apple TV, and subscriptions from Apple.
+Other recommendations are available based on categories you listen to and any subscriptions you already purchased.
+View shared podcasts
+When a friend shares a show or episode with you in Messages, you can easily find it in Podcasts.
+Go to the Podcasts app on your iPhone.
+Tap Home, then scroll down to the Shared with You section.
+If you don’t see Shared with You, check to make sure your friend is in your contacts, and that Podcasts is turned on in Settings > Apps > Messages > Shared with You.
+See also Find all the content someone shared with you .
+Browse episodes within a specific podcast
+Go to the Podcasts app on your iPhone.
+Tap a show to see its information page.
+Scroll down to see recent episodes or tap See All (if available).
+Filter episodes
+Go to the Podcasts app on your iPhone.
+Tap a show to see its information page.
+Tap Episodes (or the current filter) above the list of episodes.
+Choose an option, like Unplayed or Season 1.
+Note: Some filter options, such as Unplayed, Downloaded, Saved, and Played, are only available for shows that you follow or shows with downloaded or saved episodes.

@@ -1,0 +1,19 @@
+iPhone User Guide
+Set up iCloud Drive on iPhone
+You can access iCloud Drive and store files, create folders, and share documents with friends and family. You can access your content from all your devices where you’re signed in to the same Apple Account —including on a Mac, where iCloud Drive is located in the Finder.
+iCloud Drive is built into the Files app on devices with iOS 11, iPadOS 13, or later. You can also use iCloud Drive on Mac computers (OS X 10.10 or later), Windows devices (iCloud for Windows 7 or later), or online at iCloud.com . Storage limits depend on your iCloud storage plan.
+Turn on iCloud Drive
+Go to Settings > [ your name ] > iCloud.
+Tap Drive, then turn on Sync this iPhone.
+Browse iCloud Drive
+Go to the Files app on your iPhone.
+Tap Browse at the bottom of the screen.
+Tap iCloud Drive below Locations.
+If you don’t see Locations, tap Browse again. If you don’t see iCloud Drive below Locations, tap Locations.
+To open a folder, tap it.
+See Modify files, folders, and find downloads .
+Choose which apps use iCloud Drive
+You can choose which apps have access to store and edit content on iCloud Drive.
+Go to Settings > [ your name ] > iCloud.
+Tap See All next to Saved to iCloud.
+Turn on each app you want saved to iCloud, and turn off each one you don’t want saved.

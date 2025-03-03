@@ -1,0 +1,7 @@
+iPhone User Guide
+Create a link to a FaceTime call on iPhone
+In FaceTime, you can create a link to a FaceTime call and send the link to a friend or a group (using Mail or Messages). They can use the link to join or start a call.
+Open the FaceTime app , then tap Create Link near the top of the screen.
+Choose an option for sending the link (Mail, Messages, and so on).
+In Calendar, you can schedule a remote video meeting by inserting a FaceTime link as the location of the meeting .
+Note: You can invite anyone to join you in a FaceTime call, even people who don’t have an Apple device. They can join you in one-to-one and Group FaceTime calls from their browser—no login is necessary. (They need the latest version of either Chrome or Edge. Sending video requires H.264 video encoding support.)

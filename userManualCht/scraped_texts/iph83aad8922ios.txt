@@ -1,0 +1,44 @@
+iPhone User Guide
+Use Siri on iPhone
+Get everyday tasks done with just your voice. Use Siri to translate a phrase, set an alarm, find a location, report on the weather, get summarized knowledge from the web, and more.
+Set up Siri
+If you didn’t set up Siri when you first set up your iPhone, do the following:
+Go to Settings > Siri, then tap Talk to Siri.
+Choose “Hey Siri” or “Siri” (if you have that option).
+Note: The option to say just “Siri” is available on supported iPhone models in some languages and regions.
+To change additional Siri settings, see Change Siri settings on iPhone .
+Activate Siri with your voice
+When you activate Siri with your voice, Siri responds out loud.
+Say “Siri” or “Hey Siri,” then ask a question or make a request.
+For example, say something like “Hey Siri, what’s the weather for today?” or “Siri, set an alarm for 8 a.m.”
+Tip: To prevent iPhone from responding to “Siri” or “Hey Siri,” place your iPhone face down, or go to Settings > Siri, tap “Listen for,” then choose Off.
+You can also activate Siri with your voice while you’re wearing supported AirPods. See Set up Siri in the AirPods User Guide.
+Activate Siri with a button
+When you activate Siri with a button, Siri responds silently when iPhone is in silent mode . When silent mode is off, Siri responds out loud. To change this behavior, see Change how Siri responds .
+Do one of the following:
+On an iPhone with Face ID: Press and hold the side button.
+On an iPhone with a Home button: Press and hold the Home button.
+With EarPods: Press and hold the center or call button.
+With CarPlay: Press and hold the voice command button on the steering wheel, or touch and hold the Home button on the CarPlay Home Screen. (See Use Siri to Control CarPlay .)
+With Siri Eyes Free: Press and hold the voice command button on your steering wheel.
+Ask a question or make a request.
+For example, say something like “What’s 18 percent of 225?” or “Set the timer for 3 minutes.”
+You can also activate Siri with a touch on supported AirPods. See Set up Siri in the AirPods User Guide.
+Make a correction if Siri misunderstands you
+While making back-to-back requests: Repeat your request in a different way.
+If you aren’t making back-to-back requests: Tap , then repeat your request in a different way.
+Spell out part of your request: Tap , then repeat your request by spelling out any words that Siri didn’t understand. For example, say “Call,” then spell the person’s name.
+Change a message before sending it: Say “Change it.”
+Edit your request with text: If you see your request onscreen, you can edit it. Tap the request, then use the onscreen keyboard.
+Tip: To correct your request without reactivating Siri, make the corrected request immediately after the original one. (Available on supported iPhone models in some countries and regions.)
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max, Siri follows along if you stumble over your words while making a request. See Use Apple Intelligence with Siri on iPhone .
+Type instead of speaking to Siri
+Go to Settings > Accessibility > Siri, then turn on Type to Siri.
+To type a request, activate Siri, then use the keyboard and text field to ask a question or make a request.
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max, you can switch easily between speaking to Siri out loud and typing requests to Siri, so you can communicate in whatever way is right for the moment. With Apple Intelligence, you can double-tap at the bottom of the screen at any time to type to Siri. See Use Apple Intelligence with Siri on iPhone .
+More about Siri
+Siri is designed to protect your information and to let you choose what you share. To learn more, see the Siri, Dictation & Privacy website and the Improve Siri and Dictation & Privacy website .
+For some requests, iPhone must be connected to the internet . Cellular charges may apply.
+Use Siri to access ChatGPT
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max, you can let Siri use ChatGPT to create content or get information. See Use Apple Intelligence with Siri .
+If Siri doesn’t work as expected on your iPhone, see the Apple Support article If Siri isn’t working on your iPhone .

@@ -1,0 +1,32 @@
+iPhone User Guide
+Change display colors on iPhone to make it easier to see what’s onscreen
+To make it easier to see what’s on your iPhone screen, you can invert display colors, make transparent items solid, and modify how colors appear with color filters.
+Tip: Quickly set brightness with the slider in Control Center .
+Invert colors
+Make the background dark so text and content stand out. This can be especially useful in apps and websites that don’t support Dark Mode .
+Go to Settings > Accessibility > Display & Text Size.
+Turn on one of the following:
+Smart Invert: Reverse colors everywhere except images.
+Classic Invert: Reverse all the colors onscreen.
+Differentiate or tone down colors
+You can apply a filter to view the entire screen in grayscale, adjust colors for color vision deficiencies, or tint the screen a color of your choosing.
+Go to Settings > Accessibility > Display & Text Size.
+Tap Color Filters, turn on Color Filters, then tap a color filter to apply it.
+You can drag any slider that appears to adjust the intensity or hue. The pencils reflect how the filter affects a range of colors.
+Note: Color filters can change the look of images and videos.
+Turn on Reduce White Point to tone down the intensity of bright colors.
+To have screen colors become warmer as it gets dark out, use Night Shift . Night Shift automatically removes inverted colors and color filter effects (except grayscale).
+You can also use the Magnifier app to capture an image of nearby text or objects and apply a color filter to it. See Customize controls in Magnifier .
+Make transparent items solid
+Some backgrounds appear transparent or blurred by default. You can make these transparent backgrounds opaque by giving them a solid color. In this way you simplify those parts of your screen and make them easier to see.
+Go to Settings > Accessibility > Display & Text Size.
+Turn on Reduce Transparency.
+Differentiate without color
+Some screen items rely on color to convey information. You can replace these with alternative ways to tell them apart, like shapes or text.
+Go to Settings > Accessibility > Display & Text Size.
+Turn on Differentiate Without Color.
+Use symbols for on/off switches
+Switches turn green when they are on. You can also have switches use a vertical line to indicate when they’re on and a circle to indicate when they’re off.
+Go to Settings > Accessibility > Display & Text Size.
+Turn on On/Off Labels.
+To apply these settings to only the contents of the zoom window, see Zoom in on the iPhone screen .

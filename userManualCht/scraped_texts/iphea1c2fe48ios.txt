@@ -1,0 +1,17 @@
+iPhone User Guide
+Reset iPhone settings to their defaults
+You can return your iPhone settings to their defaults without erasing your content.
+If you want to save your settings, back up iPhone before resetting it. For example, if you’re trying to solve a problem but resetting iPhone doesn’t help, you might want to restore your previous settings from a backup.
+Go to Settings > General > Transfer or Reset iPhone > Reset.
+WARNING: If you choose the Erase All Content and Settings option, all of your content is removed. See Erase iPhone .
+Choose an option:
+Reset All Settings: All settings—including network settings, the keyboard dictionary, location settings, privacy settings, and Apple Pay cards—are removed or reset to their defaults. No data or media are deleted.
+Reset Network Settings: All network settings are removed. In addition, the device name assigned in Settings > General > About is reset to “iPhone,” and manually trusted certificates (such as for websites) are changed to untrusted.
+Cellular data roaming may also be turned off. (See View or change cellular data settings on iPhone .)
+When you reset network settings, previously used networks and VPN settings that weren’t installed by a configuration profile or mobile device management (MDM) are removed. Wi-Fi is turned off and then back on, disconnecting you from any network you’re on. The Wi-Fi and Ask to Join Networks settings remain turned on.
+To remove VPN settings installed by a configuration profile, go to Settings > General > VPN & Device Management, select the configuration profile, then tap Remove Profile. This also removes other settings and accounts provided by the profile. See Install or remove configuration profiles on iPhone .
+To remove network settings installed by MDM, go to Settings > General > VPN & Device Management, select the management, then tap Remove Management. This also removes other settings and certificates provided by MDM. See “Mobile device management (MDM)” in the Deployment Reference for iPhone and iPad .
+Reset Keyboard Dictionary: You add words to the keyboard dictionary by rejecting words iPhone suggests as you type. Resetting the keyboard dictionary erases only the words you’ve added.
+Reset Home Screen Layout: Returns the built-in apps to their original layout on the Home Screen.
+Reset Location & Privacy: Resets the location services and privacy settings to their defaults.
+If you want to completely erase your iPhone, see Erase iPhone using Settings .

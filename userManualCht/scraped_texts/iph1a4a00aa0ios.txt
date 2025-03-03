@@ -1,0 +1,47 @@
+iPhone User Guide
+View menstrual cycle predictions and history in Health on iPhone
+When you log your menstrual cycle , you can check the predicted date for your next period or fertile window, receive notifications about when your next period or fertile window is expected to be approaching, view details about your cycle history, and more.
+Note: Health can also use data from Apple Watch to improve the predictions for your period and fertile windows. See Use Cycle Tracking on Apple Watch in the Apple Watch User Guide.
+View your cycle timeline
+Tap Browse at the bottom right, then tap Cycle Tracking.
+At the top of the screen, a timeline shows the following icons.
+Icon
+Description
+A predicted period day.
+A predicted day of your fertile window.
+A day you likely ovulated (requires Apple Watch Series 8 or later or any Apple Watch Ultra model to be paired with your iPhone; not available in all regions).
+A day you logged a period.
+A day you added information (for example, noting a headache or cramping).
+To select different days, swipe the timeline.
+Check the dates for your predicted next period and for your reported last period
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Cycle Tracking.
+Scroll to Highlights to see when your next period is likely to start.
+If you don’t see the estimate, tap Show All next to Highlights.
+Scroll to Summary to see the date of your last period and your typical cycle length.
+Change cycle tracking notifications, cycle prediction displays, and other options
+You can turn off period, fertility, and cycle deviation notifications, hide period and fertility predictions, and more. You can turn these on again at any time.
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Cycle Tracking.
+Scroll down, tap Options, then turn options on or off.
+View your cycle history
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Cycle Tracking.
+To see a summary of your last three cycles, scroll down to Your Cycles.
+To see summaries of all previous cycles, tap Cycle History.
+To send or a save a PDF of your cycle history, tap Export PDF, tap , then choose an option.
+To see details about a cycle, tap it.
+To change any details for the cycle, tap Edit.
+To send or a save a PDF of the cycle details, tap Export PDF, tap , then choose an option.
+If you receive a Cycle Deviation notification
+You can receive a notification if your logged cycle history shows a possible cycle deviation. Irregular periods, infrequent periods, prolonged periods, and persistent spotting are common cycle deviations that may indicate an underlying condition, or may be due to other factors.
+When you receive a notification, do the following to review your logged cycle history:
+Go to the Health app on your iPhone.
+Tap Review Cycle History in the Possible Cycle Deviation notification.
+Follow the onscreen instructions to confirm, add, or edit the data in your cycle history.
+If a cycle deviation is detected, a screen suggests what to do next.
+About your health data and privacy
+The information you add about yourself in Health is yours to use and share. You can decide what information is stored in Health as well as who can access your data.
+When your iPhone is locked with Face ID, Touch ID, or a passcode, all of your health and fitness data in Health, other than your Medical ID, is encrypted. Any health data synced to iCloud is encrypted both in transit and on Apple servers. And if you have a version of iOS, iPadOS, and watchOS (if you’re using iPad and Apple Watch for cycle tracking) with default two-factor authentication and a passcode, your health and activity data is stored in a way that Apple can’t read it.
+This means that when you use the Cycle Tracking feature and two-factor authentication, your health data synced to iCloud is encrypted end to end, and Apple doesn’t have the key to decrypt the data and therefore cannot read it.
+Apple Footer

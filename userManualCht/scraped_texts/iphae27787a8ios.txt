@@ -1,0 +1,7 @@
+iPhone User Guide
+View your calendar with CarPlay
+Use Siri or open Calendar in CarPlay to view events, appointments, and meetings.
+Siri: Say something like: “Do I have a meeting at 10?” or “Where is my 3:30 meeting?” Learn how to use Siri .
+Upcoming events appear in CarPlay Dashboard. You can also use your vehicle’s built-in controls to open Calendar in CarPlay to view upcoming events.
+Note: If you’re viewing CarPlay Dashboard, tap to see pages of all of your CarPlay apps, including Calendar.
+To see more information about an event, select it. Options may allow you to get directions to the event or phone into it.

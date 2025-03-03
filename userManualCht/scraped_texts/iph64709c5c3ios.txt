@@ -1,0 +1,18 @@
+iPhone User Guide
+Use Apple Intelligence in Messages on iPhone
+Apple Intelligence* allows you to get through your messages even faster with summaries that show you the key points of each conversation, and Smart Reply, which helps you quickly craft a response.
+Note: Apple Intelligence is available in iOS 18.1 or later on all iPhone 16 models, iPhone 15 Pro, and iPhone 15 Pro Max. Apple Intelligence is not available on iPhone and iPad if you’re in the EU and if your Apple Account country or region is also in the EU. To check whether Apple Intelligence is available for your device and language, see the Apple Support article Apple Intelligence requirements .
+View message summaries
+Go to the Messages app on your iPhone.
+Look under a conversation in the Messages list to see a summary of unread messages in that conversation.
+Use Smart Reply in Messages
+Go to the Messages app on your iPhone.
+Tap a conversation, tap the text field, then tap a suggested reply in the keyboard.
+Apple Intelligence drafts a reply in the text field. To refine your reply, see Use Writing Tools with Apple Intelligence on iPhone .
+When you’re ready to send your reply, tap .
+Turn message summaries on or off
+When you turn on Apple Intelligence, summaries automatically appear under your message conversations. You can turn off summaries if you want to see the most recent message in each conversation instead.
+Go to Settings > Apps > Messages.
+Turn Summarize Messages on or off.
+In iOS 18.2 or later, you can also create and send original images with Image Playground. See Create original images with Image Playground .
+Apple Footer

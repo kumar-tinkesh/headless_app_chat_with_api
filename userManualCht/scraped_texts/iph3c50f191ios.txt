@@ -1,0 +1,19 @@
+iPhone User Guide
+Connect iPhone to Bluetooth accessories
+Connect your iPhone to Bluetooth® accessories to stream music and videos, play games, connect to keyboards, and more.
+Pair your iPhone with a Bluetooth accessory
+Put your Bluetooth accessory in discovery mode. If you aren’t sure how to make it discoverable, check the instructions that came with your accessory.
+On your iPhone, go to Settings > Bluetooth and make sure Bluetooth is turned on.
+Tap the name of the accessory when it appears onscreen, below the devices list.
+You might need to enter the accessory PIN or passcode. Check the instructions that came with your accessory.
+Note: iPhone must be within about 33 feet (10 meters) of the Bluetooth accessory to pair.
+If you have trouble pairing your accessory, see the Apple Support article If you can’t connect a Bluetooth accessory to your iPhone or iPad .
+Unpair a Bluetooth accessory
+On your iPhone, go to Settings > Bluetooth.
+Tap next to the accessory you want to unpair, then tap Forget This Device.
+Tap Forget Device to confirm.
+If you don’t see the devices list, make sure Bluetooth is turned on .
+Note: If you unpair AirPods, they’re automatically unpaired from other devices where you’re signed in to your Apple Account .
+Disconnect from all Bluetooth accessories
+If you need to quickly disconnect your iPhone from all Bluetooth accessories and devices without turning Bluetooth off, open Control Center , then tap . Your Bluetooth accessories and devices disconnect from your iPhone until the next day.
+Note: The use of certain accessories with iPhone may affect wireless performance. Not all iOS or iPadOS accessories are fully compatible with iPhone. Turning on Airplane Mode may eliminate audio interference between iPhone and an accessory. Reorienting or relocating iPhone and the connected accessory may improve wireless performance.

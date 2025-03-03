@@ -1,0 +1,10 @@
+iPhone User Guide
+Use Low Power Mode to reduce power usage on iPhone
+Low Power Mode reduces the amount of power that your iPhone uses when the battery gets low. It optimizes performance for essential tasks like making and receiving calls, sending and receiving email and messages, accessing the internet, and more. On iPhone models with ProMotion display technology , Low Power Mode limits the display refresh rate to 60 frames per second.
+Note: iPhone might perform some tasks more slowly when in Low Power Mode.
+Turn Low Power Mode on or off
+Do any of the following:
+In Settings: Go to Settings > Battery.
+In Control Center: Open Control Center , then tap .
+(If you don’t see , add it to Control Center .)
+Low Power Mode automatically turns off when iPhone charges to 80 percent or higher.

@@ -1,0 +1,19 @@
+iPhone User Guide
+Get a summary of a phone call or audio recording on iPhone with Apple Intelligence
+In the Phone app, you can record a phone call and then use Apple Intelligence* to generate a summary of the transcript, so you can get to the most important information at a glance. You can also use Apple Intelligence to generate a summary of audio you record in the Notes app—like a class lecture.
+Note: Apple Intelligence is available in iOS 18.1 or later on all iPhone 16 models, iPhone 15 Pro, and iPhone 15 Pro Max. Apple Intelligence is not available on iPhone and iPad if you’re in the EU and if your Apple Account country or region is also in the EU. To check whether Apple Intelligence is available for your device and language, see the Apple Support article Apple Intelligence requirements .
+View a summary of a phone call
+Go to the Phone app on your iPhone.
+Record a call .
+Your recording is saved in the Notes app.
+Go to the Notes app on your iPhone.
+Open the recording of your call (in the Call Recordings folder).
+Tap the recording, then tap Summary.
+To copy the summary, tap , then tap Copy Summary. To share the summary, tap , then tap Share Summary.
+View a summary of an audio recording in Notes
+After you record an audio note in the Notes app, you can see a summary of the recording.
+Go to the Notes app on your iPhone.
+Open a note with a recording.
+Tap the recording, then tap Summary.
+To copy the summary, tap , then tap Copy Summary. To share the summary, tap , then tap Share Summary.
+Apple Footer

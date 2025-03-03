@@ -1,0 +1,11 @@
+iPhone User Guide
+Change your wind down period, sleep goal, and more in Health on iPhone
+You can change Sleep options like the duration of your wind down period, how many hours of sleep you want to get, and more.
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Sleep.
+Scroll down to Your Schedule, then tap Full Schedule & Options.
+Scroll down to Additional Details, then make your changes:
+Wind down period: Tap Wind Down, then select how many minutes or hours to give yourself to wind down before your scheduled bedtime. Your Sleep Focus turns on at the beginning of the wind down period.
+Sleep goal: Tap Sleep goal, then select a time. Any new schedules you set up reflect your new goal.
+Sleep notifications: Turn Sleep Reminders or Sleep Results on or off.
+Note: Sleep Results notifications require data from Apple Watch or other sleep tracking apps and hardware.

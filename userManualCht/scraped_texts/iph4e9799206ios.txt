@@ -1,0 +1,15 @@
+iPhone User Guide
+About iMessage on iPhone
+iMessage is a secure messaging service that you can use to send and receive text messages in the Messages app on your iPhone, iPad, Mac, Apple Watch, and Apple Vision Pro.
+If someone sends a message to your email address or phone number using iMessage, you receive the message on all your Apple devices that are set up to receive messages sent to that email address or phone number. When you view an iMessage conversation, you see all messages sent from any device, so you can keep in touch with others wherever you are.
+You need an Apple Account to use some iMessage features. If you’ve made purchases from the iTunes Store or App Store or you’ve signed in to iCloud, you have an Apple Account.
+Some things to know about communicating in iMessage:
+You can send texts over Wi-Fi or cellular service.
+Texts you send and receive using iMessage don’t count against your SMS, MMS, or RCS allowances in your cellular messaging plan, but cellular data rates may apply.
+When you communicate with others who also use iMessage on an Apple device, the texts appear in blue bubbles. (SMS, MMS, and RCS messages appear in green bubbles.)
+Your message will be sent with iMessage when you see a blue send button; a green send button indicates the message will be sent with SMS, MMS, or RCS or your cellular service.
+When you’re in a conversation with one other person, you can each see if someone’s writing a message. If the other person has read receipts turned on, you can also see if they’ve opened your message.
+You can use a wider range of apps and features, like styles , drawings , Memoji , inline replies , editing , unsending , scheduling , collaboration , group conversation management , and more.
+A greater range of options are available when you react with Tapbacks , send audio messages , or send via satellite .
+When you use iMessage, you can report spam or junk messages to Apple.
+For security, messages sent using iMessage are end-to-end encrypted before they’re sent, and you can also use Contact Key Verification .

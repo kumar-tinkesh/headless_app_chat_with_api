@@ -1,0 +1,23 @@
+iPhone User Guide
+Adjust how iPhone responds to your touch
+If you have difficulties with hand tremors, dexterity, or fine motor control, you can adjust how the iPhone touchscreen responds to tap, swipe, and touch-and-hold gestures. You can have iPhone recognize faster or slower touches and ignore multiple touches. You can also prevent iPhone from waking when you touch the screen, or turn off Shake to Undo if you unintentionally shake iPhone.
+Adjust settings for taps, swipes, and multiple touches
+Go to Settings > Accessibility > Touch > Touch Accommodations, then turn on Touch Accommodations.
+You can configure iPhone to do any of the following:
+Respond to longer or shorter touches: Turn on Hold Duration, then tap or to adjust the duration.
+Prevent unintended swipe gestures: If you turn on Hold Duration (above), you can increase the amount of movement required before a swipe gesture begins. Tap Swipe Gestures, turn on Swipe Gestures, then adjust required movement.
+Treat multiple touches as a single touch: Turn on Ignore Repeat, then tap or to adjust the amount of time allowed between multiple touches.
+Respond to the first or last place you touch: Choose Use Initial Touch Location or Use Final Touch Location.
+If you choose Use Initial Touch Location, iPhone uses the location of your first tap—when you tap an app on the Home Screen, for example.
+If you choose Use Final Touch Location, iPhone registers the tap where you lift your finger. iPhone responds to a tap when you lift your finger within a certain period of time. Tap or to adjust the timing. Your iPhone can respond to other gestures, such as a drag gesture, if you wait longer than the gesture delay.
+Adjust settings for touch-and-hold gestures
+You use the touch-and-hold gesture to see additional options or actions you can perform, or show a preview of content. If you have trouble performing this gesture, do the following:
+Go to Settings > Accessibility > Touch, then tap Haptic Touch or 3D & Haptic Touch.
+Choose the touch duration—Fast or Slow.
+On an iPhone with 3D Touch , you can also choose the pressure needed—Light, Medium, or Firm.
+Test your new settings on the image at the bottom of the screen.
+Turn off Tap to Wake
+On a supported iPhone model , you can prevent touches on the screen from waking iPhone. Go to Settings > Accessibility > Touch, then turn off Tap to Wake.
+Turn off Shake to Undo
+If you tend to unintentionally shake iPhone, you can turn off Shake to Undo. Go to Settings > Accessibility > Touch.
+Tip: To undo text edits, swipe left with three fingers.

@@ -1,0 +1,24 @@
+iPhone User Guide
+Add diagrams to a Freeform board on iPhone
+You can add diagrams to a Freeform board.
+Create a diagram
+You can easily create a connected diagram, such as a flowchart, by using connectors and the shape picker in Freeform.
+Go to the Freeform app on your iPhone.
+Open a board, or tap to start a new one.
+Tap , then tap Show Connectors. (If you don’t see , tap , tap View Options, then then tap Show Connectors.)
+Begin your diagram by tapping , , , or and adding an item.
+Drag a connector arrow to where you want the next part of your diagram. When you let go, a small menu of shapes opens. Tap to select the next shape you want to add.
+(Tap to browse other shapes.)
+You don’t see connector arrows when you select a line or multiple items.
+Tip: You can quickly add equally spaced, aligned shapes with connectors. Tap to select a shape, then touch and hold a connector arrow. As you hold, a preview of the shape and line appears. When you let go, the shape and line are added to the board.
+Connect two items with a line
+After you add two items to a Freeform board, you can add a line between them.
+Select two items on your board.
+Do one of the following:
+Tap , then tap Add Connection Line.
+Tap , then tap .
+Change connection points
+After you add a connection line to diagram on a Freeform board, you can change how it connects.
+Tap to select a connection line, then drag one of its endpoints (the blue dots).
+Attach the endpoint to another item on the board at a new connection point.
+You can attach a line to an item or (for some object types) near it. A filled circle appears when a connection is possible.

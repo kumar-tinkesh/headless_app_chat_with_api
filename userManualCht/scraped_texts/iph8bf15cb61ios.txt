@@ -1,0 +1,12 @@
+iPhone User Guide
+Use Weather widgets on iPhone
+Use Weather widgets to check the forecast and other weather conditions at a glance on your iPhone Home Screen. You can choose from a variety of widget sizes and displays.
+Tip: You can add more than one Weather widget to your Home Screen so you can quickly see weather conditions and forecasts in different locations.
+Change the location shown in the Weather widget
+You can change the location that a Weather widget displays on your iPhone Home Screen.
+Add a widget to your Home Screen .
+Touch and hold the Weather widget on your Home Screen.
+Tap Edit “Weather” or Edit Widget.
+Tap My Location, then search for a city or tap a location from your list that you want to display.
+Tap the screen outside the widget to return to your iPhone Home Screen.
+Weather widgets are also available for the iPhone Lock Screen. See Create a custom Lock Screen .

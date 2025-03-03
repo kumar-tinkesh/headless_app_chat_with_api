@@ -1,0 +1,16 @@
+iPhone User Guide
+Take Live Photos with your iPhone camera
+Use Camera to take Live Photos with your iPhone. A Live Photo captures what happens just before and after you take a photo, including the audio. You take a Live Photo just like you do a normal photo.
+Take a Live Photo
+Open Camera on your iPhone.
+Make sure Camera is set to Photo mode and that Live Photo is turned on.
+Note: Live Photo is on by default. When it’s on, you see at the top of the camera screen.
+Tap the Shutter button or click the Camera Control on iPhone 16 models to take a Live Photo.
+To play the Live Photo, tap the photo thumbnail at the bottom of the screen, then touch and hold the screen.
+Live Photos are automatically saved in your photo library in the Photos app. To add effects such as bounce and loop to Live Photos, see Add effects to a Live Photo .
+Turn off Live Photos
+Open Camera on your iPhone.
+Make sure Camera is set to Photo mode .
+Tap at the top of the camera screen so that a slash appears through the button.
+If you’ve already taken a Live Photo and want to turn the effect off, see Make Live Photo edits .
+Note: Live Photos aren’t available when ProRAW or HEIF Max is turned on. See Take Apple ProRAW photos .

@@ -1,0 +1,29 @@
+iPhone User Guide
+Add and remove email accounts on iPhone
+To send and receive email using the Mail app , you need to add the email accounts you want to use. When you first open Mail, you’re asked to set up an account. At any time, you can add additional email accounts to your iPhone, or remove email accounts you no longer need.
+Add an email account
+You can add one or more email accounts to the Mail app so that you can receive all your email in one place and easily send email from any of your accounts.
+Go to Settings > Apps > Mail.
+Tap Mail Accounts, then tap Add Account.
+Tap the email service you want to use—for example, iCloud, Microsoft Exchange, or Gmail (Google)—then enter your email account information.
+If your email service isn’t listed, tap Other, tap Add Mail Account, then enter your email account information.
+Note: If you set up multiple accounts, you can choose which account you want to send from when composing your email message. See Send email .
+Temporarily stop using an email account
+If you want to temporarily stop sending and receiving email from an account on your iPhone, you can turn it off in Settings. You can easily turn it back on at any time.
+Go to Settings > Apps > Mail.
+Tap Mail Accounts, tap the email account you want to turn off, then do one of the following:
+Turn off an iCloud email account: Turn off Use on this iPhone.
+Turn off another email account: Turn off Mail.
+Tip: You can choose if you want to continue using other apps with this account—including Contacts, Calendars, and Reminders. Turn each individual app on or off.
+Delete an email account
+You can remove an email account from the Mail app and from all the apps that use it on your iPhone.
+Note: This action doesn’t cancel the email account; it just removes it from your iPhone. To close the account completely, visit your email account provider.
+Go to Settings > Apps > Mail.
+Tap Mail Accounts, tap the email account you want to remove from your iPhone, then tap Sign Out or Delete Account.
+Note: If you change your mind later, you can add the email account back to your iPhone. See Add an email account .
+Add the Mail app back to your Home Screen
+If you don’t see the Mail app on your Home Screen, you can find it in the App Library and add it back.
+On the Home Screen, swipe left until you see the App Library.
+Enter “Mail” in the search field.
+Touch and hold , then tap Add to Home Screen.
+To rearrange your Home Screen so it’s just right for you, see Move apps and widgets on the Home Screen .

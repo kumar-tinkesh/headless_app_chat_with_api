@@ -1,0 +1,30 @@
+iPhone User Guide
+Modify files and folders in Files on iPhone
+You can copy, move, share, and delete your documents, images, and other files on your iPhone.
+Modify and rearrange documents
+When viewing a file in a supported document format, you can modify and rearrange the document’s contents.
+Go to the Files app on your iPhone.
+Open the document you want, tap its title, then choose any of the following:
+Save to Photos: Save the document in the Photos Library.
+Duplicate: Make a copy of the document.
+Move: Move the document to another location.
+Export: Save a copy of the file in a different file format.
+Print: Print the document
+To rearrange a document, touch and hold a highlighted page and drag it to a new location.
+To mark up a document, tap at the bottom of the screen.
+Note: Not all document formats are supported by the Files app.
+Change to list view or icon view
+Go to the Files app on your iPhone.
+From an open location or folder, tap , then tap Icons or List to change your view of the files.
+Rearrange the Browse screen
+Go to the Files app on your iPhone.
+Tap Browse at the bottom of the screen.
+At the top of the Browse screen, tap , tap Edit, then do any of the following:
+Hide a location: Turn the location off.
+Delete a tag and remove it from all items: Tap next to the tag. (See Tag a file or folder .)
+Remove an item from the Favorites list: Tap next to the item. (See Mark a folder as a favorite .)
+Change the order of an item: Touch and hold , then drag it to a new position.
+Delete a file
+Go to the Files app on your iPhone.
+Tap Browse at the bottom of the screen, then locate the file you want to delete.
+Touch and hold the file, then tap Delete.

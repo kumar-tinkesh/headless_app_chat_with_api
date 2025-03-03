@@ -1,0 +1,8 @@
+iPhone User Guide
+Force restart iPhone
+If iPhone isn’t responding, and you can’t turn it off then on , try forcing it to restart.
+Press and quickly release the volume up button.
+Press and quickly release the volume down button.
+Press and hold the side button.
+When the Apple logo appears, release the side button.
+If iPhone doesn’t restart after you try these steps, see the Apple Support article If your iPhone won’t turn on or is frozen . Or if your iPhone isn’t working as expected after you restart it, see the iPhone Support website .

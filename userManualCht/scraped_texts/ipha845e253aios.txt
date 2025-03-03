@@ -1,0 +1,10 @@
+iPhone User Guide
+Start SharePlay by holding two iPhone devices close together
+With SharePlay, you can instantly stream supported content, listen to music, play games, and more in sync with a friend by holding your iPhone close to your friend’s iPhone.
+Start SharePlay
+On your iPhone, in an app that supports SharePlay, tap the content you want to share.
+Hold your iPhone next to the iPhone of the person you want to share with.
+If they’re not in your contacts (or vice versa), you first need to share your contact information with them. See Use NameDrop on iPhone .
+Tap SharePlay.
+The person you want to share with can accept or decline your SharePlay invitation.
+Note: iOS 17 or later is required on both iPhone devices. AirDrop must be turned on, and the sender and recipient must be included in each other’s contacts. Some apps that support SharePlay require a subscription. To watch a movie or TV show together, each participant must have access to the content on their own device, through either a subscription or purchase, on a device that meets the minimum system requirements. SharePlay might not support sharing some movies or TV shows across different countries or regions.

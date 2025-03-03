@@ -1,0 +1,34 @@
+iPhone User Guide
+Organize books in the Books app on iPhone
+The books and audiobooks you purchase in the Books app are saved in your library and automatically sorted into collections, such as Audiobooks, Want to Read, and Finished.
+Create a collection
+You can create your own collections to organize and personalize your library.
+Go to the Books app on your iPhone.
+Tap Library, tap Collections, then tap New Collection.
+Name the collection, for example, Beach Reads or Book Club , then tap Done.
+Add a book to a collection
+You can add a book from your library or from the Book Store to the collections you create.
+Go to the Books app on your iPhone.
+Navigate to a book, then tap below the cover.
+Tap Add to Collection, then tap the collection you want to add it to.
+Tip: You can add the same book to multiple collections.
+Organize your books
+You can change how the books in your library or a collection are displayed and sorted.
+Go to the Books app on your iPhone.
+Tap Library or go to a collection.
+Tap , then do either of the following:
+Change the book display: Tap Grid or List.
+Change the book order: Tap Recent, Title, Author, or Manual.
+If you choose Manual, touch and hold a book cover, then drag it to a new position.
+Remove books, audiobooks, and PDFs
+You can remove or hide books, audiobooks, and PDFs from Home, Library, and your library collections.
+Go to the Books app on your iPhone.
+Navigate to a book or audiobook you want to remove, then tap below the cover.
+Tap Remove, then choose an option.
+Note: If you choose Remove Download, the content and data associated with the title are no longer stored on your iPhone. To redownload the title, tap , then tap Download. If you choose Hide Book, the book won’t appear in your library or collections. To unhide books and audiobooks, tap Home, tap your account icon, then tap Manage Hidden Purchases.
+You can automatically remove downloads from your iPhone after you finish a book. Tap Library, then tap at the top right of the screen. Tap Remove Downloads, then tap Automatically When Finished.
+Delete a collection
+Go to the Books app on your iPhone.
+Tap Library, then tap Collections.
+Swipe left on the collection you want to delete, then tap Delete.
+Note: Deleting a collection doesn’t delete the books or audiobooks in the collection; they’re still in your library.

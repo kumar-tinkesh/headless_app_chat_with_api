@@ -1,0 +1,28 @@
+iPhone User Guide
+Edit Live Photos on iPhone
+In the Photos app, you can edit Live Photos, change the key photo, and add fun effects like Bounce and Loop.
+Make Live Photo edits
+In addition to the photo editing tools , you can also change a Live Photo’s key photo, trim its length, mute the sound, and turn a Live Photo into a still photo.
+Go to the Photos app on your iPhone.
+Open a Live Photo, then tap .
+Tap , then do any of the following:
+Set a key photo: Move the white frame on the frame viewer, tap Make Key Photo, then tap Done.
+Trim a Live Photo: Drag either end of the frame viewer to choose the frames the Live Photo plays.
+Make a still photo: Tap the Live button at the top of the screen to turn off the Live feature. The Live Photo becomes a still of its key photo.
+Mute a Live Photo: Tap at the top of the screen. Tap it again to unmute.
+Note: Live Photos taken on an iPhone 15 model or later with a portrait effect lose the portrait effect if you change the key photo.
+Add effects to a Live Photo
+You can add effects to Live Photos to turn them into fun videos.
+Go to the Photos app on your iPhone.
+Open a Live Photo.
+Tap in the top-left corner, then choose one of the following:
+Live: Applies the Live video playback feature.
+Loop: Repeats the action in a continuous looping video.
+Bounce: Rewinds the action backward and forward.
+Long Exposure: Simulates a DSLR-like long exposure effect by blurring motion.
+Live Off: Turns off the Live video playback feature or applied effect.
+Turn a Live Photo into a video
+You can turn a Live Photo into a short video to save or share—for example, to share with people not on Apple devices.
+Go to the Photos app on your iPhone.
+Open a Live Photo.
+Tap in the top-right corner, then tap Save as Video.

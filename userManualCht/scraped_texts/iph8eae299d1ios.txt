@@ -1,0 +1,27 @@
+iPhone User Guide
+Get walking directions in Maps on iPhone
+You can get detailed walking directions to your destination. You can preview the elevation for your walk and choose a route that best avoids hills, stairs, and busy roads.
+Get walking directions
+Go to the Maps app on your iPhone.
+Touch and hold anywhere on the map or enter an address in the search field, then tap Directions or .
+Tap Go or Steps for the route you want to take.
+If you tap Go, as you walk along your route, Maps speaks walking-specific directions for turns and maneuvers like walking up stairs.
+Siri: You can also say something like: “Give me walking directions home.” Learn how to use Siri .
+For thousands of trails in parks across the U.S., you can find out their length, preview elevation information, see photos, and more. See Browse and save hikes .
+Note: Turn-by-turn spoken directions are available in select areas. Features vary by country and region. See the iOS and iPadOS Feature Availability website .
+Avoid hills, busy roads, or stairs
+Go to the Maps app on your iPhone.
+Get walking directions .
+Tap Avoid (below the destination), choose your options, then tap Apply.
+Automatically see directions in augmented reality
+On supported models and in select areas, you can view immersive walking instructions that use the iPhone camera and augmented reality to show you where to turn.
+Go to Settings > Apps > Maps.
+Tap Walking (below the destination), then turn on Raise to View.
+Get walking directions .
+Raise iPhone, tap , then follow the onscreen instructions.
+To return to the map, tap .
+Improve how accurately iPhone determines your location while walking
+You can improve how accurately your iPhone determines your location and which way you’re facing while walking. This feature uses the camera and the motion sensors ( models with Face ID and iPhone SE 2nd generation and later).
+Go to Settings > Apps > Maps.
+Tap Walking (below the destination), then turn on Enhanced.
+You can turn off this feature to decrease battery usage.

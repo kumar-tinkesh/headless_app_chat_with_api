@@ -1,0 +1,12 @@
+iPhone User Guide
+Adjust the shutter volume on your iPhone camera
+You can adjust the sound of the camera shutter, or mute it using the Ring/Silent switch on the side of your iPhone.
+Change the volume of the shutter sound in Photo mode
+Open Camera on your iPhone.
+Open Control Center , then drag up or down.
+Swipe up from the bottom of the screen to go back to Camera.
+Note: The shutter doesn’t make a sound when Live Photos is turned on (except in some countries and regions).
+Mute the shutter sound
+Mute the shutter sound using the Ring/Silent switch on the side of your iPhone. To put iPhone in Silent mode, set the Ring/Silent switch so that the switch shows orange. To turn off Silent mode, set the switch back.
+All iPhone 16 models, iPhone 15 Pro, and iPhone 15 Pro Max have an Action button instead of a Ring/Silent switch. By default, you can press the Action button to turn Silent mode on or off. Or swipe down from the top right corner to open Control Center, then tap .
+Note: In some countries and regions, you can’t mute the shutter sound.

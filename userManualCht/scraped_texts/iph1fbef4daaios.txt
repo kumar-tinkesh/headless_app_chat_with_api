@@ -1,0 +1,27 @@
+iPhone User Guide
+Browse the web using Safari on iPhone
+You can browse the web, view websites, preview website links, translate webpages, and add the Safari app back to your Home Screen if it gets removed. Sign in to iCloud with the same Apple Account on multiple devices to keep your open tabs, bookmarks, history, and Reading List up to date across all your devices.
+Go to a webpage
+Go to the Safari app on your iPhone.
+Enter the name or web address (URL) of the webpage in the search field.
+View websites with Safari
+Go to the Safari app on your iPhone.
+Do any of the following:
+Get back to the top: Double-tap the top edge of the screen to quickly return to the top of a long page.
+See more of the page: Turn iPhone to landscape orientation.
+Refresh the page: Pull down from the top of the page.
+Share links: At the bottom of the page, tap .
+Preview website links
+Go to the Safari app on your iPhone.
+Touch and hold a link in Safari to see a preview of the link without opening the page.
+To open the link, tap the preview, or choose Open.
+To close the preview and stay on the current page, tap anywhere outside the preview.
+Translate a webpage or image
+When you view a webpage or image that’s in another language, you can use Safari to translate the text (not available in all languages or regions).
+Go to the Safari app on your iPhone.
+Tap , then tap (if translation is available).
+Add Safari back to your Home Screen
+If you don’t see Safari on your Home Screen, you can find it in App Library and add it back.
+On the Home Screen, swipe left until you see the App Library.
+Enter “Safari” in the search field.
+Press and hold , then tap Add to Home Screen.

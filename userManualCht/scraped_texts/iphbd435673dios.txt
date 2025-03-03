@@ -1,0 +1,8 @@
+iPhone User Guide
+Use iPhone as a level
+Use your iPhone to determine whether an object near you is level (parallel to the ground), or how many degrees it varies from level (measurements are approximate).
+Go to the Measure app (in the Utilities folder) on your iPhone.
+Tap Level, then hold iPhone against an object, such as a picture frame.
+Make an object level: Rotate the object and iPhone until you see green.
+Match the slope: Tap the screen to capture the slope of the first object. Hold iPhone against another object and rotate both of them until the screen turns green.
+To reset the level, tap the screen again.

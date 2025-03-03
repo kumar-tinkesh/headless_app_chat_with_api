@@ -1,0 +1,12 @@
+iPhone User Guide
+Share your screen in a FaceTime call on iPhone
+In the FaceTime app (on a device that meets the minimum system requirements ), you can share your screen to bring apps, webpages, and more into the conversation.
+Share your screen
+During a call in the FaceTime app on your iPhone, tap the screen to show the FaceTime controls (if they aren’t visible), then tap .
+Tap Share My Screen.
+A countdown from 3 to 1 appears, then other participants can view your screen. (If a Join Screen Sharing notification appears on a participant’s screen, they may need to tap Open to start viewing your screen.)
+Tip: During a one-to-one FaceTime call, a participant who is using an iPhone or iPad can tap, draw, or write on your screen to call your attention to a specific area. The circle, drawing, or writing disappears after a few seconds. If you need more help, you can also allow the other participant to control your screen .
+To stop sharing your screen, tap . Ending a FaceTime call also ends screen sharing.
+Ask someone to share their screen
+During a call in the FaceTime app on your iPhone, tap the screen to show the FaceTime controls (if they aren’t visible), then tap .
+Tap Ask to Share.

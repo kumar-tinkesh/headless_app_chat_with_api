@@ -1,0 +1,19 @@
+iPhone User Guide
+Connect a game controller to iPhone
+You can connect a compatible game controller to your iPhone through Bluetooth® or the Lightning or USB-C connector. You can customize the buttons and even add a second controller to get help from a friend.
+Pair a Bluetooth game controller
+Follow the instructions that came with the controller to put it in discovery mode.
+On iPhone, go to Settings > Bluetooth, turn on Bluetooth, then tap the name of the device.
+See the Apple Support article Connect a wireless game controller to your Apple device .
+Connect a game controller through the Lightning or USB-C connector
+If you have a compatible game controller, you can connect it to iPhone using the Lightning or USB-C connector. Depending on your iPhone model and controller, you may need an adapter (sold separately). Follow the instructions that came with your controller.
+Customize the game controller buttons
+After you pair or connect a compatible game controller, you can customize the buttons for supported games from Apple Arcade and the App Store.
+Go to Settings > General > Game Controller.
+Tap the buttons you want to change.
+To customize for a specific app, tap Add App.
+Add a second game controller and get help from a friend
+With Buddy Controller, iPhone combines two controllers to drive a single player in a game so a friend can help you get to the next level. Buddy Controller is compatible with any game that supports game controllers.
+Connect two compatible game controllers to iPhone through Bluetooth or the Lightning or USB-C connector.
+Go to Settings > General > Game Controller > Buddy Controller.
+Choose the primary controller, then choose the secondary controller.

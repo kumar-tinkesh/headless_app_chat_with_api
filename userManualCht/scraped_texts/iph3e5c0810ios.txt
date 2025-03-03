@@ -1,0 +1,18 @@
+iPhone User Guide
+Copyright
+Copyright © 2025 Apple Inc. All rights reserved.
+Apple, the Apple logo, 3D Touch, AirDrop, AirPlay, AirPods, AirPods Max, AirPods Pro, AirPrint, AirTag, App Clip Code, App Clips, Apple Books, Apple Card, Apple Cash, Apple Music, Apple Pay, Apple Podcasts, Apple TV, Apple Wallet, Apple Watch, Apple Watch SE, Apple Watch Ultra, AssistiveTouch, CarPlay, Digital Crown, Dynamic Island, EarPods, Face ID, FaceTime, Final Cut, Final Cut Pro, Finder, Find My, Flyover, Freeform, Guided Access, Handoff, HomeKit, HomePod, HomePod mini, iMac, iMac Pro, iMessage, iMovie, iPad, iPad Air, iPad mini, iPadOS, iPad Pro, iPhone, iPod, iPod touch, iTunes, Keychain, Keynote, Lightning, Live Listen, Live Photos, Live Text, Mac, MacBook, MacBook Air, MacBook Pro, Mac mini, macOS, Mac Pro, Magic Keyboard, MagSafe, MagSafe Duo Charger, Memoji, Memory Mixes, Motion, NameDrop, Night Shift, Numbers, OS X, Pages, Photo Booth, ProMotion, ProRAW, ProRes, QuickPath, QuickTake, Safari, Siri, Siri Shortcuts, Spotlight, Touch ID, TrueDepth, True Tone, tvOS, and watchOS are trademarks of Apple Inc., registered in the U.S. and other countries and regions.
+Apple Intelligence, Apple Sports, Apple Vision Pro, Genmoji, Live Activities, Multi-Touch, SharePlay, and visionOS are trademarks of Apple Inc.
+Apple Arcade, Apple Messages for Business, Apple News, Apple News+, Apple One, Apple Store, Apple TV+, App Store, Daily Cash, Genius, iCloud, iCloud+, iCloud Drive, iCloud Keychain, and iTunes Store are service marks of Apple Inc., registered in the U.S. and other countries and regions.
+Apple Fitness+ and Apple News Today are service marks of Apple Inc.
+Apple
+One Apple Park Way
+Cupertino, CA 95014
+apple.com
+Beats, the b logo, Beats Solo, Beats Solo Pro, Beats Studio, Beats X , Powerbeats, Powerbeats Pro, and Solo are trademarks of Beats Electronics, LLC registered in the U.S. and other countries and regions.
+Beats Flex is a trademark of Beats Electronics, LLC.
+IOS is a trademark or registered trademark of Cisco in the U.S. and other countries and regions and is used under license.
+The Bluetooth® word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Apple is under license.
+Other company and product names and logos mentioned herein may be trademarks of their respective companies.
+Every effort has been made to ensure that the information in this manual is accurate. Apple is not responsible for printing or clerical errors.
+Some apps and features are not available in all areas. App and feature availability is subject to change.

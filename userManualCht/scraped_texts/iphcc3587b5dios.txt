@@ -1,0 +1,11 @@
+iPhone User Guide
+Multitask with Picture in Picture on iPhone
+With Picture in Picture, you can watch a video or use FaceTime while you use other apps.
+While watching a video, tap in the video window.
+The video window scales down to a corner of your screen so you can see the Home Screen and open other apps. With the video window showing, you can do any of the following:
+Resize the video window: To make the small video window larger, pinch open. To shrink it again, pinch closed.
+Show and hide controls: Tap the video window.
+Move the video window: Drag it to a different corner of the screen.
+Hide the video window: Drag it off the left or right edge of the screen.
+Close the video window: Tap .
+Return to a full video screen: Tap in the small video window.

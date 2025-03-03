@@ -1,0 +1,11 @@
+iPhone User Guide
+Adjust accessibility settings for the Camera Control on iPhone
+On all iPhone 16 models, you can change the pressure required to lightly press the Camera Control or the speed required to lightly double-press it. You can also change the gesture you use to access controls like Zoom or Depth, disable that gesture, or disable the Camera Control entirely.
+Go to Settings > Accessibility > Camera Control.
+Do any of the following:
+Disable the Camera Control entirely: Turn off Camera Control.
+Use a light press gesture to access controls: Turn Light-Press on. Turn it off to disable the gesture.
+Use a swipe gesture to access controls: Turn on Swipe. Turn it off to disable the gesture.
+Adjust the pressure required to lightly press the Camera Control: Choose a firmness option below Light-Press Force. You can practice the gesture to try out the pressure you set.
+Adjust the speed required to lightly double-press the Camera Control: Below Double Light-Press Speed, choose how fast you need to press for iPhone to recognize a light double press.
+You can also customize the Camera Control to open the Magnifier app. See Use the Camera Control to open another app .

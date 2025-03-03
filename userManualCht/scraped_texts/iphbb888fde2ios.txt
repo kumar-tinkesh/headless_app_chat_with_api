@@ -1,0 +1,10 @@
+iPhone User Guide
+Use Hide My Email in Safari on iPhone
+When you subscribe to iCloud+ , you can use Hide My Email to keep your personal email address private. With Hide My Email, you can generate unique, random email addresses that forward to your personal email account, so you don’t have to share your real email address when filling out forms on the web or signing up for newsletters.
+Go to the Safari app on your iPhone.
+When you’re asked for your email address on a website, tap the email field.
+Tap Hide My Email above the keyboard.
+The Hide My Email screen suggests a new, randomly generated Hide My Email address.
+If you don’t want to use the suggested address, tap to get a new randomly generated email address.
+Tap Continue.
+You can delete the Hide My Email address at any time. See Create and manage Hide My Email in Settings .

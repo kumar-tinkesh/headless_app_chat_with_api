@@ -1,0 +1,9 @@
+iPhone User Guide
+Control a nearby Apple device with iPhone
+You can remotely control your other Apple devices with your iPhone.
+Go to Settings > Accessibility > Control Nearby Devices, then tap Control Nearby Devices.
+The device you want to control must be signed in to the same Apple Account and connected to the same Wi-Fi network as your iPhone.
+Choose the device you want to control, then tap a button.
+Button names correspond to the controls on your device. Tap to see your options, including media play controls.
+Tip: To quickly turn on Control Nearby Devices, add this feature to Accessibility Shortcut .
+To stop controlling the other device, tap .

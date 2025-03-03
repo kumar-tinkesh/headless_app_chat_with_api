@@ -1,0 +1,25 @@
+iPhone User Guide
+Play Spatial Audio in Dolby Atmos in Music on iPhone
+Apple Music subscribers can play available tracks in Dolby Atmos, which creates an immersive, three-dimensional audio experience on stereo headphones and speakers or receivers compatible with Dolby Atmos.
+Albums available in Dolby Atmos have the Dolby Atmos icon . If a track is playing in Dolby Atmos, the icon also appears on the Now Playing screen.
+Note: Apple Music and Dolby Atmos aren’t available in all countries or regions. See the Apple Support article Availability of Apple Media Services .
+Turn on Dolby Atmos
+Go to Settings > Apps > Music.
+Tap Dolby Atmos, then choose Automatic or Always On.
+Automatic: Plays Dolby Atmos whenever iPhone is connected to compatible headphones such as AirPods 3, AirPods Pro, or AirPods Max, or to speakers or receivers compatible with Dolby Atmos.
+Always On: Plays Dolby Atmos on any headphones or speakers. The Music app will attempt to play Dolby Atmos tracks on any headphones or speakers connected to iPhone.
+Dolby Atmos will play on any headphones, but not all speakers will play Dolby Atmos as intended.
+Control Spatial Audio and head tracking on iPhone
+When you play supported music on your iPhone with AirPods 3, AirPods Pro, or AirPods Max, you can use Spatial Audio and head tracking to create an immersive, theater-like environment with sound that surrounds you. Follow these steps to control Spatial Audio and head tracking in Control Center.
+Wear your AirPods, then open Control Center .
+Touch and hold the volume control, then tap Spatial Audio at the lower right.
+Tap one of the following:
+Off: Turns off both Spatial Audio and head tracking.
+Fixed: Turns on Spatial Audio without head tracking.
+Head Tracked: Turns on both Spatial Audio and head tracking. This setting allows the sound to follow the movement of your head.
+The settings you choose are saved and applied automatically the next time you use that app. For example, if you tap Fixed while listening to a song in Apple Music, the Fixed setting is automatically used the next time you play a song in Apple Music.
+Note: To disable head tracking for all apps on your iPhone, go to Settings > Accessibility > AirPods, tap your AirPods, then turn off Follow iPhone.
+Download songs in Dolby Atmos
+Go to Settings > Apps > Music.
+Turn on Download in Dolby Atmos.
+For more information, see the Apple Support article About Spatial Audio with Dolby Atmos in Apple Music .

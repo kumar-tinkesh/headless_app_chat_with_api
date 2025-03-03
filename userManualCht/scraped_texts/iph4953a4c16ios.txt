@@ -1,0 +1,9 @@
+iPhone User Guide
+Find music shared with you on iPhone
+When a friend shares music with you in the Messages app , you can easily find it in Shared with You in the Music app.
+Note: Music must be turned on in Settings > Apps > Messages > Shared with You, and your friend must be in your contacts list in Contacts.
+Go to the Music app on your iPhone.
+Tap Home, swipe up to Shared with You, then do any of the following:
+Tap a song to listen to it.
+Tap the name of the person, people, or group that shared the song to reply to them using Messages.
+Touch and hold the song to take other actions—for example, add it to your library, create a station, reply to the sender, or remove it.

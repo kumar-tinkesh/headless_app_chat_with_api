@@ -1,0 +1,42 @@
+iPhone User Guide
+Share notes and collaborate on iPhone
+In the Notes app, you can send a copy of a note to a friend. You can also invite people to collaborate in real time on a note or on a folder of notes in iCloud, and everyone will see the latest changes.
+Share a copy of a note
+Go to the Notes app on your iPhone.
+Open the note you want to share.
+Tap , choose Send Copy, then choose how to send your note.
+Collaborate on a note or folder of notes using iCloud
+To collaborate with others, you can share a note or a folder of notes in iCloud. You can set permissions for the participants (such as allowing them to edit notes, add attachments, and create subfolders), and all the participants can see everyone’s changes in real time. The participants must be signed in to their Apple Account and have Notes turned on in iCloud settings .
+Note: You can’t collaborate on a locked note or on a folder with locked notes.
+Go to the Notes app on your iPhone.
+Do one of the following:
+Share a note: Open the note you want to share, tap , then choose Collaborate.
+Share a folder: Open the folder you want to share, then tap .
+To change the access and permissions, tap "Only invited people can edit,” then set any of the following:
+Who can access: Choose Only invited people or Anyone with the link.
+Permissions: Choose Can make changes or View only.
+Allow other to invite: Turn on to allow participants to invite new people (available only when they have permission to make changes).
+Choose Messages or Mail to send your invitation. (AirDrop isn’t supported for collaboration.)
+If you send the invitation in Messages, you get activity updates in the Messages conversation when someone makes changes in the shared note. Tap the updates to go to the shared note.
+See the Apple Support article If you can’t share or collaborate in the Notes app on your iPhone or iPad .
+View activity in a note
+In the notes list, an orange dot to the left of a note title indicates the note has changed since you last looked at it.
+Go to the Notes app on your iPhone.
+Open the note, then swipe right on the note or swipe up on the Activity card to see who made changes and when.
+To adjust how the activity is shown, tap , then choose any of the following:
+Show Updates: Shows changes made since you last opened the note.
+Show All Activity: Shows all activity in the note.
+Show Highlights: Shows names, dates, and changes made by each participant.
+Tip: To mention a participant and notify them of important updates, type an @ sign followed by their name.
+View activity in a folder
+Go to the Notes app on your iPhone.
+Touch and hold the folder, then tap Show Folder Activity.
+Change sharing settings
+Go to the Notes app on your iPhone.
+The owner of a shared note or folder can change the sharing settings by doing one of the following:
+Manage a shared note: Tap , then tap Manage Shared Note.
+Manage a shared folder: Tap , then tap Manage Shared Folder.
+Do any of the following:
+Remove participants: Tap the participant you want to remove, then tap Remove Access.
+Change access and permission settings: To change the settings for all participants, tap Share Options. To change the settings for one person, tap their name.
+Stop sharing: When you choose this option, the shared note or folder is deleted from the devices of the other participants.

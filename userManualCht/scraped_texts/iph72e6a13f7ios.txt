@@ -1,0 +1,7 @@
+iPhone User Guide
+Reset privacy and security settings in an emergency
+You can use Safety Check on iPhone to quickly stop sharing your device access and personal information with others. Safety Check helps you quickly change your passcode and Apple Account password, stop sharing your location with Find My, restrict Messages and FaceTime to the device in your hand, and more.
+Go to Settings > Privacy & Security > Safety Check on your iPhone.
+Tap Emergency Reset, tap Start Emergency Reset, then follow the onscreen instructions.
+You can also use Safety Check to periodically review and update the information you share with people, apps, and devices. To learn more about what Safety Check does, see How Safety Check on iPhone works to keep you safe in the Personal Safety User Guide.
+Important: You might also be sharing information that Safety Check can’t review or change—for example, accounts and passwords, social media sharing, and information shared from another device. To help you decide on additional steps for reducing the information you share, see Additional considerations when using Safety Check in the Personal Safety User Guide.

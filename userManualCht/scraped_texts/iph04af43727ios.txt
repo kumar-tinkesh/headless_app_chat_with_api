@@ -1,0 +1,32 @@
+iPhone User Guide
+Use Face Recognition in Home on iPhone
+With a HomeKit Secure Video camera or doorbell, you can use the Home app to receive notifications when people you’ve tagged in the Photos app are within the camera’s view.
+Set up Face Recognition
+Face Recognition identifies people by the faces that appear in your photo library or pictures of recent visitors captured by your camera or doorbell.
+If you’re setting up a camera or doorbell for the first time, do the following:
+Go to the Home app on your iPhone.
+Add the accessory to the Home app.
+In the Recognize Familiar Faces card, turn on Face Recognition, then tap Continue.
+Choose who can access your photo library:
+Never: Only faces you’ve added from clips in the Home app are recognized.
+Only Me: Only the notifications you receive have the names of people in your photo library.
+Everyone in this Home: The notifications for everyone in your home have the names of people in your photo library.
+Tap Continue, then finish setting up the camera or doorbell.
+If you have an existing doorbell or camera and want to use it to identify visitors, tap it on the Home tab, tap , tap Face Recognition, then turn on Face Recognition. Tap your photo library, then choose who can access it.
+Note: Notifications can appear on any of the devices associated with your Apple Account.
+Identify recent visitors
+You can use Face Recognition to help identify people that aren’t in your photo library using a picture captured by your camera or doorbell.
+Go to the Home app on your iPhone.
+Turn on Face Recognition .
+On the Home tab, tap the camera or doorbell, then tap .
+Tap Face Recognition, tap an unidentified person listed below Recent, then tap Add Name.
+Add the person’s name or their relationship to you—Mom or Mail Carrier, for example.
+Choose whether to be notified when they’re seen by your camera or doorbell.
+Note: People with a face mask don’t appear in this list.
+Share faces with your household
+You can allow the members of your household to see the names of visitors identified in your photo library.
+Go to the Home app on your iPhone.
+Turn on Face Recognition .
+Tap , then tap Home Settings.
+Tap Cameras & Doorbells below Notifications, then tap Face Recognition.
+Tap your photo library, then tap Everyone in this Home.

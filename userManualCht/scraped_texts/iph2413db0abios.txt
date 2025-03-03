@@ -1,0 +1,12 @@
+iPhone User Guide
+Undo and revert photo edits on iPhone
+While you edit a photo or video, you can undo and redo changes. After saving, if you don’t like how your changes look, you can revert back to the original.
+When you use iCloud Photos , any edits you make to your photos and videos are saved across all your devices.
+Undo and redo as you edit
+As you edit a photo or video, tap and at the top of the screen to undo and redo multiple edit steps.
+Tip: You can tap the photo or video to compare the edited version to the original.
+Revert an edited photo or video
+To undo edits after you save, you can revert to the original.
+Go to the Photos app on your iPhone.
+Open the edited photo or video, then tap .
+Tap Revert to Original.

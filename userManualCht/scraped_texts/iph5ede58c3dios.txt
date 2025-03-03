@@ -1,0 +1,56 @@
+iPhone User Guide
+Share your data in Health on iPhone
+You can share health data stored in the Health app—such as health alerts and trends—with friends, family, and others caring for you.
+Share health data with a loved one
+People you share health data with can also view the health notifications you receive, including high heart rate and irregular rhythm notifications. You can also share notifications for significant trends, such as a steep decline in activity.
+Note: To share health data with someone, you need to include them in your contacts .
+Go to the Health app on your iPhone.
+Tap Sharing at the bottom of the screen.
+Do one of the following:
+Set up sharing for the first time: Tap Share with Someone.
+Share with an additional contact: Tap “Add another person,” then tap Next.
+Use the search field to find someone in your contacts list, then tap their contact information to select them.
+Tap See Suggested Topics or Set Up Manually, then choose topics to share.
+Scroll down to see all topics on a screen, then tap Next to see the next screen.
+Tap Share, then tap Done.
+You receive a notification when your invitation is accepted.
+Share health data with your doctor
+You can share health data (such as heart rate, exercise minutes, hours of sleep, lab results, and heart health notifications) with your doctors. Doctors view the data in a dashboard in their health records systems (U.S. only; on systems that support Health app data Share with Provider).
+Go to the Health app on your iPhone.
+Tap Sharing at the bottom of the screen.
+Do one of the following:
+Set up sharing for the first time: Tap “Share with your doctor.”
+Share with an additional provider: Tap “Share with another doctor.”
+Tap Next, then select one of the suggested providers, or use Search to find your provider.
+If Connect to Account appears, tap it, enter the user name and password you use for the patient web portal for that account, then follow the onscreen instructions.
+In addition to sharing your health data, connecting to your account also causes your health records for that account to download to Health .
+Choose topics to share with your doctor.
+Scroll down to see all topics on a screen, then tap Next to see the next screen.
+Tap Share, then tap Done.
+Review or change the data you’re sharing with others
+Go to the Health app on your iPhone.
+Tap Sharing at the bottom of the screen.
+Tap the name of a person or a healthcare provider.
+Scroll down, then tap View Shared Data.
+Make any changes, then tap Done.
+Stop sharing data with a contact or a provider
+Go to the Health app on your iPhone.
+Tap Sharing at the bottom of the screen.
+Tap the name of a person or a healthcare provider.
+Tap Stop Sharing or Remove Account.
+Note: If you start sharing data with someone, simply removing them from Contacts doesn’t stop the information from being shared.
+Share health and fitness data with apps and devices
+You can give other apps permission to share health and fitness data with Health. For example, if you install a workout app, its exercise data can appear in Health. The workout app can also read and make use of data (such as your heart rate and weight) shared by other devices and apps. If you didn’t give an app permission to share data with Health when you set up the app, you can give permission later. You can also remove permission from an app.
+To share your records from healthcare providers with apps, see Share your health records with other apps .
+Go to the Health app on your iPhone.
+Tap your picture or initials at the top right.
+If you don’t see your picture or initials, tap Summary or Browse at the bottom of the screen, then scroll to the top of the screen.
+Below Privacy, tap Apps and Services or Devices.
+The screen lists the items that requested access to Health data.
+To change the access for an item, tap it, then turn on or off permission to write data to—or read data from—Health.
+Share your health and fitness data in XML format
+You can export all of your health and fitness data from Health in XML format, which is a common format for sharing data between apps.
+Go to the Health app on your iPhone.
+Tap your picture or initials at the top right.
+If you don’t see your picture or initials, tap Summary or Browse at the bottom of the screen, then scroll to the top of the screen.
+Tap Export All Health Data, then choose a method for sharing your data.

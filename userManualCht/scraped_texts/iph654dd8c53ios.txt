@@ -1,0 +1,28 @@
+iPhone User Guide
+Use Contact Key Verification on iPhone
+You can use Contact Key Verification to receive automatic alerts that help verify you’re communicating only with the people you intend. You can also generate unique codes that you and your contacts can compare simultaneously in the Messages app to further verify each other’s identities. Additionally, you can post your Public Verification Code to a social media account so other people can confirm that it’s you when they send you a message, and you can save other people’s codes in the Contacts app.
+Note: Contact Key Verification is designed to prevent highly sophisticated cyberattacks; it isn’t designed to prevent fraud such as phishing or other text-based scams. To learn more about Contact Key Verification and troubleshooting, see the Apple Support article About iMessage Contact Key Verification .
+Before you begin
+To use Contact Key Verification, make sure of the following:
+Your devices are passcode or password protected.
+You’re signed in to iCloud and iMessage with the same Apple Account and you have two-factor authentication turned on for your Apple Account.
+The person you’re trying to verify is in your contacts.
+Turn on Contact Key Verification
+Go to Settings > [ your name ] > Contact Key Verification.
+Turn on Verification in iMessage, then tap Continue.
+Note: When you turn on Contact Key Verification, you’re prompted to update all of your Apple devices to compatible software. If you have a device that can’t be updated, you need to sign out of iMessage on that device before you can turn on this feature.
+Share a Public Verification Code
+You can share your Public Verification Code in a message, or post it on a social media account so other people can verify your identity.
+Go to Settings > [ your name ] > Contact Key Verification.
+Tap Show Public Verification Code.
+To share your Public Verification Code, tap Copy Verification Code, tap OK, then paste the code wherever you want to share it.
+You can also use someone else’s Public Verification Code to verify their identity. For example, if someone shares a Public Verification Code with you that doesn’t match the code they have displayed on their social media profile, you should stop sending them messages until you can confirm their identity.
+Generate verification codes in Messages
+For a higher level of security, you and your contacts can generate a verification code in Messages, then save each other’s Public Verification Codes in Contacts. This is useful when you want to verify each other simultaneously, or if the Public Verification Code you received doesn’t match the one your contact shares with you.
+Go to the Messages app on your iPhone.
+Tap the person’s name at the top of the conversation, scroll down, then tap Verify Contact.
+When the other person taps Verify Contact on their device, a contact verification code appears.
+Compare the verification codes on both devices, then do one of the following:
+If the codes match: Tap Mark as Verified, then tap Update to add the verification code to the other person’s contact card.
+If the codes don’t match: You might not be communicating with the person that you intend. Tap No Match, then stop sending messages to the person until you can verify their identity.
+After you verify a contact, a checkmark appears next to their name in Messages. You can also check their verification status in the Conversation Details, or find their Public Verification Code in Contacts.

@@ -1,0 +1,36 @@
+iPhone User Guide
+Remove a device from Find My on iPhone
+You can use the Find My app to remove a device from your Devices list or turn off Activation Lock on a device you already sold or gave away. When you remove Activation Lock, someone else can activate the device and connect it to their Apple Account.
+If you still have the device, you can turn off Activation Lock and remove the device from your account by turning off the Find My [ device ] setting on the device.
+Note: Finding devices isn’t available in all countries or regions.
+Remove a device from your Devices list
+If you’re not planning on using a device, you can remove it from your Devices list. The device may need to be offline in order for you to remove it.
+The device appears in your Devices list the next time it comes online if it still has Activation Lock turned on (for an iPhone, iPad, iPod touch, Mac, or Apple Watch), or is paired with your iOS or iPadOS device (for AirPods or Beats headphones).
+Do one of the following:
+For an iPhone, iPad, iPod touch, Mac, or Apple Watch: Turn off the device.
+For AirPods: Put AirPods in their case and close the lid or turn the AirPods off.
+For Beats headphones: Turn off the headphones.
+Go to the Find My app on your iPhone.
+Tap Devices at the bottom of the screen, then tap the name of the offline device.
+Tap Remove This Device, then tap Remove.
+Remove an iPhone Wallet with MagSafe
+You can remove an iPhone Wallet with MagSafe and Find My support from your Devices list if you don’t want it to appear in the Find My app. Removing it from Find My allows someone else to connect it to their Apple Account.
+Go to the Find My app on your iPhone.
+Tap Devices at the bottom of the screen, then tap the name of your iPhone Wallet with MagSafe.
+Tap Remove This Device, then follow the onscreen instructions.
+Turn off Activation Lock on a device you have
+Before you sell, give away, or trade in a device, you should remove Activation Lock so the device is no longer associated with your Apple Account .
+See the Apple Support articles:
+What to do before you sell, give away, or trade in your iPhone, iPad, or iPod touch and Activation Lock for iPhone, iPad, and iPod touch
+What to do before you sell, give away, or trade in your Mac and Activation Lock for Mac
+What to do before you sell, give away, or trade in your Apple Watch, or buy one from someone else and About Activation Lock on your Apple Watch
+Turn off Activation Lock on a device you no longer have
+If you sold or gave away your iPhone, iPad, iPod touch, Mac, or Apple Watch and you forgot to turn off Find My [ device ], you can still remove Activation Lock using the Find My app.
+Go to the Find My app on your iPhone.
+Tap Devices at the bottom of the screen, then tap the name of the device you want to remove.
+Erase the device .
+Because the device isn’t lost, don’t enter a phone number or message.
+If the device is offline, the remote erase begins the next time it connects to a Wi-Fi or cellular network. You receive an email when the device is erased.
+When the device is erased, tap Remove This Device, then tap Remove.
+All your content is erased, Activation Lock is turned off, and someone else can now activate the device.
+You can also remove a device online using iCloud.com. For instructions, see Remove a device from Find Devices on iCloud.com in the iCloud User Guide.

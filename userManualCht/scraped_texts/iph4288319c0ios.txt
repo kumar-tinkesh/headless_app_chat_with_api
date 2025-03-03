@@ -1,0 +1,14 @@
+iPhone User Guide
+Pair Magic Keyboard with iPhone
+You can use Magic Keyboard, including Magic Keyboard with Numeric Keypad, to enter text on iPhone. Magic Keyboard connects to iPhone using Bluetooth®.
+Pair Magic Keyboard
+Make sure the keyboard is turned on and charged.
+On iPhone, go to Settings > Bluetooth, then turn on Bluetooth.
+Select the device when it appears in the Other Devices list.
+Note: If Magic Keyboard is already paired with another device, you must unpair them before you can connect Magic Keyboard to your iPhone. Do one of the following:
+On iPhone or iPad: See Unpair a Bluetooth accessory .
+On macOS 13 or later: Choose Apple menu > System Settings, click Bluetooth in the sidebar, Control-click the device, then choose Forget.
+On macOS 12.5 or earlier: Choose Apple menu > System Preferences, click Bluetooth, Control-click the device name, then click Remove.
+Reconnect Magic Keyboard to iPhone
+Magic Keyboard disconnects when you turn its switch to Off or when you move it or iPhone out of Bluetooth range—about 33 feet (10 meters).
+To reconnect, turn the keyboard switch to On, or bring the keyboard and iPhone back into range, then tap any key.

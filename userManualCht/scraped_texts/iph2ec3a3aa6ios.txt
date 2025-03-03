@@ -1,0 +1,4 @@
+iPhone User Guide
+Use buttons on the Apple TV Remote on iPhone
+On the Apple TV Remote on iPhone, you can use buttons instead of swipe gestures.
+Go to Settings > Accessibility > Apple TV Remote, then turn on Directional Buttons.

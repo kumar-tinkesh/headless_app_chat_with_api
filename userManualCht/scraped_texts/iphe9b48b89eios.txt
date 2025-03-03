@@ -1,0 +1,34 @@
+iPhone User Guide
+Keep track of messages on iPhone
+You can catch up on text messages you missed, mark messages as unread, and pin and unpin conversations to prioritize messages in the Messages list.
+Catch up on messages you missed
+If you receive messages while you have notifications paused or you’re away from your iPhone, you can jump to the first message you haven’t seen in a conversation.
+Go to the Messages app on your iPhone.
+Open an unread conversation, then tap .
+Your view of the conversation moves up to the first unread message.
+Mark messages as unread
+When you don’t have time to respond, you can mark conversations as unread so you can return to them later.
+Go to the Messages app on your iPhone.
+In the Messages list, do one of the following:
+Swipe right on a conversation to mark it as unread.
+Drag right and tap .
+Tip: You can also mark several messages as unread at the same time. Tap Edit or , tap Select Messages, select the conversations you want to mark as unread, then tap Unread in the bottom-left corner.
+See a list of your unread messages
+To see a list of your unread messages, you must first set up message filtering.
+Go to Settings > Apps > Messages.
+Scroll down to Message Filtering, then turn on Filter Unknown Senders.
+Go to the Messages app on your iPhone.
+In the Messages conversation list, tap Filters, then tap Unread Messages.
+Pin a conversation
+You can pin specific conversations to the top of the Messages list so the people you contact most always come first in the list. Pinned conversations appear as larger icons at the top of your messages list.
+Go to the Messages app on your iPhone.
+Touch and hold a conversation, then tap Pin.
+You can also pin certain shared items—such as links or collaboration invitations—within a conversation. Touch and hold a message, then tap Pin. You can find pinned items in the Pins section when you tap the name of your contact or group at the top of the conversation.
+Unpin a conversation
+You can unpin specific conversations so that they don’t appear at the top of the Messages list.
+Go to the Messages app on your iPhone.
+Touch and hold a pinned conversation, then do one of the following:
+Drag the message to the bottom of the list, and let go.
+Tap Unpin.
+See message summaries
+If you haven’t checked a conversation for a while, Apple Intelligence can help you catch up by showing you a summary of that conversation. See View message summaries and Turn message summaries on or off .

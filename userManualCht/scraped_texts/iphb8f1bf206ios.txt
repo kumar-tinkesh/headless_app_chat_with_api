@@ -1,0 +1,38 @@
+iPhone User Guide
+Add, edit, and remove widgets on iPhone
+What are widgets?
+Widgets give you an easy way to view current information at a glance—today’s headlines, weather, reminders, battery levels, and more. You can view widgets in Today View and add them to your Home Screen or Lock Screen to keep this information at your fingertips.
+You can interact with widgets on the Home Screen or Lock Screen without opening the app—you can take action on the widgets for Music, Podcasts, Safari, Home, Contacts, and more. For example, tap on the Music or Podcasts widget to play a selection.
+Tip: A Smart Stack (with dots next to it) is a combined set of widgets that uses information such as the time, your location, and activity to automatically display the most relevant widget at the appropriate time in your day. You can add a Smart Stack from the widget gallery to the Home Screen, then swipe up and down through it to see the widgets it contains.
+Add a widget to your Home Screen
+Go to the Home Screen .
+Find the Home Screen page where you want to add the widget, then touch and hold the Home Screen background until the apps begin to jiggle.
+Tap Edit at the top of the screen, then tap Add Widget to open the widget gallery.
+Scroll or search to find a widget, tap it, then swipe through the size options.
+The different sizes display different information.
+When you see the size you want, tap Add Widget.
+While the apps are still jiggling, move the widget where you want it on the screen, then tap Done.
+To learn how to add a widget to your Lock Screen, see Personalize a new Lock Screen .
+Interact with widgets
+You can perform tasks by tapping widgets on your Home Screen, Lock Screen, or StandBy . Tap an item in the Reminders widget to check it off, tap the Play button in the Podcasts widget to play an episode, or tap the Home widget to turn on your living room lights—all without opening an app.
+Edit a widget on your Home Screen
+You can customize most widgets right from your Home Screen so they display the information you want to see. For example, for a Mail widget, you can tap the mailbox shown in the widget, then choose a different mailbox so the messages in that mailbox are displayed in the widget. Or you can customize a Smart Stack to rotate through its widgets based on your activity, your location, the time of day, and so on.
+Go to the Home Screen .
+Touch and hold a widget to open the quick actions menu .
+Tap Edit Widget (or Edit Stack, if it’s a Smart Stack), then choose options.
+For a Smart Stack, you can turn Smart Rotate or Widget Suggestions (below the widget) off or on, reorder widgets by dragging them within the stack, drag a widget from the Smart Stack to the Home Screen, or remove a widget by tapping in its upper-left corner.
+When you turn on Widget Suggestions, widgets for apps you already use automatically appear in your Smart Stack at the right time based on your past activity. An option lets you add the widget to your stack so it’s always there when you need it.
+Tap Done.
+Remove a widget from the Home Screen
+Go to the Home Screen .
+Touch and hold the widget to open the quick actions menu .
+Do one of the following:
+Remove a widget: Tap Remove Widget.
+Remove a Smart Stack: Tap Remove Stack.
+View widgets in Today View
+To view widgets in Today View, swipe right from the left edge of the Home Screen, then scroll up and down.
+Note: If the widgets don’t appear when you swipe right on the Home Screen, see the next task, View widgets in Today View and Search when iPhone is locked .
+View widgets in Today View and Search when iPhone is locked
+Go to Settings > Face ID & Passcode (on an iPhone with Face ID) or Touch ID & Passcode (on other iPhone models).
+Enter your passcode.
+Turn on Today View and Search (below Allow Access When Locked).

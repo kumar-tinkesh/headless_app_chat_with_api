@@ -1,0 +1,31 @@
+iPhone User Guide
+Play music together in the car using SharePlay and CarPlay on iPhone
+Using SharePlay and CarPlay, you and your passengers can all control the music that’s playing in the car.
+Passengers can join SharePlay in two ways: by tapping a notification on their iPhone or by scanning a QR code, either on the CarPlay Now Playing screen or on the Now Playing screen of another passenger’s iPhone.
+Before you begin
+The driver must have an iPhone with iOS 17 or later and be an Apple Music subscriber.
+Passengers must have an iPhone with iOS 17 or later, but don’t need to have an Apple Music subscription.
+Everyone must allow their contacts to discover them when playing music in the car—go to Settings > Apps > Music, then turn on Discoverable by Nearby Contacts if it isn’t on already.
+Start SharePlay with CarPlay on your iPhone
+To use SharePlay in the car, you and your passengers each play a part.
+Begin playing music from your iPhone using CarPlay.
+A notification appears on the Lock Screen of passengers’ iPhone devices. After they tap Connect, you receive a notification in CarPlay.
+Tap a passenger’s name, then tap to allow the passenger to choose and stream music from your iPhone.
+After you approve a passenger, they can join SharePlay in the future without going through the same process unless you end their access.
+Use a QR code to join SharePlay
+You can also let passengers join SharePlay over Bluetooth ® by scanning a QR code.
+On the Now Playing screen in CarPlay, tap .
+A QR code appears on the CarPlay screen.
+Ask a passenger to open the Camera app on their iPhone and point the camera at the QR code.
+A button appears below the picture of the QR code on their iPhone to request a connection to SharePlay. The passenger taps the button, then taps Connect.
+Tap on the CarPlay screen to allow the passenger to join.
+Use a QR code to add other passengers
+If you’re a passenger using SharePlay to control music in a car, you can invite other passengers while the driver focuses on the road.
+Go to the Music app on your iPhone.
+Open the Now Playing screen, then tap at the bottom of the screen.
+A SharePlay window appears, listing all the participants as well as a QR code for joining.
+Ask a passenger to open the Camera app on their iPhone and point the camera at the QR code, tap the button that appears below the code, then tap Connect.
+The driver taps on the CarPlay screen to allow the passenger to join.
+Leave or end SharePlay in the car
+If you’re a passenger: Tap at the bottom of Now Playing, then tap Leave.
+If you’re the driver: Tap End on the CarPlay screen.

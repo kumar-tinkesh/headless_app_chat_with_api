@@ -1,0 +1,14 @@
+iPhone User Guide
+Look around places in Maps on iPhone
+You can look around some places with 360-degree panoramic views.
+Go to the Maps app on your iPhone.
+In select cities, tap near the bottom of a map.
+To change the view, do any of the following:
+Pan: Drag a finger left or right on the scene.
+Move forward: Tap the scene.
+Zoom in or out: Pinch open or closed.
+View another point of interest: Switch from full-screen view, then tap elsewhere on the map, or drag the map.
+Switch to or from full-screen view: Tap or .
+Remove labels in full-screen view: Swipe up from the place name near the bottom of the screen, then tap Hide Labels .
+When finished, tap Done.
+Look Around is available in select cities. See the iOS and iPadOS Feature Availability website .

@@ -1,0 +1,30 @@
+iPhone User Guide
+Record and transcribe audio in Notes on iPhone
+In the Notes app, you can record audio and have the spoken words transcribed to text. You can search the transcript, add the text to the note, or copy the text to other documents.
+Note: Audio transcription is available on iPhone 12 and later in English (Australia), English (Canada), English (Ireland), English (New Zealand), English (South Africa), English (UK), and English (US).
+Record live audio and see the transcript
+You can record audio and have the spoken words transcribed in a note.
+Go to the Notes app on your iPhone.
+In a note, tap , then tap Record Audio.
+To start the recording, tap .
+When you’re done, tap .
+To see the transcript, tap .
+Note: Spoken words in supported languages are automatically transcribed. If you don’t see , your iPhone either doesn’t meet the minimum requirements or doesn’t detect a supported language.
+Play an audio recording and review the transcript
+Go to the Notes app on your iPhone.
+View a note with an audio recording.
+To play the audio recording, tap .
+To review the transcript, tap the audio recording.
+Note: Spoken words in supported languages are automatically transcribed. If you don’t see , your iPhone doesn’t meet the minimum requirements or detect a supported language.
+While viewing the transcript, you can do any of the following:
+Play the audio at a specific point: Tap the text you want to hear.
+Search the transcript: Tap , then tap Find in Transcript.
+Copy the transcript: Tap , then choose Add Transcript to Note or Copy Transcript.
+Save or delete the audio recording: Tap , then choose an option.
+Note: Deleting the audio recording also deletes the transcript.
+View transcripts of phone and FaceTime audio calls
+You can record a call in the Phone or FaceTime app and view the spoken words transcribed in the Notes app (requires iOS 18.1 or later). See the following:
+Record and transcribe a call on iPhone
+Record and transcribe an audio call in FaceTime on iPhone
+Get a summary of a transcript
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max, you can get a summary of a transcript of an audio recording, phone call, or FaceTime audio call (requires iOS 18.1 or later). See Get a summary of a phone call or audio recording on iPhone with Apple Intelligence .

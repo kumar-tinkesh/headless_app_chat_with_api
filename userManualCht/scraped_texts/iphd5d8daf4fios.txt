@@ -1,0 +1,23 @@
+iPhone User Guide
+Change weak or compromised passwords on iPhone
+When you create and store your own passwords for websites and apps, iPhone automatically identifies common weaknesses (for example, if they’re easily guessed or used multiple times). iPhone can also securely monitor your passwords and alert you if they appear in known data leaks.
+Change a weak or compromised password
+Go to the Passwords app on your iPhone.
+Tap Security.
+If an account has a weak or compromised password, a message explains the problem.
+Tap an account.
+Tap the Password field, then tap Copy Password, so you can paste it where it’s requested—for example, when you create a new password and you’re asked to enter your old password.
+Tap Change Password, then change your password on the website or in the app.
+If the website or app allows you to use a passkey or to upgrade to Sign in with Apple , you can take advantage of the security and convenience of those features. If you aren’t given the upgrade option when you change your password, many accounts allow iPhone to automatically create a strong password that you don’t have to remember.
+Note: If iPhone warns you about a password for a website or app that’s no longer available, you can remove its account from your iPhone and iCloud Keychain. Go to the Passwords app on your iPhone, tap All, then swipe left on the account.
+Hide a security recommendation
+You can hide a security recommendation so that you don’t have to continue reviewing it if you’re unable to address it.
+Go to the Passwords app on your iPhone.
+Tap Security.
+Tap an account.
+Tap Hide.
+To show a security recommendation you’ve hidden, tap Security,  tap at the top of the screen, tap an account, then tap Unhide.
+Turn detection of compromised passwords on or off
+iPhone can monitor your passwords and alert you if they appear in known data leaks.
+Go to Settings > Apps > Passwords.
+Turn Detect Compromised Passwords on or off.

@@ -1,0 +1,58 @@
+iPhone User Guide
+Stream content and control playback in the Apple TV app on iPhone
+In the Apple TV app, you can stream TV shows, movies, sports, and more. You can also download movies and episodes of a TV show. In iOS 18.2 or later, you can download a full season of a TV show.
+Content from Apple TV+ and Apple TV channels plays in the Apple TV app, while content from other providers plays in their video app. Use the playback controls to play or pause what you’re watching, skip backward or forward, and more.
+When you watch with your friends using SharePlay, the playback controls are shared by everyone on the FaceTime call. To learn more about using SharePlay in the Apple TV app, see Use SharePlay to watch, listen, and play together in FaceTime .
+Stream content
+Go to the Apple TV app on your iPhone.
+Tap an item to see its details.
+Choose any of the following options (not all options are available for all titles):
+Watch Apple TV+ or Apple TV channels: Tap Play. If you’re not a current subscriber, tap Try It Free (available for eligible Apple Accounts) or Subscribe.
+Choose a different video app: If the title is available from multiple apps, scroll down to How To Watch, then choose an app.
+Download content
+In the Apple TV app, you can download movies and episodes of a TV show. In iOS 18.2 or later, you can download a full season of a TV show.
+Go to the Apple TV app on your iPhone.
+Tap an item to see its details.
+Choose any of the following options (not all options are available for all titles):
+Download movies: Tap .
+Download an episode of a TV show: Tap , tap a season, then tap next to the episode you want to download.
+Download a full season of a TV show: Tap , tap a season, then tap the season button at the top of the screen.
+You can find the downloaded item in your library and watch it even when iPhone isn’t connected to the internet.
+Watch a movie you rented
+Go to the Apple TV app on your iPhone.
+Tap Library, tap Rentals, then tap a movie.
+Do any of the following:
+Play the movie: Tap . The time remaining in the rental period is shown.
+Download the movie: Tap to watch the item later when iPhone isn’t connected to the internet.
+Use the playback controls
+During playback, tap the screen to show the controls.
+Control
+Description
+Play
+Pause
+Skip backward 10 seconds; touch and hold to rewind
+Skip forward 10 seconds; touch and hold to fast-forward
+Change the playback speed
+Change the audio track and enhance dialogue
+Display subtitles and closed captions
+Share an episode, movie, trailer, or sporting event
+Stream the video to other devices
+Start Picture in Picture—you can continue to watch the video while you use another app
+Stop playback
+When the audio is muted, subtitles automatically appear. And if you skip backward 10 seconds, subtitles appear. To turn off subtitles, tap , then tap Off.
+Change audio options during playback
+During playback, tap the screen to show the playback controls.
+Tap , then tap Enhance Dialogue.
+Tap one of the following:
+Enhance More: Makes dialogue very prominent in the mix.
+Enhance: Makes dialogue more prominent in the mix.
+Off: Turns Enhance Dialogue off.
+Get information about shows, characters, actors, and music
+During playback, you can get more information about the movie or TV show you’re watching or go directly to Continue Watching.
+With InSight, you can get information in real time about actors, characters, and music currently onscreen while you’re watching an Apple TV+ movie or TV show (Apple TV+ subscription required). You can tap an actor to view their background and filmography page, or quickly view a song that’s playing in the background and add it to an Apple Music playlist (Apple Music subscription required).
+During playback, tap the screen to show the playback controls.
+Tap any of the following options:
+Info: See more information about what you’re watching.
+InSight: Tap an actor or character to see more info. If music information appears, tap the song to add it to a playlist in the Music app (Apple TV+ and Apple Music subscriptions required).
+Continue Watching: Go directly to Continue Watching, then tap an item to start watching it.
+Live Sports: View live and upcoming sports events.

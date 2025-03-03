@@ -1,0 +1,29 @@
+iPhone User Guide
+Set up electric vehicle routing in Maps on iPhone
+You can plan trips that include stops for charging your electric vehicle (EV) and monitor changes in your charge while driving.
+Important: EV routing is available on select vehicles and in select areas. Features vary by country and region. Refer to your vehicle’s owner guide for compatibility information.
+When you get driving directions , Maps can track your vehicle’s charge. By analyzing elevation changes along the route and other factors, Maps identifies appropriate charging stations along the way, and, for select charging providers and countries, it provides real-time charging station availability. If you drive until your charge gets too low, you’re offered a route to the nearest compatible charging station.
+Set up EV routing through CarPlay
+For a compatible electric vehicle (EV) that doesn’t require an app from its manufacturer, use CarPlay to set up EV routing in the Maps app.
+Note: Refer to the owner’s guide for your vehicle for compatibility information.
+Connect iPhone to CarPlay .
+Go to the Maps app on your iPhone.
+Get driving directions .
+Tap Connect (above the list of routes), then follow the onscreen instructions.
+See Intro to CarPlay and iPhone .
+Set up EV routing using a vehicle manufacturer’s app
+For a compatible vehicle that requires an app from its manufacturer, use the app to set up EV routing in Maps.
+Note: Refer to the owner’s guide for your vehicle for compatibility information.
+Go to the App Store on your iPhone.
+Search for the manufacturer of your vehicle, then download the app that supports EV routing for it. (See Get apps in the App Store .)
+Open the app, then follow its setup instructions.
+Go to the Maps app , then tap your picture or initials next to the search field.
+If you don’t see your picture or initials, tap Cancel next to the search field, or tap the search field, then tap Cancel.
+Tap Vehicles, tap Connect Your Electric Vehicles, then follow the onscreen instructions.
+You can designate a preferred charging network for your vehicle. The Maps app provides real-time charging station availability for select charging providers and countries, and you can search by plug type and network.
+Choose a different vehicle when you get directions
+If you drive several vehicles, you can change which vehicle Maps provides routing instructions for.
+Go to the Maps app on your iPhone.
+Get driving directions .
+Before you tap Go, scroll down in the route card.
+Choose another electric vehicle, or if you’re driving a vehicle that doesn’t have an EV routing app on your iPhone, tap Different Car.

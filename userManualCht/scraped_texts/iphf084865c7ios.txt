@@ -1,0 +1,6 @@
+iPhone User Guide
+Use Mail Privacy Protection on iPhone
+In the Mail app , turn on Mail Privacy Protection to make it harder for senders to learn about your Mail activity. Mail Privacy Protection hides your IP address so senders can’t link it to your other online activity or determine your exact location. It also prevents senders from seeing if you’ve opened the email message they sent you.
+Go to Settings > Apps > Mail.
+Tap Privacy Protection, then turn on Protect Mail Activity.
+Note: When you subscribe to iCloud+, you can also use Hide My Email to generate unique, random email addresses that forward to your personal email account, so you don’t have to share your personal email address when filling out forms on the web or signing up for newsletters. See Use Hide My Email .

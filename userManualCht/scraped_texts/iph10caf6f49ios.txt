@@ -1,0 +1,19 @@
+iPhone User Guide
+Add and delete photos and videos in a shared album on iPhone
+You can add and delete photos and videos that you added to a shared album. You can also save photos and videos from a shared album to your photo library.
+Add photos and videos to a shared album
+Go to the Photos app on your iPhone.
+Tap Shared Albums, then tap the album.
+Tap , then tap Add Photos.
+Select photos and videos, then tap Add.
+When you add new photos, the people you share the album with are automatically notified.
+Delete photos, videos, and comments from a shared album
+Creators of a shared album can delete any photos, videos, or comments in the album. Subscribers can delete anything that they personally added. Anything that gets deleted is automatically deleted from the shared album on all your devices and the devices of all subscribers.
+Go to the Photos app on your iPhone.
+Tap Shared Albums, then tap the album.
+Touch and hold a photo or video, then tap Delete from Shared Album.
+To delete a comment, touch and hold it, then tap Delete.
+Save photos and videos from a shared album to your photo library
+Go to the Photos app on your iPhone.
+Tap Shared Albums, tap the album, then tap a photo or video.
+Tap , swipe up, then tap Save Image or Save Video.

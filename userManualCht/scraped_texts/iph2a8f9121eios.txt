@@ -1,0 +1,24 @@
+iPhone User Guide
+Share lists and collaborate in Reminders on iPhone
+In the Reminders app, you can use iCloud to share to-do lists. You can collaborate and assign tasks to other people who also use iCloud.
+Note: All Reminders features described in this guide are available when you use updated reminders in iCloud . Some features aren’t available when using other accounts.
+Collaborate on a list using iCloud
+You can share a list and collaborate with people who use iCloud. People who accept the invitation can add and edit items, mark items as completed, and all the participants can see everyone’s changes. Everyone you collaborate with must be signed in to their Apple Account and have Reminders turned on in iCloud settings .
+Go to the Reminders app on your iPhone.
+View the list you want to share, then tap .
+By default, participants on the list can invite other people. To restrict sharing, tap “People you invite can add others,” then turn off “Allow others to invite.”
+Choose how to send your invitation (for example, using Messages or Mail).
+If you send the invitation in Messages, you get activity updates in the Messages conversation when someone makes changes in the shared list. Tap the updates to go to the shared list.
+Assign items in a shared list
+You can assign a task to any person on the list, including yourself.
+Go to the Reminders app on your iPhone.
+In the shared list, create or edit a reminder, then do either of the following:
+Type @ followed by the person’s name or choose a person from the menu above the keyboard.
+Tap , then choose a person.
+Tip: To quickly see all items assigned to you, use the Assigned to Me Smart List .
+Turn notifications on or off for a shared list
+Go to the Reminders app on your iPhone.
+In the shared list, tap , then tap Manage Shared List.
+Below Notify When, turn on or off any of the following:
+Adding Items: Receive an alert when someone adds an item to the list.
+Completing Items: Receive an alert when someone completes an item on the list.

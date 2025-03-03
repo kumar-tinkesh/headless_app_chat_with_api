@@ -1,0 +1,8 @@
+iPhone User Guide
+Check for sensitive images on iPhone
+Your iPhone (or your family member’s iPhone) can detect nudity in images before they’re viewed in Messages, AirDrop, Contact Posters , FaceTime messages, the Photos app, and third-party apps that adopt Apple’s Communication Safety framework. If nudity is detected in an image, the image is blurred and resources are provided to help your child handle the situation (not available in all countries or regions). This feature doesn’t give Apple access to the photos. See the Apple Support article About Communication Safety on your child’s Apple device .
+Go to Settings > Screen Time.
+Tap Communication Safety, then turn on Communication Safety.
+When Communication Safety is turned on, iPhone detects nude images before they’re viewed, and displays a warning.
+The parent’s Screen Time passcode must be entered before any image determined by iPhone to contain nudity can be viewed.
+Note: When you turn on Communication Safety, it turns on Sensitive Content Warning in Settings > Privacy & Security. You can also turn on Sensitive Content Warning separately in Settings > Privacy & Security. See Receive warnings about sensitive content .

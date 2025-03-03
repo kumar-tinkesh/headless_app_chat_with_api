@@ -1,0 +1,24 @@
+iPhone User Guide
+Create an Apple Music profile on iPhone
+After you subscribe to Apple Music , you can create an Apple Music profile that features your favorite playlists and what you’re currently listening to. You can share your profile with everyone or only friends you invite.
+After you create a profile, you can choose the playlists you want to share. Additionally, you can view profiles created by friends or request to follow them and see what they’re listening to.
+Create a profile
+Go to the Music app on your iPhone.
+Tap .
+Tap Set up Profile, then follow the onscreen instructions to create a profile.
+After you finish setting up your profile, you can find friends whose music profile you’d like to follow or choose who you share music with (so you can show friends what you’re listening to).
+Note: If you’re the organizer of a Family Sharing group, you can allow children ages 13 to 18 to create Apple Music profiles (or prevent them from doing so). Children under 13 can’t create Apple Music profiles. (Age restrictions vary by region.) See Block content and prevent iTunes & App Store purchases .
+Edit your profile
+Go to the Music app on your iPhone.
+Tap or your profile picture.
+Tap View Profile at the top of the screen, then tap Edit to make updates.
+You can edit your profile to choose who you share music with or to choose music to share with your followers .
+Delete your profile
+You can delete your profile so that your playlists and music no longer appear in searches, and your music or profile isn’t visible to your followers.
+Note: Your Apple Music subscription, library, and playlists aren’t affected if you delete your profile, but you’re no longer able to see what your friends are listening to.
+Go to the Music app on your iPhone.
+Tap or your profile picture.
+Tap View Profile at the top of the screen, then tap Edit.
+Scroll to the bottom, then tap Delete Profile.
+If you create your profile again within 90 days, your previous information and followers will be restored.
+Note: If you delete your profile, it might take several minutes before it’s no longer visible to your followers or in searches.

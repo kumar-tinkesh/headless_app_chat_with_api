@@ -1,0 +1,30 @@
+iPhone User Guide
+Annotate books in the Books app on iPhone
+You can highlight, underline, and take notes as you read books in the Books app, and then share your annotations with others.
+Highlight or underline text
+Go to the Books app on your iPhone.
+Tap a book cover to open it.
+Touch and hold a word, then move the grab points to adjust the selection.
+Tap Highlight.
+To change the highlight color or switch to underline, tap the text, tap Highlight, then tap an option.
+To remove a highlight or underline, tap the text, then tap Remove Highlight.
+To see all of your highlights, tap the page, tap , tap Bookmarks & Highlights, then tap Highlights. Tap a highlight to go to that location in the book.
+Add a note
+Go to the Books app on your iPhone.
+Tap a book cover to open it.
+Touch and hold a word, then move the grab points to adjust the selection.
+Tap Add Note, enter text, then tap Done.
+To remove a note, tap the highlighted text, then tap Delete Note.
+To see all of your notes, tap the page, tap , tap Bookmarks & Highlights, then tap Highlights. Tap a note to go to that location in the book.
+Share highlights and notes
+Go to the Books app on your iPhone.
+Tap a book cover to open it, tap any page, then tap .
+Tap Bookmarks & Highlights, then tap Highlights.
+Tap Select, tap the items you want to share, then tap .
+Choose a sharing method such as AirDrop, Messages, or Mail.
+After you share, tap Done to close Bookmarks & Highlights.
+Delete highlights and notes
+Go to the Books app on your iPhone.
+Tap a book cover to open it.
+Tap a highlight or note, then tap Remove Highlight, Delete Note, or Remove Highlight & Note.
+To delete multiple items at once, tap , tap Bookmarks & Highlights, tap Highlight, then tap Select. Choose the items you want to delete, then tap . Tap Done to close Bookmarks & Highlights.

@@ -1,0 +1,19 @@
+iPhone User Guide
+Change your Notes settings on iPhone
+In Settings, you can customize your preferences for the Notes app . Choose the default account for new notes, set a password, and more.
+Customize your Notes settings
+Go to Settings > Apps > Notes.
+Adjust any of the following:
+Accounts: Add or remove accounts in Notes .
+Siri & Search: Allow Siri to make suggestions across apps based on the way you use Notes. You can also allow suggestions and content from Notes to appear in Search and widgets .
+Notifications: Change notification settings .
+Language: Choose your preferred languages.
+Default Account: Choose the default account when creating notes using Siri and the Notes widget.
+Password: Lock important notes .
+“On My iPhone” Account: Turn on the On My iPhone account .
+Mention Notifications: Receive notifications when your name is mentioned in shared notes .
+Viewing: Choose viewing options such as the sort order, lines and grids, and group notes by date.
+App Links: Get suggested app links.
+Auto Convert to Tag: Automatically change #text to a tag when typing a space.
+Save to Photos: Save photos and videos taken in Notes to the Photos app.
+Access Notes from Lock Screen: Choose Always Create New Note or Resume Last Note. Or turn it off to prevent access from the Lock Screen.

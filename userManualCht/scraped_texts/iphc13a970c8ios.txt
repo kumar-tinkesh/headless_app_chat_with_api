@@ -1,0 +1,22 @@
+iPhone User Guide
+Set email notifications on iPhone
+You can change your Mail notification settings and choose which mailboxes and email threads to receive notifications from.
+Mute email notifications
+To reduce interruptions from busy email threads, you can mute notifications from messages in a conversation.
+Go to the Mail app on your iPhone.
+Open a message in the conversation.
+Tap , then tap Mute.
+To specify what you want done with email messages you muted, go to Settings > Apps > Mail > Muted Thread Action, then select an option.
+Receive notifications about replies to an email or thread
+You can set up mail notifications that let you know when you receive email messages in favorite mailboxes or from your VIPs.
+Go to the Mail app on your iPhone.
+Do any of the following:
+When reading a message: Tap , then tap Notify Me.
+When writing a message: Tap the Subject field, tap in the Subject field, then tap Notify Me.
+To change how notifications appear, go to Settings > Apps > Mail > Notifications, then turn on Allow Notifications.
+Change your Mail notification settings
+Go to Settings > Apps > Mail.
+Tap Notifications, then make sure that Allow Notifications is on.
+Tap Customize Notifications, then tap the email account you want to make changes to.
+Select the settings you want, like Alerts or Badges. When you turn on Alerts, you have the option to customize your sounds by changing the alert tone or ringtone.
+You can set times when you want to allow notifications from the Mail app. See Change notification settings .

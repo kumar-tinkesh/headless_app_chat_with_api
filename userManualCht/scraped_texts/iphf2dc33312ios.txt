@@ -1,0 +1,14 @@
+iPhone User Guide
+Recognize sounds using iPhone
+Your iPhone can continuously listen for certain sounds—such as a doorbell, siren, or crying baby—and notify you when it recognizes these sounds.
+Note: Don’t rely on your iPhone to recognize sounds in circumstances where you may be harmed or injured, in high-risk or emergency situations, or for navigation.
+Set up Sound Recognition
+Go to Settings > Accessibility > Sound Recognition, then turn on Sound Recognition.
+Tap Sounds, then turn on the sounds you want iPhone to recognize.
+Tip: To quickly turn Sound Recognition on or off, add it to Control Center .
+Add a custom alarm, appliance, or doorbell
+You can also set up iPhone to recognize a custom alarm, appliance, or doorbell if they aren’t recognized automatically.
+Go to Settings > Accessibility > Sound Recognition > Sounds.
+Tap Custom Alarm or Custom Appliance or Doorbell, then enter a name.
+When your alarm, appliance, or doorbell is ready, place iPhone near the sound and minimize background noise.
+Tap Start Listening, then follow the onscreen instructions.

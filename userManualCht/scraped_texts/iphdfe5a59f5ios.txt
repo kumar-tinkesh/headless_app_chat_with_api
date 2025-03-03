@@ -1,0 +1,7 @@
+iPhone User Guide
+Sync contacts across devices on iPhone
+To keep your contact information up to date across all your devices where you’re signed in to your Apple Account , you can use iCloud.
+Go to Settings > [ your name ] > iCloud.
+Tap See All next to Saved to iCloud, then turn on Contacts.
+Alternatively, you can sync the information between iPhone and your Mac or Windows device to keep the information up to date across iPhone and your computer. See Sync supported content .
+If you use iCloud for Contacts, your contacts are kept up to date automatically, and no options appear for syncing them with your computer.

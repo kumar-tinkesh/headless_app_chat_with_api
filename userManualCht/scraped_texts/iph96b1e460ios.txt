@@ -1,0 +1,11 @@
+iPhone User Guide
+Track time with the stopwatch in Clock on iPhone
+You can use the stopwatch to measure the duration of an event.
+Go to the Clock app on your iPhone.
+Tap Stopwatch.
+To switch between the digital and analog faces, swipe the stopwatch.
+Tap Start.
+The timing continues even if you open another app or if iPhone goes to sleep.
+To record a lap or split, tap Lap.
+Tap Stop to record the final time.
+Tap Reset to clear the stopwatch.

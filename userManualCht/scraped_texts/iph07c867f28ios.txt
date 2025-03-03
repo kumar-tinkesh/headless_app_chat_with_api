@@ -1,0 +1,23 @@
+iPhone User Guide
+Change iPhone sounds and vibrations
+You can change the sounds iPhone plays when you get a call, text, voicemail, email, reminder, or other type of notification.
+Haptic feedback is the vibration you feel on supported models when you perform some actions, such as when you touch and hold any icon on the Home Screen.
+Set sound and vibration options
+Go to Settings > Sounds & Haptics.
+To set the volume for all sounds, drag the slider below Ringtone and Alerts.
+Tap Haptics, then choose the haptics behavior for ringtones and alerts—Always Play, Play in Silent Mode, Don’t Play in Silent Mode, or Never Play.
+Tap Ringtone or Text Tone.
+At the top of the Ringtone or Text Tone screen, tap Haptics, then do any of the following:
+Choose a tone (scroll to see them all).
+Ringtones play for incoming calls, clock alarms, and the clock timer; text tones are used for text messages, new voicemail, and other alerts.
+Choose a vibration pattern or tap Create New Vibration to create your own.
+You can also change the sounds iPhone plays for certain people. Go to Contacts , tap a person’s name, tap Edit, then choose a ringtone and text tone.
+Turn haptic feedback off or on
+On supported models , go to Settings > Sounds & Haptics.
+Turn System Haptics off or on.
+When System Haptics is off, you won’t hear or feel vibrations for incoming calls and alerts.
+Have iPhone play a sound effect when it’s turned on and off
+On iPhone 14 or later, you can have iPhone play a sound when it’s turned on and off.
+Go to Settings > Accessibility > Audio & Visual.
+Turn on Power On & Off Sounds.
+Tip: If you’re not receiving incoming calls and alerts when you expect them, open Control Center , then check whether Do Not Disturb is on. If the Do Not Disturb button is highlighted, tap it to turn off Do Not Disturb. (When Do Not Disturb is on, its icon also appears in the status bar.)

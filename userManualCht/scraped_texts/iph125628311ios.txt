@@ -1,0 +1,9 @@
+iPhone User Guide
+Forward and share messages on iPhone
+You can forward one or more text messages in a conversation to a different recipient.
+Go to the Messages app on your iPhone.
+Touch and hold a message bubble you want to forward, then tap More.
+Tap to select one or more messages to forward, then tap .
+Enter recipients, then tap .
+Tip: To show the message bubbles and timestamps just as they appear in a conversation, send a screenshot as an attached image instead of forwarding messages.
+To share your messages on other devices, see Set up iCloud for Messages on all your devices in the iCloud User Guide.

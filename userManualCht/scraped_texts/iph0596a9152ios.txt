@@ -1,0 +1,32 @@
+iPhone User Guide
+Check your headphone audio levels on iPhone
+While using headphones with iPhone, you can check the audio level by viewing the Hearing control in Control Center. In the Health app, you can review the history of your headphone listening habits.
+If you listen to loud headphone audio long enough to affect your hearing, iPhone automatically sends you a notification that you should turn down the volume. After you receive a notification, the next time you plug in your headphones or connect them using Bluetooth®, your volume is automatically set to a lower level. You can turn the volume up again if you choose.
+Tip: To review the details of a headphone notification, tap Browse at the bottom right of Health, tap Hearing, then tap Headphone Notifications.
+Check your headphone levels while you listen
+You can view your live headphone levels in Control Center.
+Open Control Center .
+Tap at the top left of Control Center, then tap Add a Control.
+Scroll down to Hearing Accessibility, then tap Hearing.
+Tap .
+The audio level (in decibels) of your headphones is displayed on the Headphone Level meter.
+Note: You can also tap Live Listen (below the Headphone Level meter) to turn Live Listen on or off. See Use iPhone as a remote microphone with Live Listen . Typically, headphone level monitoring and Live Listen aren’t used at the same time. The Headphone Level monitor is intended for listening to audio playback. Live Listen is intended for listening to external sounds with the iPhone microphone.
+Check your headphone levels over time
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Hearing.
+Tap Headphone Audio Levels, then do any of the following:
+See exposure levels over a period of time: Tap the tabs at the top of the screen. (All levels are measured in decibels.)
+Learn about the sound level classifications: Tap .
+Change the time span displayed in the graph: Swipe the graph left or right.
+Display highlights: Scroll down to Highlights, then tap Show All.
+To learn more about your headphone audio levels, tap Show More Data.
+Reduce loud headphone sounds
+Go to Settings > Sounds & Haptics, then tap Headphone Safety.
+Turn on Reduce Loud Audio, then drag the slider.
+iPhone analyzes your headphone audio and reduces any sound above the level you set.
+Note: If you set up Screen Time for family members, you can prevent them from changing the Reduce Loud Sounds level. Go to Settings > Screen Time > Content & Privacy Restrictions > Reduce Loud Sounds, then select Don’t Allow.
+Get headphone audio notifications
+You can find headphone notifications on the Summary screen of the Health app .
+Note: Depending on your country or region, Headphone Notifications may be turned on by default, and in some countries or regions, you may not be able to turn it off. If allowed in your country or region, you can turn Headphone Notifications on or off in Settings > Sounds & Haptics > Headphone Safety.
+In addition, you can use the Settings app to set a maximum decibel level that keeps your headphone audio at a comfortable level.
+Headphone audio measurements are most accurate when using Apple or Beats headphones. Audio played through other headphones can be estimated based on the volume of your iPhone.

@@ -1,0 +1,21 @@
+iPhone User Guide
+Share Tab Groups and collaborate in Safari on iPhone
+You can share a Tab Group and collaborate with people who use iCloud. You can add and remove people from the Tab Group at any time, and even start a message conversation, phone call, or FaceTime call without leaving Safari. Collaborators can add and remove tabs from the Tab Group, and everyone sees updates in real time.
+Everyone you collaborate with must be signed in to their Apple Account , have Safari turned on in iCloud settings , and have two-factor authentication turned on.
+Share a Tab Group
+Go to the Safari app on your iPhone.
+Tap to view the open tabs in that Tab Group.
+Tap at the top-right corner of the Tab Group.
+Tap Messages, then choose the person or group you want to share it with.
+You get activity updates in the Messages conversation when someone makes changes in the Shared Tab Group. Tap the updates to go to the Shared Tab Group.
+Add and remove people from a shared Tab Group
+Go to the Safari app on your iPhone.
+Tap at the top-right corner.
+Tap Manage Shared Tab Group, then do any of the following:
+Remove someone: Tap a name, then tap Remove Access.
+Add someone: Tap Share With More People, then invite them.
+Stop Sharing with everyone: Tap Stop Sharing.
+Start a Messages, audio, or video conversation from Safari
+You can start a conversation—using Messages, FaceTime audio, or FaceTime video—with everyone that shares the Tab Group, without leaving Safari.
+Go to the Safari app on your iPhone.
+In Safari, tap , then tap message, audio, or video to start the conversation.

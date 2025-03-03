@@ -1,0 +1,18 @@
+iPhone User Guide
+Use Live Text with your iPhone camera
+Use your iPhone camera to copy, share, look up, and translate text that appears within the camera frame. Camera also provides quick actions to easily call phone numbers, visit websites, convert currencies, and more, based on the text that appears in the frame.
+Open Camera on your iPhone.
+Position your iPhone so the text appears within the camera frame.
+After the yellow frame appears around detected text, tap .
+Touch and hold the text, then use the grab points to select specific text and perform any of the actions below:
+Copy: Copy text to paste into another app such as Notes or Messages.
+Select All: Select all the text within the frame.
+Look Up: Show personalized web suggestions.
+Translate: Translate text.
+Search Web: Look up the selected text on the web.
+Share: Share text using AirDrop, Messages, Mail, or other available options.
+Tip: Depending on the content, you can tap a quick action at the bottom of the screen to do things like make a phone call, visit a website, start an email, convert currencies, and more.
+Tap to return to Camera.
+To turn off Live Text on your iPhone camera, go to Settings > Camera, then turn off Show Detected Text.
+If you have any iPhone 16 model and Apple Intelligence is turned on, you can use visual intelligence with Camera Control to interact with text around you. See Use visual intelligence with Camera Control on iPhone .
+Note: Live Text isn’t available in all regions or languages. See the iOS and iPadOS Feature Availability website .

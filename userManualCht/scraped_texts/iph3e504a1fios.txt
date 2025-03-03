@@ -1,0 +1,35 @@
+iPhone User Guide
+Find more resources for iPhone software and service
+Refer to the following resources to get more iPhone-related safety, software, and service information.
+To learn about
+Do this
+Using iPhone safely
+See Important safety information for iPhone .
+iPhone service and support, tips, forums, and Apple software downloads
+See the iPhone Support website .
+Service and support from your carrier
+Contact your carrier or go to your carrier’s website.
+The latest information about iPhone
+See the iPhone website .
+Getting personalized support (not available in all countries or regions)
+See the Apple Support website .
+Managing your Apple Account
+Sign in to your Apple Account .
+Using iCloud
+See the iCloud User Guide .
+Using iTunes for Windows
+See the iTunes User Guide for Windows .
+Using other Apple iPhone apps
+See the App Store Support website .
+Finding your iPhone serial number, IMEI, ICCID, or MEID
+You can find your iPhone serial number, International Mobile Equipment Identity (IMEI), Integrated Circuit Card Identifier (ICCID), or Mobile Equipment Identifier (MEID) on the iPhone packaging. Or, on iPhone, go to Settings > General > About. See the Apple Support article Find the serial number or IMEI on your iPhone, iPad, or iPod touch .
+Obtaining warranty service
+First follow the advice in this guide, then see the iPhone Support website .
+Viewing iPhone regulatory information
+On iPhone, go to Settings > General > Legal & Regulatory.
+Battery service
+See the Battery Service and Recycling website .
+Battery performance and health
+See the iPhone Battery and Performance website .
+Using iPhone in an enterprise environment
+See the Apple at Work website .

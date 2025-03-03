@@ -1,0 +1,25 @@
+iPhone User Guide
+Unlock your door with a home key on iPhone or Apple Watch
+Some maker’s locks provide the ability to unlock your door with an access code, with home key in Apple Wallet (on your compatible iPhone and Apple Watch), or both.
+While pairing a supported lock in the Home app, a home key is automatically added to Apple Wallet on your iPhone.
+Note: The Home app supports both HomeKit and Matter-compatible locks.
+Set up a home key
+Go to the Home app on your iPhone.
+Add a supported lock .
+Choose an unlocking option.
+Express Mode: Unlock the door without authenticating with Face ID or Touch ID.
+Require Face ID or Passcode: Hold your device near the lock, then use Face ID or Touch ID to unlock it.
+Choose automations such as Lock After Door Closes and Lock When Leaving Home.
+If the lock works with a home key, all residents of your household receive the home key automatically.
+Note: Not all Home app-compatible locks support home key.
+Unlock your door with a home key
+When you have a home key on your iPhone or Apple Watch and you’ve turned on Express Mode , place your device near the lock to unlock it. You can use the Home app to share access with other people.
+Set up an access code for a guest
+In the Home app you can set up an access code for people who need temporary access to your home.
+Go to the Home app on your iPhone.
+On the Home tab, touch and hold the lock, tap Accessory Settings, tap Manage Access, then tap Add Guest.
+Give the guest a name—Dog Walker, for example—then turn on the locks you want them to have access to.
+Tap Change Access Code, enter an access code, then tap Done.
+Touch and hold the access code, tap Share, choose a sharing option, then share the access code with the guest.
+You can return to this screen to change the access code, turn off access to some or all of the locks, or remove the guest.
+Note: Not all Home app-compatible locks support access codes.

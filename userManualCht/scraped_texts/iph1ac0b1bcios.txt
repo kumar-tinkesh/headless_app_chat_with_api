@@ -1,0 +1,31 @@
+iPhone User Guide
+Check stocks on iPhone
+Use the Stocks app to track market activity and view the performance of stocks you follow.
+Siri: Say something like: “How are the markets doing?” or “How’s Apple stock today?” Learn how to use Siri .
+Check stocks
+Go to the Stocks app on your iPhone.
+Tap a ticker symbol in the My Symbols watchlist for more details.
+To search for a specific stock, enter a ticker symbol, company name, fund name, or index in the search field at the top of the screen, then tap the symbol in the search results.
+See View charts, details, and news .
+Manage symbols in the My Symbols watchlist
+When you first open the Stocks app, a list of ticker symbols appears on the screen; this is called the My Symbols watchlist. You can update and manage the My Symbols watchlist and create your own watchlists .
+Go to the Stocks app on your iPhone.
+Tap a symbol to view its most recent price, daily percentage change, market capitalization value, and more.
+To make changes to the My Symbols watchlist, do any of the following:
+Add a symbol: In the search field, enter a ticker symbol, company name, fund name, or index. In the search results, tap , then tap Done.
+Delete a symbol: Swipe left on the symbol in your watchlist.
+Note: If you delete a symbol from the My Symbols watchlist, that symbol is also deleted from your other watchlists (see Manage multiple watchlists ).
+Reorder symbols: Touch and hold a symbol in your watchlist, then drag it to a new position.
+Show currency: Tap , then tap Show Currency to display the currency the stock is traded in.
+Share a symbol: Swipe left on a symbol in your watchlist, tap , then choose a sharing option, such as Messages or Mail.
+View charts, details, and news
+You can view interactive charts, performance details, and related news stories about the ticker symbols in your watchlist and the symbols you search for.
+Go to the Stocks app on your iPhone.
+Tap a symbol you want to see more details about, then do any of the following:
+View the performance over time: Tap an option from the time range selections at the top of the chart.
+View the value for a specific date or time: Touch and hold the chart with one finger.
+View the difference in value over time: Touch and hold the chart with two fingers.
+View more details: Swipe the data below the chart to see additional details like 52-week high and low, Beta, EPS, and average trading volume.
+Read news: Swipe up to see additional news stories, then tap a story.
+To return to your watchlist, tap .
+Tip: Touch and hold a symbol in your watchlist to see a quick view of its performance.

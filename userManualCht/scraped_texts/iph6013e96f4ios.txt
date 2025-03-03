@@ -1,0 +1,34 @@
+iPhone User Guide
+Set reading goals in the Books app on iPhone
+The Books app helps you keep track of how many minutes you read each day, and how many books and audiobooks you finish each year. You can customize your goals to spend more time reading, set new reading streaks, and receive encouragement to reach your goals.
+Change your daily reading goal
+You can adjust your daily reading goal depending on how many minutes you want to read per day. If you don’t customize your daily reading goal, it’s set to 5 minutes per day.
+Go to the Books app on your iPhone.
+Tap Home, then tap the reading goals button at the top right of the screen.
+Tap the reading goal timer, then tap Adjust Goal.
+Slide the counter up or down to set the minutes per day that you want to read.
+Note: To count PDFs toward your reading goal, go to Settings > Apps > Books, then turn on Include PDFs below Reading Goals.
+Change your yearly reading goal
+After you finish reading a book or listening to an audiobook, the cover is displayed below Books Read This Year. The default yearly reading goal is three books per year, but you can increase or decrease your goal depending on how many books you want to finish.
+Go to the Books app on your iPhone.
+Tap Home, then tap the reading goals button at the top right of the screen.
+Tap a book cover or a cover placeholder, then tap Adjust Goal.
+Slide the counter up or down to set the books per year that you want to read, then tap Done.
+Tip: You can change the status of a book in your library to finished. Tap next to a book or audiobook cover, then tap Mark as Finished.
+Turn off coaching notifications
+You receive encouragement and nudges from Books to help you reach your reading goals. You can turn off these notifications.
+Go to the Books app on your iPhone.
+Tap Home, then tap your account button in the top-right corner of the screen.
+Tap Notifications, then turn off Coaching.
+Tap Done.
+Turn off reading goals notifications
+Books sends you notifications when you achieve a reading goal or set a reading streak. You can turn off these notifications.
+Go to the Books app on your iPhone.
+Tap Home, then tap your account button in the top-right corner of the screen.
+Tap Notifications, then turn off Goal Completion.
+Tap Done.
+Turn off reading goals
+Go to Settings > Apps > Books, then turn off Reading Goals.
+When Reading Goals is turned off, the reading indicators in Home are hidden and you don’t receive reading notifications.
+Clear reading data
+To clear your reading data, such as time spent reading, reading goals, and reading streaks, go to Settings > Apps > Books, then tap Clear Reading Goals Data.

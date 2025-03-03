@@ -1,0 +1,33 @@
+iPhone User Guide
+Add or remove accounts in Reminders on iPhone
+In the Reminders app, you can use multiple accounts—such as iCloud, enterprise-managed iCloud, Microsoft Exchange, and Yahoo—and keep all your to-do lists in one place. Your reminders stay up to date on all your devices that use the same accounts.
+Note: All Reminders features described in this guide are available when you use updated reminders in iCloud. Some features aren’t available when using other accounts.
+Keep your reminders up to date on all your devices with iCloud
+Go to Settings > [ your name ].
+Tap iCloud, tap See All, then turn on Reminders.
+Your reminders stored in iCloud—and any changes you make to them—appear on your iPhone, iPad, Apple Watch, and Mac where you’re signed in to the same Apple Account .
+Update your reminders stored in iCloud
+If you’ve been using Reminders with iOS 12 or earlier, you may need to update your reminders stored in iCloud to use features such as attachments, flags, list colors and icons, and more.
+Go to Settings > [ your name ].
+Tap iCloud, tap See All, then make sure Reminders is turned on.
+Go to the Reminders app on your iPhone.
+On the Welcome to Reminders screen, choose one of the following options:
+Update Now: Begin the update process.
+Update Later: A blue Update button appears above your lists; tap it when you’re ready to update your reminders.
+Note: Updated reminders aren’t backward compatible with the Reminders app in earlier versions of iOS and macOS. See the Apple Support article Update the Reminders app in iOS 13 or later .
+Add other accounts
+You can use the Reminders app to manage your to-do lists in other accounts, such as Microsoft Exchange and Yahoo.
+Go to Settings > Apps > Reminders.
+Tap Reminders Accounts, then tap Add Account.
+Do one of the following:
+Choose an account provider, then enter your account information.
+If your account provider isn’t listed, tap Other, tap Add CalDAV Account, enter your account information, then turn on Reminders for that account.
+Remove an account
+When you remove or delete an account, the reminders in that account no longer appear on your iPhone. The reminders remain in your internet account (for example, iCloud.com or Microsoft Exchange) and any other devices you had already set up.
+Go to Settings > Apps > Reminders.
+Tap Reminders Accounts, then tap the account you want to remove.
+Do one of the following:
+Stop using Reminders on the account: Turn off Reminders.
+You can continue to use the account for other services, such as Calendar.
+Stop using all services on the account: Tap Sign Out (for an iCloud account) or Delete Account (for other accounts).
+If you don’t see Sign Out or Delete Account, your account may be managed by your organization. See an administrator for removal instructions.

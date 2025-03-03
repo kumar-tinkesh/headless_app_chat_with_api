@@ -1,0 +1,57 @@
+iPhone User Guide
+Use SharePlay to watch, listen, and play together in FaceTime on iPhone
+With SharePlay in the FaceTime app, you can stream TV shows, movies, and music in sync with friends and family while on a FaceTime call together. Enjoy a real-time connection with others on the call—with synced playback and shared controls, you see and hear the same moments at the same time. With smart volume, media audio is adjusted dynamically, so you can continue to chat while watching or listening. You can also play supported multiplayer games in Game Center with friends during a FaceTime call, and in iOS 18.2 or later, watch supported live sports events together.
+Tip: You can start SharePlay instantly by holding two iPhones together. (See Start a SharePlay session by holding two iPhones close together .)
+SharePlay can also be used in other apps during a FaceTime call. To see which apps can be used for SharePlay during a call, tap , then scroll through the apps.
+Note: Apple TV+ (includes Friday Night Baseball in some countries and regions), MLS Season Pass, Apple TV channels, and some apps that support SharePlay require a subscription. To watch a movie, TV show, or live sports event together, every participant needs to have access to the content on their own device, through either a subscription or purchase, on a device that meets the minimum system requirements . SharePlay may not support the sharing of some movies, TV shows, or live sports events across different countries or regions. FaceTime, some FaceTime features, and other Apple services may not be available in all countries or regions.
+Watch video together during a FaceTime call
+You can watch movies and TV shows during a FaceTime call in sync with your friends and family. In iOS 18.2 or later, you can also watch supported live sports events.
+Start a call in the FaceTime app on your iPhone.
+Tap , then tap an app below Listen and Play Together (for example, the Apple TV app ).
+Alternatively, you can go to the Home Screen , then open a video streaming app that supports SharePlay.
+Select a show, movie, or live sports event that you want to watch.
+Tap the Play button, then select SharePlay (if it appears) to begin watching with everyone on the call. (Others on the call may have to tap Join SharePlay to see the video.)
+For everyone on the call who has access to the content, the video starts playing at the same time. People who don’t have access are asked to get access (through a subscription, a transaction, or a free trial, if available).
+Each person watching the content can use the playback controls to play, pause, rewind, or fast-forward. (Settings like closed captioning and volume are controlled separately by each person.)
+You can use Picture in Picture to keep watching the video while using another app—order food, check your email, or jump into the Messages app to discuss the video by text when you don’t to interrupt the sound of the movie or TV show.
+Invite friends to watch video together from a supported app during a FaceTime call
+On an iPhone that meets the minimum system requirements , you can start a FaceTime call in the Apple TV app (or other supported video app) while you’re browsing or watching video content, and share the item in sync with others using SharePlay. Everyone on the call needs to have the same type of access to the content on their own device, through either a subscription or purchase.
+In the Apple TV app (or other supported video app), find a show, movie, or live sports event that you want to share.
+Note: Your iPhone needs to have iOS 18.2 or later to share live sports events.
+Tap the item to see its details, tap , then tap SharePlay.
+In the To field, enter the contacts you want to share with, then tap FaceTime.
+When the FaceTime call connects, tap Start or Play to begin using SharePlay.
+To begin viewing, recipients tap Open.
+Note: If the content requires a subscription, people who aren’t subscribers can subscribe before watching.
+After the video starts playing, you can stream it to Apple TV. See Send what you’re watching in SharePlay to Apple TV .
+Send what you’re watching in SharePlay to Apple TV
+If you’ve already started watching a video together on iPhone, you can send it to Apple TV to enjoy on the big screen.
+On iPhone, do one of the following:
+In the streaming app, tap , then choose Apple TV as the playback destination.
+Open Control Center , tap , then choose Apple TV as the playback destination.
+The video plays in sync on Apple TV, and you can keep the conversation going on your iPhone.
+See Watch together using SharePlay in the Apple TV User Guide.
+Listen to music together during a FaceTime call
+You can get together and listen to an album or favorite playlist with others on a FaceTime call. Anyone on the call who has access to the music (for example, through a subscription, a transaction, or a free trial) on a device that meets the minimum system requirements can listen along, see what’s next, add songs to a shared queue, and more.
+Start a FaceTime call or a Group FaceTime call .
+Tap , then tap a music streaming app below Listen and Play Together (for example, the Apple TV app )
+Alternatively, you can go to the Home Screen , then open a music streaming app that supports SharePlay (for example, the Music app ).
+Select the music you want to listen to, then tap the Play button to begin listening to the music together. (Others on the call may have to tap Join SharePlay to hear the music.)
+For everyone on the call who has access to the content, the music starts playing at the same time. People who don’t have access are asked to get access (through a subscription, a transaction, or a free trial, if available).
+Each person can use the music controls to pause, rewind, fast-forward, scrub to a different part of the song, or go to the next track. And anyone on the call can add songs to the shared queue.
+Invite friends to listen to music together from a supported app during a FaceTime call
+On an iPhone that meets the minimum system requirements , you can start a FaceTime call in the Music app (or other supported music app) and use SharePlay to share the music in sync with others on the call. Each person can use the music controls to pause, rewind, fast-forward, or scrub to a different part of the song. And anyone using SharePlay can add songs to the shared queue. The people you want to share with must have access to the music (for example, through a subscription).
+Open the Apple Music app (or other supported music app), then tap the music you want to share.
+Do one of the following:
+Tap next to the music, then tap SharePlay.
+Tap at the top right, tap , then tap SharePlay.
+In the To field, enter the contacts you want to share with, then tap FaceTime.
+When the FaceTime call connects, tap Start.
+To begin listening, recipients tap the song title at the top of the FaceTime controls, then tap Open. The music starts playing at the same time for everyone on the call who has access to the content.
+Note: People who don’t have access to the content you share are asked to get access.
+Play games in Game Center with friends during a FaceTime call
+You can play supported multiplayer games with friends in Game Center on a FaceTime call. You must first set up your Game Center profile in Settings , add friends, then find and download a supported multiplayer game for Game Center in the App Store.
+During a FaceTime call, open the game, tap Start SharePlay, then follow the onscreen instructions.
+See Use Game Center to play with friends on iPhone .
+SharePlay lets you work out with others using Apple Fitness+. See the Apple Support article Use SharePlay with Apple Fitness+ on your iPhone, iPad, or Apple TV .
+You can also share your screen to show apps, webpages, and more during the conversation. See Share your screen in a FaceTime call .

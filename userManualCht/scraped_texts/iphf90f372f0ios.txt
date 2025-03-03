@@ -1,0 +1,44 @@
+iPhone User Guide
+Use iPhone to allow calls and text messages on your iPad and Mac
+You can relay phone calls and text messages through your iPhone to your iPad or Mac, so it’s easy to stay in touch no matter what device you’re on.
+Use your iPhone to make and receive phone calls or messages on your iPad, Mac, or another iPhone.
+Note: Cellular charges may apply. Wi-Fi Calling isn’t available from all carriers.
+Before you begin
+Make sure of the following:
+Both devices have Wi-Fi and Bluetooth ® turned on.
+You’re signed in to the same Apple Account on both devices.
+FaceTime is set up on your iPhone, as well as the other device that you want to use for calls or text messages. See Get started with FaceTime on iPhone , Get started with FaceTime on iPad ,  and Sign in to or out of FaceTime on Mac .
+If you’re using a VPN, make sure its configuration does not prevent local networking as that may interfere with some Continuity features.
+Set up your iPhone to allow phone calls on your other devices
+Go to Settings > Cellular.
+Note: If your iPhone has Dual SIMs, choose a line (below SIMs).
+Do any of the following:
+Tap Calls on Other Devices, turn on Allow Calls on Other Devices, then choose the devices you want to allow to make and receive calls.
+The devices you choose can make and receive calls when they’re near your iPhone, connected to Wi-Fi, and signed in to the same Apple Account.
+Tap Wi-Fi Calling, turn on Wi-Fi Calling on This iPhone, then turn on Add Wi-Fi Calling For Other Devices.
+Other devices can make and receive calls over Wi-Fi, even when they’re not near your iPhone, as long as they’re signed in to the same Apple Account.
+On your other devices, do the following:
+On your iPad or another iPhone: Go to Settings > Apps > FaceTime, then turn on Allow Calls on Other Devices.
+On your Mac: Open FaceTime, choose FaceTime > Settings, then select Calls from iPhone. If an Upgrade to Wi-Fi Calling button appears, click it, then follow the instructions.
+Note: If you turn on Wi-Fi Calling, emergency calls can be made over Wi-Fi, and your device’s location information can be used for emergency calls to aid response efforts, regardless of whether you enable Location Services. Some carriers might use the address you registered with the carrier when signing up for Wi-Fi Calling as your location.
+Make or receive phone calls on your iPad or Mac
+After you set up your iPhone to allow calls on your other devices, you can make and receive phone calls on your iPad and Mac.
+Make a call: On your iPad or Mac, tap or click a phone number in Contacts, Calendar, FaceTime, Messages, Search, or Safari. Or open FaceTime, tap or click New FaceTime, then enter a contact or phone number.
+If you make a call from another device by relaying it through your iPhone with Dual SIM, the call is made using your default voice line.
+Receive a call: On your iPad or Mac, swipe, tap, or click the notification to answer or ignore the call.
+Stop receiving phone calls on your iPad
+If you no longer want to receive phone calls on your iPad, you can turn off the option on your iPhone.
+Go to Settings > Apps > FaceTime on your iPhone.
+Turn off Allow Calls on Other Devices.
+Stop receiving phone calls on your Mac
+If you no longer want to receive phone calls on your Mac, you can turn off Calls from iPhone.
+Go to the FaceTime app on your Mac.
+Choose FaceTime > Settings, then click General.
+Turn off Calls from iPhone.
+If you no longer want to receive FaceTime calls on your Mac, you need to sign out of FaceTime. See Sign in to or out of FaceTime on Mac .
+Send and receive messages on your iPad or Mac
+You can send and receive messages—both iMessage and SMS/MMS messages—on your iPad or Mac. For more information on iMessage and SMS/MMS messages, see What is the difference between iMessage and SMS/MMS
+To send and receive iMessages on iPad, see Set up iMessage on iPad . To send and receive iMessages on Mac, see Set up iMessage on Mac .
+To send and receive SMS/MMS messages on your iPad and Mac, see Access your messages on all your Apple devices .
+In addition to making and receiving phone calls on your iPad or Mac, you can also use Handoff to transfer a FaceTime call from one device to another. See Hand off a FaceTime call from your iPad to your other Apple devices for iPad and Move a FaceTime call to another device for Mac .
+For more information about Wi-Fi calls, see the Apple Support article Make a call with Wi-Fi Calling .

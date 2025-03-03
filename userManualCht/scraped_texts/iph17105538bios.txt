@@ -1,0 +1,22 @@
+iPhone User Guide
+Use Stolen Device Protection on iPhone
+You can use Stolen Device Protection to protect against the rare instance when someone has stolen your iPhone and knows your passcode. Stolen Device Protection prevents the person from performing critical device and Apple Account operations (like changing your device passcode or Apple Account password). It does this by requiring biometric authentication with Face ID or Touch ID. There is no passcode to fall back on.
+When Stolen Device Protection is turned on, more sensitive operations require a Security Delay: a successful Face ID or Touch ID, an hour wait, then an additional successful biometric authentication. Security Delay helps prevent someone from making changes to settings that can lock you out of your iPhone or Apple Account. These measures help protect your device and account, and give you more time to turn on Lost Mode using the Find My app or find devices on iCloud.com .
+Turn on Stolen Device Protection
+Go to Settings , then do one of the following:
+On an iPhone with Face ID: Tap Face ID & Passcode, then enter your passcode.
+On an iPhone with a Home button: Tap Touch ID & Passcode, then enter your passcode.
+Scroll down and tap Stolen Device Protection.
+Note: If you don’t see Stolen Device Protection, you may need to set up Face ID or Touch ID first.
+Turn on Stolen Device Protection.
+Do one of the following:
+Use Stolen Device Protection when you’re away from home or work: Tap Away from Familiar Locations.
+Use Stolen Device Protection everywhere: Tap Always.
+Turn off Stolen Device Protection
+Go to Settings , then do one of the following:
+On an iPhone with Face ID: Tap Face ID & Passcode, then enter your passcode.
+On an iPhone with a Home button: Tap Touch ID & Passcode, then enter your passcode.
+Scroll down and tap Stolen Device Protection.
+Turn off Stolen Device Protection.
+If you have Stolen Device Protection set to Away from Familiar Locations and you’re not at home or work, or you have Stolen Device Protection set to Always, a Security Delay is required to turn off Stolen Device Protection. Tap Start Security Delay, then follow the onscreen instructions.
+For more detailed information about Stolen Device Protection, see the Apple Support article About Stolen Device Protection for iPhone .

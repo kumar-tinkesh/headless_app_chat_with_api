@@ -1,0 +1,29 @@
+iPhone User Guide
+Use latest generation Photographic Styles with an iPhone 16 model camera
+You can use a latest generation Photographic Style on iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and iPhone 16 Pro Max models to specify how photos are captured by your iPhone camera. Photographic Styles adjust specific colors in certain parts of your photos to create the exact look you want. Your Photographic Style is saved and reflected across all of the photos you take. After you choose a Photographic Style, you can make adjustments to it in Camera or edit it in the Photos app.
+Note: To edit Photographic Styles in the Photos app, Camera needs to capture photos with High Efficiency image capture. To turn on High Efficiency, go to Settings > Camera > Formats, then tap High Efficiency.
+To use Photographic Styles on supported models that aren’t an iPhone 16 model, see Use Photographic Styles with your iPhone camera .
+Choose your default Photographic Style
+To get started, choose the default Photographic Style you want your iPhone camera to use. The Photographic Style you select will be specific to the skin undertones your camera captures. After you select a default style, you can always adjust or choose a different style in Camera before you take a photo (see Use a different Photographic Style , below).
+Go to Settings > Camera > Photographic Styles.
+Tap Get Started, then follow the onscreen instructions.
+Note: Before choosing a Photographic Style on an iPhone 16 model, you need to have taken at least four photos with your iPhone camera.
+Adjust your Photographic Style
+After you choose a default Photographic Style on your iPhone 16, iPhone 16 Plus, iPhone 16 Pro, or iPhone 16 Pro Max, you can fine-tune its tone, color, and intensity before you take a photo in Camera.
+Open Camera on your iPhone.
+Tap at the top right of the screen.
+Drag your finger on to simultaneously adjust the tone and color.
+Drag your finger on the slider below to adjust the intensity level.
+As you make adjustments, the values for tone, color, and intensity are shown at the top of the screen. Tap the round arrow to reset these values.
+Tap when you’re finished.
+After you take a photo, you can further adjust the Photographic Style values in the Photos app. See Edit the Photographic Style of a photo on iPhone 16 models .
+Use a different Photographic Style
+In Camera, you can select a different Photographic Style to change the overall mood before you take a photo.
+Open Camera on your iPhone.
+Tap at the top right of the screen.
+Swipe left or right on the camera frame to choose a new style such as Amber, Rose Gold, Quiet, or Ethereal.
+Tap when you’re finished.
+Remove or reset a Photographic Style
+You can remove your default Photographic Style or set a new one.
+Go to Settings > Camera > Photographic Styles.
+Tap Reset to Standard to remove the current Photographic Style; tap Get Started to remove the current Photographic Style and choose a new one.

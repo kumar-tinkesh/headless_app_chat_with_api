@@ -1,0 +1,23 @@
+iPhone User Guide
+Get driving directions in Maps on iPhone
+You can get detailed driving directions to your destination.
+When you drive in select cities, you see enhanced details for crosswalks, bike lanes, buildings, and a street-level perspective that helps you find the right lane as you approach complex interchanges ( supported models ).
+Note: Turn-by-turn spoken directions and directions for multiple stops are available in select areas. Features vary by country and region. See the iOS and iPadOS Feature Availability website .
+Get driving directions
+Go to the Maps app on your iPhone.
+Touch and hold anywhere on the map or enter an address in the search field, then tap Directions or .
+Tap Go or Steps for the route you want to take.
+Siri: You can also say something like: “Give me driving directions home.” Learn how to use Siri .
+When Driving Focus is turned on , or if iPhone locks automatically, Maps remains onscreen and continues to speak directions. Even if you open another app, you continue to receive turn-by-turn directions. (To return to Maps from another app, tap the directions banner at the top of the screen or the navigation indicator in the status bar.)
+Estimate travel time for a future departure or arrival
+Go to the Maps app on your iPhone.
+Get driving directions .
+Tap Now, select a time or date for departure or arrival, then tap Done.
+The estimated travel time may change based on predicted traffic.
+Avoid tolls or highways
+Go to the Maps app on your iPhone.
+Get driving directions .
+Tap Avoid (below the destination), choose your options, then tap Apply.
+Show or hide the compass or the speed limit
+Go to Settings > Apps > Maps.
+Tap Driving (below the destination), then turn Compass or Speed Limit on or off.

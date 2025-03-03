@@ -1,0 +1,18 @@
+iPhone User Guide
+Receive FaceTime calls on iPhone
+Answer a FaceTime call
+When a FaceTime call comes in, do any of the following:
+Accept the call: To answer a video call, tap , then tap Join. To answer an audio call, tap .
+If a slider appears, you can drag it right to answer.
+Decline the call: Tap Decline or .
+Tap Remind Me to set a reminder to call back, or tap Message to send a text message. (You may need to tap the incoming call banner to see these options.)
+Put the current call on hold: Tap Hold and Accept.
+Note: This option is only available if you’re on a FaceTime audio call and you receive another incoming FaceTime audio call. Otherwise, you can tap End & Accept to end the current call and answer the incoming call.
+Tip: You can have Siri announce incoming calls , which you can accept or decline using your voice.
+Listen to a video message or Live Voicemail
+If you miss an incoming video call and the caller leaves a video message, you receive a notification about the video message, which you can tap to view. You can receive video messages only from saved contacts, people you’ve called, and people suggested by Siri.
+If you miss an incoming audio call and you have Live Voicemail turned on in Settings > Apps > Phone, the caller is prompted to leave a voicemail. You can see a real-time transcription of the voicemail and pick up the call as they’re leaving the message. To stop the incoming voicemail without answering or blocking the call, tap Stop. See Turn on Live Voicemail .
+After the caller leaves a video message or voicemail, a link to it appears in your FaceTime call history, just below their call.
+Note: Live Voicemail is available only in English in the U.S. (excluding Puerto Rico) and Canada.
+Delete a call from your call history
+Open the FaceTime app , swipe left over the call in your call history, then tap .

@@ -1,0 +1,37 @@
+iPhone User Guide
+Watch memories in Photos on iPhone
+The Memories feature in the Photos app creates personalized collections of photos and videos that are set to music and play like a movie. Each memory features a significant person, pet, place, activity, theme, or event from your photo library. You can also create your own memories and share them with friends and family.
+Play a memory
+Go to the Photos app on your iPhone.
+Scroll down to Memories, then tap the memory you want to watch. Tap Memories to see more.
+Tap a memory to play it. As you watch, you can do any of the following:
+Pause: Tap the screen, then tap .
+Go backward or forward: Swipe left or right on the screen. Or tap the screen, then slide the frames at the bottom of the screen left or right.
+Close a memory: Tap the screen, then tap .
+Tip: To set a memory to loop, tap , then tap Loop Movie.
+Create a memory
+You can create your own memory from an event, a specific day in your library, or an album.
+Go to the Photos app on your iPhone.
+Tap an existing collection or album, then tap Movie to watch the photos and videos as a memory.
+To create a memory from scratch, create a photo album , then follow the steps above to watch it as a memory.
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max, you can use Apple Intelligence to create a memory movie. Describe the story you want to see, and Apple Intelligence finds the best photos and videos, crafts a storyline, and sets it to music. See Create a memory movie .
+Share a memory as a video
+Go to the Photos app on your iPhone.
+Scroll down to Memories, then tap the memory you want to share.
+While the memory plays, tap the screen, then tap .
+Tap Share Movie, then choose a sharing method, such as AirDrop, Messages, or Mail.
+Tip: To send just the photos in the memory, rather than the movie, tap Photos at the bottom of the screen, tap , then tap Share Photos.
+Share all the photos from a memory
+Go to the Photos app on your iPhone.
+Scroll down to Memories, then tap the memory you want to share.
+While the memory plays, tap the screen, then tap Photos.
+Tap , then tap Share Photos.
+Choose a sharing method, such as AirDrop, Messages, or Mail.
+Add a memory to Favorites
+Go to the Photos app on your iPhone.
+Scroll down to Memories, then tap in the top-right corner of the memory you want to add to Favorites.
+To view your favorite memories, tap Memories, then tap Favorites.
+Delete a memory
+Go to the Photos app on your iPhone.
+Scroll down to Memories, then touch and hold the memory you want to delete.
+Tap Delete Memory.

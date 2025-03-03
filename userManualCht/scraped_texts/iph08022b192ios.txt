@@ -1,0 +1,18 @@
+iPhone User Guide
+Set up and view your Medical ID
+A Medical ID provides information about you that may be important in an emergency, like allergies, medical conditions, and your emergency contacts. Your iPhone and Apple Watch can display this information so that it’s available for someone attending to you in an emergency and your emergency contacts can be notified if you use Emergency SOS via satellite .
+Create your Medical ID
+Set up a Medical ID in the Health app.
+Go to the Health app on your iPhone.
+Tap your picture at the top right, then tap Medical ID.
+Tap Get Started or Edit, then enter your information.
+Below Emergency Contacts, tap Add Emergency Contact, then add your contacts.
+After an emergency call ends, your iPhone alerts your emergency contacts with a text message, unless you choose to cancel. Your iPhone sends your current location (if available) and—for a period of time after you enter SOS mode—your emergency contacts receive updates when your location changes.
+Tap Done.
+Tip: To view your Medical ID from the Home Screen, touch and hold the Health app icon, then choose Medical ID.
+Allow emergency services and first responders to access your Medical ID
+The information in your Medical ID can be shared automatically during an emergency call (U.S. and Canada only), and also appears on the Lock Screen of your iPhone and Apple Watch.
+Go to the Health app on your iPhone.
+Tap your picture at the top right, then tap Medical ID.
+Tap Edit, scroll to the bottom, then turn on Show When Locked and Emergency Call.
+Note: A first responder views your Medical ID from the Lock Screen by swiping up or pressing the Home button (depending on your iPhone model), tapping Emergency on the passcode screen, then tapping Medical ID.

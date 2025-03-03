@@ -1,0 +1,28 @@
+iPhone User Guide
+Write and draw in documents with Markup on iPhone
+In supported apps, such as Notes and Photos, you can use the Markup tools to draw and sketch in your documents. You can also use the Markup tools to annotate screenshots, PDFs, and more.
+Write and draw
+In a supported app, tap or Markup.
+In the Markup toolbar, tap the pen, marker, or pencil tool, then write or draw with your finger.
+While drawing, do any of the following:
+Change the line weight: Tap the selected drawing tool in the toolbar, then tap an option.
+Change the opacity: Tap the selected drawing tool in the toolbar, then drag the slider.
+Change the color: Tap in the toolbar, then tap Grid, Spectrum, or Sliders to further adjust your color choice.
+Undo: Tap .
+Draw a straight line: Tap the ruler tool in the toolbar, then draw a line along the edge of the ruler.
+To change the angle of the ruler, touch and hold the ruler with two fingers, then rotate your fingers.
+To move the ruler without changing its angle, drag it with one finger.
+To hide the ruler, tap the ruler tool in the toolbar again.
+To close the Markup toolbar, tap or Done.
+Erase a mistake
+Tap the eraser tool in the Markup toolbar in a supported app, then do one of the following:
+Erase with the pixel eraser: Scrub over the mistake with your finger.
+Erase with the object eraser: Touch the object with your finger.
+Switch between the pixel and the object erasers: Tap the eraser tool again, then choose Pixel Eraser or Object Eraser.
+Note: If you don’t see the Markup toolbar, tap or Markup. If the toolbar is minimized, tap its minimized version.
+Move Markup objects
+In the Markup toolbar, tap the lasso tool (between the eraser and ruler tools), then use your finger to drag around the elements you want to move.
+Note: If you don’t see the Markup toolbar in a supported app, tap or Markup. If the toolbar is minimized, tap its minimized version.
+Lift your finger.
+Touch the selected element, then drag it to a new location.
+Tap the screen to turn off the lasso.

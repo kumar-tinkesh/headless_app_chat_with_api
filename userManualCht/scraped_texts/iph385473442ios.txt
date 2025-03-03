@@ -1,0 +1,10 @@
+iPhone User Guide
+Customize apps and widgets on the iPhone Home Screen
+You can customize app icons and widgets on the Home Screen by changing their color, adding a tint, making them larger or smaller, and removing the app name.
+Go to the Home Screen .
+Touch and hold the Home Screen background until the icons begin to jiggle.
+Tap Edit at the top of the screen, then choose Customize.
+Do any of the following:
+Make the icons bigger: Tap Large. (In large size, the names of the apps disappear.)
+Choose a dark or light appearance for icons and widgets: Tap Dark or Light. To show icons and widgets with a dark appearance at night and a light appearance during the day, tap Automatic.
+Add a color tint to icons and widgets: Tap Tinted. Use the sliders to choose the color and saturation. You can also use the eyedropper to select a color in your wallpaper for icons.

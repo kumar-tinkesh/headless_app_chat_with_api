@@ -1,0 +1,22 @@
+iPhone User Guide
+Answer or decline incoming calls on iPhone
+You can answer, silence, or decline an incoming call. If you decline a call, it goes to voicemail. You can respond with a text or remind yourself to return the call.
+Answer a call
+Do one of the following:
+Tap .
+If iPhone is locked, drag the slider.
+Tip: You can have Siri announce incoming calls , which you can accept or decline using your voice.
+Silence a call
+Press the side button or either volume button when a call is coming in.
+You can still answer a silenced call until it goes to voicemail.
+Decline a call and send it directly to voicemail
+Do one of the following for an incoming call:
+Press the side button twice quickly.
+Tap .
+Swipe up on the call banner.
+You can also swipe down on the call banner for more options.
+Do any of the following:
+Tap Remind Me, then choose when you want a reminder to return the call.
+Tap Message, then choose a default reply or tap Custom.
+To create your own default replies, go to Settings > Apps > Phone > Respond with Text, tap any field below Respond With, then type your own reply.
+Note: In some countries or regions, declined calls are disconnected without being sent to voicemail.

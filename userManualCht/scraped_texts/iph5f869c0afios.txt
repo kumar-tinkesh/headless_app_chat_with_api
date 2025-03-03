@@ -1,0 +1,23 @@
+iPhone User Guide
+Check your Apple Account balance in Wallet on iPhone
+In the Wallet app, you can check the balance of your Apple Account, add money, and redeem Apple Gift Cards. Use your Apple Account balance to buy products, accessories, games, apps, subscriptions like iCloud+ and Apple Music, and more. You can even use your Apple Account balance as a quick, convenient way to pay at the Apple Store (not available in all countries and regions) or apple.com.
+Add Apple Account to Apple Wallet and see the account balance
+Go to the Wallet app on your iPhone.
+Tap , then tap Add Apple Account.
+The account balance appears below the card.
+Add money to your Apple Account balance
+Go to the Wallet app on your iPhone.
+Tap Apple Account, then tap Add Money.
+Choose the amount, then follow the onscreen instructions to complete the payment.
+Redeem an Apple Gift Card or code
+When you receive an Apple Gift Card or code, you can add the funds to your Apple Account balance.
+Go to the Wallet app on your iPhone.
+Tap Apple Account, tap , then tap Redeem.
+Tap Use Camera, then position iPhone so that the gift card appears in the frame.
+Alternatively, you can tap Enter Code Manually, then follow the onscreen instructions.
+Use your Apple Account balance at the Apple Store
+During checkout at the Apple Store (not available in all countries and regions), you can pay with your Apple Account balance using Apple Pay.
+Go to the Wallet app on your iPhone.
+Tap Apple Account, then double-click the side button.
+Authenticate with Face ID, Touch ID, or your passcode.
+Hold the top of your iPhone near the card reader until you see Done or a checkmark on the screen.

@@ -1,0 +1,32 @@
+iPhone User Guide
+Send invitations in Calendar on iPhone
+In the Calendar app, you can send meeting and event invitations. iCloud, Microsoft Exchange, and some CalDAV servers also let you send meeting invitations. (Not all calendar servers support every feature.)
+Before you begin
+Before you can invite people to events you’ve scheduled, you need to make sure your calendar accounts are turned on.
+Go to Settings > Apps > Calendar.
+Tap Calendar Accounts, select an account, then check to see if Calendar is turned on.
+For more information about how to add calendars, see Set up multiple calendars .
+Invite others to an event
+You can invite people to an event you’ve scheduled.
+Go to the Calendar app on your iPhone.
+Tap the event, then tap Edit near the top of the screen.
+Tap Invitees.
+Do any of the following:
+Add a name from your contacts: Enter a contact’s name, tap the name, then tap Done.
+You can also tap to select contacts.
+Add an email address: Enter an email address, tap Return, then tap Done.
+Note: In order to send a calendar invitation to a contact, the contact must have an email address. See Add and use contact information .
+To make an invitation optional, tap Invitees, swipe left on the name or email address of the person you’ve invited, then tap Make Optional.
+When you’re finished, tap Done.
+If you don’t want to be notified when someone declines a meeting, go to Settings > Apps > Calendar, then turn off Show Invitee Declines.
+Note: With Microsoft Exchange and some other exchange servers, you can invite people to an event even if you’re not the one who scheduled it.
+Schedule an event without blocking your schedule
+You can add an event to your calendar without having the timeframe appear as busy to others who send you invitations.
+Go to the Calendar app on your iPhone.
+Tap the event, then tap Edit.
+Tap Show As, then tap Free.
+Quickly email attendees
+You can email all attendees of an event—for example, to share event details.
+Go to the Calendar app on your iPhone.
+Tap an event that has attendees.
+Tap Invitees, then tap .

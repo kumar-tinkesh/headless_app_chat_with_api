@@ -1,0 +1,42 @@
+iPhone User Guide
+Use Switch Control on iPhone to select items, perform actions, and more
+After you set up and turn on Switch Control , you can select items on the screen by doing any of the following:
+Item mode: The cursor sequentially highlights items or groups of items. This is the default method when you first turn on Switch Control and whenever the Scanner menu appears.
+Gliding cursor: You select a point on the screen using scanning crosshairs. This method is useful when you need to select a specific point, such as in Maps, or on a screen with many items.
+Head tracking: You can move your head (detected by the front-facing camera) to control the cursor on the screen. This method is useful when you need to select a specific point, such as in Maps, or on a screen with many items.
+When the cursor is on the item you want, the Scanner menu opens to show the available actions such as tap, scroll, control the volume, and more.
+Use item mode to select items and perform actions
+Depending on the scanning style you’re using, do one of the following:
+If using Auto Scanning: Watch or listen as groups of items are sequentially highlighted.
+If using Manual Scanning: Activate your Move to Next Item switch to navigate through the groups of items on the screen.
+If using Single Switch Step Scanning: Activate your Move to Next Item switch to navigate through the groups of items on the screen.
+When the group you want is highlighted, do one of the following:
+If using Auto Scanning: Activate your Select Item switch.
+If using Manual Scanning: Activate your Select Item switch.
+If using Single Switch Step Scanning: Wait until the current group is automatically selected.
+Repeat steps 1 and 2 to scan and select an item within the group.
+Repeat steps 1 and 2 to scan and choose an action in the Scanner menu. The dots at the bottom of the menu provide more options.
+To dismiss the Scanner menu without choosing an action, activate your Select Item switch when the original item is highlighted and all the icons in the menu are dimmed.
+Use the gliding cursor to select a point
+By default, Switch Control starts in item mode. To use the gliding cursor instead, do the following:
+Use item mode to select any item, then choose Gliding Cursor (in the Scanner menu).
+To position the vertical crosshair, activate your Select Item switch when the wide vertical band is over the item you want.
+Activate your Select Item switch again when the fine vertical line is over the item.
+To position the horizontal crosshair, activate your Select Item switch when the wide horizontal band is over the item you want.
+Activate your Select Item switch again when the fine horizontal line is over the item.
+In the Scanner menu, select the action you want, then activate your Select Item switch.
+To return to item mode, open the Scanner menu, then choose Item Mode.
+Set up head tracking
+You can move your head to control a cursor on the screen. You can also assign actions to facial expressions, such as a smile or raised eyebrows.
+To set up head tracking, do the following:
+Go to Settings > Accessibility > Switch Control > Switches, then make sure you’ve set up switches .
+Go to Settings > Accessibility > Switch Control > Head Tracking, turn on Head Tracking, then set any of these options:
+Assign actions to facial expressions: Each expression can perform a different action and require a different degree of expressiveness.
+Choose how the pointer tracks your head movement: Tap Tracking Mode, then choose With Face, When Facing Screen Edges, or Relative to Head.
+Adjust the pointer speed: Tap or .
+Use head tracking
+To use head tracking, do the following:
+Use item mode to select any item, then choose Head Tracking (in the Scanner menu).
+Move your head to position the cursor on the location you want, then activate it using your Select Item switch or facial expression.
+In the Scanner menu, select the action you want, then activate your Select Item switch or facial expression.
+To return to item mode, open the Scanner menu, then choose Item Mode.

@@ -1,0 +1,10 @@
+iPhone User Guide
+Change your voicemail greeting and settings on iPhone
+You can change your voicemail greeting, password, and alert sounds.
+Go to the Phone app on your iPhone.
+Do any of the following to change your voicemail settings:
+Change your greeting: Tap Voicemail, tap Greeting, tap Custom, then tap Record (not supported by all carriers or in all countries and regions).
+Change your voicemail password: Go to Settings > Apps > Phone > Change Voicemail Password, then enter the new password.
+If you forgot your voicemail password, contact your wireless carrier.
+Change the alert for new voicemail: Go to Settings > Sounds & Haptics, then tap New Voicemail.
+Note: To change your Contact Photo & Poster, see Add or edit your photo and poster .

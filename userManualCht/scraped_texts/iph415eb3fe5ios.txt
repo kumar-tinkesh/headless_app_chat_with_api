@@ -1,0 +1,8 @@
+iPhone User Guide
+Sell, give away, or trade in your iPhone
+Before you sell, give away, or trade in your iPhone, see the Apple Support article What to do before you sell, give away, or trade in your iPhone, iPad, or iPod touch , and be sure to perform the following tasks:
+If you paired an Apple Watch with your iPhone, unpair your Apple Watch. (See the Apple Support article Unpair and erase your Apple Watch .)
+Back up iPhone . If you replace one iPhone with another, you can use the setup assistant to restore the backup to your new iPhone.
+If you’re replacing your iPhone with another one you have on hand, you can use extra free storage in iCloud to move your apps and data from one iPhone to another. Go to Settings > General > Transfer or Reset iPhone > Get Started, then follow the onscreen instructions.
+Sign out of iCloud and the iTunes & App Store. Go to Settings > [ your name ], scroll down, tap Sign Out, enter your Apple Account password, then tap Turn Off.
+Erase all content and settings that contain personal information. If you previously turned on Find My for your iPhone, Activation Lock is removed when you erase iPhone, making it ready for a new owner.

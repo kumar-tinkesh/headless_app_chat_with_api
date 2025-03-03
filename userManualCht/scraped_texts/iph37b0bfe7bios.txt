@@ -1,0 +1,47 @@
+iPhone User Guide
+Send stickers in Messages on iPhone
+Express yourself by adding stickers that match your personality and mood to your text messages.
+Send a sticker in a message
+Go to the Messages app on your iPhone.
+Start a new message or open a conversation.
+Tap , tap Stickers, then tap the icon for any of the following sticker packs:
+Live Stickers you or a friend made: Tap . See Create new Live Stickers and Save other people’s Live Stickers , below.
+Emoji: Tap .
+Memoji: Tap , tap a Memoji in the top row to view the stickers in the sticker pack, then choose a pose or expression. See Create and send Memoji in Messages on iPhone .
+Stickers from other creators: Download a sticker app from the App Store. See Add iMessage apps .
+Add a message (optional), then tap .
+You can also send stickers from the emoji keyboard. See Make a sticker with the iPhone keyboard .
+Place stickers on a conversation
+You can add stickers on message bubbles in conversations, and angle the stickers or make them different sizes. You can also place a sticker on top of another sticker.
+Go to the Messages app on your iPhone.
+Start a new message or open a conversation.
+Tap , tap Stickers, then tap an icon—such as , , or —in the top row to browse a sticker pack.
+Drag a sticker onto a bubble, then do any of the following:
+Adjust the angle: Rotate a second finger around the finger dragging the sticker.
+Adjust the size: Move a second finger closer to or away from the finger dragging the sticker.
+Your recipients see the sticker as soon as you place it on a message.
+To find out who sent a sticker in a conversation, touch and hold the sticker, then tap Sticker Details.
+Tip: Quickly add stickers to messages. Touch and hold a message, tap Add Sticker, then choose a sticker to appear on a corner of that message bubble.
+Move, resize, or delete stickers
+After you place a sticker on top of message bubbles in conversations, you can make changes to it.
+Do any of the following:
+Move or resize a sticker: Touch and hold the sticker, then make any changes.
+Delete a sticker: Touch and hold the message bubble, tap Sticker Details, swipe left on the sticker you want to delete (on your iPhone only), then tap .
+See any text covered by a sticker: Double-tap the message bubble.
+To change stickers sent in a message bubble, see Unsend and edit messages .
+Note: You and your recipients must be using iOS 17.2, iPadOS 17.2, macOS 14.1, watchOS 10.2, visionOS 1, or later, to see these updates to stickers.
+Create new Live Stickers
+You can create your own Live Stickers to use in messages by lifting subjects from photos and adding effects that help bring the stickers to life.
+Go to the Messages app on your iPhone.
+Start a new message or open a conversation, tap , then tap Stickers.
+Tap , tap , tap a photo, then tap Add Sticker.
+Tip: To create a Live Sticker that moves, use a Live Photo. See Make stickers from your photos .
+To add an effect, touch and hold the sticker, tap Add Effect, choose an option (such as Comic or Shiny), then tap Done.
+Save other people’s Live Stickers
+When someone sends you a Live Sticker you like, you can save it to reuse later.
+Go to the Messages app on your iPhone.
+Open a conversation with a sticker you want to save.
+Touch and hold the sticker, then do one of the following:
+For a sticker sent in a message: Tap Save to Stickers.
+For a sticker placed on a message bubble: Tap Sticker Details, then tap Save.
+You can also create and send Memoji that use your voice and mirror your facial expressions.

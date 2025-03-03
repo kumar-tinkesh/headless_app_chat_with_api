@@ -1,0 +1,10 @@
+iPhone User Guide
+Change the Notes view on iPhone
+You can change how your notes appear in the Notes app . Add lines or grids to your notes, view your notes as a list or a gallery, and see all the attachments in one place.
+Show lines or grids in notes
+In an existing note: Tap , tap Lines & Grids, then choose a style.
+In all new notes: Go to Settings > Apps > Notes, then tap Lines & Grids.
+View notes as a list or gallery
+When viewing a folder of notes, tap , then tap View as List or View as Gallery.
+View all attachments
+When viewing a folder of notes, tap , then tap View Attachments.

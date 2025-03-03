@@ -1,0 +1,10 @@
+iPhone User Guide
+Turn iPhone on or off
+Use the side button to turn on iPhone. You can use the side button (along with either volume button on some models) or Settings to turn off iPhone.
+If your iPhone isn’t working as expected, you can try restarting it by turning it off, then turning it back on. If turning it off and on doesn’t fix the issue, try forcing it to restart .
+Turn on iPhone
+Press and hold the side button until the Apple logo appears.
+Turn off iPhone
+iPhone with Face ID: Simultaneously press and hold the side button and either volume button until the sliders appear, then drag the Power Off slider.
+iPhone with the Home button: Press and hold the side button, then drag the slider.
+All models: Go to Settings > General > Shut Down, then drag the slider.

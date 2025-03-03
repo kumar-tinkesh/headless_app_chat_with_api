@@ -1,0 +1,15 @@
+iPhone User Guide
+Control VoiceOver using the rotor on iPhone
+You can use the onscreen VoiceOver rotor to change how VoiceOver works. You can adjust the VoiceOver volume or speaking rate, move from one item to the next on the screen, select special input methods such as Braille Screen Input or Handwriting, and more.
+When you use Magic Keyboard to control VoiceOver , use the rotor to adjust settings such as volume, speech rate, use of pitch or phonetics, typing echo, and reading of punctuation.
+Use the VoiceOver rotor
+When VoiceOver is turned on, rotate two fingers on your screen as if you’re turning a dial. If you prefer to use one finger on each hand, simultaneously drag up with one finger and drag down with the other.
+VoiceOver speaks the rotor setting. Keep rotating your fingers to hear more settings. Stop rotating your fingers when you hear the setting you want.
+Swipe your finger up or down on the screen to use the setting.
+The available rotor settings and their effects depend on what you’re doing. For example, if you choose Headings when you’re browsing a webpage, swipe down or up to move the VoiceOver cursor to the next or previous heading.
+Customize the VoiceOver rotor
+Go to Settings > Accessibility > VoiceOver.
+Do any of the following:
+Add or reorder the rotor settings: Tap Rotor, then choose the settings you want, or drag to reorder settings.
+Add another voice to the rotor: See Change the speaking voice .
+Have VoiceOver confirm rotor actions: Tap Verbosity, then turn on Speak Confirmation.

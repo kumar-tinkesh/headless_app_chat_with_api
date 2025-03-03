@@ -1,0 +1,19 @@
+iPhone User Guide
+Control what you share on iPhone
+Apps ask for permission the first time they want to use something on your iPhone. You can control which apps can access your data, location, camera, and microphone, and manage safety protections. You can later change how much you want to share.
+Control which apps have access to information on your iPhone
+You can let third-party apps use information in your iPhone apps—such as Contacts, Photos, and Calendar—to help you get things done more quickly. For example, a message app may request access to your contacts to find friends who are using the same app. You can turn access on or off for any individual app.
+How to control access to information in iPhone apps
+Control which apps can use the location of your iPhone
+When you give apps access to the location of your iPhone, those apps can help you get directions, receive assistance in an emergency, and more. For example, a ride-sharing app may request access to your location to pick you up. When an app is using Location Services, appears in the status bar.
+How to control access to the location of your iPhone
+Control which apps have access to the camera and microphone on your iPhone
+You can let apps use the camera and microphone to make it easier to post content directly to those apps. For example, a social networking app may ask to use your camera so that you can take and upload pictures to that app. Whenever an app uses the camera (including when the camera and microphone are used together), a green indicator appears.
+How to control access to the camera and microphone
+Control which apps can track you or your iPhone across websites or other apps
+All apps are required to ask your permission before tracking you or your iPhone across websites or apps owned by other companies (for example, for advertising or to share your information with data brokers). After you grant or deny permission to an app, you can change permission later. You can also stop all apps from requesting permission.
+How to control app tracking permissions
+Review how apps are using the permissions you grant them
+You can see how apps are using the permissions you’ve granted them, and their network activity, by reviewing an App Privacy Report.
+How to view an App Privacy Report
+To learn more about how Apple protects your information, go to the Privacy website . To learn how Apple designs security into the core of its platforms, see the Apple Platform Security Guide .

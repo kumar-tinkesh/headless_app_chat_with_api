@@ -1,0 +1,52 @@
+iPhone User Guide
+Use your iPhone as a webcam on Mac
+With Continuity Camera, you can use your iPhone as your Mac webcam or microphone, and take advantage of the powerful iPhone camera and additional video effects. You can connect wirelessly, or with a USB cable for a wired connection.
+You can use your iPhone as a webcam with Continuity Camera on an iPhone and Mac.
+You can also use your iPhone as a webcam when making a FaceTime call on Apple TV. To learn more, see Use FaceTime on Apple TV 4K (2nd generation or later) .
+Before you begin
+Make sure of the following:
+Both devices have Wi-Fi and Bluetooth ® turned on.
+You’re signed in to the same Apple Account on both devices.
+The devices must be within 30 feet (10 meters) of each other.
+Both devices meet minimum system requirements for Continuity Camera .
+If you’re using a VPN, make sure its configuration does not prevent local networking as that may interfere with some Continuity features.
+Set up your iPhone for Continuity Camera
+Mount your iPhone using an iPhone-compatible mount or stand in landscape orientation. It must be near your Mac (within 30 feet) in a stable position, with its rear camera facing you.
+To turn on Continuity Camera on iPhone, go to Settings > General > AirPlay & Continuity, then turn on Continuity Camera.
+Continuity Camera works wirelessly, though you can also use Continuity Camera by connecting your iPhone to your Mac with a USB cable. You can use the cable that came with your iPhone or another cable that matches the ports on your iPhone and Mac.
+Note: If you connect your iPhone and Mac with a cable and see an alert on your iPhone that says Trust This Computer? tap Trust. You may be asked to enter your device passcode to proceed. If you see an alert on your Mac that says “Allow accessory to connect?” click Allow.
+Use your iPhone as a webcam for Mac
+On your Mac, open any app that has access to the camera or microphone, like FaceTime or Photo Booth. You can also use this feature with many third-party apps that access the camera or microphone.
+In the app’s menu bar or settings, choose your iPhone as a camera. The location of these settings can vary depending on the app. See Choose an external camera on Mac for guidance on where to find these settings.
+Your iPhone begins streaming audio or video from the rear camera to your Mac.
+To control video or audio, do any of the following:
+Pause the video or audio: On your iPhone, tap Pause. You can also unlock your iPhone to pause video or audio by swiping up.
+Resume the video or audio: On your iPhone, tap Resume. You can also resume by locking your iPhone.
+Stop using your iPhone as a webcam or microphone: On your Mac, quit the app.
+Note: If you need to charge your iPhone while Continuity Camera is turned on, use a USB cable for best results.
+While streaming video or audio, you can move your iPhone and change its orientation. Remember, however, that for best results, keep your iPhone mounted and in landscape orientation.
+When using your iPhone as a webcam, you can use video effects like Portrait mode and Center Stage. See Use video conferencing features on Mac .
+Turn on Desk View
+You can use Desk View and other video effects when you’re using an app that supports video and have set up your iPhone as a webcam.
+On your Mac, do either of the following:
+FaceTime: Start your video call, then click the Desk View button in the top-right corner of the video window.
+Other apps that support video: Click in the menu bar, then click the Desk View button.
+Desk View opens, which mimics an overhead camera and shows a top-down view of your desk.
+Use the Desk View setup window on your Mac to align your desk with the camera. To zoom in or out, drag the onscreen control at the bottom of the window. When you’re ready to share your desk view on the video call, click Share Desk View.
+Note: To share what’s on your desk in a third-party app, use the app’s screen sharing feature to select the Desk View window for sharing. To find out how, see the developer’s instructions or explore the app’s menus and settings.
+To turn off Desk View, click in the top left of the Desk View window, then choose Close Window.
+Use your iPhone as a microphone for your Mac
+You can use your iPhone as a microphone on a Mac that doesn’t have a built-in or external microphone.
+On your Mac, choose Apple menu  > System Settings, then click Sound in the sidebar. (You may need to scroll down.)
+Select your iPhone in the list of sound input devices.
+Note: In order to use your iPhone as a microphone on a Mac, the iPhone must be in landscape orientation and stationary, with its screen turned off.
+Remove your iPhone as a webcam or microphone option for your Mac
+On your iPhone, tap Disconnect, then confirm that you want to disconnect. Your iPhone is removed from the camera and microphone lists in apps, and also from the list of sound input devices in Sound settings.
+To reconnect your iPhone as a webcam or microphone, connect it to your Mac with a USB cable, then follow the steps to use your iPhone as a webcam or use your iPhone as a microphone for your Mac .
+If Continuity Camera isn’t working
+Make sure that your iPhone and Mac have Wi-Fi and Bluetooth turned on.
+Your devices must be within 30 feet (10 meters) of one another and, for best results, your iPhone should be mounted and in landscape orientation.
+Connect your iPhone to your Mac with a USB cable and check again. (If it’s already connected with a cable, disconnect and reconnect it.) If your iPhone asks you to trust the computer or your Mac asks you to allow the accessory, be sure to give permission.
+Make sure that you aren’t using another Continuity feature, such as iPhone Mirroring .
+Check that your devices meet minimum system requirements for Continuity Camera .
+See If you need help for Continuity Camera for additional troubleshooting steps.

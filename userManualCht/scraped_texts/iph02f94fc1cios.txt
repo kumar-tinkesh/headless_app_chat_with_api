@@ -1,0 +1,30 @@
+iPhone User Guide
+Get travel directions in Maps on iPhone
+You can get travel directions using the Maps app, the Maps widget, Siri, CarPlay, or other devices. You can also get them on your Mac before you leave.
+Important: To get directions, iPhone must be connected to the internet, and Precise Location must be turned on . Cellular data rates may apply (see View or change cellular data settings ).
+Get directions
+Go to the Maps app on your iPhone.
+Touch and hold anywhere on the map or enter a location in the search field.
+Tap Directions or the travel mode button ( driving , walking , transit , cycling , or rideshare .)
+Do one of the following:
+If your starting point is My Location: Tap Go for the route you want to take. As you travel along your route, Maps speaks turn-by-turn directions to your destination.
+If your starting point is another location: Tap Steps for the route you want to take.
+You can add stops to your route .
+Tip: If you know you’ll lose your internet connection on your route, you can send yourself a list of upcoming directions or download offline maps .
+Use the Maps widget
+To get directions to a likely destination and track your ETA during navigation, add the Maps widget to your Home Screen.
+See Add, edit, and remove widgets .
+Use Siri to get directions
+You can keep focused on the road by using Siri to get directions. And by listening to turn-by-turn spoken directions, you can follow driving, cycling, and walking directions without even looking at your iPhone.
+Siri: Say something like:
+“Get directions to the nearest coffee shop”
+“Find a charging station”
+“Give me directions home”
+Learn how to use Siri
+Tip: You can ask for directions to your Home, Work, or School address when using Siri or searching in Maps. See Edit a pin .
+Get directions using CarPlay, your Mac, or your Apple Watch
+In addition to using your iPhone, you can also get directions from the following:
+Your car: After you connect your iPhone to CarPlay, you can use CarPlay to get driving directions, estimate your arrival time, and more. See Get turn-by-turn directions with CarPlay .
+Your Mac: Before a big trip or a day of cycling, you can plan your route on your Mac, then choose File > Share > Send to [ your iPhone ]. See Plan a route in the Maps User Guide for Mac.
+Your Apple Watch: You can use Apple Watch to get driving, walking, transit, and cycling directions, which you can follow on the watch face and your iPhone. See Get directions on Apple Watch in the Apple Watch User Guide.
+When you sign in to your Apple Account , you can hand off tasks between your iPhone and your other devices to see directions elsewhere.

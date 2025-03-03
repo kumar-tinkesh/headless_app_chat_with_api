@@ -1,0 +1,12 @@
+iPhone User Guide
+Connect iPhone and your computer with a cable
+You can use a cable to directly connect your iPhone to a Mac with OS X 10.9 or later, or to a Windows device with Windows 7 or later.
+Using the charging cable for your iPhone, connect iPhone to the USB port on your computer. If the cable isn’t compatible with the port on your computer, you’ll need to use an adapter (sold separately).
+Note: If an alert appears on your iPhone asking whether to trust this computer, select Trust. See the Apple Support article About the ‘Trust This Computer’ alert .
+After you connect your iPhone to a computer with a cable, you can do any of the following:
+Set up iPhone for the first time.
+Share your iPhone internet connection with your computer.
+Update iPhone using your computer.
+Sync content or transfer files between your Mac and iPhone.
+Sync or transfer files between your PC and iPhone.
+The iPhone battery charges when iPhone is connected to your computer and your computer is connected to power.

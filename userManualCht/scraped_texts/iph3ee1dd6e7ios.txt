@@ -1,0 +1,33 @@
+iPhone User Guide
+View your passwords and related information on iPhone
+You can view and copy passwords, add notes like security question reminders, and more with the encrypted account information stored on iPhone. iCloud Keychain securely keeps this information up to date across all your approved devices.
+View and copy a password for a website or app account
+For an account that uses a password, do one of the following:
+Say something like: “Show me my passwords.” Learn how to use Siri .
+Go to the Passwords app on your iPhone.
+On a sign-in screen, tap .
+Tap an account, then tap the Password field.
+To copy the password to use elsewhere, tap Copy Password.
+Add notes for an account with a passkey or password
+You can securely keep notes about recovery key information, security questions, PIN numbers, and similar details.
+Go to the Passwords app on your iPhone.
+Tap All, then tap an account.
+Tap Edit, tap Notes, enter your text, then tap Done.
+To update the notes, tap Edit (at the top right), then tap the Notes field.
+Go to the website for an account
+Go to the Passwords app on your iPhone.
+Tap All, then tap an account.
+Do one of the following:
+Tap .
+Tap the website URL, tap Copy Website, then paste the URL into the address field of your browser.
+Remove an account from your iPhone and iCloud Keychain
+Go to the Passwords app on your iPhone.
+Swipe left on the account.
+For example, you might want to remove the account for a website or app that’s no longer available.
+Note: This action doesn’t remove the account from the website or app where you created it.
+Remove a passkey or password from your iPhone and iCloud Keychain
+Go to the Passwords app on your iPhone.
+Tap All, then tap an account.
+Tap Edit.
+Tap Delete Password or Delete Passkey.
+Note: This action doesn’t remove the passkey or password from the website or app where you created it.

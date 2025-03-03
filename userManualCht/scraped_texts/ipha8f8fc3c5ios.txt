@@ -1,0 +1,29 @@
+iPhone User Guide
+Add and remove people in a shared album in Photos on iPhone
+If you’re the creator of a shared album, you can invite more subscribers to join the album. You can also remove subscribers from the album, manage album notifications, and turn posting for subscribers off and on. If you have friends and family who don’t use iCloud, you can share the album with them by sending an iCloud URL.
+Invite or remove people
+The creator of a shared album can invite new subscribers to join the shared album.
+Go to the Photos app on your iPhone.
+Tap Shared Albums, then tap the album.
+Tap , then tap Shared Album Details.
+Do any of the following:
+Invite someone: Tap Invite, then enter the name of the contact you want to add, or type an email address or phone number.
+Remove someone: Tap the name, then tap Remove Subscriber.
+Share an album with people who don’t use iCloud
+The creator of a shared album can create a unique iCloud URL to share the album with people who don’t use iCloud.
+Go to the Photos app on your iPhone.
+Tap Shared Albums, then tap the album.
+Tap , then tap Shared Album Details.
+Turn on Public Website.
+Tap Share Link, then choose how you want to share—Mail or Messages, for example.
+Enter the names, phone numbers, or email addresses of the people you want to share the link with, then send the link.
+When Public Website is turned on, anyone with the URL can access the album.
+Manage posts and notifications
+The creator of a shared album can turn subscriber posting and album activity notifications off and on.
+Go to the Photos app on your iPhone.
+Tap Shared Album, then tap the album.
+Tap , tap Shared Album Details, then do any of the following:
+Only allow yourself to post photos and videos : Turn off Participants Can Add Photos; tap again to turn participant posting back on.
+Turn off notifications: Turn off Notifications to stop notifications when subscribers like, comment, or add photos and videos to the album; tap again to turn album notifications back on.
+Tap Done.
+When participants post or comment in a shared album you’re a part of, notifications about the activity appear just below the photo grid. To stop getting activity updates, tap your account in the top-right corner, then turn off Shared Albums Activity.

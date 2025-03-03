@@ -1,0 +1,15 @@
+iPhone User Guide
+View and delete your call history on iPhone
+You can view your call history on your iPhone and delete all your recent calls or just specific calls.
+Delete your call history
+Go to the Phone app on your iPhone.
+Tap Recents, tap Edit, then tap Select.
+Do any of the following:
+Clear all history: Tap Clear, then tap Clear All Recents.
+Clear a single call: Tap next to the call, then tap .
+You can also tap Recents, then swipe a recent call all the way to the left.
+To recover a deleted call history, restore your iPhone from a backup you made before the data was deleted.
+Get more details about your call history
+Go to the Phone app on your iPhone.
+Tap Recents, then tap a name or number in your call history to view information about call length, time of call, and whether the call was incoming or outgoing.
+Note: Your carrier may have more information about deleted calls or older call histories.

@@ -1,0 +1,32 @@
+iPhone User Guide
+Lock iPhone to one app with Guided Access
+With Guided Access, you can temporarily restrict iPhone to a single app. This can be useful when you let a child use your iPhone or when you want to stay focused on a task. You can set a time limit, and customize which features, hardware buttons, and areas of the screen are available.
+Set up Guided Access
+Go to Settings > Accessibility > Guided Access, then turn on Guided Access.
+Adjust any of the following:
+Passcode Settings: Tap Set Guided Access Passcode, then enter a passcode.
+You can also turn on Face ID (on an iPhone with Face ID) or Touch ID (on other iPhone models) as a way to end a Guided Access session.
+Time Limits: Play a sound or speak the time remaining before a Guided Access session ends.
+Accessibility Shortcut: Allow the use of Accessibility Shortcut during Guided Access sessions.
+Display Auto-Lock: Set how long it takes iPhone to automatically lock during a Guided Access session.
+Start a Guided Access session
+Go to the app you want to use.
+To turn on Guided Access, do one of the following:
+Siri: Say something like: “Turn on Guided Access.” Learn how to use Siri .
+Use Control Center if you’ve added Guided Access there.
+Use the Accessibility Shortcut .
+Circle any areas of the screen you want to disable. Drag the mask into position or use the handles to adjust its size.
+Tap Options, then turn on or off any of the following:
+Side Button
+Volume Buttons
+Motion (to prevent iPhone from switching from portrait to landscape or from responding to other motions)
+Software Keyboards
+Touch
+Time Limit
+Tap Start.
+Important: Crash Detection and Emergency Services are not available while using Guided Access. Exit Guided Access to use Crash Detection or to make emergency calls.
+End a Guided Access session
+Depending on the passcode options you chose when you set up Guided Access , do any of the following:
+Use the passcode: Triple-click the side button (on an iPhone with Face ID) or Home button (on other iPhone models), then enter the Guided Access passcode. If you didn’t set a Guided Access passcode, enter your iPhone passcode.
+Use Face ID or Touch ID: If you turned on the Face ID or Touch ID option in Guided Access Passcode Settings, double-click the side button or Home button, then unlock your iPhone with Face ID or Touch ID (depending on your iPhone model).
+To set up an iPhone with a simplified user interface and a customizable set of core features, see the Assistive Access User Guide .

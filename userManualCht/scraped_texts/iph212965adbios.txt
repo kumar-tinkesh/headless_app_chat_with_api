@@ -1,0 +1,26 @@
+iPhone User Guide
+Play music together using SharePlay on iPhone
+You can use SharePlay while playing music on a HomePod, Apple TV, or other third-party Bluetooth ® speaker, and everyone can control the music with their iPhone.
+Before you begin
+The host must have an iPhone with iOS 18 or later and be an Apple Music subscriber.
+Participants must have an iPhone with iOS 18 or later, but don’t need to have an Apple Music subscription.
+Everyone must have an internet connection and Bluetooth turned on.
+Everyone must allow their contacts to discover them when playing music to a speaker—go to Settings > Apps > Music, then turn on Discoverable by Nearby Contacts if it isn’t on already.
+Start SharePlay from Music on your iPhone
+To use SharePlay to play music together, you (the host) start on your iPhone.
+Go to the Music app on your iPhone.
+While a song is playing, tap the MiniPlayer to open the Now Playing screen.
+Tap , then select a playback destination.
+The music starts playing to the device you selected. See Stream video and audio with AirPlay .
+Tap the MiniPlayer to open the Now Playing screen, then tap .
+A QR code appears; tap the QR code to enlarge it.
+To begin controlling the music, participants can scan the QR code on your iPhone.
+Join SharePlay with the iPhone camera
+Go to the Camera app on your iPhone.
+Point the camera at the QR code on an iPhone that’s already joined SharePlay.
+A button appears below the picture of the QR code.
+Tap the button, then tap Connect.
+The host receives a notification and must tap on their iPhone to allow you to join.
+Tip: After you approve a participant to join SharePlay, they’re automatically approved the next time they join.
+Leave SharePlay
+Tap at the bottom of the Now Playing screen, then tap Leave or End.

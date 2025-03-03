@@ -1,0 +1,14 @@
+iPhone User Guide
+Sing along with Apple Music on iPhone
+Apple Music subscribers can use Apple Music Sing to view real-time, beat-by-beat lyrics for select songs, as well as adjust the volume of a song’s vocals—allowing you to sing along with the music while viewing the lyrics as they’re highlighted.
+Apple Music Sing is available on iPhone 11 and later and iPhone SE (3rd generation) using iOS 16.2 or later.
+Adjust the volume of a song’s vocals
+Go to the Music app on your iPhone.
+While a song is playing, tap the MiniPlayer to open the Now Playing screen, then tap .
+Touch and hold , then drag the slider up or down to adjust the vocal volume.
+To turn off Apple Music Sing for the song, tap the slider.
+If you’re listening to a song playing with Dolby Atmos and you turn on Apple Music Sing, Dolby Atmos turns off and the song plays without surround sound. If you turn off Apple Music Sing, the song plays with Dolby Atmos.
+Sing onscreen with visual effects on Apple TV 4K
+You can use your iPhone as a Continuity Camera to see yourself singing onscreen along with lyrics. You can add visual effects to your image and lyrics, which enhances the singalong experience.
+See Use your iPhone as a webcam on Mac and Use Apple Music Sing on Apple TV in the Apple TV User Guide.
+Apple Footer

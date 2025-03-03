@@ -1,0 +1,24 @@
+iPhone User Guide
+Get started with accessibility features on iPhone
+Customize iPhone in ways that work best for you with features for vision, hearing, mobility, speech, and cognitive accessibility—whether you need them temporarily or on an ongoing basis.
+You can turn on accessibility features when you set up your iPhone for the first time , or at any time in Settings > Accessibility.
+Vision
+Use the built-in screen reader to hear what’s on the screen and navigate iPhone with gestures. Or make text bigger, zoom in on the screen, adjust display colors, and more.
+You can even use your iPhone as a magnifying glass, and hold it up to get descriptions of your surroundings if you can’t see them.
+Learn more about accessibility features for vision
+Mobility
+Navigate and perform actions on iPhone using just your eyes or spoken commands. Or connect an assistive device or an external keyboard and use it to control iPhone.
+You can also make it easier to use gestures and set other options so iPhone responds best to your touch.
+Learn more about accessibility features for mobility
+Hearing
+Get real-time captioning of spoken audio from an app or live conversation, turn on flash notifications, have iPhone recognize sounds, and more.
+You can also pair hearing devices with your iPhone, and adjust headphone audio so it’s right for you. Or experience songs as taps, refined vibrations, and other haptics that are synced to the rhythm of the music.
+Learn more about accessibility features for hearing
+Speech
+Create a custom voice that sounds like you, or choose one of dozens of system voices, then use it to have what you type spoken out loud.
+You can also have Siri recognize a wider range of speech patterns, or teach iPhone to perform an action when you speak a word or sound of your choosing.
+Learn more about accessibility features for speech
+Cognitive
+iOS accessibility features can help you—or someone you care for—use iPhone with greater independence. You can set up an iPhone with a simplified interface for someone with a cognitive disability, or temporarily lock iPhone to one app when you let a child use it.
+Learn more about cognitive accessibility features
+Tip: Control your go-to accessibility features and settings with Siri, the click of a button, or from Control Center. See Quickly turn accessibility features on or off .

@@ -1,0 +1,31 @@
+iPhone User Guide
+Share photos and videos on iPhone
+You can share photos and videos in Mail or Messages, or other apps you install. You can also use AirDrop to instantly share photos with anyone nearby on an iPhone, iPad, Mac, or Apple Vision Pro.
+To learn about transferring photos and videos to an external storage device, see Import and export photos and videos .
+Share photos and videos
+Go to the Photos app on your iPhone.
+Do any of the following:
+Share a single photo or video: Open the photo or video, tap , then choose a share option such as Mail, Messages, or AirDrop.
+Share multiple photos or videos: While viewing a screen with multiple thumbnails, tap Select, then tap the thumbnails of the photos and videos you want to share. Tap , then choose a share option such as Mail, Messages, or AirDrop.
+Share all the photos in a collection: While viewing a collection—like a collection from Recent Days, Memories, or Trips—tap , tap Share Photos, then choose a share option such as Mail, Messages, or AirDrop.
+You can also create a shared album so that you can collaborate on the album with just the people you choose. See Create shared albums .
+Note: The size limit of attachments is determined by your service provider. For devices or services that don’t support Live Photos, a Live Photo is shared as a still photo.
+Adjust the information you share about a photo
+Before you share a photo or video, you can adjust the format, file type, and information that gets shared with it.
+Go to the Photos app on your iPhone.
+Open the photo or video, tap , tap Options, then do any of the following:
+Turn off location data: Turn off Location.
+Adjust the file format: Tap Automatic for the best file format for the destination, tap Current to prevent a file format conversion, or tap Most Compatible and files may convert to JPEG or MOV.
+Send as iCloud link: Turn on iCloud Link to share a URL to view or download the photos or videos. iCloud links are available for 30 days.
+Send all photo data: Turn on All Photos Data to share the original file with edit history and metadata; the recipient can view and modify the current version (available with AirDrop and iCloud links only).
+Tap Done.
+Save or share a photo or video you receive
+You can save photos shared with you from other apps, like Messages or Mail.
+Touch and hold the photo or video, then tap .
+To view your saved photos and videos, see Find recently saved photos .
+See photos and videos shared with you in Messages
+You can see photos shared with you in conversations in Messages—even if you haven’t saved them.
+Go to the Photos app on your iPhone.
+Tap your account in the top-right corner.
+Tap Shared with You.
+To save a photo, tap it, then tap Save Shared Photo.

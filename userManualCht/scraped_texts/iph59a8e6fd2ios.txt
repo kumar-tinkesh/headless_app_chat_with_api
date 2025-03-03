@@ -1,0 +1,10 @@
+iPhone User Guide
+Customize VoiceOver gestures and keyboard shortcuts on iPhone
+You can customize the gestures and keyboard shortcuts that activate VoiceOver commands.
+Go to Settings > Accessibility > VoiceOver > Commands.
+Tap any of the following:
+All Commands: Navigate to the command you want to customize, then tap Edit, Add Gesture, or Add Keyboard Shortcut.
+Touch Gestures: List the gestures and the associated commands.
+Handwriting: List the gestures for handwriting and the associated commands.
+Braille Screen Input: List the gestures for Braille Screen Input and the associated commands.
+To clear your custom gestures and keyboard shortcuts, tap Reset VoiceOver Commands.

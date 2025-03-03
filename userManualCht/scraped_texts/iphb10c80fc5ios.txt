@@ -1,0 +1,40 @@
+iPhone User Guide
+Have a group conversation in Messages on iPhone
+You can send a group text message, name it, and assign it an image to find it more easily. In a group conversation, you can call people’s attention to specific messages and even collaborate on projects .
+Send a new message to a group
+You can send a message to multiple people to start a group conversation.
+Go to the Messages app on your iPhone.
+Tap at the top of the screen to start a new conversation.
+Enter the phone number, contact name, or Apple Account of each recipient, or tap , then choose contacts.
+Note: If one or more of your recipients isn’t using iMessage , messages appear in green bubbles instead of blue ones.
+Tap the text field, type your message, then tap .
+Add someone to an existing group conversation
+If you have at least two other people in a group conversation, you can add additional contacts.
+Go to the Messages app on your iPhone.
+Tap the group conversation you want to add someone to.
+Tap the group name at the top of the conversation, then tap the button that shows how many people are in the conversation.
+Tap Add Contact, then enter the new recipient’s phone number, contact name, or Apple Account .
+Or tap , then choose a contact from the list.
+Note: If the group includes someone who hasn’t turned on iMessage , follow the onscreen instructions to start a new group.
+If you only have one other person in the conversation, you need to start a new group conversation to add someone else.
+To remove someone from a group conversation, swipe left on their name, then tap Remove.
+Leave a group conversation
+You can leave a group chat if there are at least three other participants in the conversation.
+Go to the Messages app on your iPhone.
+Tap the group conversation you want to leave.
+Tap the group name at the top of the conversation.
+Scroll down and tap Leave This Conversation or Delete and Block This Conversation. (Learn more about deleting and blocking conversations.)
+Blocked conversations are moved to the Recently Deleted folder, where you can recover them.
+If you want to stay in a group chat but stop receiving its notifications, mute the conversation instead.
+Mention people in a group conversation
+You can mention someone by name in a group conversation to call their attention to a specific message, and they’ll get a notification. Depending on their settings, the person you mention may be notified even if they have the conversation muted.
+Go to the Messages app on your iPhone.
+In a conversation, begin typing a contact’s name in the text field.
+Tap the contact’s name when it appears.
+You can also mention a contact in Messages by typing @ followed by the contact’s name.
+To change how or when you get notifications when your name is mentioned in Messages, go to Settings > Apps > Messages, then turn on Notify Me.
+Name a group conversation
+You can name a group text message and choose an image to represent the conversation. Everyone who has turned on iMessage will see the new name and image.
+Go to the Messages app on your iPhone.
+Tap the name or number at the top of the conversation.
+Tap Change Name and Photo, then choose an option.

@@ -1,0 +1,54 @@
+iPhone User Guide
+Use a braille display with VoiceOver on iPhone
+With VoiceOver, you can connect a Bluetooth® wireless refreshable braille display and use it to control and navigate iPhone and read what’s on the screen. The braille you type on the display is automatically translated into text, and the display shows what you’re typing in context. You can read and type using contracted or uncontracted braille, with support for many international braille tables.
+For a list of supported braille displays, see the Apple Support article Braille displays supported by iPhone, iPad, and iPod touch .
+Connect a braille display and learn commands to control iPhone
+Turn on the braille display.
+On iPhone, go to Settings > Bluetooth, turn on Bluetooth, then choose the display.
+On iPhone, go to Settings > Accessibility > VoiceOver > Braille, then choose the display.
+To see the braille commands for controlling iPhone, tap More Info, then tap Braille Commands.
+See the Apple Support article Common braille commands for VoiceOver on your iPhone, iPad, and iPod touch .
+Change the braille display settings
+On iPhone, go to Settings > Accessibility > VoiceOver > Braille.
+Set any of the following:
+Setting
+Description
+Match Input and Output Tables
+Set the braille display to use the same table for both the input and the output.
+Output
+Choose the braille table you want to use to read braille output. You can choose from tables for additional languages as well as six-dot or eight-dot and contracted or uncontracted braille.
+Input
+Choose the braille table you want to use to type braille input. You can choose from tables for additional languages as well as six-dot or eight-dot and contracted or uncontracted braille.
+Braille Screen Input
+Choose the input method for entering braille using the screen. See Type braille directly on the iPhone screen with VoiceOver .
+Braille Tables
+Add tables to the braille table rotors.
+Automatic Translation
+Turn this option on to automatically translate the braille you type into text soon after you stop typing.
+Status Cells
+Turn on the general and text status cells and choose their location.
+Equations use Nemeth Code
+Turn on Nemeth Code for mathematical equations.
+Show On-screen Keyboard
+Display the keyboard on the screen.
+Turn Pages when Panning
+Automatically turn pages when panning.
+Word Wrap
+Wrap words to the next line.
+Braille Alert Messages
+When turned on, your braille display shows an alert message for the specified duration.
+Ignore Chord Duration
+Adjust the amount of time required before subsequent key presses are recognized as braille chords.
+Auto Advance Duration
+Adjust this setting to your preferred reading speed.
+Sound Curtain
+When a braille display is connected to iPhone, mute most sounds. Emergency alerts will still play sounds.
+Enable Bluetooth on Start
+Automatically turn on Bluetooth when you turn on VoiceOver so that braille displays can connect to iPhone.
+Output closed captions in braille during media playback
+On iPhone, go to Settings > Accessibility > VoiceOver > Verbosity.
+Choose Braille or Speech and Braille.
+Use a 2D braille display
+If you use a supported 2D braille display, you can use the rotor to switch between different output modes, such as the mode for displaying images or the mode for reading text on multiple lines.
+Connect your braille display to iPhone.
+With VoiceOver turned on, use the Braille Text Mode rotor to switch between output modes. See Control VoiceOver using the rotor .

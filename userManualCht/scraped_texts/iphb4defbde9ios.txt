@@ -1,0 +1,40 @@
+iPhone User Guide
+Delete or hide photos and videos on iPhone
+In the Photos app, you can delete photos and videos from your iPhone or hide them. You can also recover photos you recently deleted. Photos you delete and hide are saved in Recently Deleted and Hidden, which you unlock using Face ID, Touch ID, or your passcode.
+When you use iCloud photos , any photos you delete or hide are deleted or hidden on all your devices.
+Delete or hide a photo or video
+Go to the Photos app on your iPhone.
+While viewing a photo or video, do any of the following:
+Delete: Tap to delete a photo from your iPhone and other devices where iCloud Photos is turned on and you’re signed in to the same Apple Account.
+Deleted photos and videos are kept in Recently Deleted for 30 days. During that time, you can recover or permanently remove them from all devices.
+Hide: Tap , then tap Hide.
+Hidden photos are moved to the Hidden collection. You can’t view them anywhere else.
+To turn off the Hidden collection so it doesn’t appear in the Photos app, see Hide the Hidden collection from view .
+Delete or hide multiple photos and videos
+Go to the Photos app on your iPhone.
+Swipe down to see the full photo grid.
+Tap Select, then tap the photos and videos you want to delete or hide.
+Do any of the following:
+Delete: Tap to delete the items from your iPhone and other devices where iCloud Photos is turned on and you’re signed in to the same Apple Account.
+Deleted photos and videos are kept in Recently Deleted for 30 days. During that time, you can recover or permanently remove them from all devices.
+Hide: Tap or drag your finger on the screen to select the items you want to hide, tap , then tap Hide.
+Unhide photos
+You can unhide a photo you previously hid, so that it reappears in your photo library.
+Go to the Photos app on your iPhone.
+Swipe up, then tap Hidden (below Utilities).
+Tap the photo you want to unhide.
+Tap , then tap Unhide.
+Recover or permanently delete deleted photos
+Go to the Photos app on your iPhone.
+Swipe up, then tap Recently Deleted (below Utilities).
+Tap Select, then choose the photos and videos you want to recover or delete.
+Tap at the bottom of the screen, then tap Recover or Delete.
+Note: If the photos you’re looking for don’t appear in Recently Deleted, they may be in Recovered. See Find recovered items and save or delete them .
+Lock and unlock the Recently Deleted and Hidden collections
+Recently Deleted and Hidden are locked by default. You unlock these collections using Face ID, Touch ID, or your passcode.
+To change the default setting from locked to unlocked, go to Settings > Apps > Photos, then turn off Use Face ID, Use Touch ID, or Use Passcode.
+Hide the Hidden collection from view
+By default, the Hidden collection is locked. You can add an extra layer of privacy by removing it from view.
+Go to the Photos app on your iPhone.
+Tap your account in the top-right corner.
+Turn off Hidden Album.

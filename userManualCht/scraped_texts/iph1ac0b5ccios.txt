@@ -1,0 +1,25 @@
+iPhone User Guide
+Use the basic calculator on iPhone
+You can perform arithmetic calculations with a basic calculator.
+Siri: Say something like: “What’s 74 times 9?” or “What’s 18 percent of 225?” Learn how to use Siri .
+Switch to the basic calculator
+Go to the Calculator app on your iPhone.
+Tap , then tap Basic.
+Clear the display
+Go to the Calculator app on your iPhone.
+Enter a digit or calculation.
+Do one of the following:
+Delete the last digit: If you make a mistake when you enter a number, tap .
+Delete the expression: Tap the All Clear (AC) key, or touch and hold .
+Switch to another mode
+Go to the Calculator app on your iPhone.
+Tap , then do one of the following:
+Access algebraic, exponential, logarithmic, and trigonometric keys, and more: Tap Scientific. See Use the scientific calculator .
+Solve handwritten math problems, evaluate expressions, and assign variables: Tap Math Notes, then tap . See Solve math with Math Notes .
+Draw graphs: Tap Math Notes, tap , write an equation, then tap Insert Graph. See Work with graphs in Math Notes .
+Instantly calculate unit or currency conversions: Turn on Convert. See Convert units or currency .
+Copy a calculation result
+Go to the Calculator app on your iPhone.
+Enter a calculation, touch and hold the calculation result in the display, then tap Copy.
+Paste the result somewhere else, such as in a note or message.
+You can also copy previous calculations .

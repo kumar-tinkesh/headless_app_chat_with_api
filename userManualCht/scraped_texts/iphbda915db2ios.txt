@@ -1,0 +1,6 @@
+iPhone User Guide
+Duplicate a recording in Voice Memos on iPhone
+You can duplicate a recording if you need another copy of it. You can also make changes to the copy, save it, and give it a new name .
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+In the list of recordings, tap a recording, tap , then tap Duplicate.
+The duplicate appears right below the original version in the list and has “copy” added to its name. To change the name, tap it, then type a new one.

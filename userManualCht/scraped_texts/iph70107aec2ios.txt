@@ -1,0 +1,22 @@
+iPhone User Guide
+Build a habit with Journal on iPhone
+With Journal, you can keep track of your journaling goals with the Insights view and build new habits.
+Track journaling goals with Insights
+Go to the Journal app on your iPhone.
+At the top of your journal, see your current streak along with other metrics in the insights summary ; tap any metric to explore it in more detail.
+Tap , then tap Insights.
+Tap the tiles to see any of the following:
+Streaks: See how many days or weeks in a row you’ve added entries to your journal.
+Stats: See how many entries and words you’ve written over time.
+Calendar: The calendar shows each day that you’ve written. Tap to view entries for a specific day.
+Set a journaling schedule
+You can remember to write with journaling notifications.
+Go to the Journal app on your iPhone.
+Tap , then tap Notifications.
+Turn on Journaling Schedule, then choose the time and days of the week.
+You can also turn on Journaling Schedule by going to Settings > Apps > Journal > Notifications (below General).
+Use the Journal widget
+Add a widget to your Home Screen or Lock Screen with your current streak or writing prompts that change throughout the day, so you can reflect on what’s going on in the moment.
+On the iPhone Home Screen or Lock Screen, add a Journal widget .
+To change the widget, touch and hold the widget, then tap Edit Widget.
+Tap the widget to select from different writing prompts, start a new entry, or see details about your current streak.

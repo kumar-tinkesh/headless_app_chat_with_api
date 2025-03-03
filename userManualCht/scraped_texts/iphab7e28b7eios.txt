@@ -1,0 +1,13 @@
+iPhone User Guide
+Have a conference or three-way call on iPhone
+When you’re on a phone call, you can add an additional caller or callers if you want to include more people in the conversation. If you get another incoming call, you can also respond to or ignore it.
+Start a conference or three-way call
+With GSM, you can set up a conference call with up to five people (depending on your carrier).
+Note: Conference calls, or some aspects of conference calling, may not be available if your call is using VoLTE (Voice over LTE) or Wi-Fi Calling.
+Go to the Phone app on your iPhone.
+While on a call on iPhone, tap Add Call, make another call, then tap Merge Calls.
+Repeat this step to add more people to the call.
+During the call, do any of the following:
+Talk privately with one person: Tap , then tap Private next to the name of the person. Tap Merge Calls to resume the conference call.
+Add an incoming caller on the same line: Tap Hold Call + Answer, then tap Merge Calls.
+Drop one person: Tap next to the name of the person you want to drop, then tap End.

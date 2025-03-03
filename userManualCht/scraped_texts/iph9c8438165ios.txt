@@ -1,0 +1,5 @@
+iPhone User Guide
+Announce incoming text messages with CarPlay
+Use CarPlay to have Siri automatically read your incoming text messages and listen for your response.
+On your iPhone, go to Settings > Siri  > Announce Notifications, then turn on Announce Notifications.
+Note: You can also enable or disable Announce Messages directly in CarPlay by tapping Announce when Siri reads an incoming text message. See Have Siri announce notifications .

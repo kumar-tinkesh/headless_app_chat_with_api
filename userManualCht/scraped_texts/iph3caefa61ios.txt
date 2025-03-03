@@ -1,0 +1,24 @@
+iPhone User Guide
+Flag or block emails in Mail on iPhone
+You can flag important email messages, create flagged mailboxes, and flag messages from VIPs. You can also block messages from specified senders.
+Flag an email
+You can flag an important email message to make it easier to find later. A message you flag remains in your Inbox and also appears in the Flagged mailbox.
+Go to the Mail app on your iPhone.
+Do any of the following:
+Flag a Primary message: Swipe left on the Primary message, then choose Flag.
+Flag all Transactions, Updates, or Promotions messages from a single sender: Swipe left on a message in the Transactions, Updates, or Promotions message list, then choose Flag.
+Flag a single Transactions, Updates, or Promotions message: Tap a message to open the sender’s digest view, swipe left on the message, then tap .
+To change or remove a flag, open the message, tap , then select another color, or tap Unflag.
+Note: Flags you add to a message appear on that message in Mail on all your Apple devices where you’re signed in to the same Apple Account .
+Create a Flagged mailbox
+You can add a Flagged mailbox so all your flagged email messages are easily accessible in one location.
+Go to the Mail app on your iPhone.
+Tap in the upper-left corner until you see Mailboxes.
+Tap Edit, then select Flagged.
+Flag emails from your VIPs
+Add important people to your VIP list, so their email messages appear with a VIP flag and in the VIP mailbox. See Add someone to your contacts or make them a VIP .
+Block email from specified senders
+You can block an email address to prevent a particular sender from emailing you in the future.
+Go to the Mail app on your iPhone.
+Tap a message from the sender you want to block.
+Tap their email address, then select Block this Contact.

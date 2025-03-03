@@ -1,0 +1,35 @@
+iPhone User Guide
+Get music, movies, and TV shows in the iTunes Store on iPhone
+Use the iTunes Store app to add music, movies, and TV shows to iPhone.
+Note: You need an internet connection to use the iTunes Store. The availability of the iTunes Store and its features varies by country or region. See the Apple Support article Availability of Apple Media Services .
+Find music in the iTunes Store
+Go to the iTunes Store app on your iPhone.
+Tap Music, then do any of the following:
+Browse by category: Scroll to see various categories.
+Choose a different genre: Tap Genres at the top left of the screen, then select one to refine your browsing.
+See what’s popular on iTunes: Tap Charts at the top of the screen.
+Search: Tap Search, enter what you’re looking for, then tap Search on the keyboard.
+Tap an item to see more information about it. You can preview songs, watch trailers for movies and TV shows, or tap to do any of the following:
+Share a link to the item: Choose a sharing option.
+Give the item as a gift: Tap Gift.
+Add the item to your wish list: Tap Add to Wish List.
+To view your wish list, tap , then tap Wish List.
+Find movies and TV shows
+You can now find and purchase movies and TV shows directly in the Apple TV app. See Discover channels and apps . You can also navigate directly in the iTunes Store app.
+Go to the iTunes Store app on your iPhone.
+Tap Movies or TV Shows.
+Tap any of the following:
+Go to the Store: Browse the Apple TV app to buy, rent, or pre-order items .
+Go to Your Purchases: Watch something from your Apple TV library. See Manage your library in the Apple TV app .
+Go to Your Wish List: See the items you have in your iTunes Store Wish List.
+Buy and download content
+Go to the iTunes Store app on your iPhone.
+To buy an item, tap the price. If the item is free, tap Get.
+If you see instead of a price, you already purchased the item, and you can download it again without a charge.
+If required, authenticate your Apple Account with Face ID, Touch ID, or your passcode to complete the purchase.
+To see the progress of a download, tap More, then tap Downloads.
+Redeem or send an App Store & iTunes Gift Card
+Go to the iTunes Store app on your iPhone.
+Tap Music, tap Featured (if necessary), then scroll to the bottom.
+Tap Redeem or Send Gift.
+Apple Footer

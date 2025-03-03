@@ -1,0 +1,30 @@
+iPhone User Guide
+Organize your tabs with Tab Groups in Safari on iPhone
+You can create Tab Groups to keep tabs organized and make them easier to find again later.
+Create a new Tab Group
+Go to the Safari app on your iPhone.
+Tap to view your open tabs.
+Touch and hold a tab, then choose Move to Tab Group.
+Tap New Tab Group, enter a name, then tap Move.
+Tip: To move between your Tab Groups, tap in the bottom center of the screen.
+Reorder tabs in a Tab Group
+Go to the Safari app on your iPhone.
+Tap to view the open tabs in that Tab Group.
+Touch and hold a tab in the Tab Group.
+In the menu that appears, tap Arrange Tabs By, then choose an option.
+Or, just drag the tab to where you want it.
+Rename a Tab Group
+Go to the Safari app on your iPhone.
+Tap , then tap .
+Tap Edit, then tap .
+Tap Rename, enter a name, then tap Save.
+Pin a tab at the top of a Tab Group
+You can customize your Tab Groups with pinned tabs in each group. The pinned tab stays at the top of the Tab Group.
+Go to the Safari app on your iPhone.
+Tap to view the open tabs in that Tab Group.
+Touch and hold the tab you want to pin.
+In the menu that appears, tap Pin Tab.
+Move a tab to another Tab Group
+Go to the Safari app on your iPhone.
+Touch and hold , then tap Move to Tab Group.
+Choose one of the Tab Groups you created previously, or create a new group.

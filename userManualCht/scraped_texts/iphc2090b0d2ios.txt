@@ -1,0 +1,24 @@
+iPhone User Guide
+Read and share stories in News on iPhone
+You can read and share News stories on iPhone.
+Note: Apple News and Apple News+ aren’t available in all countries or regions.
+Read a story
+Go to the News app on your iPhone.
+Tap a story to read it. While viewing a story, you have these options:
+Read the next story: Swipe left.
+Read the previous story: Swipe right.
+Return to the list of stories: Swipe from the left edge or tap at the top left of the screen.
+Tell News what stories you prefer: When viewing a story, tap , then choose Suggest More or Suggest Less. Your feedback is taken into account for future recommendations.
+Change the text size: Tap , tap Text Size, then tap the smaller or larger letter to change the text size in the story and all other stories in the channel. (Not available in all channels.)
+Share a story: Tap , then choose a sharing option, such as Messages or Mail.
+Report a concern: If you believe that a story you’re viewing is mislabeled, inappropriate, offensive, or doesn’t display properly, tap , tap Report a Concern, then choose a concern.
+In Apple News+ issues in PDF format, the Suggest More, Suggest Less, Save Story, and Report a Concern options aren’t available. See Browse and read Apple News+ stories and issues .
+Read stories shared with you
+When a friend shares stories with you using the Messages app , you can easily find them in the Shared with You section in Apple News. (Your friend must be in your contacts list in Contacts.)
+Go to Settings > Apps > Messages.
+Tap Shared with You, then make sure News is turned on.
+Go to the News app on your iPhone.
+Tap Following.
+Tap Shared with You, then do any of the following:
+Tap a shared story to read it in News.
+Tap the name of the person who shared a story to reply to them in the Messages app. You can also reply while reading the story—tap the name shown below the channel’s logo.

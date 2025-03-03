@@ -1,0 +1,48 @@
+iPhone User Guide
+Set communication limits and block apps and content on iPhone
+Set communication limits and privacy protections and block content and apps on iPhone.
+Allow or block calls and messages from specific contacts
+You can either allow or block communication—including incoming and outgoing phone calls, FaceTime calls, and messages—from certain contacts in iCloud, either at all times or during certain periods.
+If you haven’t already turned on Contacts in iCloud, go to Settings > [ your name ] > iCloud, tap See All, then turn on Contacts.
+Go to Settings > Screen Time.
+Tap Communication Limits, tap During Screen Time, then select one of the following for communication at all times (other than during downtime):
+Contacts Only: To allow communication only with your contacts.
+Contacts & Groups with at Least One Contact: To only allow one-on-one conversations with people in your contacts and group conversations that include at least one person in your contacts.
+Everyone: To allow conversations with anyone, including unknown numbers.
+Tap Back at the top left, then tap During Downtime.
+The option you selected in step 3 (for During Screen Time) is already set here. You can change this setting to Specific Contacts, then choose one of the following:
+Choose From My Contacts: To select contacts to allow communication with during downtime.
+Add New Contact: To add a contact and allow communication with them during Downtime.
+If someone who’s currently blocked by your Communication Limit settings tries to call you or send you a message, their communication won’t go through.
+If you try to call or send a message to someone who’s currently blocked by your Communication Limit settings, their name or number appears in red in your list of recent calls or messages and your communication won’t go through. You can communicate with them when the communication limit is changed. If the limit applies only to downtime, you receive a Time Limit message. You can resume communication with them when downtime is over.
+To resume communication with contacts who are blocked by your Communication Limit settings, change the settings by following the steps above.
+Block content and prevent iTunes & App Store purchases
+Set Content & Privacy Restrictions to have Screen Time restrict access to inappropriate content and set restrictions for iTunes Store and App Store purchases.
+Go to Settings > Screen Time.
+Tap Content & Privacy Restrictions, then turn on Content & Privacy Restrictions.
+Do any of the following:
+Set restrictions for store purchases and redownloads: Tap iTunes & App Store Purchases.
+Remove an app or feature from the Home Screen: Tap Allowed Apps & Features.
+Set content ratings and other restrictions for App Store, Media, Web, & Game Center: Tap App Store, Media, Web, & Games.
+Restrict access to Apple Intelligence, Siri, and Math Results: Tap Intelligence & Siri. (See Block access to Apple Intelligence features in Screen Time .)
+Allow changes to privacy settings in certain features, apps, or media: Tap an option below Privacy, then tap Allow Changes or Don’t Allow Changes.
+Allow changes to other settings: Tap an option below Allow Changes To, then tap Allow or Don’t Allow.
+To allow access to image creation features, Writing Tools, and the ChatGPT extension, see Block access to Apple Intelligence features in Screen Time .
+Note: You can use Apple Intelligence features on any iPhone 16 model, iPhone 15 Pro, iPhone 15 Pro Max, a Mac or iPad with M1 or later, or an iPad mini (A17 Pro).
+Turn built-in apps and features on or off
+Restrict the use of built-in apps or features. If you turn off an app, it isn’t deleted; it’s temporarily hidden from your Home Screen until you turn it back on.
+Go to Settings > Screen Time.
+Tap Content & Privacy Restrictions, then turn on Content & Privacy Restrictions.
+Tap Allowed Apps & Features, then turn off the apps or features you want to restrict.
+Block adult websites
+You can block specific websites by URL.
+Go to Settings > Screen Time.
+Tap Content & Privacy Restrictions, then turn on Content & Privacy Restrictions.
+Tap App Store, Media, Web, & Games, then tap Web Content.
+Select Limit Adult Websites, tap Add Website below Never Allow, and enter the URLs of the websites you want to block
+Lock your Screen Time settings
+You can secure your Screen Time settings by entering a Screen Time passcode. That way, no one can change the settings without first entering the Screen Time passcode.
+Go to Settings > Screen Time.
+Tap Lock Screen Time Settings (scroll down, if necessary).
+Enter a four-digit passcode, reenter it, then tap OK.
+If you forget your Screen Time passcode, see the Apple support article If you forgot your Screen Time passcode .

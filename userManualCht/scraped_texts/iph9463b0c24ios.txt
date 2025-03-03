@@ -1,0 +1,14 @@
+iPhone User Guide
+Filter and sort photos and videos in albums on iPhone
+You can filter and sort photos and videos in the albums you create in the Photos app. For example, you can filter an album to show only photos, only videos, or photos and videos you marked as favorites. You can also sort photos and videos in an album by newest to oldest, oldest to newest, or in a custom order.
+Filter photos and videos in an album
+Go to the Photos app on your iPhone.
+Tap Albums, then open an album.
+Tap , tap Filter, then choose an option.
+Tap Done.
+To remove a filter from an album, tap the icon that replaced in the bottom-left corner of the screen, tap Filter, then tap All Items.
+Sort photos and videos by oldest, newest, or in a custom order
+Go to the Photos app on your iPhone.
+Tap Albums, then open an album.
+Tap , then choose an option.
+To quickly customize the order, you can also touch and hold a photo or video thumbnail, then drag it where you want it to appear.

@@ -1,0 +1,50 @@
+iPhone User Guide
+Customize your Safari settings on iPhone
+You can customize your start page, change the text size on websites, and change display and privacy settings. Sign in to iCloud with the same Apple Account on multiple devices to keep your open tabs, bookmarks, browsing history, and Reading List up to date across all your Apple devices.
+Customize your start page
+When you open a new tab, you begin on your start page. You can customize your start page with new background images and options.
+Go to the Safari app on your iPhone.
+Tap , then tap .
+Scroll to the bottom of the page, then tap Edit.
+Choose the options you want to appear on your start page:
+Use Start Page on All Devices: Use these settings on all your Apple devices where you have Use Start Page on All Devices turned on and you’re signed in to the same Apple Account using two-factor authentication .
+Favorites: Display shortcuts to your favorite bookmarked websites. See Bookmark a favorite website .
+Privacy Report: Stay updated on how many trackers and websites Safari blocked from tracking you. See View the Privacy Report .
+Reading List: Show webpages currently in your Reading List. See Add the current webpage to your Reading List .
+Recently Closed Tabs: Go back to tabs you previously closed.
+iCloud Tabs: Show open tabs from other Apple devices where you’re signed in to the same Apple Account and Safari is turned on in iCloud settings or preferences. See Organize your tabs with Tab Groups .
+Suggestions: See websites you visit most, websites shared in other apps (such as Calendar and Maps), and links shared with you in Messages, Mail, and more. See Find links shared with you .
+Background Image: Choose the image you want to appear in the background each time you open a new start page in this Tab Group. To use a photo as your background, tap .
+Customize the Page menu
+You can add your favorite Page and Tab Actions to the Page menu .
+Go to the Safari app on your iPhone.
+Tap on the left side of the search field, then tap .
+Tap Edit, then tap to add Page or Tab Actions to the Page menu.
+Tap to remove an action.
+Tap Done, then tap Done again.
+Change the text size for a website on Safari
+Use the Page Settings button to increase or decrease the text size.
+Go to the Safari app on your iPhone.
+Tap on the left side of the search field.
+Tap the large A to increase the font size or the small A to decrease it.
+Change the display controls for a website on Safari
+You can hide the search field, switch to Reader, and more.
+Go to the Safari app on your iPhone.
+Tap , then do any of the following:
+Hide the search field: Tap , then tap Hide Toolbar (tap the bottom of the screen to get it back).
+See a streamlined view of the webpage: Tap Show Reader (if available).
+To return to the normal view, tap , then tap Hide Reader.
+See what the webpage looks like on a desktop computer: Tap , then tap Request Desktop Website (if available).
+See a summary of the webpage: If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max, tap Summarize at the top of the page. See Summarize a webpage .
+You can also adjust Safari settings in Accessibility settings. Go to Settings > Accessibility > Per-App Settings. Tap Add App, choose Safari, then tap Safari to adjust the settings.
+Choose where to save downloads
+When you download a file in Safari, you can choose whether to save it to iCloud or on your iPhone.
+Go to Settings > Apps > Safari.
+Tap Downloads, then choose one of the following:
+iCloud Drive: Select this option to save downloads to the Downloads folder in iCloud Drive. This allows you to access the downloaded file on any iPhone, iPad, or Mac where you’re signed in to the same Apple Account .
+On My iPhone: Select this option to save downloads to the Downloads folder on your iPhone.
+Share website passwords with a group
+You can create a group of trusted contacts and share a set of passwords. Passwords stay up to date for everyone in the group, and you can remove someone at any time.
+See Share passwords or passkeys with people you trust .
+Adjust privacy settings for Safari
+You can choose what privacy settings you want across Safari, and create individual exceptions for websites. See Browse privately .

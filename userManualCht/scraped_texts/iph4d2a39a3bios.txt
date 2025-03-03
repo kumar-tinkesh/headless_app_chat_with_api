@@ -1,0 +1,45 @@
+iPhone User Guide
+Make a recording in Voice Memos on iPhone
+You can use iPhone as a portable recording device to record personal notes, classroom lectures, musical ideas, and more. You can also fine-tune your recordings with editing tools like trim, replace, and resume.
+Record voice memos using the built-in microphone, a supported headset, or an external microphone.
+When Voice Memos is turned on in iCloud settings or iCloud preferences, your recordings appear and update automatically on your iPhone, iPad, and Mac where you’re signed in to the same Apple Account .
+Make a basic recording
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+Note: To make it easier to find and open the Voice Memos app, you can move it from the Utilities folder to the Home Screen .
+Tap to begin recording.
+To adjust the recording level, move the microphone closer to or farther from what you’re recording.
+Tap to stop recording.
+Your recording is saved with the name New Recording or the name of your location, if Location Services is turned on in Settings > Privacy & Security. To change the name, tap the recording, then tap the name and type a new one.
+To fine-tune your recording, see Edit or delete a recording .
+Note: For your privacy, when you use Voice Memos to make recordings, an orange dot appears at the top of your screen to indicate your microphone is in use.
+Record in stereo
+You can record in stereo in Voice Memos.
+Go to Settings > Apps > Voice Memos.
+Turn on Stereo Recording.
+When Stereo Recording is on, Voice Memos records using multiple microphones on your iPhone and with right and left audio channels. If you listen to the recording through headphones, you hear different sounds from different microphones; however, the waveform display still looks the same.
+Note: Stereo recording isn’t available on all devices.
+Use the advanced recording features
+You can make a recording in parts, pausing and resuming as you record.
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+Tap to begin a recording.
+To adjust the recording level, move the microphone closer to or farther away from what you’re recording.
+To see more details while you’re recording, swipe up from the top of the waveform.
+Tap to stop recording; tap Resume to continue.
+To review your recording, tap .
+To change where playback begins, drag the waveform left or right across the playhead before you tap .
+To save the recording, tap Done.
+Your recording is saved with the name New Recording or the name of your location, if Location Services is turned on in Settings > Privacy & Security. To change the name, tap the recording, tap the name, then type a new name.
+To fine-tune your recording, see Edit or delete a recording .
+Mute the start and stop tones
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+Tap to begin recording.
+While recording, use the iPhone volume down button to turn the volume all the way down.
+Use another app while recording
+While you’re recording, you can use another app as long as it doesn’t play audio on your iPhone.
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+Tap to begin recording.
+While you’re recording, go to the Home Screen , then open another app.
+If the other app starts playing audio, Voice Memos stops recording.
+On supported models , you can see your recording in progress in the Dynamic Island at the top of the Home Screen and in other apps. Tap the Dynamic Island to expand it, or navigate back to Voice Memos. See Use the Dynamic Island .
+If Voice Memos is turned on in iCloud settings or iCloud preferences, your recording is saved in iCloud and appears automatically on your iPhone, iPad, and Mac where you’re signed in to the same Apple Account. See Keep recordings up to date .
+Recordings using the built-in microphone are mono, unless you turn on Stereo Recording in Settings. You can also use an external stereo microphone that works with iPhone to record stereo. Look for accessories marked with the Apple “Made for iPhone” or “Works with iPhone” logo.

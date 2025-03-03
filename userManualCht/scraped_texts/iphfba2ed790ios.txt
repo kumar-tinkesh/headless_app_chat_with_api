@@ -1,0 +1,6 @@
+iPhone User Guide
+Get a warning when you visit websites that use HTTP on iPhone
+Websites use HTTP or HTTPS to transmit information to and from Safari; HTTP doesn’t provide a secure connection.
+In iOS 18.2 or later, you can choose to receive a warning when you visit websites that use HTTP.
+Go to Settings > Apps > Safari.
+Below Privacy & Security, turn on Not Secure Connection Warning.

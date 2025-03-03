@@ -1,0 +1,32 @@
+iPhone User Guide
+Create shared albums in Photos on iPhone
+With the Shared Albums feature, you can create albums to share photos and videos with just the subscribers you choose—and they can add their own photos, videos, and comments for everyone to see. If you set up a shared album, you can also rename or delete it.
+Before you begin
+Make sure you’re signed in to your Apple Account on your iPhone and any other devices you want to use with Shared Albums.
+Go to Settings > [ your name ] > iCloud > Photos, then turn on Shared Albums.
+Create a shared album
+Go to the Photos app on your iPhone.
+Scroll down, then tap Albums.
+Choose Shared, then tap Create.
+Enter a name for the album.
+To invite people, tap Invite. Enter the name of a contact you want to add, or type the email address or phone number associated with the recipient’s Apple Account. See Invite or remove people .
+Join a shared album
+When you’re invited to join a shared album, a notification appears on your iPhone screen.
+Tap the notification, then tap Accept on the album in the Photos app.
+If you don’t join the shared album by tapping the notification, you can also do the following:
+Go to the Photos app on your iPhone.
+Tap For You.
+Tap Accept on the new album, below Shared Album Activity.
+Note: The person who created the album receives a notification when someone accepts the invitation to join the shared album.
+Rename a shared album
+The creator of a shared album can change its name.
+Go to the Photos app on your iPhone.
+Tap Shared Albums, then tap the album.
+Tap , then tap Shared Album Details.
+Enter a new name, then tap Done.
+Delete or remove yourself from a shared album
+Go to the Photos app on your iPhone.
+Tap Shared Albums, then tap the album.
+Tap .
+Tap Delete Shared Album if you created the album, or tap Unsubscribe if you’re a subscriber.
+Photos that you saved or downloaded from a shared album to your photo library stay in your library even if the shared album is deleted, or the person who created the album stops sharing it. See Save photos and videos from a shared album to your photo library .

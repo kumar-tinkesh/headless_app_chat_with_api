@@ -1,0 +1,15 @@
+iPhone User Guide
+Add your iPhone Wallet with MagSafe to Find My on iPhone
+If your iPhone Wallet with MagSafe has Find My support, you can connect it to your Apple Account so you can see its last known location in the Find My app . You can allow someone who finds it to see your contact information to help them return it to you.
+When you add your iPhone Wallet with MagSafe to Find My, you can get notified if it detaches from your iPhone .
+Note: Location sharing and finding devices aren’t available in all countries or regions. iPhone Wallet with MagSafe and Find My support can be used with compatible iPhone models .
+Add iPhone Wallet with MagSafe when you first attach it to your iPhone
+Go to the Home Screen on your iPhone.
+Attach your iPhone Wallet with MagSafe and Find My support to your iPhone.
+Tap Continue on your iPhone screen, then follow the onscreen instructions.
+Add iPhone Wallet with MagSafe later
+If you decide not to add your iPhone Wallet with MagSafe and Find My support when you first attach it to your iPhone, you can add it later from the Find My app.
+Go to the Find My app on your iPhone.
+Attach your iPhone Wallet with MagSafe and Find My support to your iPhone.
+Tap , choose Add MagSafe Accessory, then follow the onscreen instructions.
+If the iPhone Wallet with MagSafe and Find My support is associated with someone else’s Apple Account, they need to remove it before you can add it. See Remove a device from Find My on iPhone .

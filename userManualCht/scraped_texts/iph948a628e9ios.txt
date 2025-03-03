@@ -1,0 +1,14 @@
+iPhone User Guide
+Manage Crash Detection on iPhone 14 or later
+What is Crash Detection?
+If your iPhone 14 or later (any model) detects a severe car crash, it can help connect you to emergency services and notify your emergency contacts.
+How Crash Detection works
+When your iPhone detects a severe car crash, it will display an alert and will automatically initiate an emergency phone call after 20 seconds unless you cancel. If you are unresponsive, your iPhone will play an audio message for emergency services, which informs them that you’ve been in a severe crash and gives them your latitudinal and longitudinal coordinates with an approximate search radius.
+When a crash is detected, Crash Detection won’t override any existing emergency calls placed by other means.
+If you’re in a severe car crash and unresponsive in a location without a cellular or Wi-Fi connection, iPhone will attempt to contact emergency services using Emergency SOS via satellite , where available.
+Turn Crash Detection on or off
+Crash Detection is on by default. You can turn off alerts and automatic emergency calls from Apple after a severe car crash in Settings > Emergency SOS, then turn off Call After Severe Crash. If you have third-party apps registered to detect crashes on your device, they will still be notified.
+If you have CarPlay or Apple Watch
+If your iPhone has Crash Detection turned on and is connected to your vehicle through CarPlay, the Crash Detection features (dialing emergency services) will go through your iPhone.
+If you’re wearing your Apple Watch at the time of the event, dialing emergency services will be placed by iPhone but Crash Detection features will be routed through Apple Watch.
+For more information, see Use Crash Detection on iPhone or Apple Watch to call for help in an accident .

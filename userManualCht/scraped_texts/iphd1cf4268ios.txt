@@ -1,0 +1,41 @@
+iPhone User Guide
+Connect iPhone to the internet
+Connect your iPhone to the internet by using an available Wi-Fi or cellular network.
+View available networks and connect to Wi-Fi
+Go to Settings > Wi-Fi, then turn on Wi-Fi.
+iPhone automatically joins known networks.
+To join a new network, do one of the following:
+Join an available network: Tap the name of the network. If asked, enter the password.
+Join a hidden network: Tap Other, then enter the name of the network, security type, and password.
+When iPhone is connected to Wi-Fi, a blue checkmark appears next to the network name, and appears at the top of the screen.
+Share a Wi-Fi password
+If your iPhone is connected to a Wi-Fi network, you can share the Wi-Fi password with another nearby iPhone, iPad, or Mac.
+Make sure your iPhone is unlocked, connected to the Wi-Fi network, and signed in to your Apple Account .
+Make sure of the following:
+The person you’re sharing the password with is signed in to their Apple Account on their device.
+The person is in your contacts list in the Contacts app .
+The other device is close to your iPhone.
+On the other device, choose the Wi-Fi network.
+On your iPhone, wait a few moments for the Wi-Fi Password notification to appear, then tap Share Password.
+Join a Personal Hotspot
+If an iPhone or iPad with cellular service is sharing a Personal Hotspot , you can use its cellular connection.
+Go to Settings > Wi-Fi, then choose the name of the device sharing the Personal Hotspot.
+If asked, enter the password. (On the device sharing the Personal Hotspot, the password is shown in Settings > Cellular > Personal Hotspot.)
+Manage settings for Wi-Fi and hotspots
+Go to Settings > Wi-Fi.
+Do any of the following:
+Change the settings for a Wi-Fi network: Tap .
+Join a new Wi-Fi network: Tap Ask to Join Networks, then choose Off, Notify, or Ask.
+Join a personal hotspot when Wi-Fi isn’t available: Tap Auto-Join Hotspot, then choose Never, Ask to Join, or Automatic.
+Connect to a cellular network if Wi-Fi isn’t available
+Your iPhone automatically connects to your carrierʼs cellular data network if a Wi-Fi network isnʼt available. If iPhone doesn’t connect, check the following:
+Verify that your SIM is activated and unlocked. See Set up cellular service .
+Go to Settings > Cellular.
+Verify that Cellular Data is turned on. If you’re using Dual SIM , tap Cellular Data, then verify the selected line. (You can choose only one line for cellular data.)
+How iPhone connects to the internet
+iPhone does the following, in order, until a connection is made:
+Tries to connect to the most recently used available Wi-Fi network
+Shows a list of Wi-Fi networks in range and connects to the one you choose
+Connects to your carrier’s cellular data network
+On an iPhone that supports 5G , iPhone may use your 5G cellular data instead of Wi-Fi. If so, you see Using 5G Cellular For Internet below the Wi-Fi network’s name. To switch back to Wi-Fi, tap next to the network name, then tap Use Wi-Fi for Internet. See the Apple Support article Use 5G with your iPhone .
+Note: If a Wi-Fi connection to the internet isn’t available, apps and services may transfer data over your carrier’s cellular network, which may result in additional fees. Contact your carrier for information about your cellular data rates. To manage cellular data usage, see View or change cellular data settings .

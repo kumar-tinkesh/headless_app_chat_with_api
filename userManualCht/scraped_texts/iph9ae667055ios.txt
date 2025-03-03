@@ -1,0 +1,26 @@
+iPhone User Guide
+Use Apple Intelligence in Mail on iPhone
+Apple Intelligence* makes it easier than ever to stay on top of your email. In addition to using Writing Tools to craft your outgoing messages, you can use Priority Messages to quickly view your most urgent emails, like a same-day dinner invitation or boarding pass. Smart Reply helps you compose a fast email response to make sure you covered everything. You can also view summaries that automatically appear in your inbox, and generate summaries of complex emails and long email threads to view all the pertinent details.
+Note: Apple Intelligence is available in iOS 18.1 or later on all iPhone 16 models, iPhone 15 Pro, and iPhone 15 Pro Max. Apple Intelligence is not available on iPhone and iPad if you’re in the EU and if your Apple Account country or region is also in the EU. To check whether Apple Intelligence is available for your device and language, see the Apple Support article Apple Intelligence requirements .
+View Priority Messages in your inbox
+Go to the Mail app on your iPhone.
+Tap your inbox, tap , then tap Show Priority.
+Time-sensitive emails appear at the top of your inbox.
+Use Smart Reply in Mail
+Go to the Mail app on your iPhone.
+Tap an email, tap , then tap Reply.
+In the keyboard, tap a suggested reply.
+Apple Intelligence drafts a reply in the email. To refine your reply, see Use Writing Tools with Apple Intelligence on iPhone .
+When you’re ready to send your reply, tap .
+Summarize your email
+Apple Intelligence can help you summarize a complex email, or catch up on a long email thread in seconds.
+Go to the Mail app on your iPhone.
+A short summary automatically appears under each email in your inbox.
+Tap an email, then tap Summarize.
+Note: You may need to scroll to the top of the screen for the Summarize button to appear.
+A summary appears at the top of the screen. If the message is part of an email thread, the contents of the thread are summarized.
+Turn email summary previews on or off
+When you turn on Apple Intelligence, summaries automatically appear under your emails. You can turn off summaries if you want to see the first lines of the most recent message instead.
+Go to Settings > Apps > Mail.
+Turn Summarize Message Previews on or off.
+Apple Footer

@@ -1,0 +1,13 @@
+iPhone User Guide
+Adjust CarPlay accessibility settings for vision
+With CarPlay accessibility features for vision, you can make it easier to read text and differentiate colors on the CarPlay touchscreen.
+Note: CarPlay is not available in all countries or regions. See the iOS and iPadOS Feature Availability page .
+Make text bold
+Turn on bold text to make it easier to read what’s on the CarPlay touchscreen.
+In CarPlay, go to Settings > Accessibility.
+Turn on Bold Text.
+Filter display colors for color vision deficiencies
+To make it easier to differentiate colors on the CarPlay touchscreen, you can apply filters for color vision deficiencies, or view the entire screen in grayscale.
+In CarPlay, go to Settings > Accessibility.
+Tap Color Filters, then turn on Color Filters.
+Tap a filter. To change the intensity of the filter, tap Low, Medium, or High.

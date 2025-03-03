@@ -1,0 +1,17 @@
+iPhone User Guide
+Change Face ID and attention settings on iPhone
+On an iPhone with Face ID , you can adjust Face ID and attention settings if you have physical or vision limitations.
+Set up Face ID with Accessibility Options
+Setting up Face ID usually requires you to gently move your head in a circle to show all the angles of your face. If you can’t perform the full range of head motion, you can still set up Face ID without moving your head.
+Go to Settings > Face ID & Passcode.
+Position your face within the frame, then tap Accessibility Options.
+Face ID is still secure but requires more consistency when you unlock iPhone.
+Change attention settings
+For additional security, Face ID is attention-aware . It unlocks iPhone only when your eyes are open and looking at the screen. iPhone can also reveal notifications and messages, keep the screen lit when you’re reading, or lower the volume of alerts.
+If you don’t want iPhone to check for your attention, do the following:
+Go to Settings > Face ID & Passcode.
+Turn on or off any of the following:
+Require Attention for Face ID
+Attention Aware Features
+These settings are turned off by default if you turn on VoiceOver when you first set up iPhone.
+Note: Requiring attention makes Face ID more secure.

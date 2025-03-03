@@ -1,0 +1,60 @@
+iPhone User Guide
+Use Writing Tools with Apple Intelligence on iPhone
+With Apple Intelligence,* you can use Writing Tools to proofread your work, create different versions of the same text to help you find the right wording and tone, summarize selected text, and compose content from scratch. Writing Tools are available in most places you write, including third-party apps and websites.
+Note: Apple Intelligence is available in iOS 18.1 or later on all iPhone 16 models, iPhone 15 Pro, and iPhone 15 Pro Max. Apple Intelligence is not available on iPhone and iPad if you’re in the EU and if your Apple Account country or region is also in the EU. To check whether Apple Intelligence is available for your device and language, see the Apple Support article Apple Intelligence requirements .
+Proofread text
+While writing, select the text you want to refine, tap , then tap Writing Tools.
+Tip: You can also tap in the top-right corner of the keyboard.
+Tap Proofread.
+Apple Intelligence checks your text for grammatical and spelling errors. All changes are underlined with a glowing line.
+Do any of the following:
+View changes and an explanation for each change: Tap and at the bottom.
+Discard a change: Tap Use Original.
+Switch between the updated and original versions of your text: Tap Original.
+Revert to the unedited version of your text: Tap Revert.
+When you’re finished, tap Done.
+Rewrite text
+With Writing Tools, you can rewrite text you’ve just written—like class notes or a blog post—to ensure everything reads just right. You can also adjust the tone of your writing to suit the audience and task at hand.
+While writing, select the text you want to refine, tap , then tap Writing Tools.
+Tip: You can also tap in the top-right corner of the keyboard.
+Do any of the following:
+Rewrite text: Tap Rewrite.
+Rewrite the text in a particular tone: Tap Friendly, Professional, or Concise.
+Rewrite the text based on a description: Tap “Describe your change,” then enter a description—“Make this more enthusiastic,” for example.
+A rewritten version of your text appears.
+Do any of the following:
+Try the rewrite again: Tap Rewrite. To undo, tap .
+Switch between the updated and original versions of your text: Tap Original.
+Revert to the unedited version of your text: Tap Revert.
+When you’re finished, tap Done.
+Summarize and organize text
+After writing or reading text, you can use Apple Intelligence to generate a summary. You can also have the summary presented as bulleted key points, or have the original text organized in a list or table.
+Select the text you want to refine, tap , then tap Writing Tools.
+Tip: You can also tap in the top-right corner of the keyboard.
+Do any of the following:
+Summarize text: Tap Summarize.
+Summarize the key points of the text: Tap Key Points.
+Organize the original text in a list: Tap List.
+Organize the original text in a table: Tap Table.
+A rewritten version of your text appears.
+After viewing the summary, do any of the following:
+Copy the summary: Tap Copy.
+Replace the original text with the summary: Tap Replace.
+Note: Replace is not an option if the source text is not editable.
+Share the summary: Tap Share, then choose a share option.
+Compose text
+In iOS 18.2 or later, if you turn on the ChatGPT** extension, you can compose text in Writing Tools. To get started with ChatGPT, see Use ChatGPT with Apple Intelligence .
+Note: You must be at least 13 years old or the minimum age required in your country to consent to use ChatGPT. For more information, see OpenAI Terms of Use .
+While typing, tap the text field, tap , then tap Writing Tools.
+Swipe up, then tap Compose.
+Describe what you want ChatGPT to write—for example, “A bedtime story about a girl who visits a magical world where she befriends a caterpillar on its journey to becoming a butterfly.”
+Tap .
+ChatGPT composes text based on your request.
+Note: You may be asked to add more details. Tap a field, enter your response, then tap Update. You can also tap Ignore.
+After viewing the text, do any of the following:
+Rewrite text: Tap Rewrite.
+Incorporate suggestions by ChatGPT: Tap an option, then tap .
+Revert to the unedited version of your text: Tap Revert.
+When you’re finished, tap Done.
+To block access to ChatGPT, see Block access to ChatGPT .
+Apple Footer

@@ -1,0 +1,6 @@
+iPhone User Guide
+Use other apps during a FaceTime call on iPhone
+While you’re on a call using the FaceTime app , you can use other apps—for example, to look up information, write a note, or perform a calculation.
+Go to the Home Screen , then tap an app icon to open the app.
+To return to the FaceTime screen, tap the green bar (or the FaceTime icon) at the top of the screen.
+You can also share your screen with the other people in your FaceTime call while using another app. See Share your screen in a FaceTime call .

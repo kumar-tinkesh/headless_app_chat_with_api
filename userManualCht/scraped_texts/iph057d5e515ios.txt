@@ -1,0 +1,17 @@
+iPhone User Guide
+Filter emails in Mail on iPhone
+You can use filters to temporarily show only certain email messages—the ones that meet all the criteria you select in the filter list. For example, if you select Unread and Only Mail with Attachments, you see only unread messages that have attachments.
+You can also specify which email accounts are visible in Mail when a particular Focus is on.
+Filter emails
+Go to the Mail app on your iPhone.
+Tap in the bottom-left corner of a mailbox list.
+Tap “Filtered by,” then select or turn on the criteria for messages you want to view.
+To turn off all filters, tap . To turn off a specific filter, tap “Filtered by,” then deselect it.
+Match a mail account to a Focus
+You can choose which email accounts to receive notifications from when a Focus is on. For example, you can set a filter to show only your work email account and its notifications when your Work Focus is on.
+Go to Settings > Focus, then tap a Focus.
+If you don’t see the Focus option you want, tap . See Set up a Focus .
+Tap Add Filter below Focus Filters, then tap Mail.
+Select the accounts you want to see in your inbox during that Focus.
+Prioritize email
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max, Apple Intelligence can help you view time-sensitive email at the top of your inbox. See View Priority Messages in your inbox .

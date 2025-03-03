@@ -1,0 +1,41 @@
+iPhone User Guide
+Edit portraits on iPhone
+In the Photos app, you can change and adjust the lighting effects, depth of field, and focus point of your portraits. You can also apply portrait effects to photos taken in Photo mode.
+Change the Portrait Lighting effect
+You can apply, change, or remove the Portrait Lighting effects in portraits.
+Go to the Photos app on your iPhone.
+Tap any portrait to view it in full screen, then tap .
+Tap , then drag to choose a lighting effect.
+Natural Light: The face is in sharp focus against a blurred background.
+Studio Light: The face is brightly lit, and the photo has an overall clean look.
+Contour Light: The face has dramatic shadows with highlights and lowlights.
+Stage Light: The face is spotlit against a deep black background.
+Stage Light Mono: The effect is like Stage Light, but the photo is in classic black and white.
+High-Key Light Mono: Creates a grayscale subject on a white background.
+Note: On iPhone X R , only the front camera supports Natural Light, Studio Light, and Contour Light.
+Drag the slider left or right to adjust the intensity of the lighting effect.
+Tap Done to save your changes.
+To undo edits after you save, tap , then tap Revert to go back to the original lighting.
+Blur the background in portraits
+Use the Depth Control slider to adjust the level of background blur in your portraits.
+Go to the Photos app on your iPhone.
+Tap any portrait to view it in full screen, then tap .
+Drag the Depth Control slider to increase or decrease the background blur effect.
+A black dot marks the original depth value for the photo.
+Tap Done.
+Change the focus point of a portrait
+You can change the subject (or focus point) of a portrait using Focus Control. When you select a new subject, the background blur automatically adjusts so the new subject appears sharp and in focus. Make sure that the new subject isn’t blurred or too far in the distance.
+Go to the Photos app on your iPhone.
+Tap any portrait to view it in full screen, then tap .
+Tap a new subject or focus point in the photo.
+Tap Done.
+Note: Available on portraits taken on iPhone 13 models and later, with iOS 16 or later.
+Apply the portrait effect to photos taken in Photo mode
+On iPhone 15 models and later, photos with a person, dog, or cat taken in Photo mode can become portraits in the Photos app.
+Go to the Photos app on your iPhone.
+Tap any photo taken in Photo mode to view it in full screen, then tap .
+If portrait effects are available, tap .
+Use the Depth Control slider to increase or decrease the level of background blur in the portrait.
+Tap Done.
+To undo edits after you save, open the photo, tap , then tap Revert.
+Note: When the portrait effect is applied to a Live Photo taken in Photo mode, the Live Photo effects aren’t available. Tap Live to view the Live Photo or apply a Live Photo effect without the portrait effect applied.

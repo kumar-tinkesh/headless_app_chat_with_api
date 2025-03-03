@@ -1,0 +1,14 @@
+iPhone User Guide
+Adjust the onscreen and external keyboard settings for accessibility on iPhone
+You can set the onscreen keyboard on iPhone to show only uppercase letters, and if you use a physical keyboard with your iPhone, adjust key sensitivity and make it easier to press combinations of keys.
+You can also set typing options , such as auto-correction and slide to type, make it easier to type with one hand , and add keyboards for other languages or alternative layouts.
+Set the onscreen keyboard to display only uppercase letters
+If it’s easier to read uppercase letters, you can set an option so the onscreen keyboard doesn’t display lowercase letters.
+Go to Settings > Accessibility > Keyboards, then turn off Show Lowercase Keys.
+Tip: Rotate iPhone to landscape orientation to use a larger keyboard for typing in many apps, including Mail, Messages, Notes, and Safari. See Change or lock the screen orientation .
+Change how the keys respond on an external keyboard
+If you use Magic Keyboard or another physical keyboard with iPhone, you can adjust the sensitivity of keys and make it easier to press combinations of keys.
+Go to Settings > Accessibility > Keyboards, then tap any of the following:
+Key Repeat: You can set how long you must press and hold a key before it starts repeating and how fast it repeats once it starts. You can also prevent the key from repeating at all.
+Sticky Keys: When you need to press multiple keys at the same time, you can press each key separately instead. For example, enter the keyboard shortcut Command-Z by pressing Command, then pressing Z.
+Slow Keys: Adjust the time between when you press a key and when it’s activated.

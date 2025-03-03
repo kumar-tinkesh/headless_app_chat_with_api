@@ -1,0 +1,10 @@
+iPhone User Guide
+Rotate your iPhone screen
+Many apps give you a different view when you rotate iPhone.
+Rotate the screen
+To make sure the rotation lock is off, open Control Center , then tap if it’s red.
+Turn your iPhone sideways.
+Lock or unlock the screen orientation
+You can lock the screen orientation so that it doesn’t change when you rotate iPhone.
+Open Control Center , then tap .
+When the screen orientation is locked, appears in the status bar (on supported models ).

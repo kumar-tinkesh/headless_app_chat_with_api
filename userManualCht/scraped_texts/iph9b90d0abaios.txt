@@ -1,0 +1,20 @@
+iPhone User Guide
+Use contacts from the Phone app on iPhone
+In the Phone app on iPhone, you can call contacts and add recent callers to the Contacts app.
+Add a contact to Favorites
+You can add VIP contacts to your Favorites list for quick dialing.
+Go to the Contacts app on your iPhone.
+Select a contact, scroll down, then tap Add to Favorites.
+Calls from these contacts bypass Do Not Disturb (see Turn on or schedule a Focus ).
+Save the number you just dialed
+Go to the Phone app on your iPhone.
+Tap Keypad, enter a number, then tap Add Number.
+Tap Create New Contact or Add to Existing Contact, then select a contact.
+Add a recent caller to Contacts
+Go to the Phone app on your iPhone.
+Tap Recents, then tap next to the number.
+Tap Create New Contact or Add to Existing Contact, then select a contact.
+Automate dialing an extension or passcode
+If the number you’re calling requires dialing an extension, iPhone can enter it for you. When editing a contact’s phone number, tap , then do any of the following:
+Tap Pause to enter a two-second pause (a two-second pause is represented as a comma in the phone number).
+Tap Wait to stop dialing until you tap Dial again (wait-to-dial is represented as a semicolon in the phone number).

@@ -1,0 +1,9 @@
+iPhone User Guide
+Use the Camera Control to open another app on iPhone
+Instead of opening Camera, you can set the Camera Control ( on supported models ) to open the Magnifier app, the Code Scanner, or your favorite third-party camera app. You can also set the Camera Control to not open any app or feature when clicked.
+Go to Settings , then tap Camera.
+Tap Camera Control, then choose one of the following options:
+Camera: Opens Camera.
+Code Scanner: Opens a QR code scanner.
+Magnifier: Opens the Magnifier app.
+None: No app opens when you click the Camera Control.

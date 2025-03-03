@@ -1,0 +1,12 @@
+iPhone User Guide
+Apply consistent styles and formatting in Freeform on iPhone
+When you want the text in your sticky notes, shapes, or text boxes to have a consistent look in Freeform—for example, font, size, and color—you can copy the style from one item and paste it in another. You can also save styles.
+Go to the Freeform app on your iPhone.
+Tap an item on a board and make any adjustments to the formatting—so it has the style you want to copy.
+When you have an item that’s formatted in a style you like, tap it to show its formatting tools.
+Tap , tap Style, then tap Copy Style.
+Tap to select and show the formatting tools for an item whose style you want to change.
+Tap , tap Style, then tap Paste Style.
+Depending on the item you’re pasting a style into, fonts, line weight, or color are matched.
+For linked or placed files, pasted styles update corners and shadows.
+Tip: If you like the style of an item, you can save its style. Then, every time you add another item like that to your board, it uses that saved style. Tap , tap Style, then choose Save as Insert Style.

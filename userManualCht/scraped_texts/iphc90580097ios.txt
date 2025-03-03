@@ -1,0 +1,41 @@
+iPhone User Guide
+Get apps in the App Store on iPhone
+In the App Store app, you can discover new apps, featured stories, tips and tricks, in-app events, and offers.
+Note: You need an internet connection and an Apple Account to use the App Store. The availability of the App Store and Apple Arcade varies by country or region. See the Apple Support article Availability of Apple Media Services .
+Find apps
+Go to the App Store app on your iPhone.
+Tap any of the following:
+Today: Browse featured stories, apps, and in-app events.
+Games: Find your next game across dozens of categories including action, adventure, racing, puzzles, and more.
+Apps: Explore new releases, see the top charts, or browse by category.
+Arcade: Enjoy the curated collection of premium games from Apple Arcade (subscription required) without ads or in-app purchases.
+Search: Enter what you’re looking for, then tap Search on the keyboard. You can also explore different categories or browse the suggested apps.
+Tap an app to see the following information and more:
+Screenshots or previews
+In-app events and offers
+Ratings and reviews
+Supported languages
+Game Center and Family Sharing support
+Compatibility with other Apple devices
+File size
+Privacy information; see Control access to information in apps
+Siri: Say something like: “Search the App Store for cooking apps.” Learn how to use Siri .
+Buy and download an app
+Go to the App Store app on your iPhone.
+Navigate to the app you want, then tap Get (if the app is free) or the price.
+If you see instead of Get or the price, you’ve already purchased this app before. Tap to download it again for free.
+If required, authenticate with Face ID, Touch ID, or your passcode to complete your purchase.
+Purchases are made with the payment method associated with your Apple Account.
+You can find the app in the Recently Added category in App Library. While the app is downloading, a progress indicator appears on the app icon. See Find and use your apps in App Library and Change where new apps get downloaded .
+Get the App Store widget
+See stories, collections, and in-app events right on your Home Screen. See Add, edit, and remove widgets .
+Share or give an app
+Go to the App Store app on your iPhone.
+Tap the app you want to share or give to see its details.
+Tap , then choose a sharing option or tap Gift App (not available for all apps).
+Redeem or send an Apple Gift Card
+Go to the App Store app on your iPhone.
+Tap or your picture at the top right.
+Tap one of the following:
+Redeem Gift Card or Code
+Send Gift Card by Email

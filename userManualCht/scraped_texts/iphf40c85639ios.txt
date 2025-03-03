@@ -1,0 +1,14 @@
+iPhone User Guide
+Listen to news stories with CarPlay
+Use CarPlay to listen to Apple News Today audio briefings and, if you’re an Apple News+ subscriber, audio versions of select news stories. (If you aren’t a subscriber, you can listen to story previews.)
+You can use your vehicles’s built-in controls to open News and select a story to play.
+Note: If you’re viewing CarPlay Dashboard and News doesn’t appear in the recent apps list on the left, tap to see pages of all of your CarPlay apps, including News.
+You can also use the controls on your vehicle’s steering wheel, the buttons on the Now Playing screen, and CarPlay Dashboard to control playback.
+Button
+Description
+Pause playback.
+Play the current story.
+Skip to the next story.
+Jump back 15 seconds.
+Choose a faster or slower playback speed.
+Note: CarPlay isn’t available in all countries or regions (see the iOS and iPadOS Feature Availability website ).

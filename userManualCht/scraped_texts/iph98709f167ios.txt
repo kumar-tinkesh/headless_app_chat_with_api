@@ -1,0 +1,11 @@
+iPhone User Guide
+Update apps from the App Store on iPhone
+Apps installed by default on your iPhone are updated whenever you update iOS . Apps that you download from the App Store app are automatically updated by default, but you can manually update an app.
+Turn off automatic app updates
+Go to Settings > App Store.
+Turn off App Updates.
+Manually update apps
+Go to the App Store app on your iPhone.
+Tap or your picture at the top right.
+Scroll down, then tap Update next to apps you want to update, or tap Update All.
+After an app is updated, it appears in the list of apps below Updated Recently.

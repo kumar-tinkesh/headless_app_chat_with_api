@@ -1,0 +1,27 @@
+iPhone User Guide
+Add an AirTag in Find My on iPhone
+You can register an AirTag to your Apple Account using your iPhone. When you attach it to an everyday item, like a keychain or a backpack, you can use the Find My app to locate it if it’s lost or misplaced.
+You can also get notified if you leave your AirTag behind. See Set separation alerts in case you leave an AirTag or item behind .
+You can also share an AirTag with other users.
+You can also add supported third-party products to Find My. See Add or update a third-party item .
+Note: Location sharing and finding items aren’t available in all countries or regions.
+Add an AirTag
+Go to the Home Screen on your iPhone.
+Remove the battery tab from the AirTag (if applicable), then hold it near your iPhone.
+Tap Connect on the screen of your iPhone.
+Choose a name from the list or choose Custom Name to type a name and select an emoji, then tap Continue.
+Tap Continue to register the item to your Apple Account, then tap Finish.
+You can also register an AirTag in the Find My app. Tap , then choose Add AirTag.
+If the item is registered to someone else’s Apple Account, they need to remove it before you can add it. See Remove an AirTag or other item from Find My .
+Change the name or emoji of an AirTag
+Go to the Find My app on your iPhone.
+Tap Items at the bottom of the screen, then tap the AirTag whose name or emoji you want to change.
+Tap Rename Item.
+Choose a name from the list or choose Custom Name to type a name and select an emoji.
+Tap Done.
+View more details about an AirTag
+When you register an AirTag to your Apple Account, you can view more details about it in the Find My app.
+Go to the Find My app on your iPhone.
+Tap Items at the bottom of the screen, then tap the AirTag you want to see more details about.
+Tap the name of the AirTag to see the serial number and the firmware version.
+If the battery level is low, a message appears below the location of the AirTag. You can also see a low battery indicator next to the name of the AirTag in the Items list.

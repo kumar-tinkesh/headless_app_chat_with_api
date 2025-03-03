@@ -1,0 +1,9 @@
+iPhone User Guide
+Sync a third-party workout app to Fitness on iPhone
+You can sync a compatible third-party workout app to the Fitness app on iPhone to help you meet your fitness goals. Fitness suggests workout apps that you can download from the App Store.
+Go to the Fitness app on your iPhone.
+Tap the Activity rings, then scroll down to Add To Your Rings.
+Choose an app, then download it from the App Store.
+Open the app and if prompted, grant permission to share data with the Health app.
+Any workout you complete in a compatible third-party app appears in your activity summary and contributes to the progress toward closing your Move ring in the Fitness app.
+To find out if a workout app you’ve downloaded is compatible with the Fitness and Health apps, see the Apple Support article Manage Health data on your iPhone or Apple Watch .

@@ -1,0 +1,10 @@
+iPhone User Guide
+Take Flyover tours in Maps on iPhone
+You can virtually fly over many of the world’s major landmarks and cities. Flyover landmarks are identified by the Flyover button on their place cards.
+Go to the Maps app on your iPhone.
+Search for a city or the name of a landmark, then tap its name in the search results.
+Tap Flyover.
+If Flyover doesn’t appear, tap More (on the right side of the place card), then tap Flyover.
+Tap Start Tour or Start City Tour in the card at the bottom of the screen. (If the card doesn’t appear, tap anywhere on the screen.)
+To return to the map, tap . (Tap anywhere on the screen if doesn’t appear.)
+For a list of sites with Flyover, see the iOS and iPadOS Feature Availability website .

@@ -1,0 +1,8 @@
+iPhone User Guide
+Transfer files between your iPhone and your computer
+There are multiple ways to transfer your photos, videos, and other files between your iPhone and computer.
+Quickly transfer files wirelessly : See Use AirDrop on iPhone to send items to nearby Apple devices .
+Use iCloud : See Automatically keep your files up to date with iCloud .
+Use an external storage device, a file server, or a service like Box or DropBox : See Transfer files from iPhone to a storage device, a server, or the cloud .
+Use a cable : For Mac, see Sync files from your Mac to iPhone, iPad, or iPod touch . For Windows devices, see Transfer files between your Windows device and devices with iTunes .
+Important: Transferring, sharing, or syncing may be restricted for some types of data, such as files saved in an app’s proprietary format, files saved in older software versions, and files protected by copyrights.

@@ -1,0 +1,31 @@
+iPhone User Guide
+Use reminders in Calendar on iPhone
+You can view, create, complete, and edit reminders from the Reminders app right in Calendar.
+Show reminders
+You can show scheduled reminders you added to the Reminders app in Calendar.
+Go to the Calendar app on your iPhone.
+Tap Calendars at the bottom of the screen.
+Select Scheduled Reminders.
+Reminders scheduled as all day are shown in the all-day section at the top of the calendar. Reminders scheduled at a specific time appear at that time in the full-day schedule.
+Create reminders
+Go to the Calendar app on your iPhone.
+Tap at the top of the screen.
+Tap Reminder, then enter a title.
+To choose a date for the reminder, tap Date.
+Optionally, turn on Time and choose a specific time for the reminder.
+You can also add other information—like images, notes, or a priority level to a reminder. See Add details .
+Note: You can select a specific reminders list to add new scheduled reminders to. If you don’t select a list, new reminders are added to the default list you chose for Reminders. See Change your Reminders settings .
+Complete reminders
+Go to the Calendar app on your iPhone.
+Tap the circle next to a reminder’s name.
+Complete reminders are dimmed. Deselect the circle next to a reminder to mark it as incomplete.
+Note: If you set a scheduled reminder to repeat, future instances are dimmed and can only be marked complete after the most current instance is marked complete.
+Hide reminders
+Go to the Calendar app on your iPhone.
+Tap Calendars at the bottom of the screen.
+Deselect Scheduled Reminders.
+Removing reminders from Calendar doesn’t delete the reminders from the Reminders app.
+Edit or delete reminders
+Go to the Calendar app on your iPhone.
+Tap a reminder, then tap Edit to edit details or to delete it.
+Deleted reminders go to the Recently Deleted list in Reminders for 30 days before being permanently deleted.

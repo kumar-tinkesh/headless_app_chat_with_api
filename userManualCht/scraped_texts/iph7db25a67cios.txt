@@ -1,0 +1,29 @@
+iPhone User Guide
+Use Image Wand with Apple Intelligence on iPhone
+With Apple Intelligence,* you can use Image Wand in the Notes app to create images based on rough sketches you create. You can also select empty space to create an image based on words and images from the surrounding area.
+Note: Image Wand is an Apple Intelligence feature available in iOS 18.2 or later on all iPhone 16 models, iPhone 15 Pro, and iPhone 15 Pro Max. Apple Intelligence is not available on iPhone and iPad if you’re in the EU and if your Apple Account country or region is also in the EU. To check whether Apple Intelligence is available for your device and language, see the Apple Support article Apple Intelligence requirements .
+Create an image from a rough sketch
+Go to the Notes app on your iPhone.
+Open an existing note or tap to start a new note.
+Tap , create a sketch using your finger, then tap Image Wand.
+Circle your sketch, enter a description, then tap .
+Swipe through the created images to find one you like.
+Tap to choose a different style—Animation, Illustration, or Sketch.
+To refine your image, tap a description, then edit it. To save it, tap Done.
+Create an image from surrounding content
+Apple Intelligence can create images based on the words and images around it.
+Go to the Notes app on your iPhone.
+Open a note, tap , then tap Image Wand.
+Circle an area near the content you want to illustrate.
+You can also create an image from highlighted text. Tap the Image Wand, select a block of text, tap , then choose Create Image.
+Re-create an existing image
+When you create an image with Image Playground, all the elements used to create it are saved—sketches, descriptions, characters, and people. You can modify, add, or subtract elements in an existing created image.
+Tap a created image.
+Tap .
+The image shows the elements used to create it.
+Do any of the following:
+Add a new element: Enter a description, then tap .
+Modify an element: Tap a description, edit the text, then tap .
+Remove an element: Tap .
+When you’re finished, tap Done.
+Apple Footer

@@ -1,0 +1,27 @@
+iPhone User Guide
+Send a copy or PDF of a Freeform board on iPhone
+You can send a link to a copy of a Freeform board, so others can download the copy and add it to their boards—if you are signed in to your Apple Account . You can also export your Freeform board as a PDF to send a copy of it to others.
+Send a copy of a board
+Send a copy of your board to anyone with just a link. They can take the copy of the board and make it their own. You must be online and signed in to iCloud to send a copy of the board.
+Go to the Freeform app on your iPhone.
+Do one of the following:
+While browsing All Boards: Touch and hold the board you want to share, then tap Share.
+From inside a board: Tap .
+Tap the pop-up menu under the board name, choose Send Copy, then tap one of the following:
+Copy iCloud Link: The link is copied to your clipboard. You can then paste it anywhere you like.
+Any contact or app icon: Follow the onscreen instructions.
+You can send this link to as many recipients as you like. Anyone with the link can download the copy within 30 days. When browsing for the board, recipients can find it in All Boards, not the Shared section. (Shared is only for boards you’re collaborating on.)
+If you’d like to share your board collaboratively—so you can all see one another’s updates— see Share Freeform boards and collaborate .
+Each new link sends a copy of the board at the time you created the link. When you send someone a copy, the link opens a new board. Changes on your board don’t appear on their board, and anything others change doesn’t affect yours.
+Note: Sending a copy doesn’t change who has access to the original board. See Manage sharing settings to change access to a board.
+Send a PDF of a board
+Go to the Freeform app on your iPhone.
+Open a board, or tap to start a new one.
+In the board you want to send, tap , tap Export as PDF.
+If you saved scenes in your board, choose to export one of the following:
+The entire board as a single page: Tap Board.
+One scene per page: Tap Scenes.
+Choose how you want to send the board, such as in Messages or Mail, then follow the onscreen instructions.
+People and groups you’ve recently communicated with appear as icons. Tap one to send the board to them.
+You can also export a board as a PDF while browsing All Boards. Touch and hold the thumbnail or name of the board, tap Share, then tap Export as PDF.
+Tip: To send a PNG of your board, take a screenshot , then share it from the Photos app. You can also select and copy items you want to share and then paste them into other apps (Mail or Files, for example) as a PNG.

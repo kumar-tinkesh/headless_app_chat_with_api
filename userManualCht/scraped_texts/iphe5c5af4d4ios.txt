@@ -1,0 +1,29 @@
+iPhone User Guide
+Style and animate messages on iPhone
+You can better express yourself in the messages you send by formatting, styling, or animating the text in your message, the message bubble, or the entire screen.
+Note: To send and receive messages with text formatting or text effects, you and your recipients must be using iMessage on iOS 18, iPadOS 18, macOS Sequoia, watchOS 11, visionOS 2, or later. Messages appear in plain text when sent to devices using older or other operating systems.
+Format or animate text within messages
+Style the text in your messages with bold, italics, and underlining, or add playful, animated effects like explode or shake to any letter, word, or sentence—even emoji—in texts you send using iMessage.
+Go to the Messages app on your iPhone.
+In a new or existing conversation, enter a message, then select the text you want to format or animate.
+Tap above the keyboard, then select your preferred style (bold, italic, underline, or strikethrough) or animated effects (big, small, shake, nod, explode, ripple, bloom, or jitter).
+The Messages app may suggest effects to apply as you type.
+Tap .
+You can also choose the format or animation before you enter the message.
+Animate the message bubble
+Use effects to animate the message bubble: you can send a message with Slam or Loud so that it appears to pop out, or use Gentle so it arrives softly. You can even send a personal message with Invisible Ink that remains blurred until the recipient swipes to reveal it.
+Go to the Messages app on your iPhone.
+In a new or existing conversation, type a message or insert an image or link.
+Touch and hold , then tap the gray dots to preview different bubble effects.
+Tap to send the message with the effect or to cancel the effect and return to your message.
+Animate effects over the full screen
+You can send messages with full-screen effects—such as lively lasers, a moving spotlight, or echoing bubbles—that play when your recipient gets your message.
+Go to the Messages app on your iPhone.
+In a new or existing conversation, type a message or insert a photo or Memoji.
+Touch and hold , then tap Screen.
+Swipe left to preview different screen effects.
+Tap to send the message or to cancel the effect and return to your message.
+Messages automatically uses the following screen effects for specific text strings:
+Balloons for “Happy birthday”
+Confetti for “Congratulations”
+Fireworks for “Happy New Year”

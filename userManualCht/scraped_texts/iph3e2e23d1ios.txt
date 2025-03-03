@@ -1,0 +1,14 @@
+iPhone User Guide
+Display subtitles and captions on iPhone
+iPhone can provide subtitles, closed captions, and transcriptions so you can follow along more easily with audio and video.
+Turn on subtitles and captions in the Apple TV app
+When you play video content in a supported app, you can turn on subtitles and closed captions (if available). iPhone usually shows standard subtitles and captions, but you can also choose special accessible captions—such as subtitles for the deaf and hard of hearing (SDH)—if available.
+While playing video content, tap .
+Choose from the list of available subtitles and captions.
+Customize the subtitles and captions in supported video apps
+Go to Settings > Accessibility > Subtitles & Captioning.
+If you prefer closed captioning or subtitles for the deaf and hard of hearing when available, turn on Closed Captions + SDH.
+Tap Style, then choose an existing caption style or create a new style based on the following:
+Font, size, and color
+Background color and opacity
+Text opacity, edge style, and highlight

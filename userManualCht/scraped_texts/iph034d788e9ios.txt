@@ -1,0 +1,13 @@
+iPhone User Guide
+Add earnings reports to your calendar in Stocks on iPhone
+You can see when a company has an upcoming earnings report and add it as an event in the Calendar app.
+Add an earnings report event to your calendar
+If a stock has an upcoming earnings report, you can add it in the Calendar app.
+Go to the Stocks app on your iPhone.
+Tap a ticker symbol in your watchlist, or use the search field to search for a symbol.
+If an earnings report is upcoming, tap Add to Calendar, then tap Add.
+The earnings report is saved as an all-day event in the Calendar app. Calendar sends you an event reminder on the day of the earnings report.
+Delete an earnings report event from your calendar
+Go to the Stocks app on your iPhone.
+Tap the ticker symbol in your watchlist or use the search field to search for the symbol.
+Tap Edit, then tap Delete Event.

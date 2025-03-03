@@ -1,0 +1,37 @@
+iPhone User Guide
+Share content in Messages on iPhone
+You can share images, links, and other content using the Messages app. When someone shares content with you, you can find it in a Shared with You section in the corresponding apps. Apps that support Shared with You include Photos, Music, News, and more.
+Share content with others
+Go to the Messages app on your iPhone.
+Start a new message or open a conversation.
+Do one of the following:
+Copy and paste an image or a link into your message.
+Tap , tap Photos to browse recent photos and videos, then tap to add.
+Tap a message attachment, tap , then tap a contact or .
+Tip: When you tap , you can also copy, save, or print your attachment.
+Add a message (optional), then tap .
+From another app (like Podcasts, News, or Music), select the content you want to share, tap , tap Share, then choose Messages.
+Find all the content someone shared with you
+Go to the Messages app on your iPhone.
+Open the conversation whose content you want to see.
+Tap the name of the person or group you’re communicating with at the top of a conversation.
+Scroll down to the Shared with You section.
+Note: Content only appears in Shared with You if the person who sent it is in your contacts .
+You can find a Shared with You section in Photos , Safari , Music , Podcasts , and other supported apps.
+Review and save photos or videos
+If you receive multiple photos or videos at the same time, they’re automatically grouped into a collage (two to three items) or a stack (four or more).
+Go to the Messages app on your iPhone.
+Do one of the following:
+Look inside a stack: Tap to open, then swipe through a stack to view, reply, or interact with each photo or video individually.
+Save a photo or video: Tap next to the photo or stack.
+Pin shared content
+If someone shares content that’s especially interesting, you can quickly pin it in Messages, and it will be elevated in the Shared with You section of supported apps, in Messages search, and in the conversation details (the info you see when you tap the name at the top of the conversation).
+Go to the Messages app on your iPhone.
+Open the conversation with the content you want to pin.
+Touch and hold the message bubble containing the link, then tap Pin .
+Note: Photos can be saved to your library, but not pinned.
+Hide shared content
+You can adjust your settings to hide an app’s Shared with You section.
+Go to Settings > Apps > Messages.
+Tap Shared with You, then turn off Automatic Sharing, or turn off Shared with You for a specific app.
+Note: You can have your (or a family member’s) iPhone receive warnings about sensitive content and warn you before it’s sent or received. See Receive warnings about sensitive content or Check for sensitive images .

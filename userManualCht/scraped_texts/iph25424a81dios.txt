@@ -1,0 +1,20 @@
+iPhone User Guide
+Find links shared with you in Safari on iPhone
+You can easily find and organize web links that friends share with you in Messages conversations. Links shared with you are added to the Safari start page (the page that first appears when you open a new Safari window) below Suggestions. You can keep those links on your start page, remove them, or organize related links into Tab Groups. (Safari must be turned on in Settings > Apps > Messages > Shared with You, and your friend must be in your contacts.)
+See links from friends in Safari
+To find links shared with you, you can display them on your Safari start page. Then, every time you open a new page, you see them listed there.
+Go to the Safari app on your iPhone.
+Tap , then tap to open a new tab.
+Links shared with you appear below Suggestions. If you don’t see a Suggestions section, scroll down, tap Edit, then turn on Suggestions. If you don’t see links shared with you, turn on Shared with You below Show In Suggestions.
+To change where Suggestions appears on your start page, drag .
+Tip: You can continue the conversation without leaving Safari. Tap the button below the link preview to open the Messages conversation where the link was shared.
+Remove a link from the Shared with You section
+Go to the Safari app on your iPhone.
+While viewing your shared links, touch and hold the preview image of a link.
+Tap Remove Link.
+Organize shared links in a Tab Group
+You can group related shared web links into Tab Groups to make them easier to find.
+Go to the Safari app on your iPhone.
+Touch and hold the preview image of the link you want to move, then tap Open in Tab Group.
+Tap New Tab Group to create one, or add the link to a Tab Group you already have.
+To learn more about Shared with You, see Share content in Messages .

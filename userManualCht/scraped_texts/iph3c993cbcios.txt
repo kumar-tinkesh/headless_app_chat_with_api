@@ -1,0 +1,49 @@
+iPhone User Guide
+Make a call on iPhone
+There are a number of ways you can make a phone call on your iPhone: dial the number on the keypad, tap a favorite or recent call, or choose a number in your contacts list.
+Dial a number
+Siri: Say “call” or “dial” followed by a number. Speak each digit separately—for example, “four one five, five five five….” For the 800 area code in the U.S., you can say “eight hundred.” Learn how to use Siri .
+Or do the following:
+Go to the Phone app on your iPhone.
+Tap Keypad at the bottom of the screen, then do any of the following:
+Use a different line: On models with Dual SIM , tap the line at the top, then choose a line.
+Enter the number using the keypad: If you make a mistake, tap .
+Redial the last number: Tap to see the last number you dialed, then tap to call that number.
+Paste a number you’ve copied: Tap the phone number field above the keypad, then tap Paste.
+Enter a soft (2-second) pause: Touch and hold the star (*) key until a comma appears.
+Enter a hard pause (to pause dialing until you tap the Dial button): Touch and hold the pound (#) key until a semicolon appears.
+Enter a “+” for international calls: Touch and hold the “0” key until “+” appears.
+Tap to start the call.
+To end the call, tap .
+Add a contact to your favorites
+Go to the Phone app on your iPhone.
+Tap Favorites at the bottom of the screen.
+Tap , choose a contact, then choose the default method of communication (for example, Message, Call, or Video ) and the preferred number.
+Call your favorites
+You can easily call people you marked as favorites in the Contacts app or the Phone app.
+Go to the Phone app on your iPhone.
+Tap Favorites, then tap the contact you want to call.
+The call begins immediately to the preferred number you entered for the contact in Favorites.
+On models with Dual SIM , iPhone chooses the line for the call in the following order:
+The preferred line for this contact (if set)
+The line used for the last call to or from this contact
+The default voice line
+To manage your Favorites list, do any of the following:
+Add a favorite: Tap Favorites, tap , then choose a contact.
+Rearrange or delete favorites: Tap Edit.
+Redial or return a recent call
+Siri: Say something like: “Redial that last number” or “Return my last call.” Learn how to use Siri .
+You can also do the following:
+Go to the Phone app on your iPhone.
+Tap Recents, then tap a name or number in the Recents list.
+The call begins as soon as you tap the name or number.
+To get more info about a call and the caller, tap next to the name or phone number in Recents.
+A red badge indicates the number of missed calls.
+Call someone on your contacts list
+Siri: Say something like: “Call Eliza’s mobile.” Learn how to use Siri .
+Or do the following:
+Go to the Phone app on your iPhone.
+Tap Contacts at the bottom of the screen.
+Tap the contact, then tap the phone number you want to call.
+On models with Dual SIM , the default voice line is used for the call unless you set a preferred line for this contact.
+WARNING: For important information about avoiding distractions that could lead to dangerous situations, see Important safety information for iPhone .

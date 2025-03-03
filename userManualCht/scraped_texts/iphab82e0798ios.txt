@@ -1,0 +1,30 @@
+iPhone User Guide
+Organize files and folders in Files on iPhone
+In the Files app, you can organize documents, images, and other files in folders.
+Create a folder
+Go to the Files app on your iPhone.
+Open a location or an existing folder.
+Tap , then tap New Folder.
+Note: If you don’t see New Folder, you can’t create a folder in that location.
+Rename, compress, and make other changes to a file or folder
+Go to the Files app on your iPhone.
+Open a location or an existing folder.
+Touch and hold the file or folder, then choose an option: Copy, Move, Rename, Compress, Duplicate, or Delete.
+To modify multiple files or folders at the same time, tap , tap Select, tap to select the files or folders you want to modify, then tap an option at the bottom of the screen (for example, Share, Move, or Delete).
+Note: Some options may not be available, depending on the item you select; for example, you can’t delete or move an app library (a folder labeled with the app name).
+Zip or unzip a file or folder
+You can zip a file or folder to compress it so that it takes up less storage space on your iPhone. You can also unzip a compressed file or folder.
+Go to the Files app on your iPhone.
+Touch and hold the file or folder you want to zip, then tap Compress.
+To unzip a compressed file or folder, touch and hold it, then tap Uncompress.
+Tag a file or folder
+Go to the Files app on your iPhone.
+Open a location or an existing folder.
+Touch and hold the file or folder, tap Tags, then tap one or more tags.
+Tap Done.
+To find tagged items, tap Browse, then tap an item below Tags.
+To remove a tag, tap it again.
+Mark a folder as a favorite
+Go to the Files app on your iPhone.
+Open a location, touch and hold the folder, then tap Favorite.
+To find Favorites, tap Browse.

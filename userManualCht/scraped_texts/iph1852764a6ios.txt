@@ -1,0 +1,18 @@
+iPhone User Guide
+Export Safari data to another browser on iPhone
+In iOS 18.2 or later, you can export selected data from Safari, and then import that data into another browser.
+Data you can export from Safari includes:
+Bookmarks
+History
+Extensions
+Credit cards
+Passwords
+WARNING: Your exported data is not encrypted and is visible to anyone who can access the file. After you import the data into another browser, delete the file you exported.
+Go to Settings > Apps > Safari.
+Below History and Website Data, tap Export.
+Select the data to export.
+If you created profiles for your browsing in Safari, choose the profile you want to export data from, or choose All Profiles.
+Each profile has its own history and extensions data. The data for bookmarks, credit cards, and passwords is the same across all profiles.
+Tap Save to Downloads.
+Tap Done.
+The exported data is saved as a .zip file in your Downloads folder.

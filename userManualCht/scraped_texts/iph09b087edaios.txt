@@ -1,0 +1,42 @@
+iPhone User Guide
+Locate a device in Find My on iPhone
+Use the Find My app to locate and play a sound on a missing iPhone, iPad, iPod touch, Mac, Apple Watch, AirPods, or Beats headphones ( supported models ). In order to locate a device, you must turn on Find My [device] before it’s lost.
+Note: If you want to see how far away your devices are from you, make sure you turn on Precise Location for the Find My app. See Control the location information you share .
+If you lose your iPhone and don’t have access to the Find My app, you can locate or play a sound on your device using Find Devices on iCloud.com .
+Note: Location sharing and finding devices aren’t available in all countries or regions.
+About locating a device
+You can use Find My on your iPhone to see the location of your device on a map. If the device is online, you see its location, and it plays a sound to help you find it. If the device is offline, you see its location, but it doesn’t play a sound.
+For AirPods and supported Beats headphones , you can locate them when they’re near your device and connected to Bluetooth ® . For supported AirPods , you can also see their location via the Find My network for up to 24 hours after they last connected to your device, even if they’re not nearby.
+For iPhone Wallet with MagSafe and Find My support, you can see its location when it’s attached to your iPhone and its last known location if it detaches from your iPhone.
+See the location of your device on a map
+You can see your device’s current or last known location in the Find My app.
+Tap Devices at the bottom of the screen, then tap the name of the device you want to locate.
+If the device can be located: It appears on the map so you can see where it is.
+If the device can’t be located: You see “No location found” below the device’s name. Below Notifications, turn on Notify When Found. You receive a notification when it’s located.
+Important: Make sure you allow notifications for the Find My app. See Change notification settings on iPhone .
+For troubleshooting steps, see the Apple Support article If Find My is offline or not working .
+Play a sound on your device
+Go to the Find My app on your iPhone.
+Tap Devices at the bottom of the screen, then tap the name of the device you want to play a sound on.
+Tap Play Sound.
+If the device is online: A sound starts after a short delay and gradually increases in volume, then plays for about two minutes. If applicable, a Find My [ device ] alert appears on the device’s screen.
+A confirmation email is also sent to your Apple Account email address.
+If the device is offline: You see Sound Pending. The sound plays the next time the device connects to a Wi-Fi or cellular network. For AirPods and Beats headphones, you receive a notification the next time your device is in range of your iPhone or iPad.
+If your AirPods are separated, you have additional options to play a sound. See Locate AirPods in Find My in the AirPods User Guide.
+Stop playing a sound on a device
+If you find your device and want to turn off the sound before it stops automatically, do one of the following:
+iPhone, iPad, or iPod touch: Press the power button or a volume button, or flip the Ring/Silent switch. If the device is locked, you can also unlock it, or swipe to dismiss the Find My [ device ] alert. If the device is unlocked, you can also tap OK in the Find My [ device ] alert.
+Apple Watch: Tap Dismiss in the Find My Watch alert, or press the Digital Crown or side button.
+Mac: Click OK in the Find My Mac alert.
+AirPods or Beats headphones: Tap Stop in Find My.
+Get directions to a device
+You can get turn-by-turn directions to your device if you see its location on the map.
+Go to the Find My app on your iPhone.
+Tap Devices at the bottom of the screen, then tap the name of the device you want to get directions to.
+Tap Directions to open the Maps app. See Get directions .
+If you’re near your supported AirPods, you can tap Find for additional directions. For more information, see Locate AirPods in Find My in the AirPods User Guide.
+Locate or play a sound on a friend’s device
+If your friend loses a device, they can locate it or play a sound on it by going to Find Devices on iCloud.com and signing in to their Apple Account. To learn more, see Locate a device in Find Devices on iCloud.com in the iCloud User Guide.
+If you set up Family Sharing, you can use Find My to locate a family member’s missing device .
+You can also use Siri to help locate a device.
+Siri: Say something like: “Play a sound on my iPhone” or “Where’s my iPad?” Learn how to use Siri .

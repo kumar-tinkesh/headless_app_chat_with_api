@@ -1,0 +1,5 @@
+iPhone User Guide
+Change the name of your iPhone
+You can change the name of your iPhone, which is used by iCloud, AirDrop, Bluetooth®, your Personal Hotspot, and your computer.
+Go to Settings > General > About > Name.
+Tap , enter a new name, then tap Done.

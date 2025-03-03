@@ -1,0 +1,6 @@
+iPhone User Guide
+Turn off vibration on iPhone
+If you don’t want your iPhone to vibrate, you can turn vibration off for specific uses or all alerts.
+Set vibration options for specific alerts: Go to Settings > Sounds & Haptics. See Change iPhone sounds and vibrations .
+Turn off all vibrations: Go to Settings > Accessibility > Touch, then turn off Vibration.
+Note: This setting turns off vibrations for earthquake, tsunami, and other emergency alerts.

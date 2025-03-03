@@ -1,0 +1,10 @@
+iPhone User Guide
+Files basics
+In the Files app, you can locate and view your files, organize and rearrange them in folders, compress, rename, and share them with friends, transfer them to and from iCloud Drive and other devices, and more. These basic tasks are summarized below.
+Go to the Files app on your iPhone.
+Do any of the following:
+View files downloaded from email or the internet : Tap Browse at the bottom of the screen, then tap Downloads in the sidebar. See Find downloaded files .
+Browse your files: : Tap Browse at the bottom of the screen, then tap iCloud Drive. See Browse files and folders .
+View files you opened recently: Tap Recents at the bottom of the screen.
+View shared files: Tap Shared at the bottom of the screen.
+Copy, move, share, or delete a file or folder: Locate the file or folder, touch and hold it, then tap Copy, Move, Share, or Delete. See Modify files and folders in Files .

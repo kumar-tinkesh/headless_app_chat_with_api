@@ -1,0 +1,12 @@
+iPhone User Guide
+Use your vehicle’s built-in controls to control CarPlay
+CarPlay works with your vehicle’s built-in controls—for example, a touchscreen, a rotary knob, or a touchpad. To learn how to operate your display, see the owner’s guide that came with your vehicle. (You can also use Siri to control CarPlay.)
+Open an app: Tap the app on the touchscreen, or turn the rotary knob to select the app, then press the knob.
+Switch between CarPlay Dashboard and CarPlay Home: CarPlay Dashboard displays several items you likely want to view or control, such as driving directions, audio playback, and suggestions from Siri. CarPlay Home shows all your CarPlay apps organized into pages.
+To go to CarPlay Home, tap on the touchscreen, or turn the rotary knob to select , then press the knob.
+To go to CarPlay Dashboard, tap , or turn the rotary knob to select , then press the knob.
+Return to your vehicle’s Home Screen: Select the icon with your vehicle’s logo if it appears on CarPlay Home or, if available, the physical Home button on your radio.
+Return to a recently used app: Tap its icon on the edge of the touchscreen, or turn the rotary knob to the icon, then press the knob.
+View additional apps: If you have more than eight apps, some may appear on another page of CarPlay Home. To view them, swipe left on the touchscreen, or turn the rotary knob. (See Use other apps with CarPlay .)
+Scroll quickly through a list: Tap the letters in the list on the right side of the touchscreen, or turn the rotary knob.
+Control audio playback: Use the audio playback controls on CarPlay Dashboard. Or from CarPlay Home, select Now Playing to view and control the current audio app.

@@ -1,0 +1,15 @@
+iPhone User Guide
+Customize the text size and zoom setting on iPhone
+You can increase the size of the text on your iPhone display, make the text bold, and magnify the screen with Display Zoom.
+Increase the text size on iPhone
+Go to Settings > Display & Brightness.
+Tap Text Size.
+Drag the slider left or right to change the text size.
+Make the text bold on iPhone
+Go to Settings > Display & Brightness.
+Turn on Bold Text.
+Magnify the entire iPhone screen
+On supported models , you can magnify the iPhone screen with Display Zoom.
+Go to Settings > Display & Brightness.
+Tap Display Zoom, then tap Larger Text.
+Tap Done, then tap Use Zoomed.

@@ -1,0 +1,40 @@
+iPhone User Guide
+Browse and read Apple News+ stories and issues on iPhone
+To get the most out of Apple News+, follow your favorite publications and browse through current and back issues.
+Note: Apple News and Apple News+ aren’t available in all countries or regions. See the Apple Support article Availability of Apple Media Services .
+Follow and unfollow publications
+You follow an Apple News+ publication by following its channel.
+Go to the News app on your iPhone.
+Do any of the following:
+Tap Today or News+ at the bottom of the screen, tap a story or issue from an Apple News+ publication, tap the publication’s name at the top of the screen, then tap .
+Tap Following, enter the publication’s name in the search field, then tap .
+Tap News+, swipe left on the categories near the top of the screen, tap Newspapers or Catalog, then tap Follow below the publication’s cover.
+To unfollow a publication, tap Following, swipe left, then tap Unfollow.
+Browse Apple News+ issues and stories
+Go to the News app on your iPhone.
+Stories and issues from Apple News+ appear in the Today feed, Best of News+ feed, and channel feeds. Stories (but not issues) can also be found in topic feeds and search results.
+To access entire issues, tap the News+ tab at the bottom of the screen, where you can do any of the following:
+View News+ content chosen just for you: Near the top of the screen, tap Best of News+.
+View all available publications: Near the top of the screen, swipe the options left, then tap Catalog.
+View a specific content category: Swipe left on the options near the top of the screen, tap Catalog, tap Featured, then tap a category such as Money & Business, Entertainment, or Sports.
+View new and recent issues: Tap News+, then tap My Magazines. By default, new issues appear near the top of the screen. The issue you’ve most recently read appears first. If you’ve recently downloaded an issue, it appears next. To choose a different sorting option, tap , then tap Sort by Name or Sort by Date.
+Note: If you block an Apple News+ publication, its issues are removed from My Magazines.
+Open a story or issue
+Go to the News app on your iPhone.
+Do any of the following:
+Tap an issue cover in News+ or the Today feed.
+Tap Following, enter the name of the Apple News+ channel in the search field, tap the channel, then tap the issue.
+Follow a link to a story or issue that someone shared with you.
+Access back issues
+Go to the News app on your iPhone.
+Do any of the following:
+Tap News+, tap My Magazines, tap below the issue cover (or touch and hold the cover), then tap Browse Back Catalog.
+Tap a channel you follow, or search for a channel, then tap it. Below Recent Issues, swipe to the issue you want to read, then tap to open it. Tap Issues near the top of the screen to browse all available issues.
+Read Apple News+ issues
+Go to the News app on your iPhone.
+Open the issue, where you can do any of the following:
+View the table of contents: Tap the cover thumbnail at the bottom left of the screen.
+Navigate to a story: In an issue in Apple News Format, tap the story link in the table of contents. In a PDF issue, tap the thumbnail of the page you want to view.
+Page through an issue: Swipe left to go to the next story, or swipe right to go to the previous story.
+Change the text size: In stories in Apple News Format, tap , choose Text Size, then tap the smaller or larger letter to change the text size in the story and all other stories in the channel. In PDF issues, pinch to zoom.
+If you sign out in Settings > [ your name ] > Media & Purchases, you can only access free stories—you must sign back in to access stories and download issues that require an Apple News+ subscription.

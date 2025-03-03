@@ -1,0 +1,18 @@
+iPhone User Guide
+Block access to Apple Intelligence features in Screen Time on iPhone
+You can turn on Content & Privacy Restrictions in Screen Time to restrict access to Apple Intelligence* features like Writing Tools, image creation features, and ChatGPT on supported devices.
+Note: You can use Apple Intelligence features on any iPhone 16 model, iPhone 15 Pro, iPhone 15 Pro Max, a Mac or iPad with M1 or later, or an iPad mini (A17 Pro). Apple Intelligence is not available on iPhone and iPad if you’re in the EU and if your Apple Account country or region is also in the EU. To check whether Apple Intelligence is available for your device and language, see the Apple Support article Apple Intelligence requirements .
+Block access to Writing Tools
+Go to Settings , then tap Screen Time.
+Tap Content & Privacy Restrictions, then turn on Content & Privacy Restrictions.
+Tap Intelligence & Siri, tap Writing Tools, then tap Allow or Don’t Allow.
+Block access to image creation features
+You can restrict access to image creation features like Image Playground, Genmoji, and Image Wand.
+Go to Settings , then tap Screen Time.
+Tap Content & Privacy Restrictions, then turn on Content & Privacy Restrictions.
+Tap Intelligence & Siri, tap Image Creation, then tap Allow or Don’t Allow.
+Block access to ChatGPT
+Go to Settings , then tap Screen Time.
+Tap Content & Privacy Restrictions, then turn on Content & Privacy Restrictions.
+Tap Intelligence & Siri, tap ChatGPT Extension, then tap Allow or Don’t Allow.
+Apple Footer

@@ -1,0 +1,12 @@
+iPhone User Guide
+Search for or rename a recording in Voice Memos on iPhone
+You can search for recordings or rename any recording.
+Search for a recording
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+Swipe down from the middle of the list of recordings to reveal the search field.
+Tap the search field, enter part or all of the recording name, then tap Search.
+Note: You can also search for a word or phrase in a transcript by entering it in this field.
+Rename a recording
+A recording is initially saved with the name New Recording or the name of your location, if Location Services is turned on in Settings > Privacy & Security. You can change the name.
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+Tap the recording, tap the name, then type a new one.

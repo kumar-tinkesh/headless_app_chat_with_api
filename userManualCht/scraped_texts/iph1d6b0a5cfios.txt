@@ -1,0 +1,18 @@
+iPhone User Guide
+Duplicate and copy photos and videos on iPhone
+In the Photos app on iPhone, you can duplicate a photo or video while preserving the original version. You can also copy a photo and then paste it into another document such as an email, text message, or presentation.
+Duplicate a photo or video
+Go to the Photos app on your iPhone.
+Open a photo or video, then tap .
+Tap Duplicate.
+A duplicate copy appears next to the original in your library.
+Copy a photo
+Go to the Photos app on your iPhone.
+Open a photo, then tap .
+Tap Copy, then paste the photo into another document.
+Copy multiple photos or videos
+Go to the Photos app on your iPhone.
+Swipe up to view your library.
+Tap Select, then tap the thumbnails you want to copy.
+Tap , then tap Copy.
+Paste the copies into another document.

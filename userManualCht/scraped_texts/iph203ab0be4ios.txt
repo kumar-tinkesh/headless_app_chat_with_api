@@ -1,0 +1,43 @@
+iPhone User Guide
+Block, filter, and report messages on iPhone
+You can reduce the number of unwanted text messages you receive when you block individuals, filter unknown senders, and report spam or junk messages.
+Note: A known sender is anyone you’ve added to the Contacts app or sent a message to.
+Block messages from a specific person or phone number
+When you block a specific contact or phone number, messages from that person or number aren’t delivered. (The person sending the message doesn’t know that their message was blocked.)
+Go to the Messages app on your iPhone.
+In a Messages conversation, tap the name or number at the top of the conversation.
+Tap Info , scroll down, then tap Block this Caller.
+Tip: Instead of blocking all the senders in a group conversation, you can simply leave it or stop its notifications .
+If you’re still having trouble with unwanted messages, see the Apple Support article Block phone numbers, contacts, and emails on your iPhone or iPad .
+Filter messages from unknown senders
+With iMessage , you can prevent unknown senders from texting you directly. Their messages are filtered to another folder, and you don’t get notified about them.
+Go to Settings > Apps > Messages.
+Scroll down to Message Filtering, then turn on Filter Unknown Senders.
+If this setting is on and you’re missing a message, check to see if it was filtered to Unknown Senders. Tap Filters in the top-left corner of the conversation list, then tap Unknown Senders.
+Note: You canʼt open any links sent by an unknown sender until you make them a known sender—by adding them to your contacts or replying to the message.
+Report spam or junk messages
+When you use iMessage , you can report spam or junk messages to Apple—the report includes the sender’s information and message. Depending on your carrier and country or region, reporting spam you receive with SMS, MMS, or RCS shares this information with your carrier and its affiliates.
+Go to the Messages app on your iPhone.
+Do one of the following:
+If you haven’t opened the message: Swipe left on the message, tap , then tap Delete and Report Junk.
+If you’ve already opened the message: A Report Junk link appears at the bottom of any message from any unknown sender. Tap Report Junk, then tap Delete and Report Junk.
+Note: You can’t report a message after you’ve replied to it.
+If you don’t see the option to report spam or junk messages you receive with SMS, MMS, or RCS: Contact your carrier. See the Apple Support article Wireless carrier support and features for iPhone .
+If you received the message with iMessage, it’s sent to Apple with the sender’s information, and the message is permanently deleted from your iPhone.
+If you accidentally report and delete messages, you can recover them.
+Reporting junk or spam doesn’t prevent the sender from sending messages, but you can block the number to stop receiving them.
+To decrease incoming spam or junk messages from new numbers, you can filter them. See Filter messages from unknown senders , above.
+Manage your list of blocked contacts
+Go to Settings > Apps > Messages.
+Tap Blocked Contacts, then do any of the following:
+Unblock a number you’ve blocked: Swipe left on a number in the list, then tap Unblock. Or tap Edit, then tap .
+Add additional contacts or numbers directly to the list: Scroll down, then tap Add New.
+Turn off business alerts
+Some businesses send alerts and updates on your orders and other transactions. You can turn these off.
+Go to Settings > Apps > Messages.
+Turn off any of the following:
+Apple Messages for Business: Tap Business Messages, then turn Business Updates off.
+RCS Business Messages: Tap RCS Messaging, then turn RCS Business Messages off. (Availability varies by carrier and country.)
+You can also report a message as junk when you receive it. Tap Report Junk in the conversation, then tap Delete and Report Junk.
+See Apple Messages for Business & Privacy .
+To learn about other ways you can report and prevent unwanted messages, see the Apple Support article Recognize and avoid phishing messages, phony support calls, and other scams .

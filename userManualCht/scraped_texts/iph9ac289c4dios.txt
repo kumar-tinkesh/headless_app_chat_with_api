@@ -1,0 +1,20 @@
+iPhone User Guide
+Watch sports in the Apple TV app on iPhone
+The Sports row gives you access to a wide array of live and scheduled sports events (not available in all countries or regions).
+You can see live games with up-to-the-minute scores, or browse upcoming games.
+Explore sports
+Go to the Apple TV app on your iPhone.
+Tap Home, then scroll down to the Sports row.
+Do any of the following:
+Browse live and upcoming games.
+Tap Live Sports, then scroll down to browse football, baseball, basketball, and more.
+To filter by sport, tap Live Sports, scroll down to the Browse row, then tap a sport.
+Watch a live game
+Go to the Apple TV app on your iPhone.
+Tap Home, then scroll down to the Sports row.
+Tap Live Sports, then tap a live game.
+Tap Watch or Open In, then choose an app.
+You can also scroll down to How to Watch, then choose an app.
+If you want to receive live updates for a game on the Lock Screen, tap Follow Live. See Access features from the iPhone Lock Screen .
+Select games may also show the current score and play-by-play updates on the game page.
+To hide the scores of live games, go to Settings > Apps > TV, then turn off Show Sports Scores.

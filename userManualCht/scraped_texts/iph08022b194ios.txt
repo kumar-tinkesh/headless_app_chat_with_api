@@ -1,0 +1,20 @@
+iPhone User Guide
+Fill out your Health Details in Health on iPhone
+To personalize your experience, add your name, date of birth, sex, and other basic information to Health Details. To help first responders and others in case you have a medical emergency, create a Medical ID that contains information about medical conditions, medications, allergies, blood type, emergency contacts, and more. To better manage your health with the help of the Health app, periodically review the Health Checklist.
+Fill out the Health Details screen
+When you first open Health, you’re asked to provide basic health information about yourself. If you don’t supply all of the requested information, you can add it later on the Health Details screen.
+Go to the Health app on your iPhone.
+Tap your picture or initials at the top right.
+If you don’t see your picture or initials, tap Summary or Browse at the bottom of the screen, then scroll to the top of the screen.
+Tap Health Details, then tap Edit.
+To make a change, tap a field.
+When you’re finished, tap Done.
+Create a Medical ID
+First responders and others can view critical medical information about you in your Medical ID, even while your iPhone is locked. See Set up and view your Medical ID .
+Review your Health Checklist
+Go to the Health app on your iPhone.
+Tap your picture or initials at the top right.
+If you don’t see your picture or initials, tap Summary or Browse at the bottom of the screen, then scroll to the top of the screen.
+Tap Health Checklist.
+To turn on or learn more about an item in the list, tap it.
+When you’re finished, tap Done.

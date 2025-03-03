@@ -1,0 +1,14 @@
+iPhone User Guide
+Change the map view in CarPlay
+Find your location on a map, zoom in and out, and move the map to see the detail you need.
+When you follow turn-by-turn directions , you can tap the touchscreen or turn the rotary knob, then do one of the following:
+Switch between detailed and high-level views: To see a detailed 3D map with your heading at the top of the screen, select . To see the route overview in 2D with north at the top of the screen, select .
+Zoom in or out: Select or .
+Scroll the map: Select , then select a direction arrow on one of the edges of the screen. To return to turn-by-turn directions, tap Resume.
+On some touchscreens, you can also drag the map to scroll it.
+You can also change the map view when not following directions. Tap the touchscreen or turn the rotary knob, then do one of the following:
+Show your current location: Tap . Your position is marked in the middle of the map.
+View a 3D map: Tap 3D. To return to a 2D map, tap 2D.
+Show your heading at the top of the screen: Tap . To resume showing north at the top, tap
+Zoom in or out: Select or .
+Scroll the map: Select , then select a direction arrow at the edges of the screen. When finished, tap Done.

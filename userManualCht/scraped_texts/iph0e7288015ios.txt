@@ -1,0 +1,9 @@
+iPhone User Guide
+Unsend email with Undo Send in Mail on iPhone
+You can change your mind and unsend an email message in the Mail app . You can also set a delay for all emails to give yourself a little more time to unsend them.
+Undo a sent email
+You have 10 seconds to change your mind after you send an email message.
+Tap Undo Send at the bottom of the Inbox to pull back the message.
+Delay sending emails
+You can give yourself a little more time to change your mind and unsend emails by setting a delay.
+Go to Settings > Apps > Mail, tap Undo Send Delay, then choose a length of time to delay outgoing email messages.

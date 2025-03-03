@@ -1,0 +1,31 @@
+iPhone User Guide
+See your activity summary in Fitness on iPhone
+You can see a summary of your daily activity, trends, awards, and more, to keep track of your progress. You can also add, edit, move, and delete the metrics that appear in your summary.
+Siri: On supported models , say something like: “How far have I walked today?” or “How are my Activity Rings?” Not available in all languages or regions. Learn how to use Siri .
+Check your progress
+Go to the Fitness app at any time to see how you’re doing. You can see your Activity rings, trends, completed workouts and meditations, awards, and more.
+When you carry your iPhone with you, motion sensors track your steps, distance, and flights climbed to estimate active calories burned. Any workouts you complete in compatible third-party apps also contribute to the progress shown on your Move ring.
+The red Move ring shows how many active calories you’ve burned. And if you have an Apple Watch, you’ll also see a green Exercise ring (showing how many minutes of brisk activity you’ve done), and a blue Stand ring (showing how many times in the day you’ve stood and moved for at least 1 minute per hour).
+An overlapping ring means you exceeded your goal. Tap the Activity rings to see details of your progress for that day.
+Note: You can add a Fitness widget that lets you track your daily activity directly from your Home Screen or Lock Screen. See Add, edit, and remove widgets and Create a custom iPhone Lock Screen .
+See your summary
+Go to the Fitness app on your iPhone.
+Tap the Summary tab, then do any of the following:
+See your activity summary for a specific day: Tap the Activity rings, tap , then tap a date.
+See your steps metrics: Tap the Step Count or Step Distance area.
+See your trends: Tap the Trends area. To see the history of a specific trend, tap it.
+Your last 90 days of activity are compared to the last 365. If the trend arrow for a particular metric points up, then you’re maintaining or improving your fitness levels. If an arrow points down, your 90-day average for that metric has started to decline. To help motivate you to turn the trend around, you receive coaching—for example, “Walk an extra quarter mile a day.”
+Note: It takes 180 days of activity to start your trends.
+See your awards: Tap the Awards area, then tap an award to learn more about its details.
+See your workout and meditation history: Tap the Sessions area, then tap an activity to learn more about its details.
+To view all categories of your summary, scroll down to the bottom of the screen, then tap See All Categories.
+Customize your summary
+You can add, edit, move, and remove fitness metrics in the Summary tab, so you can see what’s important to you.
+Go to the Fitness app on your iPhone.
+Scroll down, then tap Edit Summary.
+Do any of the following:
+Add a metric: Tap , scroll to find the metric you want, tap it, swipe through the different options, then tap Add Card.
+Edit a metric: Tap a metric, swipe through the different options, then tap Swap Current Card.
+Move a metric: Touch and hold a metric, then reposition it.
+Delete a metric: Tap next to a metric.
+When you’re finished, tap Done.

@@ -1,0 +1,38 @@
+iPhone User Guide
+Operate iPhone when VoiceOver is on
+When VoiceOver is on, you need to use special gestures to unlock iPhone, go to the Home Screen, open Control Center, switch apps, and more.
+Unlock iPhone
+On an iPhone with Face ID: Wake iPhone and glance at it, then drag up from the bottom edge of the screen until you feel a vibration or hear two rising tones.
+On an iPhone with Touch ID: Press the Home button using the finger you registered with Touch ID.
+If prompted, enter your passcode. To avoid having your passcode spoken as you enter it, enter your passcode silently using handwriting mode or type onscreen braille .
+Go to the Home Screen
+On an iPhone with Face ID: Drag one finger up from the bottom edge of the screen until you feel a vibration or hear two rising tones, then lift your finger.
+On an iPhone with a Home button: Press the Home button.
+Switch to another app
+Swipe right or left with four fingers to cycle through the open apps.
+Alternatively, you can use the App Switcher.
+To open the App Switcher, do one of the following:
+On an iPhone with Face ID: Drag one finger up from the bottom edge of the screen until you feel the second vibration or hear three tones, then lift your finger.
+On an iPhone with a Home button: Double-click the Home button.
+To browse the open apps, swipe left or right until the app you want is selected.
+Double-tap to open the app.
+Open Control Center
+On an iPhone with Face ID: Drag one finger down from the top edge of the screen until you feel a vibration or hear the second tone.
+On all iPhone models: Tap any item in the status bar, then swipe up with three fingers. Or touch and hold the bottom of the screen until you hear a tone, then swipe up.
+To dismiss Control Center, do a two-finger scrub (move two fingers back and forth three times quickly, making a “z”).
+View notifications
+On an iPhone with Face ID: Drag one finger down from the top edge of the screen until you feel the second vibration or hear the third tone.
+To dismiss the notifications screen, do a two-finger scrub (move two fingers back and forth three times quickly, making a “z”).
+On all iPhone models: Tap any item in the status bar, then swipe down with three fingers. Or touch and hold the top of the screen until you hear a tone, then swipe down.
+To dismiss the notifications screen, do a two-finger scrub (move two fingers back and forth three times quickly, making a “z”).
+Speak status bar information
+Tap the status bar at the top of the screen.
+Swipe left or right to hear the time, battery state, Wi-Fi signal strength, and more.
+Rearrange apps on your Home Screen
+Do one of the following:
+Drag and drop: Tap an icon on the Home Screen, then double-tap and hold your finger on the screen until you hear three rising tones. The item’s relative location is described as you drag. Lift your finger when the icon is in its new location. Drag an icon to the edge of the screen to move it to another Home Screen.
+Move actions: Tap an app, then swipe down to hear available actions. When you hear “Edit Mode,” double-tap to start arranging apps. Find the app you want to move, then swipe down to the Move action and double-tap. Move the VoiceOver cursor to the new destination for the app, then choose from the available actions: Cancel Move, Create New Folder, Add to Folder, Move Before, or Move After.
+When you’re finished, tap Done, then double-tap.
+Search from the Home Screen
+Tap anywhere on the Home Screen outside the status bar.
+Swipe down with three fingers.

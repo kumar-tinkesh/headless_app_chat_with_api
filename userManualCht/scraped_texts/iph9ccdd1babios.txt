@@ -1,0 +1,37 @@
+iPhone User Guide
+Solve Quartiles puzzles in News on iPhone
+Apple News+ subscribers can solve Quartiles puzzles. Players select tiles containing two to four letters from a four-by-five grid to form words. You can use up to four tiles per word, and the more tiles you use, the more points you score.
+A word formed from four tiles is called a Quartile and is worth 8 points. When you find all five Quartiles, you receive an additional 40 points.
+The object of the game is to earn the 100 points necessary to reach the Expert rank. You can continue forming words and accumulating points even after you’ve reached Expert.
+Note: Apple News, Apple News+, and puzzles aren’t available in all countries or regions. See the iOS and iPadOS Feature Availability website .
+Play Quartiles
+Go to the News app on your iPhone.
+Open a Quartiles puzzle.
+Tap tiles to create a word, then tap to enter it.
+For example, to score a single point, tap “pear,” then tap . To score 2 points, tap “ap,” then “pear” to form the word, “appear.” Go for 4 points by tapping “ap,” “pear,” then “ance.” Complete the Quartile and score 8 points by spelling “disappearance.”
+Completed words appear in the Words Found box, and any Quartiles you find appear in groups of four tiles.
+Not all possible words qualify in Quartiles puzzles. For example, obscure and technical terms, proper nouns, and profanity never appear in the word list.
+Do any of the following:
+Reorder your tiles: After you tap the tiles to place them above the grid, you can touch and hold, then drag to reorder them.
+See points needed to move to the next rank: Tap Next Rank.
+Clear tiles you don’t want to use: Tap .
+See how many words remain: When you reach the Expert rank, the Words Found box shows how many words you haven’t found.
+See each word’s points: Tap in the Words Found box.
+Tip: Tap , then tap How to Play to take a quick Quartiles tutorial, or tap More Puzzles to open the Quartiles puzzle feed.
+Shuffle or group tiles
+Go to the News app on your iPhone.
+Open a Quartiles puzzle and start finding words.
+Quartiles you find are anchored to the bottom of the grid. If you’d rather anchor them to the top of the grid, tap , then choose Sort Found Quartiles.
+Tap to shuffle tiles that aren’t part of found Quartiles.
+To shuffle all tiles in the grid, tap to turn off anchoring, then tap .
+Reveal all words
+Go to the News app on your iPhone.
+Open a Quartiles puzzle.
+Tap , then tap Reveal All Words. The words you didn’t find are shown.
+If you reveal before you reach Expert rank: The puzzle doesn’t count in your Scoreboard stats and streaks.
+If you reveal after you reach Expert rank: Your stats or streaks aren’t affected.
+Share a puzzle
+Go to the News app on your iPhone.
+Open a Quartiles puzzle.
+Tap , then choose a sharing method to share a Quartiles puzzle with another Apple News+ subscriber.
+Your rank appears in the email or message you send. Anyone who opens the puzzle can’t see your answers.

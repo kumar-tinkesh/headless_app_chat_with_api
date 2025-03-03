@@ -1,0 +1,19 @@
+iPhone User Guide
+Use Siri to Control CarPlay
+CarPlay uses Siri voice control, so you can ask for what you want. (You can also use your car’s built-in controls to control CarPlay.)
+Use Siri on CarPlay
+Do one of the following until Siri beeps:
+Press and hold the voice command button on the steering wheel.
+Touch and hold or on a touchscreen displaying CarPlay.
+You can also say “Hey Siri” to activate Siri in supported vehicles.
+Use Siri to ask a question or to do something.
+Siri: Say something like:
+“Get directions to the nearest coffee shop”
+“Call Eliza Block”
+“Play more songs like this one”
+“Show me the map”
+“What’s my next meeting?”
+“What’s the weather for today?”
+“Remind me to pack an umbrella when I get home”
+Tip: Instead of waiting for Siri to notice that you’ve stopped talking, you can press and continue to hold the voice command button on the steering wheel while you speak, then release it when you finish.
+Siri also makes suggestions in CarPlay for what you might want to do next, such as operate the garage door when you arrive home or drive to your next meeting. See About Siri Suggestions .

@@ -1,0 +1,17 @@
+iPhone User Guide
+Get started with Freeform on iPhone
+The Freeform app gives you a boundless canvas for creativity. Bring everything together, including photos, drawings, links, and files. And invite others to work with you.
+Gather ideas freely
+You can put just about any kind of file in a Freeform board—an online whiteboard—without worrying about layouts or page sizes. To create a board, tap .
+Collaborate with others
+Tap to invite people to start working together in real time on a board. You can add sticky notes to conduct a brainstorming session or provide feedback.
+Get creative with the drawing tools
+Tap to start drawing. Adjust the line’s thickness, transparency, color, and more, and pinch to zoom in and out as you work.
+Start on your iPhone, keep working on your iPad or Mac
+The Freeform boards you store in iCloud—and any changes you make to them—stay up to date on all your Apple devices when you’re signed in to the same Apple Account. To use iCloud with Freeform, go to Settings > [ your name ] > iCloud > See All (in the Saved to iCloud section), then turn on Freeform.
+Want to learn more?
+Create a Freeform board
+Draw or handwrite on a Freeform board
+Add shapes, lines, arrows, and diagrams to a Freeform board
+Share Freeform boards and collaborate
+iCloud User Guide: Set up iCloud for Freeform on all your devices

@@ -1,0 +1,10 @@
+iPhone User Guide
+Import passwords from another password manager into Passwords on iPhone
+In iOS 18.2 or later, you can import passwords that you’ve exported to a CSV file from another password manager.
+WARNING: Your imported passwords might not be encrypted and could be visible to anyone who can access the file.
+Go to Settings > Apps > Safari.
+Below History and Website Data, tap Import.
+Tap Choose File, then choose the CSV file you exported from your other password manager.
+Tap Import to Safari.
+Tap Done.
+WARNING: For security, delete the file you imported from.

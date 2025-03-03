@@ -1,0 +1,24 @@
+iPhone User Guide
+Get extensions to customize Safari on iPhone
+You can install extensions to customize the way your browser works. For example, extensions can help you find coupons when shopping, block content on websites, give you access to features from other apps, and more.
+Add Safari extensions
+Go to the Safari app on your iPhone.
+Tap , then tap Manage Extensions.
+Tap More Extensions to browse through extensions in the App Store.
+When you find one you want, tap the price, or if the app is free, tap Get, then follow the onscreen instructions.
+Note: Extensions you install for Safari on iPhone that are also available on other platforms will appear in Safari settings on any iPhone, iPad, or Mac where you’re signed in to the same Apple Account , to make them easier to find and download.
+Change Safari extension settings
+You can use an extension to customize the way your browser works. You can turn Safari extensions on or off at any time.
+Go to Settings > Apps > Safari.
+Tap Extensions, then tap an extension.
+Turn on Allow Extension.
+If you have Safari profiles set up, turn on the extension for each profile you want to use it with.
+Important: Check the extensions you have installed and make sure you’re familiar with what they do.
+Change Safari extension settings for an individual website
+You can turn an extension on or off for an individual website without changing your overall Safari settings.
+Go to the Safari app on your iPhone.
+Tap on the left side of the search field, then tap Manage Extensions.
+Turn each extension on or off.
+Remove a Safari extension
+Swipe down on the Home Screen, then search for the extension you want to remove.
+Touch and hold the extension icon, tap “Delete app,” then follow the onscreen instructions.

@@ -1,0 +1,22 @@
+iPhone User Guide
+Add links in Notes on iPhone
+In the Notes app, you can add links to webpages. You can also link to related notes, like a trip itinerary and a list of recommended restaurants. When you add street and email addresses, phone numbers, and dates, they automatically become underlined text that you can tap to take action on.
+Link to a webpage
+Go to the Notes app on your iPhone.
+In the note where you want to insert a link, do either of the following:
+Select the text, then tap Add Link. The selected text becomes the text link. Enter the URL to specify the link destination.
+Tap to place the insertion point, tap Add Link, then enter the URL and the name (optional).
+Link to another note using the title
+You can create a link to another note using the title of the target note. If the title of the target note changes, the link text updates to the new title.
+Go to the Notes app on your iPhone.
+In the note where you want to add a link, type “>>”, then enter the title of the target note.
+Choose an existing note or create a new note.
+To edit or remove the link, touch and hold the link, then choose an action.
+Link to another note using custom link text
+Instead of using the title of the target note, you can use custom link text. If the title of the target note changes, the link text doesn’t change.
+Go to the Notes app on your iPhone.
+In the note where you want to add a link, select the link text, then tap Add Link.
+Enter the title of the target note, then choose a note.
+Take action on addresses, phone numbers, dates, and more
+In your notes, an underline appears below text that’s recognized as a street or email address, phone number, date, or other data. Tap the underlined text to take action on it. For example, you can see a street address in Maps, compose an email, call a phone number, add a calendar event, or convert units and currency.
+Note: Data detection is available when the system language of your iPhone is set to a supported language in Settings > General > Language & Region > iPhone Language. See the iOS and iPadOS Feature Availability website .

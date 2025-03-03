@@ -1,0 +1,6 @@
+iPhone User Guide
+Change your default search engine on iPhone
+You can select an alternative search engine as the default to search for content on the web.
+Go to Settings > Search > Search Engine.
+Tap the search engine you want to set as the default, then tap .
+If you haven’t yet updated to iOS 18.2 or later, see Choose a search engine .

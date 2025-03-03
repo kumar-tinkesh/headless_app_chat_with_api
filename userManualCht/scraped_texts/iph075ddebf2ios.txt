@@ -1,0 +1,8 @@
+iPhone User Guide
+Export contacts on iPhone
+You can export some or all of your contacts to another device or app.
+Go to the Contacts app on your iPhone.
+Tap Lists at the top left.
+Touch and hold an existing list (or create a new list by tapping Add List).
+Tap Export, select the fields you want to include, then tap Done.
+Choose a method to send or save the exported contact cards, such as Messages or Mail.

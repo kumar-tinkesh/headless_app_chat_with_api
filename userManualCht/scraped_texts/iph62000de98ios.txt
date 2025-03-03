@@ -1,0 +1,24 @@
+iPhone User Guide
+Save camera settings on iPhone
+You can save the last camera mode, filter, lighting, depth, and Live Photo settings you used so they’re not reset the next time you open Camera.
+Go to Settings > Camera > Preserve Settings.
+Turn on any of the following:
+Camera Mode: Save the last camera mode you used, such as Video or Pano.
+See Switch between camera modes .
+Creative Controls: Save the last settings you used for the filter, lighting option, or depth control.
+See Take a photo with a filter , Adjust Portrait Lighting in Portrait mode , and Adjust Depth Control in Portrait mode .
+Macro Control: Preserve the Auto Macro setting rather than automatically using the Ultra Wide camera to capture macro photos and videos (on supported models ).
+See Control automatic macro switching .
+Exposure Adjustment: Save the exposure control setting (on iPhone 11 and later).
+See Adjust the camera’s focus and exposure .
+Night Mode: Save the Night mode setting rather than reset to Auto (on supported models ).
+See Take Night mode photos .
+Portrait Zoom: Save the Portrait mode zoom rather than reset to the default lens (this setting is on by default on supported models ).
+See Take portraits .
+Action Mode: Keep the Action Mode setting turned on rather than reset to off (on iPhone 14 and later).
+ProRAW & Resolution Control: Save the Apple ProRAW setting (on supported models ).
+See Take Apple ProRAW photos .
+Apple ProRes: Save the Apple ProRes setting (on supported models ).
+See Record ProRes videos .
+Live Photo: Save the Live Photo setting. This setting is on by default.
+See Take Live Photos .

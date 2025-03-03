@@ -1,0 +1,21 @@
+iPhone User Guide
+Print and export entries in Journal on iPhone
+In the Journal app, you can print and export individual entries or your entire journal.
+Print journal entries
+Go to the Journal app on your iPhone.
+Do one of the following:
+Print a single entry: Go to the entry you want, tap , then tap Print.
+Print multiple entries: Tap , tap Print, choose All Entries or enter a date range, then tap Print.
+Select the printing options, then tap Print.
+Export journal entries to PDF
+Go to the Journal app on your iPhone.
+Do one of the following:
+Export a single entry: Go to the entry you want, tap , then tap Print.
+Export multiple entries: Tap , choose All Entries or enter a date range, then tap Print.
+Tap , then choose an app such as Notes, Files, or Messages.
+Export all journal entries and attachments as a ZIP archive
+Go to Settings > Apps > Journal.
+Scroll down and tap Export all Journal Entries.
+Tap Export, then wait for the export to finish.
+Note: The export may not finish if you navigate away from Settings.
+Specify a location and filename for the ZIP archive.

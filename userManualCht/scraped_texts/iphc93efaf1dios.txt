@@ -1,0 +1,10 @@
+iPhone User Guide
+Join a collaborative playlist in Music on iPhone
+If you subscribe to Apple Music and someone invites you to collaborate on a playlist, you can join it and then add, remove, or reorder music in the collaborative playlist and react to songs with emoji.
+Note: Apple Music isn’t available in all countries or regions. See the Apple Support article Availability of Apple Media Services .
+On your iPhone, tap the link you received, then tap Join or Request to Join (if the owner of the collaborative playlist must approve you first).
+Do any of the following:
+Add a song, change the order of songs, or remove an item: See Edit a playlist .
+React to a song with emoji: See Add a reaction to a collaborative playlist .
+Invite others with a link: Tap Share Invite Link. See Add more people to collaborate on a playlist .
+Note: If you’re the owner of a collaborative playlist, or the owner hasn’t turned on Approve Collaborators, you can share the link.

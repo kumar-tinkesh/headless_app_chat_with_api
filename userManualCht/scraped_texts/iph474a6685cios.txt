@@ -1,0 +1,20 @@
+iPhone User Guide
+Tag items in Reminders on iPhone
+In the Reminders app, you can use tags as a fast and flexible way to categorize and organize your reminders. You can add one or more tags to a reminder, such as #shopping and #work, and easily search and filter your reminders across lists using the Tag Browser or Smart Lists.
+Note: All Reminders features described in this guide are available when you use updated reminders . Some features aren’t available when using other accounts.
+Add tags
+Go to the Reminders app on your iPhone.
+When you create or edit an item in a list, type # followed by the tag name or choose a tag from the menu above the keyboard.
+A tag can be only one word, but you can use dashes and underscores to combine words. You can add multiple tags to an item.
+View items with tags
+Go to the Reminders app on your iPhone.
+Tap Lists (in the top-left corner).
+Below Tags at the bottom of the screen, do any of the following:
+View items with specific tags: Tap one or more tags, then choose to view items matching any or all of the selected tags.
+Tip: To save this list as a Smart List, tap , then tap Create Smart List.
+View all items with tags: Tap All Tags.
+Rename or delete a tag
+Go to the Reminders app on your iPhone.
+Tap Lists (in the top-left corner).
+Below Tags at the bottom of the screen, touch and hold a tag, then tap Rename Tag or Delete Tag.
+When you delete a tag, it’s also removed from all Smart Lists that use it.

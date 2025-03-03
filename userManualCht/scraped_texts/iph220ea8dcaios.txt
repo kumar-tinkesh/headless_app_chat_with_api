@@ -1,0 +1,32 @@
+iPhone User Guide
+Copy and paste between your iPhone and other Apple devices
+With Universal Clipboard, you can copy content from one of your Apple devices and paste it on another. For example, you can copy text on your iPad and paste it into a note on your iPhone, or copy an image from a Safari webpage on your iPhone and paste into an email message on your Mac.
+You can use Universal Clipboard with your iPhone, iPad, and Mac.
+Before you begin
+Make sure of the following:
+Both devices have Wi-Fi , Bluetooth ® , and Handoff turned on.
+You’re signed in to the same Apple Account on both devices.
+Both devices meet minimum system requirements for Universal Clipboard .
+If you’re using a VPN, make sure its configuration does not prevent local networking as that may interfere with some Continuity features.
+Copy and paste between your iPhone and other devices
+Universal Clipboard isn’t a feature that you see, but it behaves just like copy and paste does on your iPhone, except with Universal Clipboard, when you paste, you can do so on one of your other Apple devices, like an iPad or a Mac.
+Select the text or image on your iPhone, then tap Copy.
+On your other device, either tap (on another iPhone or an iPad) or place the pointer (on a Mac) where you want to paste the text or image, then tap or click Paste. You can also use keyboard shortcuts.
+For more information on how to copy or paste on your iPhone, iPad, or Mac, see How to copy and paste on an iPhone or iPad or How to copy and paste on a Mac .
+Note: When you copy the content, it’s available on your Clipboard for a short amount of time.
+How to copy and paste on an iPhone or iPad
+Select and copy text: Double-tap with one finger to select a word or triple-tap with one finger to select a paragraph. (You can also move the grab points to adjust your selection.) Then tap Copy.
+Select and copy an image: Touch and hold to select an image, then tap Copy.
+Paste text or an image: Tap where you want to paste the text or image, then tap Paste.
+To find additional gestures that allow you to copy and paste, see Select, cut, copy, and paste text on iPhone and Select, cut, copy, and paste text on iPad .
+How to copy and paste on a Mac
+Select text or an image: With your pointer, select the text or image you want to copy.
+Copy text or an image: Press Command-C or choose Edit > Copy from the menu bar.
+Paste text or an image: Move your pointer where you want to paste the text or image, then press Command-V, or choose Edit > Paste from the menu bar.
+To find additional gestures that allow you to copy and paste, see Select, cut, copy, and paste text on iPhone and Select, cut, copy, and paste text on iPad .
+If Universal Clipboard isn’t working
+Make sure that you’re signed in to the same Apple Account on both devices.
+Make sure that your iPhone and Mac have Wi-Fi , Bluetooth , and Handoff turned on.
+Your devices must be within 30 feet (10 meters) of one another.
+If you’re having difficulty getting Universal Clipboard to work, restart your devices and try again.
+Universal Clipboard is best for sharing small selections of text or copied images between devices. If you want to share multiple files between your Mac and other Apple devices, see Transfer files from iPhone to a storage device, a server, or the cloud .

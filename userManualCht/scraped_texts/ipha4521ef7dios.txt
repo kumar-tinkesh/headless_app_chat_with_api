@@ -1,0 +1,38 @@
+iPhone User Guide
+Queue up your music on iPhone
+Use the queue to see a list of upcoming songs, add songs and videos to the queue, and see what you recently played.
+Use the queue
+Go to the Music app on your iPhone.
+While a song is playing, tap the MiniPlayer to open the Now Playing screen.
+Tap , then tap a song to play it and the songs that follow.
+To reorder the list, drag . To do more, see Manage the queue .
+Tap again to hide the queue.
+Add music and music videos to the queue
+Go to the Music app on your iPhone.
+While browsing or playing music, touch and hold a song, album, playlist, or video, then choose an option:
+Add music right after the currently playing item: Tap Play Next.
+Add music to the end of the queue: Tap Play After or Add to Queue.
+Tip: If you’re using HomePod to stream music and your friends are on the same Wi-Fi network , they can add items to the queue. To learn more about HomePod speaker access, see the HomePod User Guide .
+Use Autoplay to add songs to the queue
+If you’re an Apple Music subscriber and you’re not sure what to play next, use Autoplay. Once you play something, Autoplay adds similar songs and plays them at the end of the queue. When Autoplay is on and a song is playing, the Autoplay icon appears on the Playing Next queue.
+Go to the Music app on your iPhone.
+While a song is playing, tap the MiniPlayer to open the Now Playing screen.
+Tap , then tap at the top of the queue to turn Autoplay on.
+When Autoplay is on, the button changes color. Tap it again to turn it off.
+Note: When you turn off Autoplay on a device that uses your Apple Account—your iPhone, for example—Autoplay is turned off on all other devices that use the same Apple Account.
+Manage the queue
+Go to the Music app on your iPhone.
+While a song is playing, tap the MiniPlayer to open the Now Playing screen.
+Tap , then do any of the following:
+Change the order of songs in the queue: Drag the songs into the order you want them to play.
+Add more songs to the queue: Scroll below the Queue section, then tap Add Songs to Queue.
+Remove a song from the queue: Swipe left on the song, then tap Remove.
+See how many songs are in the queue: Scroll to the bottom of the queue.
+When multiple songs are repeating , you can see how many songs will be repeated instead.
+Remove all songs from the queue: Tap Clear at the top of the queue.
+Tip: If you’re using HomePod to stream music and your friends are on the same Wi-Fi network , they can reorder items in the queue. To learn more about HomePod speaker access, see the HomePod User Guide .
+See what you recently played
+Go to the Music app on your iPhone.
+While a song is playing, tap the MiniPlayer to open the Now Playing screen.
+Tap , then swipe down to see your playing history.
+To play a song in the history, tap it. To remove your playing history, tap Clear.

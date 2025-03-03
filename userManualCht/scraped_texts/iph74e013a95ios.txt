@@ -1,0 +1,16 @@
+iPhone User Guide
+Hand off a FaceTime call from your iPhone to your other Apple devices
+You can start a FaceTime call on your iPhone and move the call to another device where you’re signed in to the same Apple Account .
+With Continuity Camera and Mic, you can also use iPhone as a webcam and microphone for FaceTime calls on your Mac or Apple TV. See Use your iPhone as a webcam on Mac and Use FaceTime on Apple TV 4K .
+Note: Your selected contact information for the call, shown in Settings > Apps > FaceTime, must match the selected contact information in FaceTime settings on the device you want to hand off to.
+Hand off a FaceTime call from iPhone to iPad or Mac
+While on a FaceTime call on your iPhone, you can hand off the call to your iPad or Mac (iOS 16, iPadOS 16, macOS 13, or later, required). You must also be signed in to the same Apple Account on both devices.
+During a call in the FaceTime app on iPhone, do one of the following on the other device:
+Tap the notification with the suggestion “Move call to this [ device ].”
+Tap at the top of the screen.
+A preview of the call appears, showing your camera, microphone, and audio settings.
+Make sure the settings are the ones you want, then tap Switch or Join.
+The call moves to the new device. On the original device, a banner appears confirming that the call was continued elsewhere, along with a Switch button, which you can tap if you want to bring the call back.
+Hand off a FaceTime call from your iPhone to Apple TV 4K
+You can start (or receive) a FaceTime call on your iPhone, and then hand off the call to the larger screen on Apple TV 4K (2nd generation or later) when you’re signed in to the same Apple Account on both devices. After you hand off the call, it continues on Apple TV, with your iPhone serving as a webcam and microphone for Apple TV for the duration of the call. Continuity Camera with Apple TV is available on iPhone X R , iPhone X S , or later, and on Apple TV 4K (2nd generation or later).
+For instructions on handing off and continuing the call on Apple TV 4K (2nd generation), see Use FaceTime on Apple TV 4K (2nd generation or later) .

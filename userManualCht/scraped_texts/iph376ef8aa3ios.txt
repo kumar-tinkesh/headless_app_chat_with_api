@@ -1,0 +1,40 @@
+iPhone User Guide
+Organize email in mailboxes on iPhone
+You can manage your email in mailboxes.
+Manage an email with a swipe
+While viewing a message list, you can use a simple swipe to move individual emails to the Trash, mark them as read, and more.
+Go to the Mail app on your iPhone.
+In a message list, do any of the following:
+Reveal a list of actions: Slowly drag a message to the left until the menu appears, then tap an item.
+Quickly use the rightmost action: Swipe all the way to the left.
+Reveal other actions: Swipe right.
+To choose the actions you want to appear in the menus, go to Settings > Apps > Mail > Swipe Options (below Message List).
+Organize your mail with mailboxes
+You can choose which mailboxes to view, reorder your mailboxes, create new ones, or rename or delete mailboxes. (Some mailboxes can’t be changed.)
+Go to the Mail app on your iPhone.
+To organize your mailboxes, tap in the upper-left corner until you see Mailboxes.
+Tap Edit, then do any of the following:
+View mailboxes: Select the checkboxes next to the mailboxes you want to include in the mailboxes list.
+Reorder mailboxes: Touch and hold next to a mailbox until it lifts up, then drag it to the new position.
+Create a new mailbox: Tap New Mailbox in the lower-right corner, then follow the onscreen instructions.
+Rename a mailbox: Tap the mailbox, then tap the title. Delete the name, then enter a new name.
+Delete a mailbox: Tap the mailbox, then tap Delete Mailbox.
+Move emails to a mailbox
+Go to the Mail app on your iPhone.
+Do any of the following:
+While viewing a Primary message: Tap , then choose a mailbox.
+While viewing a category message list: Tap Select, then select the messages you want to move by tapping their checkboxes. Tap Move at the bottom of the message list, then choose a mailbox.
+Important: When you select messages in Transactions, Updates, or Promotions, you are selecting all the messages in that category from the sender.
+While viewing a sender’s digest view: Swipe left on a message, tap , tap Move Message, then choose a mailbox.
+View emails from one account at a time
+If you use multiple email accounts with the Mail app, you can use the mailboxes list to view messages from one account at a time.
+Go to the Mail app on your iPhone.
+Tap in the upper-left corner until you see Mailboxes, then tap a mailbox below the email account you want to access.
+Each mailbox listed below a particular email account only displays messages from that email account. For example, to view only messages sent from your iCloud account, tap iCloud, then tap Sent.
+Move emails to Junk
+Go to the Mail app on your iPhone.
+Do any of the following:
+While viewing a Primary message: Tap , then tap Move to Junk.
+While viewing a category message list: Tap Select, then select the messages you want to move by tapping their checkboxes. Tap Mark at the bottom of the message list, then tap Move to Junk.
+Important: When you select messages in Transactions, Updates, or Promotions, you are selecting all the messages in that category from the sender.
+While viewing a sender’s digest view: Swipe left on a message, tap then tap Move to Junk.

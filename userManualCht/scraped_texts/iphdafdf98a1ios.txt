@@ -1,0 +1,17 @@
+iPhone User Guide
+Keep track of events in Calendar on iPhone
+You can customize the notifications that let you know about upcoming calendar events, invitations, and more. You can also make sure your events and other calendar information are kept up to date on all your devices.
+Customize Calendar notifications
+Go to Settings > Notifications > Calendar.
+Turn on Allow Notifications.
+Choose how and where you want the notifications to appear—for example, on the Lock Screen, in Notification Center, as banners at the top of the screen, with an alert sound, and so on.
+Turn on customized notifications for specific calendar events
+After customizing Calendar notifications, you can choose whether you want them to appear for specific occasions—like upcoming events or invitee responses, for example.
+Go to Settings > Notifications > Calendar.
+Scroll down and tap Customize Notifications.
+Turn the specific customized notifications on or off.
+Keep your calendar up to date across your devices
+You can use iCloud to keep your calendar information up to date on all your devices where you’re signed in to the same Apple Account .
+Go to Settings > [ your name ] > iCloud, then turn on Calendars.
+Note: If you don’t see Calendars, tap Show All to see more options.
+If you don’t want to use iCloud for your calendar, you can sync your calendar information between your iPhone and your computer. See Sync supported content .

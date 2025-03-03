@@ -1,0 +1,10 @@
+iPhone User Guide
+Make the pointer easier to see when using a mouse or trackpad with iPhone
+If you have difficulty seeing or following the pointer when you use a mouse or trackpad with iPhone, you can change its size and color so it’s easier to locate on the screen.
+Go to Settings > Accessibility > Pointer Control, then adjust any of the following:
+Increase Contrast
+Automatically Hide Pointer
+Color
+Pointer Size
+Scrolling Speed
+To customize the buttons of the pointing device, go to Settings > Accessibility > Touch > AssistiveTouch > Devices.

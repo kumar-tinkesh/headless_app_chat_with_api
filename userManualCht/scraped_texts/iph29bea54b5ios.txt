@@ -1,0 +1,12 @@
+iPhone User Guide
+Request Roadside Assistance via satellite on your iPhone
+On iPhone 14 or later (any model), you can request Roadside Assistance via satellite when you’re outside of cellular and Wi-Fi coverage.
+Note: Roadside Assistance via satellite requires iOS 17 or later and isn’t available in all countries or regions.
+Request Roadside Assistance via satellite on your iPhone
+Open the Messages app on your iPhone.
+Tap at the top of the screen, then type “Roadside” in the address field.
+Tap Roadside Assistance and follow the onscreen instructions.
+Important: To help you connect to a satellite, make sure to hold your phone naturally in your hand—you don’t need to raise your arm or hold your phone up, but make sure your phone has a clear line of sight to the sky. If you’re under heavy foliage or surrounded by other obstructions, you might not be able to connect to a satellite.
+Once connected, you’ll be asked for important information, like the model of your car and the issue you’re having.
+After you answer the questions, you’ll be guided to connect to a satellite and be able to message directly with a roadside assistance provider. They may ask follow up questions to make sure they’re sending you the right kind of help. You can message with them with any questions about the estimated time until someone arrives and any fees associated with the service.
+For more information, see the Apple Support article Request Roadside Assistance via satellite on your iPhone .

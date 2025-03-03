@@ -1,0 +1,20 @@
+iPhone User Guide
+Follow teams with My Sports in the Apple TV app on iPhone
+You can add your favorite teams to My Sports to see their games in Continue Watching and receive notifications when they’re about to play.
+When you turn on syncing for My Sports, the teams you follow in Apple TV are automatically followed in Apple News, Apple Sports, and other supported apps. If you already set up My Sports in the News app, the teams you follow appear in the Apple TV app.
+If you have an iPhone, iPad, or Mac signed in to the same Apple Account , you can also see the teams you’re following with My Sports in the Apple TV app and in the News app on those devices.
+Note: My Sports isn’t available in all countries or regions.
+Follow your favorite teams
+Go to the Apple TV app on your iPhone.
+Tap Home, scroll down to the Sports row, then tap Live Sports.
+Tap Follow Your Teams.
+Tap Turn On to sync your teams across Apple News, Apple TV, and other supported apps.
+Tap a sports league (MLS, MLB, or NBA, for example), then tap next to a team to follow it.
+When you’re finished, tap Done.
+Manage My Sports
+You can follow and unfollow teams after you set up My Sports.
+Go to the Apple TV app on your iPhone.
+Tap Home, scroll down to the Sports row, then tap Live Sports.
+Tap Manage My Sports at the bottom of the screen, then do any of the following:
+Follow teams: Tap a league, tap next to a team you want to follow, then tap Done.
+Unfollow teams: Tap next to a team you want to unfollow, tap Remove, then tap Done.

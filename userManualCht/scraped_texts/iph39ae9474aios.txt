@@ -1,0 +1,20 @@
+iPhone User Guide
+Manage weather notifications on iPhone
+You can receive notifications when precipitation or certain severe weather events are forecasted in your current location. You can also receive notifications for locations you saved in your list.
+Turn on weather notifications for your location
+Go to Settings > Privacy & Security > Location Services.
+Tap Weather, then tap Always.
+Turn on Precise Location to receive the most accurate notifications for your current location.
+Go to the Weather app on your iPhone.
+Tap to display your list, then tap , then tap Notifications.
+If prompted, allow notifications from the Weather app.
+Below Current Location, turn on notifications for Severe Weather and Next-Hour Precipitation (green is on).
+Tap Done.
+Turn on weather notifications for locations in your list
+Go to the Weather app on your iPhone.
+Tap to display your list.
+Tap , then tap Notifications.
+If prompted, allow notifications from the Weather app.
+Below Your Locations, tap a location, then turn on notifications for Severe Weather and Next-Hour Precipitation (green is on).
+Tap Done.
+Note: Weather notifications aren’t available in all countries or regions.

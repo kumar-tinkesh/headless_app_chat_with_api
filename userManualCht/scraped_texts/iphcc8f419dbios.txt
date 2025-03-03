@@ -1,0 +1,16 @@
+iPhone User Guide
+Perform quick actions on iPhone
+On the Home Screen, in App Library, in Control Center, and in apps, you can use quick actions menus, see previews, and more.
+Perform quick actions from Control Center, the Home Screen, and App Library
+On the Home Screen and in App Library, touch and hold apps to open quick actions menus.
+For example:
+Touch and hold Camera , then choose Selfie.
+Touch and hold Maps , then choose Send My Location.
+Touch and hold Notes , then choose New Note.
+Note: If you touch and hold an app for too long before choosing a quick action, all of the apps begin to jiggle. Tap Done (on an iPhone with Face ID) or press the Home button (on other iPhone models), then try again.
+See previews and other quick actions menus
+In Photos, touch and hold an image to preview it and see a list of options.
+In Mail, touch and hold a message in a mailbox to preview the message contents and see a list of options.
+Open Control Center , then touch and hold an item like Camera or the brightness control to see options.
+On the Lock Screen, touch and hold a notification to respond to it.
+When typing, touch and hold the Space bar with one finger to turn the onscreen keyboard into a trackpad .

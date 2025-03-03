@@ -1,0 +1,29 @@
+iPhone User Guide
+Use categories in Mail on iPhone
+In iOS 18.2 or later, the Mail app automatically sorts your email messages into categories to help you find and manage messages quicker.
+Primary: Find personal messages and time-sensitive information.
+Transactions: Keep track of your confirmations, receipts, and shipping notices.
+Updates: Catch up on news, newsletters, and social updates.
+Promotions: Browse your coupon and sales emails.
+Note: When a Transactions, Updates, or Promotions message includes time-sensitive information, it will also be included in the Primary message list.
+View all messages from a Transactions, Updates, or Promotions sender
+When you tap a Transactions, Updates, or Promotions message, a digest view of messages from that sender opens. For example, if you open a Transactions message, all of the other Transactions messages from that sender will appear when you scroll up or down.
+Note: You can take action on all messages from a sender when you open the digest view.
+Go to the Mail app on your iPhone.
+Tap a Transactions , Updates , or Promotions message.
+All of your messages in that category from the same sender appear in a list.
+To view all of your messages from a sender, tap at the top of the sender’s message list, then choose Show All Messages.
+Note: Primary messages are not grouped by sender.
+To view only one Transactions, Updates, or Promotions message when scrolling, go back to your inbox, tap , then deselect Group by Sender.
+Change the category of a sender
+You can manually categorize messages from a sender into the category of your choosing.
+Go to the Mail app on your iPhone.
+Do any of the following:
+Recategorize Primary messages from a sender: Tap a Primary message, tap , then choose Categorize Sender.
+Recategorize Transactions, Updates, or Promotions messages from a sender: Tap a Transactions , Updates , or Promotions message. Tap at the top of the message list, then choose Categorize Sender.
+Choose a category, then tap Continue.
+All current and future messages from the sender will appear in the category you choose.
+Turn off categories
+Tip: You can quickly view all emails in an inbox. Swipe left on the categories at the top of the inbox to open All Mail.
+Go to the Mail app on your iPhone.
+In an inbox, tap at the top of the screen, then choose List View.

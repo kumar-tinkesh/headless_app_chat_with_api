@@ -1,0 +1,48 @@
+iPhone User Guide
+Set up a Focus on iPhone
+Focus is a feature that helps you concentrate on a task by minimizing distractions. When you want to concentrate on a specific activity, you can customize one of the provided Focus options—for example Work, Personal, or Sleep—or create a custom Focus . You can use Focus to temporarily silence all notifications, or allow only specific notifications—ones that apply to your task, for example—and let other people and apps know you’re busy.
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max, you can also use the Reduce Interruptions Focus, which uses Apple Intelligence to show you only the most important notifications. See Use the Reduce Interruptions Focus .
+Tip: To quickly silence all notifications, open Control Center , tap Focus, then turn on Do Not Disturb.
+Set up a Focus
+Go to Settings > Focus, then tap a Focus—for example, Do Not Disturb, Personal, or Work.
+For your Focus, you can set up the options described in the steps below, but you don’t have to set up all of them.
+Specify which people and apps to allow notifications from during your Focus:
+People: Tap People, then tap Allow Notifications From. Tap , select  contacts, tap Done, then tap at the top of the screen. You can also silence specific people by tapping Silence Notification From instead.
+Apps: Tap Apps, then tap Allow Notifications From. Tap , select apps, tap Done, then tap at the top of the screen. You can also silence specific apps by tapping Silence Notifications From instead.
+Tap Options, then select any of the following:
+Show silenced notifications in Notification Center instead of on the Lock Screen: Turn off Show On Lock Screen.
+Hide notification badges on your silenced apps to prevent the distraction: Turn on Hide Notification Badges.
+Silence calls and notifications: Tap Silence Notifications, then choose Always or While Locked.
+Dim the Lock Screen during this Focus: Turn on Dim Lock Screen.
+Intelligently allow important notifications to interrupt you: If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max, turn on Intelligent Breakthrough & Silencing. Any notifications specifically allowed or silenced will always be allowed or silenced.
+When you’re finished selecting options, tap at the top of the screen.
+Specify the Lock Screen and Home Screen options:
+Choose the Lock Screen for this Focus: Tap the Lock Screen preview below Customize Screens, select a Lock Screen, then tap Done at the top of the screen.
+Choose the Home Screen for this Focus: Tap the Home Screen preview below Customize Screens, select a Home Screen, then tap Done at the top of the screen.
+Note: To make changes to the Home Screen to customize it further for your Focus, see Move apps and widgets on the Home Screen .
+After setting up your Focus, you can return to Settings > Focus at any time and change any of the options you chose above.
+Turn a Focus on or off
+You can turn a Focus on or off manually in Control Center or schedule the Focus to turn on automatically .
+Add Focus filters
+When you set up a Focus, you can add app filters that determine what information apps will show during the Focus. For example, you can choose which mail account or which calendar to use during the Focus.
+Go to Settings > Focus, then tap the Focus you want to add filters to.
+Scroll down to Focus filters, then tap Add Filter.
+Tap an app, then select the information from that app you want to use during the Focus:
+Calendar: Choose which calendars you want to show during the Focus.
+Mail: Choose which mail accounts you want to use during the Focus.
+Messages: Choose which message conversations you want to see during the Focus—for example, only conversations from people you’ve allowed notifications from during this Focus.
+Safari: Choose which Tab Group you want to use during the Focus.
+Tap Add to add the filter to the Focus.
+Create a custom Focus
+If you want to focus on an activity that’s different from any of the provided Focus options, you can create a custom Focus.
+Go to Settings > Focus.
+Tap at the top right, then tap Custom.
+Enter a name for your Focus, then tap Return.
+Choose a color and an icon to represent your Focus, then tap Next.
+Tap Customize Focus, then set up the options for your custom Focus, following the instructions in Set up a Focus .
+Keep your Focus settings up to date across all your Apple devices
+You can use the same Focus settings on all your Apple devices where you’re signed in to the same Apple Account .
+Go to Settings > Focus, then turn on Share Across Devices.
+Note: Focus filters don’t get synced across devices—they’re only on the device where you set them up.
+Go to Settings > Focus.
+Turn on Share Across Devices.

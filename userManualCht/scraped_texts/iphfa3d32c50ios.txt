@@ -1,0 +1,56 @@
+iPhone User Guide
+Change your VoiceOver settings on iPhone
+You can customize the settings for VoiceOver, such as the audio options, language, voice, speaking rate, and verbosity.
+Adjust the volume of VoiceOver speech and sounds
+To increase or decrease your iPhone’s volume, including the volume of VoiceOver speech and sounds, as well as all other iPhone audio, press the volume buttons on iPhone.
+To temporarily reduce the volume of other iPhone audio while VoiceOver is speaking, go to Settings > Accessibility > VoiceOver > Audio, tap Audio Ducking, then select When Speaking. Drag the Ducking Amount slider to set how much the volume decreases for other iPhone audio—like media and calls—when VoiceOver is speaking.
+To set other audio options, go to Settings > Accessibility > VoiceOver > Audio, then set options such as the following:
+Sounds & Haptics: Adjust and preview sound effects and haptics.
+Auto-select Speaker in Call: Automatically switch to the speaker during a call when you’re not holding iPhone to your ear.
+Send to HDMI: Route audio to externally connected devices, such as an instrument amplifier or a DJ mixer.
+Set the VoiceOver language
+Change the primary language: VoiceOver uses the same language you choose for your iPhone. To choose a different primary language, go to Settings > General > Language & Region, then tap Add Language.
+Switch languages using the rotor: Use the rotor to switch to a voice for another language.
+Automatically switch languages: VoiceOver can detect text in another language and automatically switch to a voice for that language. Go to Settings > Accessibility > VoiceOver > Speech, then turn on Detect Languages.
+Note: VoiceOver is not available in all languages. See the Apple Support article Languages supported by VoiceOver .
+Change the speaking voice
+You can change the VoiceOver speaking voice, or add another voice and use the rotor to switch between voices as needed.
+Go to Settings > Accessibility > VoiceOver.
+Tap Speech, then do one of the following:
+Change the primary voice: Tap the name of the current primary voice, then tap Voice.
+Add another voice: Tap Add Rotor Voice.
+Choose a voice. To choose an enhanced voice, tap first.
+Adjust the speaking voice
+Go to Settings > Accessibility > VoiceOver, then do any of the following:
+Adjust the speaking rate: Drag the Speaking Rate slider.
+Adjust the pitch: Tap Speech, tap a voice, then drag the slider. You can also turn on Pitch Change to have VoiceOver use a higher pitch when speaking the first item of a group (such as a list or table) and a lower pitch when speaking the last item of a group.
+Specify the pronunciation of certain words: Tap Speech > Pronunciations, tap , enter a phrase, then dictate or spell out how you want the phrase to be pronounced.
+Note: You can dictate only if you turned on Enable Dictation in Settings > General > Keyboards.
+Set how much VoiceOver tells you
+Go to Settings > Accessibility > VoiceOver > Verbosity, then do any of the following:
+Change how VoiceOver speaks punctuation: Tap Punctuation, then choose a group. You can also create new groups—for example, a programming group in which “[” is spoken as “left brack.”
+Change how VoiceOver reads notifications: Tap System Notifications. By default, VoiceOver reads notifications, including incoming text messages, as they occur—even if iPhone is locked. Unacknowledged notifications are repeated when you unlock iPhone.
+Choose additional options: Have VoiceOver speak hints, uppercase letters, embedded links, and more. VoiceOver can even confirm rotor actions and tell you when the flashlight is turned on.
+Customize VoiceOver settings for an activity
+You can customize a group of VoiceOver settings for an activity, such as programming. Then, when you open certain apps or adjust the rotor, the settings for speech, audio, verbosity, typing, navigation, and braille are applied automatically.
+Go to Settings > Accessibility > VoiceOver > Activities.
+Choose an existing activity or tap Add Activity.
+Adjust the settings, then below Automatic Switching, do any of the following:
+Apply the settings for certain apps: Tap Apps, then select the ones you want this setting to apply to.
+Apply the settings for certain contexts: Tap Context, then select one or more contexts, such as Word Processing, Messaging, or Console.
+Use flat or grouped navigation
+Go to Settings > Accessibility > VoiceOver > Navigation Style, then choose one of the following:
+Flat: VoiceOver moves sequentially through each item on the screen when you use the move next and previous commands.
+Grouped: VoiceOver moves through items and groups of items on the screen. To move into a group, use a two-finger swipe right. To move out of a group, use a two-finger swipe left.
+Set a delay between touching the screen and selecting an item
+You can control the amount of time between when you touch the screen and when VoiceOver selects the item you’ve touched. Increasing this value may help reduce accidental touches.
+Go to Settings > Accessibility > VoiceOver, tap Delay before Selection, then tap or to increase or decrease the delay.
+Adjust VoiceOver visuals
+Go to Settings > Accessibility > VoiceOver, then turn on any of the following:
+Large Cursor: If you have difficulty seeing the outline around the selected item, you can enlarge and thicken the outline.
+Caption Panel: The text spoken by VoiceOver is displayed at the bottom of the screen.
+Use Quick Settings to adjust VoiceOver from anywhere on iPhone
+When VoiceOver is turned on, you can access Quick Settings by doing a two-finger quadruple tap.
+To customize Quick Settings, do the following:
+Go to Settings > Accessibility > VoiceOver > Quick Settings.
+Choose the settings you want, or drag to reorder settings.

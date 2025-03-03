@@ -1,0 +1,14 @@
+iPhone User Guide
+Change your download settings for Podcasts on iPhone
+Podcasts you follow are automatically downloaded to your Apple device. Episodes you’ve played are automatically deleted from your device. You can change these settings, and adjust other download options.
+Turn automatic downloads on or off
+Go to Settings > Apps > Podcasts.
+Tap Automatically Download, then tap an option.
+Tip: To automatically download episodes from a particular podcast, open the Podcasts app , tap Library, then tap Shows. Touch and hold the show’s artwork, tap Settings, then tap Automatically Download to choose a download option.
+Remove downloaded podcasts after you listen to them
+Go to Settings > Apps > Podcasts.
+Turn on Remove Played Downloads.
+Or, to adjust this setting for a particular podcast you follow, tap Library, tap Shows, then touch and hold the show’s artwork. Tap Settings, then turn on Remove Played Downloads.
+Turn off automatic syncing across Apple devices
+Go to Settings > Apps > Podcasts.
+Turn off Sync Library.

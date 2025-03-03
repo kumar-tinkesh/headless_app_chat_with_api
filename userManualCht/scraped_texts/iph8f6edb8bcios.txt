@@ -1,0 +1,23 @@
+iPhone User Guide
+Use Apple Card on iPhone
+Apple Card (available in the U.S.) is a credit card created by Apple and designed to help you lead a healthier financial life. You can sign up for Apple Card in the Wallet app on iPhone in minutes and start using it with Apple Pay right away in stores, in apps, or online worldwide. Apple Card gives you easy-to-understand, real-time views of your latest transactions and balance right in Wallet, and Apple Card support is available anytime by simply sending a text from Messages.
+Apply for Apple Card
+Go to the Wallet app on your iPhone.
+Tap , then tap Apply for Apple Card.
+For more information, see the Apple Support article How to apply for Apple Card .
+Make purchases with Apple Card
+You can make purchases with Apple Card in the following ways:
+With Apple Pay: At contactless payment terminals and in apps and on the web .
+With the virtual card number: In the Wallet app , tap Apple Card, then tap to see the card number, expiration date, and security code.
+With the titanium card: In stores, restaurants, and other locations where Apple Pay isn’t yet accepted, use the physical card.
+View transactions, make payments, and manage your Apple Card
+Go to the Wallet app on your iPhone.
+Tap Apple Card.
+Do any of the following:
+Review your spending: Scroll down to see recent transactions or tap to search. Tap Weekly Activity or Monthly Activity to see your spending for that period.
+See the Apple Support article See your Apple Card spending history .
+Make a one-time payment or schedule automatic payments: Tap the payment button. See the Apple Support article How to make Apple Card payments .
+See the virtual card number: Tap to see the card number, expiration date, and security code.
+Manage your account: Tap to review rewards and offers, see account details, contact support, manage notifications, and more.
+Tip: Add the Apple Card widget to your Home Screen to see your balance, available credit, and spending activity at a glance.
+Apple Footer

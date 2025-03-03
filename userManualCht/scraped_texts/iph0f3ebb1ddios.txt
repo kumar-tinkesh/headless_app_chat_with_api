@@ -1,0 +1,27 @@
+iPhone User Guide
+Crop, rotate, flip, or straighten photos and videos on iPhone
+You can use the tools in the Photos app to crop, rotate, flip, straighten, or adjust the size of a photo or video.
+When you use iCloud Photos , any edits you make to your photos and videos are saved across all your devices.
+Crop, rotate, or flip a photo or video
+Go to the Photos app on your iPhone.
+Tap a photo or video to open it, then tap .
+Tap , then do any of the following:
+Crop manually: Drag the rectangle corners to enclose the area you want to keep in the image, or pinch open or closed.
+Note: When you drag a corner, the crop tool keeps the original aspect ratio of the photo. To change the aspect ratio, tap the lock at the top-right corner of the photo to unlock the aspect ratio.
+Crop to a standard preset ratio: Tap , then choose an option such as Square, Wallpaper, 9:16, or 5:7.
+Rotate: Tap to rotate the image 90 degrees.
+Flip: Tap to flip the image horizontally.
+Tap Done to save your edits, or if you don’t like your changes, tap Cancel, then tap Discard Changes.
+Tip: To quickly crop a photo while you’re viewing it, pinch the photo to zoom in. When the photo appears as you want it cropped, tap Crop in the top-right corner of the screen. Make any further adjustments with the crop tools, then tap Done.
+Straighten a photo or video and adjust its perspective
+You can straighten a photo or video, or tilt it vertically or horizontally.
+Go to the Photos app on your iPhone.
+Tap a photo or video to open it, then tap .
+Tap .
+Swipe left under the photo to view editing options.
+Tap the effect you want to edit, then drag the slider to make precise adjustments.
+The level of adjustment you make is displayed by the slider. Tap the button to switch between the edited photo or video and the original.
+Tap Done to save your edits.
+Tip: To undo edits after you save, open the photo or video, tap , then tap Revert.
+Remove distractions using Apple Intelligence
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max, you can use the Clean Up tool to help identify and remove distracting objects in a photo. See Remove distractions from your photos .

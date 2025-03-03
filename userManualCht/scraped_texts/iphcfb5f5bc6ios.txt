@@ -1,0 +1,38 @@
+iPhone User Guide
+Download offline maps on iPhone
+You can save a map of an area and use it when your iPhone is offline.
+Even when you can’t access Wi-Fi or cellular service, you can view information like hours and ratings on place cards, get turn-by-turn directions for driving, walking, cycling, or riding transit, and see your estimated time of arrival.
+Note: Offline maps are available in select areas. Features vary by country and region. Automatic Updates is on by default.
+Download maps
+Go to the Maps app on your iPhone.
+Do one of the following:
+Touch and hold the map until a pin marker appears, then tap Download.
+Tap your picture or initials next to the search field, tap Offline Maps, tap Download New Map, then enter a location in the search field or tap Current Location.
+Adjust the selected area, then tap Download.
+To reduce the size of the map you download, select a smaller area.
+Downloaded maps update automatically, unless you change your settings .
+Tip: You can sync your iPhone with Apple Watch and carry downloaded maps with you wherever you go—even without your iPhone nearby. See Use offline maps on Apple Watch in the Apple Watch User Guide.
+Open or edit a map you downloaded
+Any maps you download to use offline appear in your list of offline maps.
+Go to the Maps app on your iPhone.
+Tap your picture or initials next to the search field, then tap Offline Maps.
+Do any of the following:
+Open a map: Tap its name.
+Rename a map: Swipe left on the map, then tap Rename.
+Change the area covered by a map: Tap the map’s name, then tap Resize on the image of the map.
+Control map data downloads
+You can change your settings—like when to download or update a map—depending on your data storage needs and preferences.
+Go to the Maps app on your iPhone.
+Tap your picture or initials next to the search field, then tap Offline Maps.
+Do any of the following:
+Download over cellular: Tap Wi-Fi Only, then tap to select Wi-Fi + Cellular.
+Use online maps: Turn off Only Use Offline Maps.
+Manually update maps: Tap Update All. (To update just one map, tap the map you want to update, then tap Update.)
+Automatically update all maps: Turn on Automatic Updates.
+Remove downloaded maps
+You can remove downloaded maps to free up storage space on your iPhone.
+Go to the Maps app on your iPhone.
+Tap your picture or initials next to the search field, then tap Offline Maps.
+Do one of the following:
+Manually remove a map: Swipe left on the map, then tap Delete.
+Automatically delete unused maps: Turn on Optimize Storage.

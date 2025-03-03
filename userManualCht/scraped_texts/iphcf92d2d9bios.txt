@@ -1,0 +1,33 @@
+iPhone User Guide
+Type to speak using Live Speech on iPhone
+If you’re unable to speak or have lost your speech over time, you can use Live Speech on iPhone to have what you type spoken out loud during in-person conversations and in apps like FaceTime. You can choose from dozens of system voices or use a personal voice you create .
+Note: Live Speech is not available in all languages. See the iOS and iPadOS Feature Availability webpage.
+Turn on Live Speech
+Go to Settings > Accessibility > Live Speech, then turn on Live Speech.
+Choose a voice. You can use Live Speech with any voice you choose, including your Personal Voice.
+Triple-click the side button or Home button (depending on your iPhone model), then tap Live Speech (if the Accessibility Shortcut is set up with more than one feature).
+Have what you type spoken out loud
+After you turn on Live Speech , type what you want to have spoken in the Live Speech window.
+You can also paste copied text into the window, or tap suggested words that appear above the keyboard as you type.
+Tap Speak to have your text spoken out loud.
+If you’re on a FaceTime call, Live Speech is output on the other end of the call. Otherwise, the speaker on your iPhone outputs Live Speech.
+Have saved phrases spoken out loud
+With Live Speech, you can select from a list of phrases you use often.
+After you turn on Live Speech , tap Keyboard at the top of the Live Speech window.
+Tap a category, like Recent or Saved, then tap a phrase to have it spoken out loud.
+To hide your saved phrases and return to entering text with the keyboard, tap Phrases at the top of the Live Speech window.
+Add or remove saved phrases
+Add or remove phrases from the list of saved phrases that you use often.
+Go to Settings > Accessibility > Live Speech, then tap Phrases.
+Tap Saved or another category you’ve created, then do any of the following:
+Add a saved phrase: Tap , enter your phrase in the text field, then tap Save.
+Remove a saved phrase: Tap a phrase, then tap Delete Phrase.
+Create categories for saved phrases
+Organize your saved phrases into categories, such as for different activities—like work, school, or gaming.
+Go to Settings > Accessibility > Live Speech, then tap Phrases.
+Tap , enter a name for the category, choose an icon, then tap Done.
+Allow audio from other apps in calls
+You can allow the audio from apps to be audible in voice and video calls, which can be helpful if you use apps that assist with speaking and communication.
+Go to Settings > Accessibility > Audio & Visual, then tap Add Audio in Calls.
+Turn on Allow Apps to Add Audio in Calls.
+When this option is on, both audio and microphone input are included in calls. To silence all audio during a call, mute the microphone.

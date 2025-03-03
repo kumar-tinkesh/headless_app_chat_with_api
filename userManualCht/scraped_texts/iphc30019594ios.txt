@@ -1,0 +1,19 @@
+iPhone User Guide
+Download health records on iPhone
+The Health app offers secure access to information about your vaccinations, allergies, conditions, medications, and more (not available in all countries or regions).
+You can use a QR code or a link from a healthcare provider or authority to download a test result record, and you can set up automatic downloads for a range of health records from supporting healthcare organizations.
+Note: When iPhone is locked with Face ID, Touch ID, or a passcode, all of the health data in the Health app—other than what you add to your Medical ID —is encrypted.
+Set up automatic health record downloads from your healthcare provider
+Supporting healthcare organizations can securely and automatically download records of your allergies, medical conditions, medications, labs, vaccinations, and more to Health.
+Go to the Health app on your iPhone.
+Tap your picture or initials at the top right.
+If you don’t see your picture or initials, tap Summary or Browse at the bottom of the screen, then scroll to the top of the screen.
+Tap Health Records, then do one of the following:
+Set up your first download: Tap Get Started.
+Set up downloads for additional accounts: Tap Add Account.
+A list of nearby organizations appears. If your organization doesn’t appear in the list, enter the name of a clinic, hospital, or other place where you obtain health records. Or enter the name of a city, state, or province to find organizations near there.
+Tap the name of your organization.
+Tap Connect Account (below Available to Connect) to go to the sign-in screen for your patient portal.
+Enter the user name and password you use for the patient web portal of that organization, then follow the onscreen instructions.
+After you set up downloads from an organization, you automatically receive new records in Health as they become available.
+Note: Your healthcare organization might not appear in this feature. Organizations are added frequently.

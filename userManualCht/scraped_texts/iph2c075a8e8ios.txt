@@ -1,0 +1,10 @@
+iPhone User Guide
+Report an issue with Maps on iPhone
+If you notice something’s missing in Maps—an address, business, transit stop, or another feature—you can add it. You can also report other kinds of issues, such as an incorrect step in directions or a business that has closed.
+Go to the Maps app on your iPhone.
+Do one of the following:
+Touch and hold the map until a pin marker appears, tap More (on the right side of the place card), then tap Report Something Missing.
+Tap your picture or initials next to the search field, tap Reports, then tap Report a New Issue.
+Choose an option, then follow the onscreen instructions.
+To change the address used for your home or work, see Add notes to a place .
+If you have a business (large or small), you can use Apple Business Connect to help your customers find it in Maps, Apple Wallet, Siri, and more. Learn more about Apple Business Connect .

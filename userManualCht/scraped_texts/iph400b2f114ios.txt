@@ -1,0 +1,46 @@
+iPhone User Guide
+Set up and turn on Switch Control on iPhone
+To set up Switch Control , you need to connect and add one or more switches , then assign an action to each switch. You can choose a scanning style and fine-tune other settings to suit your needs. After you turn on Switch Control, you may need to change the assigned actions or readjust the settings. If you have difficulty performing these steps, you can get personalized help at your nearest Apple Store.
+Step 1: Connect an external switch (optional)
+If you want to use an adaptive accessory, joystick, game controller, or MFi device for Switch Control, you need to first connect it to iPhone by following the manufacturer’s instructions. If the switch connects using Bluetooth®, you need to pair it with iPhone.
+Turn on the switch.
+Go to Settings > Bluetooth, turn on Bluetooth, tap the name of the switch, then follow the onscreen instructions.
+Step 2: Add switches and assign actions
+You can use only one switch, or you can use multiple switches to accommodate different actions. Each switch performs an assigned action, such as selecting an item or moving the cursor to the next item.
+Go to Settings > Accessibility > Switch Control > Switches.
+Tap Add New Switch, then choose External, Screen, Camera, Back Tap, or Sound.
+If you’re trying to add an external switch but it isn’t shown in the list, make sure it’s connected to your iPhone as described above in Step 1: Connect an external switch (optional) .
+Assign an action to the switch.
+The action for the switch depends on the number of switches you have and the scanning style you choose in Step 3: Choose a scanning style , below. If you don’t know which action to assign, choose Select Item, which is compatible with Auto Scanning (the default scanning style). You can return to this setting later to change the assigned action.
+Tip: Turn your iPhone into a game controller that uses gestures you’ve already set up, like the same switch (or alternative input method) that you navigate and control your iPhone with. Or you may decide to reuse your Back Tap gestures instead.
+Step 3: Choose a scanning style
+By default, the cursor automatically moves from one item to the next after a specified duration. If you prefer to move the cursor manually, you can choose a different scanning style.
+Go to Settings > Accessibility > Switch Control > Scanning Style, then choose one of the following:
+Auto Scanning: The cursor automatically moves to the next item after a specified duration. This is the default scanning style.
+If you use Auto Scanning with just one switch, make sure the Select Item action is assigned to the switch.
+Manual Scanning: When you activate your Move to Next Item switch, the cursor moves to the next item.
+Manual Scanning requires at least two switches. Make sure the Move to Next Item action is assigned to one switch, and the Select Item action is assigned to another switch.
+Single Switch Step Scanning: When you activate the Move to Next Item switch, the cursor moves to the next item; if no action is taken within a specified duration, the current item is automatically selected.
+This scanning style requires only one switch. Make sure the Move to Next Item action is assigned to the switch.
+Step 4: Fine-tune Switch Control settings
+You can adjust the behavior of Switch Control in a variety of ways, to suit your specific needs and style. For example, you can change the scanning speed or have iPhone speak the highlighted items.
+Go to Settings > Accessibility > Switch Control, then adjust any of the following:
+Auto Scanning Time: Adjust the item scanning speed.
+Pause on First Item: Set scanning to pause on the first item in a group.
+Loops: Choose how many times to cycle through the screen before hiding Switch Control.
+Move Repeat: Set the delay before moving to the previous or next item while a switch is pressed.
+Long Press: Set whether a different action occurs when you press and hold a switch, and how long to wait before performing that action.
+Tap Behavior: Choose a tap behavior and set the interval for performing a second switch action to show the Scanner menu.
+Focused Item After Tap: Choose whether Switch Control resumes scanning at an item you tap or from the beginning.
+Hold Duration: Specify how long you need to press and hold a switch before it’s accepted as a switch action.
+Ignore Repeat: Ignore accidental repeated switch triggers.
+Sound Effects: Turn on sound effects.
+Speech: Speak items as they’re scanned.
+Menu Items: Choose the actions shown in the Scanner menu and the order in which they appear.
+Group Items: Group items for faster navigation.
+Large Cursor: Make the highlight more prominent.
+Cursor Color: Choose a different highlight color.
+Step 5: Turn on Switch Control
+Important: When Switch Control is turned on, you can’t use the standard gestures on the touchscreen to exit Switch Control.
+Go to Settings > Accessibility > Switch Control, then turn on Switch Control.
+Tip: You can add Switch Control to Accessibility Shortcut , then quickly turn it on or off by triple-clicking the side button (on an iPhone with Face ID) or the Home button (on other iPhone models).

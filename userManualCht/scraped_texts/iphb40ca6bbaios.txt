@@ -1,0 +1,18 @@
+iPhone User Guide
+Subscribe to a show or channel in Podcasts on iPhone
+In the Podcasts app, subscribe to, change, cancel, and share your podcasts subscriptions. Paid subscriptions allow you to support the shows you love, and they often include premium extras, early access to new episodes, or ad-free listening.
+Note: Not all subscriptions and channels are available in all countries, regions, or languages. See the Apple Support article Availability of Apple Media Services .
+Subscribe to a show or channel
+Go to the Podcasts app on your iPhone.
+Select the show or channel you want to subscribe to.
+Tap the subscription button (if available).
+When you subscribe to a show, you automatically follow it. You can access shows you subscribe to or follow on your other Apple devices or on the Apple Podcasts app . See Follow your favorite podcasts . When you subscribe to a channel or follow one of its shows, the channel appears in the Channels section of your library.
+Change or cancel your subscriptions
+Go to the Podcasts app on your iPhone.
+Tap Home.
+Tap or your picture, then tap Manage Subscriptions.
+Tap a subscription to change or cancel it.
+Share Apple Podcasts subscriptions
+When you subscribe to podcast channels, you can use Family Sharing to share your subscriptions with up to five other family members. Your family group members will automatically have access to the channels you subscribe to.
+If you join a family group and a family group member subscribes to a show you already subscribe to, your subscription isn’t renewed on your next billing date; instead, you use the group’s subscription. If you join a family group that doesn’t subscribe, the group uses your subscription.
+Note: To stop sharing a show subscription with a family group, you can cancel the subscription or leave a Family Sharing group .

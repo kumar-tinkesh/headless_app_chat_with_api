@@ -1,0 +1,51 @@
+iPhone User Guide
+Accessibility features for vision on iPhone
+With built-in accessibility features for vision on iPhone, you can make it easier to see what’s on the screen, or you can hear what’s on the screen spoken out loud. You can even use your iPhone as a magnifying glass, and hold it up to get descriptions of what’s around you if you can’t see it.
+To explore accessibility features for vision, go to Settings > Accessibility. Vision features are at the top.
+Hear what’s on the screen
+Control iPhone with VoiceOver
+Have the built-in screen reader speak what’s on the screen. Navigate your iPhone with gestures, or with a connected keyboard or braille display.
+Turn on and practice VoiceOver
+Speak onscreen text
+Even if VoiceOver is off, have iPhone read all text on the screen, what you’re typing, and more.
+Hear iPhone speak the screen, selected text, and typing feedback
+Hear descriptions of video
+Get spoken descriptions of visual content in movies, TV shows, and other media, when available.
+Hear audio descriptions for video content
+You can also have iPhone play sounds when you turn it on and off .
+Tip: With Siri and Dictation , you can complete common tasks and enter text using just your voice.
+Get information about your surroundings
+Point at text and hear it spoken
+Have iPhone read text on household appliances, ATMs, and more.
+Read aloud text and labels around you
+Hear about your surroundings
+Hold up iPhone and get information about what your camera is pointed at, including when people, doors, or text are detected.
+Get live descriptions of visual information around you
+Get a closer look
+Use iPhone as a magnifying glass to zoom in on items around you.
+Magnify and examine objects around you
+Make text and other onscreen content larger
+Zoom in
+Enlarge what you’re viewing—the entire screen or one part of it.
+Zoom in on the iPhone screen
+Make text bigger and bolder
+Adjust the reading size for text across iPhone apps and system features.
+Make text easier to read
+Enlarge text as you type
+Display a separate window with a larger version of the text that you’re typing.
+Use Hover Typing
+If you use a mouse or trackpad with iPhone, you can also show a larger version of text when you hover over it or make the pointer easier to see .
+View what’s on the screen more comfortably
+Reduce onscreen motion
+Pause animated images, and slow down the motion of user interface elements. Or dim your display when media you’re viewing depicts strobe or flashing lights.
+Stop or reduce onscreen motion
+Use iPhone more comfortably in a car
+Get animated dots on the edges of the screen that may help reduce motion sickness.
+Use iPhone more comfortably while riding as a passenger in a vehicle
+Use Dark Mode
+If you prefer light text on a dark background, choose a dark color scheme for the iPhone user interface.
+Turn Dark Mode on or off
+Adjust the display colors
+Differentiate content on the screen more easily by inverting colors, applying a color filter, and more.
+Change display colors on iPhone to make it easier to see what’s onscreen
+Tip: Control your go-to accessibility features and settings with the click of a button or from Control Center. See Quickly open features with Accessibility Shortcut .

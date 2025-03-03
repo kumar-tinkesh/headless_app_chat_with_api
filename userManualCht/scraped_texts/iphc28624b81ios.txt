@@ -1,0 +1,26 @@
+iPhone User Guide
+Get started with Apple Intelligence on iPhone
+Apple Intelligence is the personal intelligence system built into iOS 18. It combines the power of generative models with an understanding of your personal context to deliver intelligence that’s useful and relevant. Apple Intelligence is designed to understand and create language and images; prioritize and summarize notifications, mail, and messages; and draw from the personal information on your device to simplify and accelerate everyday tasks. And it does all this while protecting your privacy.
+Supported devices: Apple Intelligence is available in iOS 18.1 or later on all iPhone 16 models, iPhone 15 Pro, and iPhone 15 Pro Max.
+Availability: Apple Intelligence is available with Siri and device language set to English in most regions around the world. Apple Intelligence is not available on iPhone and iPad if you’re in the EU and if your Apple Account country or region is also in the EU. For more information, see the Apple Support article Apple Intelligence requirements .
+Turn Apple Intelligence on: With iOS 18.3 and later, Apple Intelligence is on by default and integrated across features in your apps. If you have an earlier version of iOS 18 (or if you previously turned off Apple Intelligence), go to Settings > Apple Intelligence & Siri, then tap Get Apple Intelligence.
+Turn Apple Intelligence off: Go to Settings > Apple Intelligence & Siri, then tap the button next to Apple Intelligence.
+Note: Apple Intelligence is currently in beta. Apple Intelligence uses generative models, and outputs may be inaccurate, unexpected, or offensive. Check important information for accuracy.
+Use the new Apple Intelligence features
+Use Writing Tools with Apple Intelligence
+Use Apple Intelligence in Mail
+Use Apple Intelligence in Messages
+Use Apple Intelligence with Siri
+Get webpage summaries with Apple Intelligence
+Get a summary of a phone call or audio recording with Apple Intelligence
+Create original images with Image Playground
+Create Genmoji with Apple Intelligence
+Use Image Wand with Apple Intelligence
+Use Apple Intelligence in Photos
+Use visual intelligence with Camera Control
+Summarize notifications and reduce interruptions with Apple Intelligence
+Use ChatGPT with Apple Intelligence
+Apple Intelligence and privacy
+Block access to Apple Intelligence features in Screen Time
+And more…
+More Apple Intelligence features will become available in the coming months. See the Apple Intelligence website for details.

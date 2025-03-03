@@ -1,0 +1,30 @@
+iPhone User Guide
+Automatically fill in one-time verification codes on iPhone
+Some websites and apps offer two-factor authentication (also known as multifactor authentication ), which helps prevent other people from accessing your accounts even if they know your passwords. Passwords are the first authentication factor, and temporary, one-time verification codes are commonly a second factor. iPhone can automatically generate these verification codes without your reliance on SMS messages or additional apps.
+Set up automatic verification codes for a website or app by scanning a QR code
+If you have another device with a screen, like a computer or iPad, you can use it to display a QR code from a website or app, then use the iPhone camera to scan the code.
+On your other device, sign in to the area of the website or app where you manage your account, then select options to enable two-factor authentication and an authenticator app.
+A QR code appears to help you set up an authenticator app.
+On iPhone, use the camera to scan the QR code .
+On iPhone, select your account for the website or app.
+A verification code appears below the User Name and Password fields.
+On your other device, enter the verification code that appears on your iPhone.
+Set up automatic verification codes for a website or app by entering a setup key
+If you can’t scan a QR code from another screen, you can manually enter a setup key.
+Sign in to the area of the website or app where you manage your account, then select options to enable two-factor authentication and an authenticator app.
+Choose the option to manually use a setup key (or setup code or similar), then select and copy the setup key.
+Go to the Passwords app on your iPhone.
+Tap All, then tap your account for the website or app.
+Tap Set Up Verification Code, then tap Enter Setup Key.
+Tap the Setup Key field, tap Paste, then tap OK.
+Tap the Verification Code field, then tap Copy Verification Code.
+Return to the website or app, then paste the verification code where directed.
+Use a verification code on a website or in an app
+Sign in to the website or app.
+If prompted, select the option to use an authenticator app.
+When asked for a verification code, tap the suggestion that appears above the keyboard.
+If no suggestion appears, go to the Passwords app on your iPhone, select your account for the website or app, tap the verification code, then tap Copy Verification Code. Return to the website or app, then paste the verification code into the field.
+Automatically delete one-time verification codes
+One-time verification codes are filled in automatically, so you don’t need to leave the website or app you’re signing in to. You can choose to automatically delete the verification codes after entering them with Autofill, or keep them.
+Go to Settings > General > Autofill & Passwords.
+Under Verification Codes, tap Delete After Use, then turn it on or off.

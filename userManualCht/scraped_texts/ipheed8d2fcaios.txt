@@ -1,0 +1,33 @@
+iPhone User Guide
+Customize controls in Magnifier on iPhone
+You can choose and customize the controls that are shown in the Magnifier app.
+Add or remove controls
+Go to the Magnifier app on your iPhone.
+Tap , then do any of the following:
+Show or hide Activities, Capture, or Detection Mode: Tap Activities , Capture , or Detect , then turn Show in Control Panel on or off.
+Add or remove other controls: Tap or next to a control.
+You can choose up to two primary controls. Primary controls appear on the main screen when you open Magnifier. If you add more than two controls, you can swipe up on the control panel at the bottom of the screen to access secondary controls.
+Reorder other controls: Drag next to a control to move it up or down.
+Control
+Description
+Brightness
+Adjust the brightness.
+Cameras
+Switch between the front and rear cameras, or choose Close-up when you need to see something very small that’s very close to the camera.
+Note: Close-up is available on iPhone 13 Pro and iPhone 13 Pro Max or later.
+Contrast
+Adjust the contrast.
+Filters
+Apply a color filter.
+When you add the Filters control, you can select just the filters you use most often.
+Flashlight
+Turn on the flashlight.
+Focus Lock
+Lock the magnifier focus.
+Zoom
+Zoom in and out.
+Set your preferred controls for an activity
+You can save the controls you use for recurring tasks or situations, called activities , and switch between different activities as needed. For example, you could create an activity for reading a menu at a restaurant.
+Go to the Magnifier app on your iPhone.
+Tap , then tap Save as New Activity to create a new activity using the current controls.
+Enter a name for the activity, then tap Done.

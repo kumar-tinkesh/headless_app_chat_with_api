@@ -1,0 +1,8 @@
+iPhone User Guide
+Recover a password you deleted from your iPhone
+If you delete a password from your iPhone, you have 30 days to recover the password before it’s permanently deleted.
+Go to the Passwords app on your iPhone.
+Tap Deleted.
+Locate the account for the deleted password, then tap the account.
+Tap Recover.
+The password is returned to your iPhone and iCloud Keychain.

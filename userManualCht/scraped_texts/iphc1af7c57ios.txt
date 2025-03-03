@@ -1,0 +1,60 @@
+iPhone User Guide
+Read books in the Books app on iPhone
+In the Books app, you can view the books you’re currently reading, want to read, book collections, and more.
+Home: Tap to access the books, audiobooks, and PDFs you’re currently reading, get personalized suggestions for your next read, find books you’ve marked as want to read, and more. You can also set daily reading goals and keep track of the books you finish throughout the year.
+Library: Tap to see all of the books, audiobooks, series, samples, and PDFs you either got from the Book Store or manually added to Books. Tap Collections to see your library sorted into collections, such as Want to Read, My Samples, Audiobooks, Finished, or custom collections you created (see Create a collection ).
+Read a book
+Go to the Books app on your iPhone.
+Navigate to a book, tap the cover to open it, then do any of the following:
+Turn the page: Tap the right margin or swipe right to left.
+To allow either the left or right margin to turn the page, go to Settings > Apps > Books, then turn on Both Margins Advance.
+Go back to the previous page: Tap the left margin or swipe left to right.
+Go back to previous reading location: Tap the page, then tap the rounded arrow in the top-left corner of the page. Tap the rounded arrow again, but in the top-right corner, to go back to your current location.
+Go to a specific page or location: Tap the page, tap , then tap Search Book. Enter a word, phrase, or page number, then tap a result.
+Use the table of contents: Tap the page, tap , then tap Contents.
+Tip: To quickly move through a book, touch and hold Contents, then drag your finger left or right; release your finger to go directly to that location in the book.
+Lock screen orientation: Tap the page, tap , then tap to lock the screen in horizontal or vertical orientation.
+Close a book: Tap the page, then tap in the top-right corner. Or swipe down from the top of the page (not available if vertical scrolling is on).
+Change text and page appearance
+Go to the Books app on your iPhone.
+Open a book, then tap at the bottom of the page.
+You may need to tap the page for to appear.
+Tap Themes & Settings, then do any of the following:
+Change the font size: Tap the large A to increase the font size or tap the small A to decrease it.
+Turn on vertical scrolling or change the page turn style: Tap , then tap Curl, Fast Fade, or Scroll.
+To turn on vertical scrolling when viewing a PDF, manga, or other fixed layout document, tap at the top of the screen, then turn on Vertical Scrolling.
+Adjust the background mode: Tap , then tap an option.
+Adjust the display brightness: Touch the brightness bar, then drag your finger in either direction.
+Change the page theme: Tap a page theme such as Quiet or Bold.
+Change the font: Tap Customize, then tap Font. Swipe up to view the font options. Tap a font name, such as Original or Palatino, to see a preview at the top of the screen. Tap Done to apply the font.
+Make the font bold: Tap Customize, tap the button next to Bold Text (green is on), then tap Done.
+Customize spacing and justification: Tap Customize, then below Accessibility & Layout Options, turn on Customize. Drag the sliders left or right to adjust line spacing, character spacing, word spacing, and margins. You can also turn Justify Text on or off. Tap Done to apply your changes.
+Tap or swipe down to close the menu.
+Note: You can choose on which side of the screen the Menu button appears. Go to Settings > Apps > Books, then choose Left or Right below Reading Menu Position.
+To undo text and layout customizations, tap , tap Customize, then tap Reset Theme.
+Bookmark a page
+When you close a book, your place is saved automatically—you don’t need to add a bookmark—but you can add bookmarks to pages you want to return to again.
+Go to the Books app on your iPhone.
+Tap a book cover to open it, then tap the page you want to bookmark.
+Tap at the bottom of the page.
+You may need to tap the page for to appear.
+Tap to add a bookmark; tap it again to remove the bookmark.
+To access all your bookmarks, tap , tap Bookmarks & Highlights, then tap Bookmarks.
+Share a text selection or book link
+You can send text selections using AirDrop , Mail, or Messages, or you can add the selection to Notes. If the book is from the Book Store, a link to the book is included with the selection. (Sharing may not be available in all countries or regions.)
+Go to the Books app on your iPhone.
+Tap a book cover to open it.
+Touch and hold a word, then move the grab points to adjust the selection.
+Swipe right on the menu items, then tap Share.
+Tap Mail, Messages, or another app or service to share the selection.
+You can also share a link to view the book in the Book Store. Tap , tap , then tap how you want to share the link.
+Turn on Line Guide
+Use Line Guide to focus on individual lines of text as you read. When Line Guide is on, the rest of the page dims and the line you’re reading becomes more visible.
+Go to the Books app on your iPhone.
+Tap a book cover to open it, then tap a page.
+Tap at the bottom of the page.
+Tap to turn on Line Guide, then do any of the following:
+Tap the page above or below the line guide to move it up or down.
+Tap the left or right page margin to move the line guide up or down (not available if vertical scrolling is on).
+Touch and hold the line guide, then drag it to a new line on the page.
+Tap in the bottom-left corner of the page to adjust the dim level or turn off Line Guide.

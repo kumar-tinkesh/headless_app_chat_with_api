@@ -1,0 +1,9 @@
+iPhone User Guide
+Control several devices with one switch on iPhone
+You can remotely control your other Apple devices without adjusting any switch connections. With Platform Switching, you can navigate your iPad, Mac, or Apple TV using the same switch that you use to control your iPhone.
+Connect your devices to the same Wi-Fi network.
+Sign in with the same Apple Account on all your devices.
+Set up and turn on Switch Control on iPhone , then turn on Switch Control for the others: iPad , Mac , or Apple TV .
+Use the switch to open the Scanner menu.
+Choose Device, choose Use Other Device, then choose Connect.
+To remove control from your iPhone, choose Devices on the connected device, then choose Disconnect.

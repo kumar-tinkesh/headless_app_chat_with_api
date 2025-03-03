@@ -1,0 +1,16 @@
+iPhone User Guide
+Use Siri to play music on iPhone
+Apple Music subscribers can use Siri to control music playback on iPhone.
+Activate Siri , then make your request. You can use Siri in a wide variety of ways:
+Play Apple Music: You can play any song, artist, album, playlist, or station. Say, for example, “Play ‘Party Girls’ by Victoria Monét” or “Play Tainy.”
+Play popular songs from different genres or years: Say “Play the top songs from 1990.”
+Play music on AirPlay-enabled devices in a specific room: Say something like “Play the latest album by Loraine James in the living room.”
+Play music picked just for you: Say something like “Play something I like” or “Play my Chill Mix.”
+Let Apple Music help you find music that’s new to you: Say “Play my Discovery Station.”
+Add music from Apple Music to your library: Say, for example, “Add ‘What Now’ by Brittany Howard to my library.” Or while playing something, say “Add this to my library.”
+Add a song or album to a playlist: While playing a song, say something like “Add this song to my Workout playlist” or “Add this album to my Sunday Morning playlist.”
+Find out more about the current song: Say “What’s playing?” , “Who sings this song?” , or “Who is this song by?”
+Tip: You can also identify a song playing on or near iPhone by adding the Music Recognition control to Control Center . Open Control Center , tap at the top left, tap Add a Control at the bottom, then tap the Recognize Music icon. With a song playing, open Control Center, then tap .
+Play songs based on their lyrics: Say “Play the song with the lyrics” and then say a key phrase from the lyrics.
+Learn how to use Siri .
+Siri can also help you find music in the iTunes Store. See Get music, movies, and TV shows in the iTunes Store .

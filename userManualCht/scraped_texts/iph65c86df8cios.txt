@@ -1,0 +1,39 @@
+iPhone User Guide
+Estimate your travel and arrival time in Maps on iPhone
+Your iPhone can predict how long it may take you to get to a destination, and you can share your estimated time of arrival (ETA) while following driving, cycling, and walking directions.
+Note: Available in select areas. Features vary by country and region.
+Predict travel time
+You can see how long it may take to reach a destination when following a suggested set of directions. When you’re driving or taking transit, iPhone bases the prediction on traffic patterns, and you can see how the travel time changes depending on when you plan to leave.
+Go to the Maps app on your iPhone.
+Search for the place you want to go, tap a result, then tap the directions button .
+If you’re driving or taking transit, the time to your destination is based on current traffic conditions.
+To see how long it may take you to travel later, tap Now, tap “Leave at” or “Arrive by,” enter a date and time, then tap Apply.
+The time to your destination is calculated according to typical, expected traffic patterns.
+Share your estimated time of arrival (ETA)
+Siri: Say something like: “Share my ETA.” Learn how to use Siri .
+Or without using Siri:
+Go to the Maps app on your iPhone.
+Search for the place you want to go, then tap Go.
+Tap the route card at the bottom of the screen, then tap Share ETA.
+If you don’t see Share ETA, make sure you turned it on in Settings > Apps > Maps.
+Choose one or more suggested contacts, or tap Open Contacts to find a contact.
+To share your ETA with more contacts, tap “Sharing with” at the bottom of the screen, then tap to add contacts.
+You can also use the Messages, Find My, and Contacts apps to share your ETA with others. See Share your location in Messages , Share your location in Find My , or Edit contacts .
+Stop sharing your ETA
+Go to the Maps app on your iPhone.
+Open the route card for a trip in progress.
+Tap “Sharing with” at the bottom of the screen, then tap Stop Sharing ETA below each contact’s name.
+Automatically share your ETA to a pin
+When you add a contact to a pinned place in your library, that contact automatically receives your ETA whenever you start turn-by-turn navigation to that location.
+Go to the Maps app on your iPhone.
+Touch and hold the pin, then tap Edit Details.
+Tap Add Person, search for a contact, then tap to add them.
+Tap Done.
+Tap the pinned location, then tap Go to start sharing your ETA.
+Your location, route, and ETA are viewable until you arrive.
+Turn off ETA sharing
+Go to Settings > Apps > Maps.
+Scroll down, then turn off Share ETA.
+Note: Standard carrier data and text rates may apply.
+People using iOS 13.1, iPadOS 13.1, or later receive a Maps notification with your ETA, and they can track your progress in Maps. People using earlier versions receive the notification through iMessage. People using other mobile devices receive an SMS message.
+When you’re near the person you’re looking for and both of you have an iPhone 15 model or later, you can use Find My to get precise directions to each other’s location. See Use Precision Finding to meet up with a friend .

@@ -1,0 +1,34 @@
+iPhone User Guide
+Invite others to control accessories in your home on iPhone
+In the Home app, you can invite other people to control all your smart accessories, or invite a guest to control some or all of your doors, locks, and security system accessories during specific times.
+Note: Remote access and guest access require a home hub, such as a HomePod speaker or Apple TV 4K.
+Invite residents to control accessories
+Home Residents have local and optional remote access to all accessories in the home at any time.
+Go to the Home app on your iPhone.
+On the Home tab, tap , tap Add People, then tap Resident.
+Tap to choose people with an Apple Account from your contacts list, or enter their Apple Account email addresses in the To field.
+Tap Invite.
+Ask the invitee to do one of the following:
+In the notification: (iPhone or iPad) Tap Accept.
+In the Home app: (iPhone or iPad) On the Home tab, tap , tap Home Settings, then tap the invitee’s name.
+On Apple TV: Tap Show Me on Apple TV, then turn on one or more Apple TVs.
+Invite guests to control accessories
+Home Guests have local-only access to specific doors, locks, and security system accessories on a set schedule.
+Note: Home Guests access requires iOS 18, iPadOS 18, or later.
+Go to the Home app on your iPhone.
+On the Home tab, tap , tap Add People, then tap Guest.
+Tap to choose people with an Apple Account from your contacts list, or enter their Apple Account email addresses in the To field.
+Select any of the following for the guest schedule:
+Anytime: The guest can access the selected accessories anytime.
+Specific Dates: The guest can only access the selected accessories on the dates specified.
+Specific Days & Times: The guest can only access the selected accessories on the days and during the times specified.
+Select which doors, locks, and security system accessories the guest can access.
+Tap Invite.
+Ask the invitee to do one of the following:
+In the notification: (iPhone or iPad) Tap Accept.
+In the Home app: (iPhone or iPad) Tap , tap Home Settings, then tap the invitee’s name.
+Allow others to access your AirPlay-enabled speakers and TVs
+Go to the Home app on your iPhone.
+On the Home tab, tap , then tap Home Settings.
+Tap Speaker & TV, then choose an option.
+You can allow everyone, anyone on the same network, or only people you’ve invited to share the home. You can also require a password that allows speaker access. To learn more about HomePod speaker and Apple TV access, see the HomePod User Guide and the Apple TV User Guide .

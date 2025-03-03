@@ -1,0 +1,46 @@
+iPhone User Guide
+Listen to podcasts on iPhone
+In the Podcasts app, you can play an episode, see what’s playing next, listen to an episode when you’re offline, set a sleep timer, and use the playback controls.
+Play a podcast
+Go to the Podcasts app on your iPhone.
+Find a podcast , then tap below an episode title. You can also do any of the following:
+Jump to a chapter: Tap next to the name of the current chapter, then tap the chapter you want to play.
+Jump to a specific time: Drag the slider above the player controls. (If the slider doesn’t appear, tap the player at the bottom to open the Now Playing screen.)
+Resume playing a previous show or episode: Tap Home, then tap an episode below Recently Played.
+Tip: To jump to a specific time, drag the slider below the episode information. (If the slider doesn’t appear, tap the player near the bottom of the screen to open Now Playing.)
+Resume playing a previous podcast
+Go to the Podcasts app on your iPhone.
+Tap Home, scroll down to the Recently Played section, then tap below an episode title.
+Choose what to play next
+You can add episodes to Playing Next, then listen to them later.
+Go to the Podcasts app on your iPhone.
+Find a podcast .
+Tap for an episode, then tap Play Next.
+Tap the player near the bottom of the screen to open Now Playing, then tap .
+In the Queue section, do any of the following:
+Play an episode: Tap the episode. The next episode in the queue plays immediately after the previous episode finishes.
+Reorder episodes: Drag to move an episode up or down in the list.
+Remove an episode from the queue: Swipe left on the episode, then tap Remove.
+Remove all episodes from the queue: Tap Clear.
+If you listen to multiple episodes of a show in a row, additional episodes appear in the Continue Playing section of Now Playing. These episodes play after the ones you added to the Queue section, so you can easily pick up where you left off in a show. You can also tap an episode in Continue Playing to start listening right away.
+Set a sleep timer
+You can set a sleep timer so that playback stops automatically after a specified period of time.
+Go to the Podcasts app on your iPhone.
+Tap the player near the bottom of the screen to open Now Playing.
+Tap , then choose an option.
+Use the playback controls
+Tap the player near the bottom of the screen to open Now Playing, then use any of the following controls.
+Control
+Description
+Play the current episode.
+Pause the current episode.
+Choose a faster or slower playback speed.
+Jump back 15 seconds.
+To change the number of seconds you skip back, go to Settings > Apps > Podcasts, then tap Back.
+Jump forward 30 seconds.
+To change the number of seconds you skip forward, go to Settings > Apps > Podcasts, then tap Forward.
+Set a timer for podcasts to stop playing.
+View the transcript for an episode.
+Stream the audio to other devices .
+See what’s next in your queue, or play more episodes from a show you recently listened to.
+Choose more actions such as sharing or downloading the episode.

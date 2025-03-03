@@ -1,0 +1,16 @@
+iPhone User Guide
+Turn the iPhone flashlight on or off
+You can use the flashlight on iPhone to light your way in the dark or get a more detailed look at something.
+Use Siri to turn the flashlight on or off
+You can use Siri to turn the flashlight on or off.
+For example, say something like “Siri, turn on the flashlight” or “Siri, turn off the flashlight.”
+Use Control Center to turn the flashlight on or off
+Open Control Center .
+Tap to turn the flashlight on; tap it again to turn it off.
+Note: If you don’t see in Control Center, you can add it. See Customize controls .
+Turn on the flashlight from the Lock Screen
+If your iPhone has on the Lock Screen, you can press it to turn the flashlight on or off.
+Turn the flashlight on or off with the Action button
+If your iPhone has an Action button , you can customize it to turn the flashlight on or off. See Use and customize the Action button .
+Change the brightness of the flashlight
+After you turn on the flashlight, an image of the flashlight appears on the screen. You can change the brightness by dragging up or down on the flashlight image.

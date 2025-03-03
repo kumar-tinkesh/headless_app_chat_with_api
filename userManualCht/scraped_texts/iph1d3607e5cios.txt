@@ -1,0 +1,44 @@
+iPhone User Guide
+Fill out forms, sign documents, and create signatures on iPhone
+You can fill out forms and sign documents that you receive on your iPhone. After you complete a form, you can add your signature and share it with others. You can also use AutoFill to quickly fill out forms with information you saved in the Contacts app. In supported apps, you can use Markup to add your signature to a document or create multiple signatures to use in different images and documents.
+Fill out forms and add signatures
+Go to the file you want to open.
+Tap the file to open the document.
+If prompted, open the document in the Files app, then tap Save.
+Tap , then tap a blank field to enter text using the onscreen keyboard.
+To fill out another field, tap it, then enter text.
+To add additional text or to add your signature to the form, tap , then do one of the following:
+Add text: Tap Add Text Form Box, drag the text box where you want it on the form, then enter text using the onscreen keyboard.
+Add your signature: Tap Add Signature, sign your name with your finger, then tap Done. Drag your signature where you want it to appear on the document.
+When you’re done, tap to share the completed document using Mail, Messages, or AirDrop.
+Tap Done to close the document.
+Fill out forms with AutoFill
+You can use AutoFill to quickly enter your personal information in supported forms and documents as long as you’ve completed your My Card in the Contacts app.
+Go to the file you want to open.
+Tap the file to open the document.
+If prompted, open the document in the Files app , then tap Save.
+Tap , then tap a blank field.
+Tap an option from your saved contact info to complete the field.
+Tap “Choose other” to use AutoFill to enter another person’s information from your contact list, such as a family member or caregiver.
+Tap any field to select it, then tap again to make changes using the onscreen keyboard.
+Tap Done to close the document.
+Add your signature with Markup
+In supported apps, such as Notes and Photos, you can use the Markup tools to add your signature to images and documents.
+In a supported app, tap or Markup.
+In the Markup toolbar, tap , then tap Add Signature.
+Use your finger to sign your name.
+To redo your signature, tap Clear, then sign your name again.
+Tap Done, then make any of the following adjustments:
+Move the signature: Drag it.
+Resize the signature: Drag any dot along the outline.
+Adjust the signature’s line weight or color: Tap an option in the Markup toolbar.
+Cut, copy, duplicate, share, or delete the signature: Tap next to the signature, then tap an option.
+When you’re finished adjusting the signature, tap outside the text box.
+Add or delete signatures
+After you create a signature, iPhone saves it to use the next time you add a signature with Markup. You can create multiple signatures, such as a nickname or initials, and delete signatures.
+In a supported app, tap or Markup.
+In the Markup toolbar, tap , then tap Add Signature.
+Tap Add or Remove Signature, then tap to create a new signature.
+Tap the arrow next to New Signature, then tap the type of signature you want to add, such as given name, nickname, or initials.
+Use your finger to sign, then tap Done.
+To delete a signature, tap , then tap Add Signature. Tap Add or Remove Signature, then tap next to any signatures you want to delete.

@@ -1,0 +1,43 @@
+iPhone User Guide
+Use SOS to contact emergency services on your iPhone
+In case of emergency, use your iPhone to quickly and easily call for help and alert your emergency contacts (provided that cellular service is available).
+Note: If you have iPhone 14 or later (any model), you may be able to contact emergency services via satellite if cell service isn’t available. See Use Emergency SOS via satellite on your iPhone .
+Quickly call emergency services (all countries or regions except India)
+Simultaneously press and hold the side button and either volume button until the sliders appear and the countdown on Emergency SOS ends, then release the buttons.
+Or, you can enable iPhone to start Emergency SOS when you quickly press the side button five times. Go to Settings > Emergency SOS, then turn on Call with 5 Presses.
+After an emergency call ends, your iPhone alerts your emergency contacts with a text message, unless you choose to cancel. Your iPhone sends your current location (if available) and—for a period of time after you enter SOS mode—your emergency contacts receive updates when your location changes.
+Quickly call emergency services (India)
+Quickly press the side button 3 times until the sliders appear and the countdown on Emergency SOS ends.
+If you’ve turned on Accessibility Shortcut, simultaneously press and hold the side button and either volume button until the sliders appear and the countdown on Emergency SOS ends, then release the buttons.
+By default, iPhone plays a warning sound, starts a countdown, then calls the emergency services.
+After an emergency call ends, your iPhone alerts your emergency contacts with a text message, unless you choose to cancel. Your iPhone sends your current location (if available) and—for a period of time after you enter SOS mode—your emergency contacts receive updates when your location changes.
+Dial the emergency number when your iPhone is locked
+On the Passcode screen, tap Emergency.
+Dial the emergency number (for example, 911 in the U.S.), then tap .
+Text Emergency Services (not available in all countries or regions)
+Go to the Messages app on your iPhone.
+Type 911 or your local emergency services number in the To field.
+Type your emergency.
+Tap the send button.
+Share live video or existing photos with emergency services (not available in all countries or regions)
+If requested by emergency services, Emergency SOS Live Video allows you to stream live video or upload existing photos and videos to emergency services.
+If you get a request to share video or photos while on an emergency services call, do any of the following:
+Share live video: Tap Share when prompted to begin streaming live video to emergency services. You can pause or restart sharing at any time by tapping the Camera button. You can stop sharing at any time by tapping , then tap Stop Sharing Camera or End Call.
+Share existing photos or videos: Tap Choose when prompted, then select the photos or videos you want to send to emergency services.
+Decline: Tap Not Now when prompted if you don’t want to share videos or photos with emergency services.
+Note: Emergency SOS Live Video is available on iPhone 14 or later, is subject to device limitations, and may not be available in all situations.
+Change your Emergency SOS settings
+Go to Settings > Emergency SOS on your iPhone.
+Do any of the following:
+Turn “Call with Hold and Release” on or off: Hold and release the side and volume buttons to start a countdown to call emergency services.
+Turn “Call with 5 presses” on or off: Rapidly press the side button five times to start a countdown to call emergency services.
+Manage your emergency contacts: In Health, tap Set Up Emergency Contacts or Edit Emergency Contacts. See Set up and view your Medical ID .
+Important information about emergency calls on iPhone
+Some cellular networks may not accept an emergency call from iPhone if iPhone isn’t activated, if iPhone isn’t compatible with or configured to operate on a particular cellular network, or (when applicable) if iPhone doesn’t have a SIM card or the SIM card is PIN-locked.
+In certain countries or regions, your location information (if determinable) may be accessed by emergency service providers when you make an emergency call.
+Review your carrier’s emergency calling information to understand the limits of emergency calling over Wi-Fi.
+With CDMA, when an emergency call ends, iPhone enters emergency call mode for a few minutes to allow a callback from emergency services. During this time, data transmission and text messages are blocked.
+After making an emergency call, certain call features that block or silence incoming calls may be disabled for a short period of time to allow a callback from emergency services. These include Do Not Disturb, Silence Unknown Callers, and Screen Time.
+On an iPhone with Dual SIM , if you don’t turn on Wi-Fi Calling for a line, any incoming phone calls on that line (including calls from emergency services) go directly to voicemail (if available from your carrier) when the other line is in use; you won’t receive missed call notifications.
+If you set up conditional call forwarding (if available from your carrier) from one line to another when a line is busy or not in service, the calls don’t go to voicemail; contact your carrier for setup information.
+When using an iPhone with a USB-C connector and compatible accessory, data transfer over USB 3 and DisplayPort connections will be unavailable once an emergency session (call or text) has been initiated, and will remain unavailable for up to 5 minutes from the end of the session. This time varies by country or region. To continue using your accessory, disconnect and reconnect your device after this period. Charging is not affected and will continue to function.

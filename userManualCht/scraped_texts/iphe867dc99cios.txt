@@ -1,0 +1,28 @@
+iPhone User Guide
+Use iPhone like a magnifying glass
+In the Magnifier app, you can use your iPhone like a magnifying glass to zoom in on text or objects around you.
+Magnify nearby text or objects
+Go to the Magnifier app on your iPhone.
+Point the iPhone camera at the text or object you want to magnify, then drag the slider to zoom in or out.
+You can also use any of the following controls:
+Tap to switch between your default controls and custom sets of controls you’ve defined for recurring tasks or situations (called activities ). See Set your preferred controls for an activity .
+Tap to temporarily freeze the frame .
+Tap to add more controls , including Detection Mode , or edit activities you’ve created.
+Tip: Set up a shortcut to quickly open Magnifier by clicking or pressing an iPhone button or tapping the back of iPhone, or from Control Center. See Quickly turn accessibility features on or off .
+On all iPhone 16 models, you can also customize the Camera Control to open Magnifier. See Use the Camera Control to open another app .
+Temporarily freeze the frame
+You can temporarily capture what’s in the frame, without saving it to Photos.
+Go to the Magnifier app on your iPhone.
+Tap , then do one of the following:
+Tap to format text from a captured frame for easier reading .
+Tap for more options, such as sharing the captured frame or saving it to your photos.
+Tap to unfreeze the frame and return to the live Magnifier lens.
+View text in a format for easier reading
+If you capture a frame that contains text, you can view it in a format adapted for easier reading. You can even adjust the font, size, and color of the text.
+Go to the Magnifier app on your iPhone.
+Tap to capture the frame, then tap .
+Magnifier alerts you if no text is detected in the frame you captured.
+Do any of the following:
+Change the appearance of the text: Tap , then choose options for the font, size, and color of the text.
+Hear the text spoken out loud: Tap , then tap Listen to Page.
+Return to the captured frame: Tap .

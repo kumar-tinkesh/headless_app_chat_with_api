@@ -1,0 +1,42 @@
+iPhone User Guide
+Use Markup to add text, shapes, stickers, and more to documents on iPhone
+In supported apps, such as Notes and Photos, you can use the Markup tools to add text, shapes, stickers, and image descriptions to your images and documents.
+Add text
+In a supported app, tap or Markup.
+In the Markup toolbar, tap , then tap Add Text.
+Tap the text box, then use the keyboard to enter text.
+To adjust the text’s font, size, justification, style, or color, tap the tools at the bottom of the screen.
+To cut, copy, duplicate, or delete the text box, tap .
+When you’re done, tap outside the text box.
+To close the Markup toolbar, tap or Done.
+Add a shape
+In a supported app, tap or Markup.
+In the Markup toolbar, tap , then tap Add Shape.
+Tap the shape you want to add, then do any of the following:
+Move the shape: Drag it.
+Resize the shape: Drag any dot along the shape’s outline.
+Adjust the shape’s direction or dimension: Drag any green dot along the shape’s outline.
+Adjust the shape’s border color, border width, fill color, and opacity: Tap an option in the Markup toolbar.
+Cut, copy, duplicate, share, or delete: Tap next to the shape, then tap an option.
+When you’re done adjusting the shape, tap the screen.
+To close the Markup toolbar, tap or Done.
+Tip: Pinch the screen open to zoom in on the document so you can adjust shapes up close. To pan when you’re zoomed in, drag two fingers. To zoom back out, pinch closed.
+Draw a shape
+You can use Markup to draw geometrically perfect shapes—lines, arcs, and more—to use in diagrams and sketches.
+In a supported app, tap or Markup, then tap a writing tool in the Markup toolbar.
+Draw a shape in one stroke with your finger, then pause.
+A perfect version of the shape snaps into place, replacing the drawing. (If you prefer to keep the freehand shape, tap .)
+The shapes you can draw include straight lines, arrows, arcs, continuous lines with 90-degree turns, squares, circles, rectangles, triangles, pentagons, chat bubbles, hearts, stars, and clouds.
+Add a sticker with Markup
+You can use Markup to add stickers from your sticker collection to documents and images.
+In a supported app, tap or Markup.
+In the Markup toolbar, tap , then tap Add Sticker.
+Touch a sticker, then drag it onto your document or photo.
+To adjust the angle of the sticker, before lifting your finger, rotate a second finger around the sticker.
+Touch and drag a dot around the outline of the sticker to adjust its size.
+You can download sticker packs from the App Store. You can also create stickers in the Messages app, or by lifting subjects from photos and Live Photos. See Make stickers from your photos .
+Add custom image descriptions
+In supported apps, such as Photos, you can use Markup to add descriptions to images. VoiceOver reads your custom descriptions when you use the Image Explorer .
+In a supported app, tap or Markup.
+In the Markup toolbar, tap , then tap Description.
+Enter your description, then tap Done.

@@ -1,0 +1,11 @@
+iPhone User Guide
+Set up call forwarding on iPhone
+You can set up call forwarding on iPhone if you have cellular service through a GSM network.
+If you have cellular service through a CDMA network, contact your carrier for information about setting up call forwarding.
+Go to Settings > Apps > Phone.
+Tap Call Forwarding, then turn on Call Forwarding.
+The Call Forwarding icon appears in the status bar when call forwarding is on.
+On models with Dual SIM , choose a line.
+Tap Forward To, enter the number you want to redirect to, then tap Back.
+You must be in range of the cellular network when you set iPhone to forward calls, or calls won’t be forwarded.
+If your carrier supports conditional call forwarding when the line is busy or not in service, contact them for setup information.

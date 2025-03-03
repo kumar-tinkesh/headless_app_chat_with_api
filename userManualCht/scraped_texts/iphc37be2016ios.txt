@@ -1,0 +1,36 @@
+iPhone User Guide
+Change your Calendar settings on iPhone
+In the Calendar app , you can add multiple accounts such as iCloud, Google, Microsoft Exchange, and Yahoo. You can change default settings to make it easier to create new events and to display your calendar in a way that works best for you. For example, you can choose the default calendar for new events, change the duration of new events, and more.
+Set up iCloud, Google, Exchange, or Yahoo calendar accounts
+Go to Settings > Apps > Calendar.
+Tap Calendar Accounts > Add Account.
+Do any of the following:
+Tap a mail service (iCloud, Microsoft Exchange, or Google, for example), then sign in.
+Tap Other, tap Add CalDAV Account or Add Subscribed Calendar, then enter your server and account information.
+Add a CalDAV account
+Go to Settings > Apps > Calendar.
+Tap Calendar Accounts > Add Account.
+Tap Other, then tap Add CalDAV account.
+Enter your server and account information.
+Choose a default calendar
+If you have multiple calendars, you can choose a default calendar, and any new events you create are added to that calendar automatically.
+Go to Settings > Apps > Calendar.
+Tap Default Calendar, then select the calendar you want to use as your default calendar.
+Note: You can always move an event to a different calendar after you create it. To find out more about using multiple calendars, see Set up multiple calendars .
+Set default event settings
+You can change default settings for calendar events, such as the duration for new events, whether to be alerted when it’s time to leave for an upcoming event, and more.
+Go to Settings > Apps > Calendar.
+Do any of the following:
+Choose when to get alerts for different types of events: Tap Default Alert Times, tap Birthdays, Events, or All-Day Events, then choose an option.
+Choose whether to be alerted when it’s time to leave for an upcoming event: Tap Default Alert Times, then turn Time to Leave on or off.
+Change the default duration for new events: Tap Duration for New Events, then choose a length of time.
+Choose whether Calendar suggests a location when you create a new event: Turn Location Suggestions on or off.
+Change how your calendar is displayed
+You can customize the way your calendar is displayed to help highlight the information that’s most important to you. For example, you can choose which day you want to start the week with, display the Chinese, Hebrew, or Islamic calendar (alongside the Gregorian calendar), and more.
+Go to Settings > Apps > Calendar.
+Do any of the following:
+Display the Chinese, Hebrew, or Islamic calendar: Tap Alternate Calendars, then choose a calendar.
+Display the week number next to every week of the year: Turn on Week Numbers.
+Show the current day as the first day in Week view: Tap Week View Starts On Today.
+Choose a different day to start the week: Tap Start Week On, then tap a day.
+You can allow Siri to make suggestions across apps based on the way you use Calendar. Go to Settings > Apps > Calendar, tap Siri, then turn on Learn from this App. You can also allow suggestions and content from Calendar to appear in Search , widgets , and as notifications .

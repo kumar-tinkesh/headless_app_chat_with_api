@@ -1,0 +1,31 @@
+iPhone User Guide
+Set up a Sleep Focus schedule in Health on iPhone
+You can schedule regular times for going to bed and waking up to help meet your sleep goals. You can create multiple schedules—for example, one for weekdays and another for weekends.
+For the sleep schedules you set, a Sleep Focus helps reduce distractions before and during bedtime. For example, it can filter out notifications and phone calls, and it can signal to others that you’re not available. You can also schedule a wind down period to begin from 15 minutes to 3 hours before your bedtime. Your Sleep Focus begins at the start of your wind down time.
+To help you wake up on time, you can select an alarm sound, a vibration, and a snooze option. Or you can choose to have no alarm at all.
+Set up a Sleep Focus
+Go to Settings > Focus, then tap Sleep.
+If you don’t see Sleep as an option, tap at the top right, tap Sleep, then tap Customize Focus.
+Customize your focus.
+For example, you can allow interruptions from people important to you, customize the Lock Screen and Home Screen, and customize how apps and your iPhone behave when a Sleep Focus is on. See Set up a Focus .
+Set up your first recurring sleep schedule
+When you set up a Sleep Focus, you can set your next bedtime and wake up time. This schedule repeats only once. To set up a recurring sleep schedule, do the following:
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Sleep.
+Scroll down to Your Schedule, then tap Full Schedule & Options.
+Tap Set Your First Schedule, then select your options:
+Set the days for your schedule: Tap a day at the top of the screen to add or remove it from your schedule. The schedule applies only to days shown with solid-color circles.
+Adjust your bedtime and wake up schedule: Drag to change your bedtime, to change your wake up time, or the semicircle between the icons to shift both times simultaneously.
+Set the alarm options: Turn Alarm on or off.
+When Alarm is turned on, you can choose a sound, its volume, a vibration, and the snooze option.
+Tap Add.
+Add, modify, or delete sleep schedules
+After setting up your first sleep schedule, you can do the following:
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Sleep.
+After setting up your first sleep schedule, you can do the following:
+Set up additional schedules: For example, if you have a weekday schedule, you can add a weekend schedule. See Add or change a sleep schedule .
+Change schedules: You can adjust the bedtimes, wake up times, and alarm options for an entire sleep schedule or for only your next schedule. See Add or change a sleep schedule .
+Turn off alarms: You can turn off alarms for all sleep schedules, for a particular schedule, or for only your next scheduled wake up time. See Turn off alarms and delete sleep schedules in Health .
+Remove a schedule: See Delete a sleep schedule and its alarm .
+Note: You can use the Clock app to set one-time and repeating alarms that don’t turn on a Sleep Focus.

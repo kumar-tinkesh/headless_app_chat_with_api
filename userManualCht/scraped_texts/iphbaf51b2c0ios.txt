@@ -1,0 +1,26 @@
+iPhone User Guide
+Find nearby attractions, restaurants, and services in Maps on iPhone
+You can find nearby attractions, services, and more.
+Find a nearby attraction, restaurant, or service
+Siri: Say something like: “Find a gas station” or “Find coffee near me.” Learn how to use Siri .
+Or without using Siri:
+Go to the Maps app on your iPhone.
+Tap the search field, then do one of the following:
+Tap a category like Grocery Stores or Restaurants below Find Nearby.
+Enter something like “playgrounds” or “parks” in the search field, then tap the Search Nearby result.
+Tip: You can also touch and hold the Maps app icon on the Home Screen, then tap Search Nearby. See Perform quick actions from Control Center, the Home Screen, and App Library .
+Depending on what you’re looking for, you may be able to apply more search criteria, tap a suggestion to get additional information, and more.
+To change the nearby area, drag the map.
+To get recommendations for where to eat, shop, and explore in great places around the world, see Explore places with guides .
+Note: Nearby suggestions are available in select areas. Features vary by country and region. See the iOS and iPadOS Feature Availability website .
+Find your way around an airport or shopping mall
+Go to the Maps app on your iPhone.
+Do one of the following:
+Zoom in: Drag the map to show the airport or mall, zoom in, then tap Look Inside on the map (or tap Browse at the bottom of the screen).
+Use search: Search for the airport or mall in Maps, then tap Indoor Map if it appears in the search result.
+When you’re at the airport or mall: Open Maps, tap , then tap Look Inside.
+To find nearby services, tap a category (like Food, Restrooms, or Gates).
+To get more information about a result, tap it.
+To get a map of a different floor, tap the button showing the floor level (zoom in if the button doesn’t appear).
+Note: Indoor maps are available for select airports and shopping malls. See the iOS and iPadOS Feature Availability website .
+Apple Footer

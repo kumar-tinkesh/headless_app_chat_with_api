@@ -1,0 +1,14 @@
+iPhone User Guide
+Change FaceTime audio settings on iPhone
+Spatial Audio in the FaceTime app makes it sound like your friends are in the room with you. Their voices are spread out and sound like they’re coming from the direction in which each person is positioned on the screen.
+Note: Spatial Audio is available on supported models and works with the following AirPods models: AirPods (3rd generation), AirPods Pro (all models), and AirPods Max.
+Filter out background sounds
+When you want your voice to be heard clearly in a FaceTime call and other sounds filtered out, you can turn on Voice Isolation mode (available on supported models ). Voice Isolation mode prioritizes your voice in a FaceTime call and blocks out the ambient noise.
+During a FaceTime call, open Control Center , tap FaceTime Controls, then select Voice Isolation.
+Include the sounds around you
+When you want your voice and all the sounds around you to be heard in a FaceTime call, you can turn on Wide Spectrum mode (available on supported models ).
+During a FaceTime call, open Control Center , tap Mic Mode, then select Wide Spectrum.
+Turn off the sound
+When you’re on a FaceTime call, tap the screen to show the FaceTime controls (if they aren’t visible), then tap to turn the sound off.
+To turn the sound back on, tap the button again.
+When your sound is turned off, your mic detects whether you’re speaking, and you’re notified that your mic is muted and that you can tap to unmute it.

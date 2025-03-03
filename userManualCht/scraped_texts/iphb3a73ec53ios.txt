@@ -1,0 +1,17 @@
+iPhone User Guide
+Use App Clips on iPhone
+An App Clip is a small part of an app that lets you do a task quickly, like rent a bike, pay for parking, or order food. You can discover App Clips in Safari, Maps, and Messages, or in the real world through NFC tags, QR codes, and App Clip Codes—unique markers that take you to specific App Clips.
+Get and use an App Clip
+Get an App Clip from any of the following:
+App Clip Code or QR code: Scan the code using the iPhone camera or Code Scanner in Control Center.
+NFC-integrated App Clip Code or NFC tag: Hold iPhone near the NFC tag.
+Maps: Tap the App Clip link on the information card (for supported locations).
+Safari or Messages: Tap the App Clip link.
+When the App Clip appears on the screen, tap Open or Play.
+In supported App Clips, you can use Sign in with Apple , then make a payment using Apple Pay .
+With some App Clips, you can tap the banner at the top of the screen to see the full app.
+Find an App Clip you used on iPhone
+Go to App Library , tap the search field at the top of the screen, then scroll down to the end of the alphabetical list.
+Remove App Clips
+Remove a specific App Clip: Go to App Library , tap the search field at the top of the screen, enter the name of the App Clip, then touch and hold the app icon.
+Remove all App Clips: Go to Settings > App Clips.

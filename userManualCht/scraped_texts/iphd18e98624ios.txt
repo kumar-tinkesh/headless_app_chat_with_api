@@ -1,0 +1,13 @@
+iPhone User Guide
+Use passwords on iPhone
+In the Passwords app , you can find all your passwords, passkeys, and verification codes in one place. You can use them on all your devices where you sign in to the same Apple Account and turn on Passwords & Keychain in iCloud settings. And if you use AutoFill to sign in to websites and apps, your passwords automatically appear in Passwords.
+See all your types of password credentials:
+App passwords
+Website passwords
+Sign in with Apple
+Passkeys
+Verification codes
+Wi-Fi passwords
+Passwords shared with groups
+Find a password by sorting or searching. Then tap Edit to reveal the password, or to change or delete the password.
+Tip: In Passwords, tap Security for recommendations to change weak passwords .

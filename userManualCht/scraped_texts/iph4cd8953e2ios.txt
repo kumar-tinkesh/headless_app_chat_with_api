@@ -1,0 +1,22 @@
+iPhone User Guide
+Share App Store, Apple TV, and Apple Books purchases with Family Sharing on iPhone
+With Family Sharing , the organizer can set up purchase sharing to share App Store, Apple Books, and Apple TV purchases.
+The organizer adds a payment method that’s shared with the family; when a family member makes a purchase, the organizer is billed. The purchased item is added to the initiating family member’s account and eligible purchases are shared with the rest of the family.
+The family organizer can also require that children in the family group request approval for purchases or free downloads. See Set up parental controls with Family Sharing .
+Turn on purchase sharing
+When the family organizer turns on purchase sharing, they pay for family members’ purchases and must have a valid payment method on file.
+Go to Settings > Family.
+Tap Purchase Sharing, then follow the onscreen instructions.
+Access shared content
+When purchase sharing is turned on, you can download eligible apps and content that your family members buy. See any of the following Apple Support articles:
+How to download apps and content that your family members purchased
+What types of content can I share with my family?
+If you can’t find your family’s shared content
+Turn off purchase sharing for yourself
+You can turn off purchase sharing for yourself. Family Sharing members won’t see your purchases, but you can still see items other members have shared with you.
+Note: Even though your items aren’t shared, any purchases you make still use the shared family payment method.
+Go to Settings > Family > Purchase Sharing.
+Tap [ your name ], then turn off Share Purchases.
+If the organizer wants to turn off purchase sharing entirely, they can tap Stop Purchase Sharing.
+If you don’t want to share a specific item with your family members, see the Apple Support article Hide and unhide music, movies, TV shows, audiobooks, and books .
+You can also share Apple and App Store subscriptions with family members .

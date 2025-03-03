@@ -1,0 +1,8 @@
+iPhone User Guide
+Print a Freeform board on iPhone
+You can print a Freeform board.
+Go to the Freeform app on your iPhone.
+Open the board you want to print, tap , then tap Print.
+If you saved scenes in your board, choose to print one of the following:
+The entire board as a single page: Tap Board.
+One scene per page: Tap Scenes.

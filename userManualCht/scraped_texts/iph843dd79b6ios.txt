@@ -1,0 +1,40 @@
+iPhone User Guide
+Get notified when a friend’s location changes in Find My on iPhone
+Use the Find My app to get a notification when your friend’s location changes. You can get notified when a friend arrives at a location, leaves a location, or isn’t at a location.
+Important: In order to receive a notification when your friend’s location changes, make sure you allow notifications for the Find My app. See Change notification settings .
+You can also let friends know when your location changes. See Notify a friend when your location changes in Find My .
+Note: Location sharing and finding people aren’t available in all countries or regions.
+Get notified when your friend arrives at or leaves a location
+Go to the Find My app on your iPhone.
+Tap People at the bottom of the screen, then tap the name of the person you want to be notified about.
+Below Notifications, tap Add, then tap Notify Me.
+Choose whether you want to be notified when a friend arrives at or leaves a location.
+Choose a location, or tap New Location to create a new location and set a location radius.
+With a larger radius, you’re notified when your friend is near the location instead of right at the location.
+Choose whether you want to be notified only once or every time.
+Tap Add, then tap OK.
+Your friend gets an alert after you set the notification.
+If you set a recurring notification, your friend must approve it before it’s set. They get an alert asking for approval when they arrive at or leave the location you chose for the first time.
+Get notified when your friend isn’t at a location
+You can receive a notification if your friend or family member isn’t at a specific location during a set schedule. For example, you can be notified if your child isn’t at school during school hours.
+Go to the Find My app on your iPhone.
+Tap People at the bottom of the screen, then tap the name of the person you want to be notified about.
+Below Notifications, tap Add, then tap Notify Me.
+Below When, tap [ your friend’s name ] Is Not At.
+Choose a location, or tap New Location to create a new location and set a location radius.
+With a larger radius, you’re notified when your friend is near the location instead of right at the location.
+Select when you want to be notified.
+Time: Select a start and end time.
+Days: Select the days of the week.
+Tap Add, then tap OK.
+Your friend must approve the notification before it’s set. They get an alert asking for approval on the time and day the notifications start.
+Change or turn off a notification you set
+Go to the Find My app on your iPhone.
+Tap People at the bottom of the screen, then tap the name of the person whose notification you want to change or turn off.
+This could be a notification you receive about a friend, or a notification your friend receives about you.
+Below Notifications, tap the notification.
+Do either of the following:
+Change a notification: Change any details, then tap Done.
+Turn off a notification: Tap Delete Notification, then tap Delete Notification again.
+You can create up to 25 Notify Me notifications.
+Note: You can only create recurring notifications for friends who have two-factor authentication turned on.

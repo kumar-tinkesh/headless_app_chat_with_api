@@ -1,0 +1,50 @@
+iPhone User Guide
+Use visual intelligence with Camera Control on iPhone
+On all iPhone 16 models, you can use visual intelligence with Camera Control to quickly learn more about the places and objects around you. Just click and hold the Camera Control to do things like look up details about a restaurant or business; have text translated, summarized, or read aloud; identify plants and animals; and more.
+Note: Visual intelligence with Camera Control is available in iOS 18.2 or later on all iPhone 16 models. Apple Intelligence must be on to use visual intelligence. Apple Intelligence is not available on iPhone and iPad if you’re in the EU and if your Apple Account country or region is also in the EU. To check whether Apple Intelligence is available for your device and language, see the Apple Support article Apple Intelligence requirements .
+Get information about a place
+You can use visual intelligence to get details about a business in front of you, such as hours of operation, available services, and contact information. Depending on the business, you can also view reviews and ratings, make a reservation, or place an order for delivery. (Available in the U.S. only.)
+Click and hold the Camera Control, then direct your iPhone camera at the business in front of you.
+Click the Camera Control again or tap the name of the business at the top of the screen, then depending on the business, do any of the following:
+View the hours of operation: Tap Schedule.
+Place an order for delivery: Tap Order.
+View the menu or services offered: Tap Menu.
+Make a reservation: Tap Reserve.
+Call the business, view its website, and more: Tap .
+Tap or swipe up from the bottom of the screen to close visual intelligence.
+Get information about animals and plants
+You can use visual intelligence to identify animals and plants.
+Click and hold the Camera Control, then direct your iPhone camera at a plant or animal in front of you.
+Tap the result at the top of the screen.
+Tap to close the results, then swipe up from the bottom of the screen to close visual intelligence.
+Interact with text
+You can use visual intelligence to interact with text around you in a variety of ways. For example, you can have visual intelligence summarize and translate text or read it aloud. Visual intelligence can also identify contact information in text such as phone numbers and email addresses, websites, and take action depending on the type of text.
+Click and hold the Camera Control, then direct your iPhone camera at text in front of you.
+Click the Camera Control again or tap the circle at the bottom of the screen to analyze the text.
+Depending on the text, do any of the following:
+Read a short summary of the text: Tap Summarize at the bottom of the screen.
+Translate text: Tap Translate at the bottom of the screen.
+Hear the text read aloud: Tap Read Aloud at the bottom of the screen.
+Call a phone number, start an email, create a calendar event, or go to a website: Tap the phone number, email address, date, or website at the bottom of the screen. Tap to see all of the available options.
+Tap to close the text results, then swipe up from the bottom of the screen to close visual intelligence.
+Create a calendar event from details on a poster or flyer
+You can use visual intelligence to create an event in the Calendar app when you see an event on a poster or flyer.
+Click and hold the Camera Control, then direct your iPhone camera at a poster or flyer that contains a date in the future.
+Tap Create Event at the top of the screen, then tap Schedule.
+To make changes to the event details, tap Edit, make changes, then tap Add.
+The event is automatically added to your Calendar app.
+Tap to close the event details, then swipe up from the bottom of the screen to close visual intelligence.
+Ask ChatGPT for information
+You can use visual intelligence to ask ChatGPT** for information about things around you.
+Note: You have the option to use a ChatGPT account within this feature. See Use ChatGPT with Apple Intelligence .
+Click and hold the Camera Control, then direct your iPhone camera at an object in front of you.
+Tap to ask ChatGPT about the object.
+After you tap , you can type or dictate a follow-up question in the text field at the bottom of the screen.
+Tap to close the ChatGPT results, then swipe up from the bottom of the screen to close visual intelligence.
+Search Google for similar items
+You can use visual intelligence to search Google for items similar to those around you.
+Click and hold the Camera Control, then direct your iPhone camera at an object in front of you.
+Tap to search Google for similar images.
+Tap to close Google results, then swipe up from the bottom of the screen to close visual intelligence.
+Note: Subject to Google’s terms of use and data privacy policies.
+Apple Footer

@@ -1,0 +1,34 @@
+iPhone User Guide
+Turn off alarms and delete sleep schedules in Health on iPhone
+You can turn off your scheduled alarms and turn off or delete your sleep schedules.
+Turn off all sleep schedules and alarms
+After you create one or more sleep schedules, you can turn them all off at once. When all sleep schedules are turned off, scheduled alarms are also turned off.
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Sleep.
+Scroll down to Your Schedule.
+Tap Full Schedule & Options, then turn off Sleep Schedule (at the top of the screen).
+You can turn them all on again later.
+Note: To turn off alarms you set in the Clock app, see Turn off an alarm .
+Delete a sleep schedule and its alarm
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Sleep.
+Scroll down to Your Schedule, then tap Full Schedule & Options.
+Tap Edit for the schedule you want to remove.
+Tap Delete Schedule (at the bottom of the screen).
+Permanently turn off the alarm for a sleep schedule
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Sleep.
+Scroll down to Your Schedule, then tap Full Schedule & Options.
+Tap Edit for the sleep schedule you want to change.
+Turn off Alarm.
+You can turn it back on again later.
+Tap Done.
+The rest of your sleep schedule remains in effect.
+Turn off only your next scheduled alarm
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Sleep.
+Scroll down to Your Schedule, then tap Edit (below Next).
+Turn off Alarm.
+Tap Done.
+After your next wake up time, your normal alarm resumes.
+Note: You can also use the Clock app to change your next sleep schedule alarm .

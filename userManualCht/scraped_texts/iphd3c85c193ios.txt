@@ -1,0 +1,33 @@
+iPhone User Guide
+Change settings for spoken directions in Maps on iPhone
+You can turn off spoken directions, adjust their volume, change their voice or language, and more.
+Turn spoken directions on or off
+You can turn spoken directions on or off after you’ve started following a set of directions.
+Go to the Maps app on your iPhone.
+Get driving , cycling , or walking directions, then tap the Go button to begin following them.
+Tap the audio button on the map (for example, ), then choose an option.
+Button
+Description
+All directions are spoken.
+Only driving alerts are spoken.
+No directions are spoken.
+Note: If you start with a location other than My Location, you see a Steps button instead of Go, and no directions are spoken.
+Change the volume for spoken directions
+You can change the default volume for spoken directions while following them.
+Go to the Maps app on your iPhone.
+Get driving , cycling , or walking directions, then tap the Go button to begin following them.
+Tap , tap Voice Volume, then choose Softer or Louder.
+Tip: You can also change the default volume in Settings > Apps > Maps. Tap Spoken Directions, then choose an option below Voice Volume.
+Hear spoken directions in a different language or voice
+Go to Settings > Siri.
+Change any of the following:
+Language: Tap Language, then tap a language to select it as your primary Siri language.
+Voice: Tap Voice, then tap to hear the different options.
+Change other settings for spoken directions
+Go to Settings > Apps > Maps.
+Tap Spoken Directions, then turn on or off the following options:
+Directions Pause Spoken Audio: Turn on this setting to pause spoken audio (like podcasts and audio books) when you receive spoken directions.
+Directions Wake Device: Turn on this setting to wake the iPhone display when you receive spoken directions while following driving or cycling directions.
+Directions on Radio: On supported cars, turn on this setting to hear spoken directions when you’re listening to the radio.
+To use turn-by-turn spoken directions, your iPhone must be connected to the internet, and precise location must be turned on. Cellular data rates may apply (see View or change cellular data settings ).
+Note: Turn-by-turn spoken directions are available in select areas. Features vary by country and region. See the iOS and iPadOS Feature Availability website .

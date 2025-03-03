@@ -1,0 +1,24 @@
+iPhone User Guide
+Select, cut, copy, and paste text on iPhone
+In apps on iPhone, you can use the onscreen keyboard to select and edit text in text fields.
+Select and edit text
+To select text, do any of the following:
+Select a word: Double-tap with one finger.
+Select a paragraph: Triple-tap with one finger.
+Select a block of text: Double-tap and hold the first word in the block, then move the grab points to select text.
+After selecting the text you want to revise, you can type, or tap the selection to see editing options:
+Cut: Tap Cut or pinch closed with three fingers two times.
+Copy: Tap Copy or pinch closed with three fingers.
+Paste: Tap Paste or pinch open with three fingers.
+Select All: Select all the text in the document.
+Replace: View suggested replacement text, or have Siri suggest alternative text.
+Format: Format the selected text.
+: View more options.
+Tip: To move text without cutting or copying, touch and hold selected text until it lifts up, then drag the text to another location.
+Insert or edit text by typing
+Place the insertion point where you want to add or edit text by doing any of the following:
+Tap where you want to add or edit text.
+Touch and hold to magnify the text, then move the insertion point by dragging it.
+Note: To navigate a long document, touch and hold the right edge of the document, then drag the scroller to locate the text you want to revise.
+Type or paste the text you want to add.
+You can also use Universal Clipboard to cut or copy something as you normally would on one Apple device and paste it to another. See Copy and paste between your iPhone and other Apple devices .

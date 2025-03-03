@@ -1,0 +1,26 @@
+iPhone User Guide
+Personalize the Home tab in the Apple TV app on iPhone
+The Home tab brings your favorite shows, movies, channels, and sports together in one place. Pick up where you left off with Continue Watching, or discover Apple TV channels and streaming apps—personalized just for you.
+Note: The availability of Apple Media Services varies by country or region. See the Apple Support article Availability of Apple Media Services .
+Pick up where you left off in the Continue Watching row
+In iOS 18.1, the Continue Watching row displays content you’ve already started to watch or plan to watch. Shows and movies appear in the order you’re most likely to want to watch them. For example, when a TV episode finishes, the next episode automatically appears in Continue Watching. When a live sports event for a team you follow is in progress, it appears first in the Continue Watching list if it’s available to watch in the Apple TV app.
+Go to the Apple TV app on your iPhone.
+Tap Home, swipe through the Continue Watching row, then tap an item.
+If the item is available for you to watch, it begins playing immediately.
+Note: The Continue Watching row on the Home tab displays movies, TV shows, and live sports events from any app or channel you connected to the Apple TV app. For more information on connecting apps and channels, see Discover channels and apps .
+Add or remove an item in your Watchlist
+In iOS 18.1, you can add movies and TV shows that you want to save for later to your Watchlist.
+Go to the Apple TV app on your iPhone.
+Do any of the following:
+Add an item to your Watchlist: Touch and hold the item, then tap Add to Watchlist.
+Remove an item from your Watchlist: Touch and hold the item in the Continue Watching or Watchlist row, then tap Remove from Watchlist.
+Resume watching on another device: You can see your Watchlist in the Apple TV app on your iPhone, iPad, Mac, Apple TV, Apple Vision Pro, or supported smart TV where you’re signed in to the same Apple Account .
+Items added to your Watchlist appear in the Continue Watching row and the Watchlist row on the Home tab.
+Discover channels and apps
+The Apple TV app recommends new content or the next episode in a series you watch from a connected app (supported streaming apps only).
+Go to Apple TV app on your iPhone.
+Tap Home, scroll down to the Channels & Apps row, then swipe right to browse either of the following:
+Channels & Apps: Directly access all the channels you subscribe to or apps you connected to the Apple TV app.
+More to Explore: Find new channels or apps to subscribe to or watch.
+Tap an item to open it.
+Your channels and apps appear in the Channels & Apps row in the Home tab across all your devices where you’re signed in to your Apple Account .

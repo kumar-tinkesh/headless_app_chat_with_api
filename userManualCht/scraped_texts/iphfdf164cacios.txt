@@ -1,0 +1,19 @@
+iPhone User Guide
+Learn gestures for iPhone models with Face ID
+Here’s a handy reference to the gestures you use for interacting with an iPhone that has Face ID.
+Gesture
+Description
+Go Home. Swipe up from the bottom edge of the screen to return to the Home Screen at any time. See Open apps on iPhone .
+Quickly access controls. Swipe down from the top-right corner to open Control Center; touch and hold a control to reveal more options. To add or remove controls, go to Settings > Control Center. See Use and customize Control Center on iPhone .
+Open the App Switcher. Swipe up from the bottom edge, pause in the center of the screen, then lift your finger. To browse the open apps, swipe right, then tap the app you want to use. See Switch between open apps on iPhone .
+Switch between open apps. Swipe right or left along the bottom edge of the screen to quickly switch between open apps. See Switch between open apps on iPhone .
+Use Siri. Just say “Siri” or “Hey Siri.” Or hold down the side button while you ask a question or make a request, then release the button. See Use Siri on iPhone .
+Use Apple Pay. Double-click the side button to display your default card for Apple Pay , then glance at iPhone to authenticate with Face ID. See Use Apple Pay for contactless payments on iPhone .
+Use Accessibility Shortcut. Triple-click the side button. See Quickly turn accessibility features on or off on iPhone .
+Take a screenshot. Simultaneously press and quickly release the side button and volume up button. See Take a screenshot with an iPhone that has Face ID .
+Use Emergency SOS (all countries or regions except India). Simultaneously press and hold the side button and either volume button until the sliders appear and the countdown on Emergency SOS ends, then release the buttons. See Quickly call emergency services (all countries or regions except India) .
+Use Emergency SOS (in India). Quickly press the side button 3 times until the sliders appear and the countdown on Emergency SOS ends.
+If you’ve turned on Accessibility Shortcut, simultaneously press and hold the side button and either volume button until the sliders appear and the countdown on Emergency SOS ends, then release the buttons.
+See Quickly call emergency services (India) .
+Turn off. Simultaneously press and hold the side button and either volume button until the sliders appear, then drag the top slider to power off. Or go to Settings > General > Shut Down. See Turn off iPhone .
+Force restart. Press and release the volume up button, press and release the volume down button, then press and hold the side button until the Apple logo appears. See Force restart iPhone .

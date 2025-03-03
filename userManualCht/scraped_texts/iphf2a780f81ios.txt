@@ -1,0 +1,27 @@
+iPhone User Guide
+Change your wake up alarm in Clock on iPhone
+You can make changes to your wake up alarm if you’ve set up a sleep schedule in the Health app.
+Change your wake up alarm
+Go to the Clock app on your iPhone.
+Tap Alarms, then tap Change.
+Do any of the following:
+Change only your wake up time: Drag .
+Shift your sleep schedule: Drag to rotate the arc between and . (Your bedtime and wake up time change simultaneously, and the sleep duration remains unchanged.)
+Scroll down to Alarm Options, turn the alarm on, then change any of the following options:
+Sounds & Haptics: Tap to choose a vibration or ringtone.
+Alarm volume: Drag the slider.
+Snooze: Turn on to see a Snooze button with your alarm. (It pauses the alarm for 9 minutes.)
+Tap Done, then tap Change Next Alarm Only.
+Note: If you tap Change This Schedule, you also update your recurring wake up alarm in your sleep schedule.
+To make changes to your sleep schedule that extend beyond your next wake up alarm, tap Edit Sleep Schedule in Health. (See Add or change sleep schedules .)
+Turn off your next wake up alarm
+Go to the Clock app on your iPhone.
+Tap Alarms, then tap Change.
+Scroll down to Alarm Options, then turn off Alarm.
+Tap Done, then tap Change Next Alarm Only.
+Note: If you tap Change This Schedule, you also update your recurring wake up alarm in your sleep schedule.
+Remove the wake up alarm
+Go to the Clock app on your iPhone.
+Tap Change, then tap Edit Sleep Schedule in Health.
+Turn off Sleep Schedule.
+In the Health app, you can delete a sleep schedule or turn off all sleep schedules .

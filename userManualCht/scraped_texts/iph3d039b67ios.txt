@@ -1,0 +1,37 @@
+iPhone User Guide
+Set up Messages on iPhone
+You can send text messages several different ways in the Messages app :
+Over Wi-Fi or cellular service, using iMessage with others who also use iMessage. Your iMessage texts appear in blue bubbles.
+Over cellular service with SMS, MMS, or RCS messages, which appear in green bubbles. See Set up cellular service . (RCS messages aren't supported by all carriers or in all countries or regions.)
+Over satellite when you’re outside of cellular and Wi-Fi coverage, using iMessage or SMS on supported iPhone models and certain carriers (U.S. and Canada only). See Send a text message via satellite .
+For more information, see the Apple Support article What is the difference between iMessage, RCS, and SMS/MMS? , the Wireless carrier support and features for iPhone in the United States and Canada website , and the iOS and iPadOS Feature Availability website .
+Turn on iMessage
+Go to Settings > Apps > Messages.
+Turn on iMessage.
+To select which of your phone numbers and email addresses you want to use with iMessage, go to Settings > Apps > Messages, tap Send & Receive, then choose from the available options below “You can receive iMessages to and reply from.”
+Learn more about iMessage .
+Access your messages on all your Apple devices
+When you turn on Messages in iCloud, messages you send and receive on your iPhone are saved in iCloud. When you sign in to the same Apple Account and turn on Messages in iCloud on another device, your conversations show up there too.
+Go to Settings > [ your name ] > iCloud, then tap See All next to Saved to iCloud.
+Turn on Messages (if it’s not already turned on).
+To confirm which other devices will receive any SMS, MMS, or RCS text messages you get on your iPhone, go to Settings > Apps > Messages, then tap Text Message Forwarding.
+After you turn on Messages in iCloud, any messages or attachments you delete from iPhone are also deleted from your other Apple devices (iOS 11.4, iPadOS 13, macOS 10.13.5, watchOS 1, visionOS 1, or later) where Messages in iCloud is turned on. See Set up iCloud for Messages on all your devices in the iCloud User Guide.
+Note: Messages in iCloud uses iCloud storage. See Use iCloud .
+Choose other devices for SMS, MMS, or RCS messaging
+If you haven’t turned on Messages in iCloud , you can set up your iPhone so that when you send or receive an SMS, MMS, or RCS message, it appears on your other Apple devices.
+Note: Availability varies by region and carrier.
+Go to Settings > Apps > Messages.
+Tap Text Message Forwarding, then turn on any devices you want to include.
+Note: If you’re not using two-factor authentication , you need to enter a six-digit activation code that appears on the other device.
+Share your name and photo
+In Messages, you can share your name and photo with others. You decide whether to share it whenever you send or receive a message from someone new.
+Go to the Messages app on your iPhone.
+In the Messages conversation list, do one of the following:
+Tap Edit in the top-left corner.
+Tap in the top-right corner.
+Tap Set Up Name & Photo, turn on Name & Photo Sharing, then change any of the following:
+Your picture: Tap Edit below the circle, then choose an option. Your photo can be a Memoji, emoji, or custom image.
+Your name: Tap Name.
+Who can see your name and picture: Tap Share Automatically, then choose an option.
+To change your name, picture, or who can see them after you set them up, tap Edit or , then tap Name & Photo.
+Note: Your name and photo may not appear as expected when you send messages to recipients who are using non-Apple devices.

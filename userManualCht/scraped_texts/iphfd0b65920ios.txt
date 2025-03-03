@@ -1,0 +1,28 @@
+iPhone User Guide
+Set up a device for a child with Family Sharing on iPhone
+With Family Sharing, the organizer, a parent, or a guardian can use Quick Start on their iPhone to set up a new iPhone or iPad for a child and customize parental controls. You can also set up a device for a child without using Quick Start.
+If you didn’t sign in to a child’s account when you set up their device, you can do so in Settings with their Apple Account and password, or by using proximity sign-in with a nearby iPhone or iPad.
+Note: If the child already has an Apple Account, make sure they’ve been added to your Family Sharing group . If the child doesn’t have an Apple Account and they’re under 13 ( this age varies by region ), you can create an Apple Account for them while adding them to the group.
+Use Quick Start to set up an iPhone or iPad for a child
+Note: Requires iOS 16 or later. Bluetooth must be turned on.
+Go to Settings , then sign in to your Apple Account on your iPhone.
+On the new iPhone or iPad you want to set up for your child, press and hold the side button or top button until the Apple logo appears.
+Bring your iPhone next to the new device.
+When you see Set Up New [ device ] on your iPhone, tap Continue, follow the onscreen instructions, then do one of the following:
+If you have a child in your family group, tap your child’s name.
+If you need to create a new Apple Account for a child who is under 13 , tap Create New Child Account, then create an Apple Account for your child.
+Follow the onscreen instructions to finish setting up your child’s device.
+Set up an iPhone or iPad for a child without using Quick Start
+Turn on the new device.
+When the Quick Start screen appears, tap Set Up Without Another Device, follow the onscreen instructions, then tap Set Up for a Child in My Family.
+Continue to follow the onscreen instructions to complete the setup.
+Set up an iPhone or iPad for a child in Settings
+If you didn’t sign in to a child’s account during setup, do the following:
+Go to Settings .
+Tap Sign in to your iPhone.
+Do one of the following:
+Sign in with a nearby iPhone or iPad: Tap Use Another Apple Device, then follow the onscreen instructions. If you already have a child in your family group, tap their name, then tap Get Started. If you need to create a new Apple Account for a child, tap Create New Child Account.
+Sign in with an email address or phone number and password: Tap Sign in Manually, then tap Sign in a child in my Family.
+Continue to follow the onscreen instructions to complete the setup.
+You can set content restrictions, communication limits, and downtime ; set up Screen Distance ; share locations with all members of the Family Sharing group, including any new members added later; and turn on Ask to Buy . You can change these settings at any time.
+Note: Screen Distance is available on supported models .

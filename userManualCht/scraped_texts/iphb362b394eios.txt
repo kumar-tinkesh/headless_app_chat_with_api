@@ -1,0 +1,21 @@
+iPhone User Guide
+Change advanced camera settings on iPhone
+Learn about advanced iPhone camera features that let you capture photos more quickly, apply tailored and enhanced looks to your photos, and view content outside the camera frame.
+Change the Main camera resolution
+On iPhone 15 models and iPhone 16 models the Main and Fusion camera resolution is set to 24 MP by default. You can switch between 12 MP, 24 MP, and 48 MP.
+Go to Settings > Camera > Formats > Photo Mode, then choose 12 MP or 24 MP.
+To capture resolution at 48 MP, go to Settings > Camera > Formats, then turn on Resolution Control or ProRAW & Resolution Control (depending on your model).
+On iPhone 15 Pro, iPhone 15 Pro Max, iPhone 16 Pro, and iPhone 16 Pro Max, after you turn on ProRAW & Resolution Control, you can choose the default format; tap Pro Default, then choose an option. Open Camera, then tap the toggle at the top of the screen to turn the format you chose on and off. Touch and hold the toggle to select a different format.
+To learn about customizing the Main and Fusion camera on iPhone 15 Pro, iPhone 15 Pro Max, iPhone 16 Pro, and iPhone 16 Pro Max, see Customize the Main and Fusion camera lens on iPhone .
+Turn View Outside the Frame off and on
+On supported models , the camera preview displays content outside the frame to show you what can be captured by using another lens in the camera system with a wider field of view. View Outside the Frame is on by default.
+To turn off View Outside the Frame, go to Settings > Camera, then turn off View Outside the Frame.
+Turn Prioritize Faster Shooting off and on
+The Prioritize Faster Shooting setting modifies how images are processed—allowing you to capture more photos when you rapidly tap the Shutter button. Prioritize Faster Shooting is on by default.
+To turn off Prioritize Faster Shooting, go to Settings > Camera, then turn off Prioritize Faster Shooting.
+Turn Lens Correction off and on
+On supported models , the Lens Correction setting adjusts photos taken with the front camera or Ultra Wide camera for more natural-looking results. Lens Correction is on by default.
+To turn off Lens Correction, go to Settings > Camera, then turn off Lens Correction.
+Turn Scene Detection off and on
+On iPhone 12 models, the Scene Detection setting can identify what you’re taking a photo of and apply a tailored look to bring out the best qualities in the scene. Scene Detection is on by default.
+To turn off Scene Detection, go to Settings > Camera, then turn off Scene Detection.

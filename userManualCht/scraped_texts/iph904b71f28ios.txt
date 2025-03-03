@@ -1,0 +1,27 @@
+iPhone User Guide
+Keep your Apple Account secure on iPhone
+Your Apple Account is the account you use to access Apple services like the App Store, Apple Music, iCloud, iMessage, and FaceTime. Your Apple Account includes the email address and password you use to sign in as well as the contact, payment, and security details you use across Apple services. Apple employs industry-standard practices to safeguard your Apple Account.
+Best practices for maximizing the security of your Apple Account
+Don’t let others use your Apple Account, even family members.
+To share purchases, subscriptions, a family calendar, and more without sharing Apple Accounts, set up Family Sharing .
+Use two-factor authentication. If you created your Apple Account on a device with iOS 13.4, iPadOS 13.4, macOS 10.15.4, or later, your account automatically uses two-factor authentication. If you previously created an Apple Account without two-factor authentication, turn on two-factor authentication now.
+Never provide your password, security questions, verification codes, recovery key, or any other account security details to anyone else. Apple will never ask you for this information.
+When accessing your Apple Account page in Safari or another web browser, look for in the address field to verify that your session is encrypted and secure.
+When using a public computer, always sign out when your session is complete to prevent other people from accessing your account.
+Avoid phishing scams. Don’t click links in suspicious email or text messages, and never provide personal information on any website you aren’t certain is legitimate. See the Apple Support article Recognize and avoid social engineering schemes including phishing messages, phony support calls, and other scams .
+Don’t use your password with other online accounts.
+If one of your devices is lost or stolen, turn on Lost Mode as soon as possible for that device. (You can do this on a friend’s device and don’t need to use your own.)
+Add Account Recovery Contacts
+If you forget your password or get locked out, choose one or more people you trust as Account Recovery Contacts to help you reset your Apple Account password and regain access to your account.
+Go to Settings > [ your name ] > Sign-In & Security > Recovery Contacts, tap Add Recovery Contact, then follow the onscreen instructions.
+For more information, go to Settings > [ your name ] > Sign-In & Security, then tap “Learn more” below Add Recovery Contact.
+Add Legacy Contacts
+The Digital Legacy program allows you to designate people as Legacy Contacts so they can access your Apple Account in the event of your death.
+Go to Settings > [ your name ] > Sign-In & Security > Legacy Contact, tap Add Legacy Contact, then follow the onscreen instructions.
+For more information about how to share the access key with a legacy contact, how to remove a legacy contact, and how your legacy contact can request access to your account, see the Apple Support article How to add a Legacy Contact for your Apple Account . Also see the Apple Support article Data that a Legacy Contact can access .
+Generate a recovery key for your account
+For additional control over your account security, you can generate a recovery key that helps you reset your account password or regain access to your Apple Account. A recovery key is a randomly generated 28-character code that you should keep in a safe place. You can reset your account password by either entering your recovery key or using another device already signed in to your Apple Account. To ensure you have access to your account, you are personally responsible for maintaining access to the recovery key and your trusted devices.
+See the Apple Support article Set up a recovery key for your Apple Account .
+For more information about best practices, see the Apple Support article Security and your Apple Account .
+To set up or manage your Apple Account, go to the Apple Account website .
+If you forgot your Apple Account password, see the Recover your Apple Account website .

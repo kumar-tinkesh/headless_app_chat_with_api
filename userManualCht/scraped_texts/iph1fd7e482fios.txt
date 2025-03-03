@@ -1,0 +1,32 @@
+iPhone User Guide
+Turn on and set up iPhone
+You can turn on and set up your new iPhone with an internet connection. You can also set up iPhone by connecting it to your computer. If you have another iPhone, an iPad, or an Android device, you can transfer your data to your new iPhone.
+Note: If your iPhone is deployed or managed by a company or other organization, see an administrator for setup instructions. For general information, see the Apple at Work website .
+Prepare for setup
+To make setup as smooth as possible, have the following items available:
+An internet connection through a Wi-Fi network (you may need the name and password of the network) or cellular data service through a carrier (not required for iPhone 14 and later models)
+Your Apple Account and password; if you don’t have an Apple Account, you can create one during setup
+Your credit or debit card account information, if you want to add a card to Apple Pay during setup
+Your previous iPhone or a backup of your device , if you’re transferring your data to your new device
+Tip: If you don’t have sufficient storage space to back up your device, iCloud will provide enough storage to complete a temporary backup, free of charge, for up to three weeks from the purchase of your iPhone. On your previous device, go to Settings > General > Transfer or Reset [ device ]. Tap Get Started, then follow the onscreen instructions.
+Your Android device, if you’re transferring your Android content
+Turn on and set up your iPhone
+Press and hold the side button until the Apple logo appears.
+If iPhone doesn’t turn on, you might need to charge the battery . For more help, see the Apple Support article If your iPhone won’t turn on or is frozen .
+Tip: If you’re blind or have low vision, you can triple-click the side button (on an iPhone with Face ID) or triple-click the Home button (on other iPhone models) to turn on VoiceOver, the screen reader. You can also double-tap the screen with three fingers to turn on Zoom. See Get started with accessibility features .
+Do one of the following:
+Use Quick Start: If you have another iPhone or iPad with iOS 11, iPadOS 13, or later, you can use Quick Start to automatically set up your new device. Bring the two devices close together, then follow the onscreen instructions to securely copy many of your settings, preferences, and iCloud Keychain. You can then restore the rest of your data and content to your new device from your iCloud backup.
+Or, if both devices have iOS 12.4, iPadOS 13, or later, you can transfer all your data wirelessly from your previous device to your new one. Keep your devices near each other and plugged into power until the migration process is complete.
+Set Up Manually: If you don’t have another device, tap Set Up Without Another Device, then follow the onscreen setup instructions.
+Move from an Android device to iPhone
+If you have an Android device, you can transfer your data with the Move to iOS app when you first set up your new iPhone.
+Note: If you already completed setup and want to use Move to iOS, you must erase your iPhone and start over, or move your data manually. See the Apple Support article Move content manually from your Android device to your iPhone or iPad .
+On your device with Android version 4.0 or later, see the Apple Support article Move from Android to iPhone or iPad and download the Move to iOS app.
+On your iPhone, do the following:
+Follow the setup assistant.
+On the Transfer Your Apps & Data screen, tap From Android.
+On the Android device, do the following:
+Turn on Wi-Fi.
+Open the Move to iOS app.
+Follow the onscreen instructions.
+WARNING: To avoid injury, read Important safety information before using iPhone.

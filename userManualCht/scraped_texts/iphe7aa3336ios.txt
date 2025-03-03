@@ -1,0 +1,16 @@
+iPhone User Guide
+Use passes in Wallet on iPhone
+Use the Wallet app to keep all your passes—such as loyalty and rewards cards, coupons, boarding passes, movie and event tickets, and more—in one convenient place for easy access. Passes can include useful information, such as the points on a loyalty card, the balance on your coffee card, a coupon’s expiration date, or boarding information for a flight.
+Add a pass to Apple Wallet
+When you do something like purchase a ticket, you often have the option to add it to Apple Wallet. You may also get a supported pass from a website or app, a QR code, AirDrop sharing, or after you use Apple Pay with a participating merchant.
+Tap Add to Apple Wallet.
+Note: If you don’t see Add to Apple Wallet, contact the merchant or company that issued it to make sure they support passes in the Wallet app.
+Follow the onscreen instructions or tap Add in the upper-right corner.
+Use a pass
+Access the pass on your iPhone in any of the following ways:
+On the Lock Screen, tap the pass notification. If prompted, authenticate with Face ID, Touch ID, or your passcode.
+If Automatic Selection is turned on for the pass, double-click the side button ( on an iPhone with Face ID ) or double-click the Home button ( on other iPhone models ). If prompted, authenticate with Face ID, Touch ID, or your passcode.
+Go to the Wallet app , then tap the pass.
+To use the pass, do one of the following:
+Contactless pass: Hold the top of your iPhone near the pass reader until Done or a checkmark appears on the screen.
+Pass with a barcode or QR code: Scan the code using the reader.

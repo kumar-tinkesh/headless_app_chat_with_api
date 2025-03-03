@@ -1,0 +1,16 @@
+iPhone User Guide
+Add or remove a friend in Find My on iPhone
+In the Find My app, after you share your location with a friend, you can ask to see their location on a map.
+Note: Location sharing and finding people aren’t available in all countries or regions.
+Ask to see a friend’s location
+Go to the Find My app on your iPhone.
+Tap People at the bottom of the screen, then tap the name of the person whose location you want to see.
+If you don’t see a person in the list, make sure you’re sharing your location with them.
+Tap Ask To Follow Location.
+After your friend receives and accepts your request, you can see their location. See Respond to a location sharing request .
+Note: If you see your friend’s name in the People list but can’t see their location on the map, ask them to make sure they’re sharing their location and that Location Services is on in Settings > Privacy & Security > Location Services > Find My.
+Remove a friend
+When you remove a friend, that person is removed from your People list and you’re removed from theirs.
+Go to the Find My app on your iPhone.
+Tap People at the bottom of the screen, then tap the name of the person you want to remove.
+Tap Remove [ name ], then tap Remove.

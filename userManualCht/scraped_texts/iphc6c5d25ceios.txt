@@ -1,0 +1,39 @@
+iPhone User Guide
+Add content to an iCloud Shared Photo Library on iPhone
+After you set up or join an iCloud Shared Photo Library in the Photos app, you can continue to add photos and videos in several ways:
+Manually move photos from your personal library
+Save photos and videos you take directly to the shared library from Camera
+Share photos you take when other members of the shared library are nearby
+Share photos and videos you take at home
+Note: iOS 16.1, iPadOS 16.1, macOS 13, or later are the minimum system requirements to use iCloud Shared Photo Library. Photos and videos added to a shared library won’t be available on devices with earlier versions of the software.
+Manually add photos and videos to an iCloud Shared Photo Library
+You can add individual photos and videos from your personal library to the iCloud Shared Photo Library.
+Go to the Photos app on your iPhone.
+Tap the photo or video you want to add to view it in full screen on your iPhone. Or, to add multiple photos and videos at the same time, tap Select, then tap the thumbnails you want to add.
+Tap , then tap Move to Shared Library.
+After content is moved to the shared library, it’s no longer in your personal library and it’s visible to all of the shared library participants. To move content from the shared library back to your personal library, follow the steps above, but tap Move to Personal Library instead of Move to Shared Library.
+Add photos and videos to an iCloud Shared Photo Library directly from Camera
+After you set up or join an iCloud Shared Photo Library , when you open Camera , a Shared Library button appears at the top of the screen to let you switch between saving photos and videos to your personal library and saving them to the shared library. By default, Camera saves to your personal library. To switch, tap to save to the shared library; tap to switch back to your personal library.
+To turn the feature on or off after you complete the setup process, go to Settings > Apps > Photos > Shared Library > Sharing from Camera, then turn Sharing from Camera on or off.
+Add photos and videos to an iCloud Shared Photo Library when participants are nearby
+When you set up or join an iCloud Shared Photo Library , you can choose an option so that photos you take when you’re near other participants of the shared library are automatically added to the shared library.
+To allow iPhone to detect when participants of your shared library are nearby, participants need to be signed in to their Apple Account on their device, and have Bluetooth® turned on in Settings > Bluetooth.
+To turn the feature on or off after you complete the setup process, do the following:
+Go to the Photos app on your iPhone.
+Tap your account in the top-right corner.
+Tap Shared Library, then tap Sharing from Camera.
+Tap Share Automatically.
+Automatically add photos and videos taken at home to an iCloud Shared Photo Library
+When you set up or join an iCloud Shared Photo Library , you can choose an option to automatically add photos and videos you take at home to the shared library.
+To turn the feature on or off after you complete the setup process, do the following:
+Go to the Photos app on your iPhone.
+Tap your account in the top-right corner.
+Tap Shared Library, then tap Sharing from Camera.
+Turn Share When At Home on or off.
+Turn iCloud Shared Photo Library sharing suggestions on or off
+Sharing suggestions recommends photos you might want to add to your iCloud Shared Photo Library, such as photos you took when participants of the shared library were nearby, or photos of people you indicated interest in during the setup process. iPhone sends a notification to review sharing suggestions. To turn suggestions on or off, follow these steps:
+Go to the Photos app on your iPhone.
+Tap your account in the top-right corner.
+Tap Shared Library, then turn Shared Library Suggestions on or off.
+If you want to get sharing suggestions for additional people, tap Add People, tap a person, then tap Add. The person doesn’t have to be a member of the shared library.
+For more information about accessing content in a shared library, see the Apple Support article If you are missing photos after joining an iCloud Shared Photo Library .

@@ -1,0 +1,12 @@
+iPhone User Guide
+Import data from another browser into Safari on iPhone
+In iOS 18.2 or later, you can import data into Safari that you’ve exported from another browser. Browser data can include bookmarks, history, extensions, credit cards, and passwords.
+Go to Settings > Apps > Safari.
+Below History and Website Data, tap Import.
+Tap Choose File, then choose a file (or a .zip file of files) to import.
+Individual files might be available for each piece of browsing data, such as bookmarks or history.
+Tap Import to Safari.
+You’ll see a description of the browser data you imported.
+Note: Any passwords you import go into the Passwords app.
+Tap Done.
+WARNING: For security, delete the file or folder you imported. It may include unencrypted data and could be visible to anyone who can access it.

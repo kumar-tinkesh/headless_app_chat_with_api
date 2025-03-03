@@ -1,0 +1,42 @@
+iPhone User Guide
+Add drawings and handwriting in Notes on iPhone
+Use the Notes app to draw a sketch or jot a handwritten note with your finger. Choose from a variety of Markup tools and colors, and draw straight lines with the ruler.
+Use drawing and handwriting tools
+Go to the Notes app on your iPhone.
+In a note, tap , then draw or write with your finger.
+Do any of the following:
+Change color or tools: Use the Markup tools .
+Adjust the handwriting area: Drag the resize handle (on the left) up or down.
+Tip: You can search handwritten text (in supported languages ) in Notes. If the note doesn’t have a title, the first line of handwritten text becomes the suggested title. To edit the title, scroll to the top of the note, then tap Edit.
+Select and edit drawings and handwriting
+With Smart Selection, you can select drawings and handwriting. You can move, copy, or delete the selection within the note. You can even paste it as typed text in another note or app.
+Note: Smart Selection and handwriting transcription work if the system language of your iPhone is set to a supported language in Settings > General > Language & Region > iPhone Language. See the iOS and iPadOS Feature Availability website .
+Go to the Notes app on your iPhone.
+In a note, select drawings and handwriting with your finger using any of the following methods:
+With the Lasso tool: Tap , tap (between the eraser and ruler in the tool palette), then use your finger to outline the objects you want to select.
+With gestures:
+Touch and hold, then drag to expand the selection.
+Double-tap to select a word.
+Triple-tap to select a sentence.
+Drag the handles to adjust the selection as needed.
+Choose any of the following:
+Cut
+Copy
+Delete
+Duplicate
+Copy as Text
+Translate
+Insert Space Above
+Work with handwritten text
+iPhone can straighten your handwriting and suggest spelling corrections.
+Go to the Notes app on your iPhone.
+In a note, select the handwriting .
+Do any of the following:
+Make your writing more level: Tap Straighten.
+Correct spelling: Tap an underlined word, then choose how you want to correct it. The fix appears in your own writing style.
+Move handwriting: Touch and hold the selected text, then drag it to a new position.
+To erase text, scratch out the writing, then hold down your finger on iPhone. (Supported when using a markup tool such as Pen, Mono line, or Marker.)
+Drag images from other apps
+You can drag images from other apps to a note and combine them with handwritten and drawn content. After you add an image to the drawing area, you can reposition and resize the image.
+Use Image Wand
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max and Apple Intelligence is turned on, you can use Image Wand in Notes to generate images based on rough sketches you create. You can also select empty space to create an image based on words and images from the surrounding area. See Use Image Wand with Apple Intelligence .

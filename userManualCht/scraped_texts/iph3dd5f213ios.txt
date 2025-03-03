@@ -1,0 +1,39 @@
+iPhone User Guide
+View or change cellular data settings on iPhone
+You can turn cellular data and roaming on or off, set which apps and services use cellular data, see cellular data usage, and set other cellular data options.
+Note: For help with cellular network services, voicemail, and billing, contact your wireless service provider.
+About cellular networks
+If your iPhone is connected to the internet using a cellular data network, an icon identifying the cellular network appears in the status bar .
+5G, LTE, 4G, and 3G service on GSM cellular networks support simultaneous voice and data communications. For all other cellular connections, you can’t use internet services while you’re talking on the phone unless your iPhone also has a Wi-Fi connection to the internet. Depending on your network connection, you may not be able to receive calls while your iPhone transfers data over the cellular network—when downloading a webpage, for example.
+GSM networks: On an EDGE or GPRS connection, incoming calls may go directly to voicemail during data transfers. For incoming calls that you answer, data transfers are paused.
+CDMA networks: On EV-DO connections, data transfers are paused when you answer incoming calls. On 1xRTT connections, incoming calls may go directly to voicemail during data transfers. For incoming calls that you answer, data transfers are paused.
+Data transfer resumes when you end the call.
+If Cellular Data is off, all data services—including email, web browsing, and push notifications—use Wi-Fi only. If Cellular Data is on, carrier charges may apply. For example, using certain features and services that transfer data, such as Siri and Messages, could result in charges to your data plan.
+To make calls using Wi-Fi, see Make calls using Wi-Fi .
+Manage roaming options and choose other cellular data options
+To turn Cellular Data on or off, go to Settings > Cellular, then tap Cellular Data.
+To set options when Cellular Data is on, go to Settings > Cellular > Cellular Data Options, then do any of the following:
+Turn Data Roaming on or off: Data Roaming permits internet access over a cellular data network when you’re in a region not covered by your carrier’s network. When you’re traveling, you can turn off Data Roaming to avoid roaming charges.
+Reduce cellular usage: Tap Data Mode, then choose Low Data Mode. This mode pauses automatic updates and background tasks when iPhone isn’t connected to Wi-Fi.
+Depending on your iPhone model, carrier, and region, the following options may be available:
+Turn Voice Roaming on or off: (CDMA) Turn Voice Roaming off to avoid charges from using other carrier’s networks. When your carrier’s network isn’t available, iPhone won’t have cellular (data or voice) service.
+Enable or disable 4G/LTE: Using 4G or LTE loads internet data faster in some cases but may decrease battery performance. There may be options for turning off 4G/LTE or for selecting Voice & Data (VoLTE) or Data Only.
+On iPhone 12 models and later with a 5G data plan, you can do the following:
+Enable Smart Data mode to optimize battery life: Tap Voice & Data, then choose 5G Auto. In this mode, your iPhone automatically switches to LTE when 5G speeds don’t provide noticeably better performance.
+Use higher-quality video and FaceTime HD on 5G networks: Tap Data Mode, then choose Allow More Data on 5G.
+Turn off 5G: Tap Voice & Data, then choose LTE.
+To set up a Personal Hotspot to share your internet connection, see Share your internet connection from your iPhone with Personal Hotspot .
+View how much data you’re using
+To see how much cellular data you’ve used, go to Settings > Cellular, then do any of the following:
+See cellular data usage for individual apps: Scroll down to your list of apps, then tap Show All. The amount of cellular data used appears below each app. If you don’t want an app to use cellular data, you can turn it off for that app. When cellular data is off, apps use only Wi-Fi for data.
+See cellular data usage for individual system services: System Services appears above the list of apps in the cellular section. Cellular data can’t be turned on or off for individual system services.
+You can view the data-usage statistics for an app from a current period, or view data statistics for apps that used data when you were roaming. To reset these statistics, go to Settings > Cellular, scroll to the bottom, then tap Reset Statistics.
+If you’re using an iPhone with Dual SIM, you can see how much cellular data you’ve used with your selected cellular data number.
+Note: To get the most accurate cellular data usage from a current period, contact your carrier.
+Set cellular data usage for apps and services
+Go to Settings > Cellular, then turn Cellular Data on or off for any app (such as Maps) or service (such as Wi-Fi Assist) that can use cellular data.
+If a setting is off, iPhone uses only Wi-Fi for that service.
+Note: Wi-Fi Assist is on by default. If Wi-Fi connectivity is poor, Wi-Fi Assist automatically switches to cellular data to boost the signal. Because you stay connected to the internet over cellular when you have a poor Wi-Fi connection, you might use more cellular data, which may incur additional charges depending on your data plan. See the Apple Support article About Wi-Fi Assist .
+Lock your SIM card
+If your device uses a SIM card for phone calls or cellular data, you can lock the card with a personal identification number (PIN) to prevent others from using the card. Then, every time you restart your device or remove the SIM card, your card locks automatically, and you’re required to enter your PIN. See Use a SIM PIN for your iPhone or iPad .
+To add an eSIM, see Set up cellular service .

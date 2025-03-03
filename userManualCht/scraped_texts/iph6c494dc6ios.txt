@@ -1,0 +1,146 @@
+iPhone User Guide
+Use VoiceOver on iPhone with an Apple external keyboard
+If you use Magic Keyboard with iPhone, you can use keyboard shortcuts to activate VoiceOver commands.
+Additionally, you can use VoiceOver Help to learn the keyboard layout and the actions associated with various key combinations. VoiceOver Help speaks keys and keyboard commands as you type them, without performing the associated action.
+Choose the VoiceOver modifier
+The modifier is a key or set of keys you press with one or more other keys to enter VoiceOver commands. You can set the modifier to be the Caps Lock key or the Control and Option keys pressed at the same time.
+Go to Settings > Accessibility > VoiceOver > Typing > Modifier Keys.
+Choose the modifier for VoiceOver commands: the Caps Lock key or the Control and Option keys.
+This modifier is abbreviated as “VO” below.
+VoiceOver keyboard commands
+You can control VoiceOver using key combinations.
+(VO = modifier keys)
+Action
+Shortcut
+Turn on VoiceOver Help
+VO-K
+Turn off VoiceOver Help
+Esc (Escape)
+Select the next or previous item
+VO-Right Arrow or VO-Left Arrow
+Activate the selected item
+VO-Space bar
+Touch and hold the selected item
+VO-Shift-M
+Read from the current position
+VO-A
+Read from the top
+VO-B
+Pause or resume reading
+Control
+Copy the last spoken text to the clipboard
+VO-Shift-C
+Search for text
+VO-F
+Mute or unmute VoiceOver
+VO-S
+Go to the Home Screen
+VO-H
+Move to the status bar
+VO-M
+Open the notifications screen
+Move to the status bar (VO-M), then Option-Up Arrow
+Open Control Center
+Move to the status bar (VO-M), then Option-Down Arrow
+Open Search
+Option-Up Arrow
+Open the App Switcher
+VO-H-H
+Open the Item Chooser
+VO-I
+Change the label of the selected item
+VO-Slash
+Start, stop, or pause an action
+VO-Hyphen
+Swipe up or down
+VO-Up Arrow or VO-Down Arrow
+Turn the rotor left or right
+VO-Command-Left Arrow or VO-Command-Right Arrow
+Adjust the setting specified by the rotor
+VO-Command-Up Arrow or VO-Command-Down Arrow
+Turn the screen curtain on or off
+VO-Fn-Hyphen (or VO-Globe key-Hyphen, depending on your keyboard)
+Return to the previous screen
+Esc
+Quick Nav using the arrow keys
+Turn on Quick Nav to control VoiceOver using the arrow keys.
+Action
+Shortcut
+Turn Quick Nav on or off
+Left Arrow-Right Arrow
+Select the next or previous item
+Right Arrow or Left Arrow
+Select the next or previous item specified by the rotor
+Up Arrow or Down Arrow
+Select the first or last item
+Control-Up Arrow or Control-Down Arrow
+Tap an item
+Up Arrow-Down Arrow
+Scroll up, down, left, or right
+Option-Up Arrow, Option-Down Arrow, Option-Left Arrow, or Option-Right Arrow
+Adjust the rotor
+Up Arrow-Left Arrow or Up Arrow-Right Arrow
+Single-key Quick Nav for web browsing
+To navigate a webpage quickly, turn on Quick Nav (VO-Q), then press keys on the keyboard to navigate to specific item types, such as headings or links. To move to the previous item, hold the Shift key as you press a key for the item type.
+Item type
+Shortcut
+Heading
+H
+Link
+L
+Text field
+R
+Button
+B
+Form control
+C
+Image
+I
+Table
+T
+Static text
+S
+ARIA landmark
+W
+List
+X
+Item of the same type
+M
+Level 1 heading
+1
+Level 2 heading
+2
+Level 3 heading
+3
+Level 4 heading
+4
+Level 5 heading
+5
+Level 6 heading
+6
+Text editing
+Use these commands (with Quick Nav turned off) to work with text. VoiceOver reads the text as you move the insertion point.
+Action
+Shortcut
+Go forward or back one character
+Right Arrow or Left Arrow
+Go forward or back one word
+Option-Right Arrow or Option-Left Arrow
+Go up or down one line
+Up Arrow or Down Arrow
+Go to the beginning or end of the line
+Command-Left Arrow or Command-Down Arrow
+Go to the beginning or end of the paragraph
+Option-Up Arrow or Option-Down Arrow
+Go to the previous or next paragraph
+Option-Up Arrow or Option-Down Arrow
+Go to the top or bottom of the text field
+Command-Up Arrow or Command-Down Arrow
+Select text as you move
+Shift + any of the insertion point movement commands above
+Select all text
+Command-A
+Copy, cut, or paste the selected text
+Command-C, Command-X, or Command-V
+Undo or redo last change
+Command-Z or Shift-Command-Z

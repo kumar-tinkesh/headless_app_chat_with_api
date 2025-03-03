@@ -1,0 +1,20 @@
+iPhone User Guide
+Monitor your walking steadiness in Health on iPhone
+When you carry your iPhone in a pocket or holster near your waist, the Health app uses custom algorithms that assess your balance, strength, and gait. You can receive a notification if your steadiness becomes low or stays low, and you can automatically share the notification with someone close to you. Health can also show you exercises to help improve your walking steadiness. (iPhone 8 or later.)
+Receive notifications when your steadiness is low or very low
+Go to the Health app on your iPhone.
+Tap your picture or initials at the top right.
+If you don’t see your picture or initials, tap Summary or Browse at the bottom of the screen, then scroll to the top of the screen.
+Tap Health Checklist.
+Tap Set Up for Walking Steadiness Notifications, then follow the onscreen instructions.
+To review your notifications, tap Browse at the bottom right, tap Mobility, scroll down, then tap Walking Steadiness Notifications.
+To automatically share your walking steadiness notifications with somebody close to you, see Share your data in Health .
+View your walking steadiness data
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Mobility.
+Tap Walking Steadiness (you may need to scroll down).
+To learn about the three steadiness levels (OK, Low, and Very Low), tap .
+Learn how to improve your walking steadiness
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Mobility.
+Scroll down, then tap Exercises That May Improve Walking Steadiness.

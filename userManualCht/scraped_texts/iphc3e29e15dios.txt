@@ -1,0 +1,38 @@
+iPhone User Guide
+Rate places and add photos in Maps on iPhone
+You can provide ratings and photos of places you visit to help other Maps users.
+Your ratings and photos appear everywhere you’re signed in to the same Apple Account .
+Note: The Apple Ratings and Photos feature is available in select areas. Features vary by country and region.
+Rate a place
+Go to the Maps app on your iPhone.
+Tap a place on the map or a search result.
+Depending on the location, either scroll down the place card or tap Rate (near the top of the place card).
+Note: If you don’t see ratings categories or the Rate button, you can’t rate the location.
+Tap or for the available categories, then tap Done.
+You can edit your ratings later if you change your mind.
+Add photos for a place
+Go to the Maps app on your iPhone.
+Tap a place on the map or a search result.
+To credit yourself for the photos you contribute, tap Photo Credit, then turn on Show Credit.
+The photo credit option you choose applies to all photos you previously submitted and continue to submit.
+Tap Add Your Photos, then follow the onscreen instructions.
+To upload your photos to Apple, you need to have an Apple Account .
+Note: If you don’t see ratings categories or the Rate button, you can’t add a photo.
+Share your photos publicly
+You can allow companies to use the photos that you add to Maps in their own products and services.
+Go to Settings > Apps > Maps.
+Turn on Allow Photo Providers to Use Your Photos.
+Photos you share include location data, but not your identity. If you turn this setting off, photo providers may no longer use your photos. (It may take a few days to take effect.)
+Edit your photos for a place
+You can add and remove photos, add or remove your photo credit, and provide a nickname for your photo credit.
+Go to the Maps app on your iPhone.
+Below Library, tap , then tap Places.
+Tap the place whose photos you want to edit.
+Select one of your rated places, then do one of the following:
+Submit another photo: Tap Your Photos, then tap Add.
+Remove a photo: Tap Your Photos, select the photo, tap , then tap Delete Your Photo.
+Change your photo credit: Tap Your Photos, select the photo, tap , then tap Change Photo Credit. The photo credit option you choose applies to all photos you previously submitted and continue to submit.
+Stop getting ratings and photos suggestions
+You may receive suggestions in Maps to submit a rating or photo if you recently visited or took a photo of a point of interest. These suggestions use on-device processing and can’t be read by Apple. If you don’t want to receive these suggestions, you can turn them off.
+Go to Settings > Apps > Maps.
+Turn off Show Ratings and Photos Suggestions.

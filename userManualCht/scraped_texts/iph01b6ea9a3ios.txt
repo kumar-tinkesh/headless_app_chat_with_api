@@ -1,0 +1,14 @@
+iPhone User Guide
+Play audio from your iPhone on a Bluetooth accessory
+After you connect your iPhone to a Bluetooth accessory , you can play and control the audio from your iPhone on the accessory.
+Play audio from your iPhone on a Bluetooth audio accessory
+Open an audio app such as Music or Podcasts on your iPhone and play an item.
+Tap , then tap your Bluetooth accessory.
+While audio is playing, you can change the playback destination on the Lock Screen or in Control Center.
+Use the controls on your iPhone to pause or play the audio, adjust volume, skip tracks, and more.
+The playback destination returns to your iPhone if you move the Bluetooth accessory out of range.
+Note: For information about protecting your hearing from loud volume while listening to headphones with iPhone, see Use hearing health features in Health on iPhone .
+Improve the audio accuracy of third-party Bluetooth accessories and devices
+You can improve the sound of third-party Bluetooth devices by specifying the Bluetooth device type (such as headphone, speaker, or car stereo) on your iPhone.
+Go to Settings > Bluetooth, then tap next to the name of the accessory or device.
+Tap Device Type, then choose the type of device.

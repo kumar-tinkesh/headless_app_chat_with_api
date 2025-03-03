@@ -1,0 +1,18 @@
+iPhone User Guide
+Unsend and edit messages on iPhone
+You can unsend and edit recent text messages, giving you the opportunity to fix a typo or pull back a message that you accidentally sent to the wrong person.
+Note: To unsend or edit text messages, you must be using iMessage with iOS 16, iPadOS 16.1, macOS 13, visionOS 1, or later. If you unsend a message to someone who’s using an earlier operating system, the original message remains in the conversation, and you’re notified that the recipient may still see the original message. If you edit a message to someone who’s using an earlier operating system, they receive follow-up messages with the preface “Edited to” and your new message in quotation marks. SMS, MMS, or RCS text messages can’t be edited or unsent. However, SMS, MMS, or RCS text messages can be edited in a group conversation as long as there’s at least one other iMessage user in the group.
+Unsend a message
+You can undo a recently sent message for up to 2 minutes after sending it.
+Go to the Messages app on your iPhone.
+Touch and hold the message bubble, then tap Undo Send.
+A note confirming that you unsent the message appears in both conversation transcripts: yours and your recipient’s.
+Unsending removes the message from your recipient’s device.
+Edit a sent message
+You can edit a recently sent message up to five times within 15 minutes of sending it.
+Go to the Messages app on your iPhone.
+Select a conversation with the message you want to edit.
+Touch and hold the message bubble, then tap Edit.
+Make any changes, then tap to resend with edits or to revert.
+Note: The message is marked as Edited in the conversation transcript.
+The message bubble updates to reflect your edits on both your iPhone and your recipient’s device, and both of you can tap Edited to see previous versions of your message.

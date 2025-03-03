@@ -1,0 +1,20 @@
+iPhone User Guide
+Intro to Switch Control on iPhone
+Switch Control is an assistive technology for anyone with limited mobility. It enables you to interact with iPhone by activating a switch , such as pressing an external adaptive button, performing a head movement, or making a voiced or voiceless sound. Using one or more switches, you can navigate a cursor around the iPhone screen, then open the Scanner menu to choose an available action such as tap, zoom in, zoom out, and more.
+What is a switch?
+A switch can be an external hardware device or a feature on your iPhone.
+Switches on iPhone don’t require any additional hardware. For example:
+Screen: Use a tap or long press anywhere on the iPhone screen. You can set up tap and long press as two different switches with separate actions.
+Camera: While in view of the front-facing iPhone camera, move your head to the left or right, or pinch your left or right index finger and thumb. You can set up each gesture as a different switch with a separate action.
+Back Tap: Double-tap or triple-tap the back of iPhone. You can set up double tap and triple tap as two different switches with separate actions.
+Sound: Make simple voiced sounds (such as “Oo”) or voiceless sounds (such as a pop). You can set up each sound as a different switch with a separate action.
+AirPods: Nod or shake your head while wearing supported AirPods that are paired with your iPhone. You can set up nod and shake as two different switches with separate actions.
+Gaming: Turn any switch into a virtual game controller to play your favorite games on iPhone.
+External switches connect to iPhone through Bluetooth® or the Lightning or USB-C connector. For example:
+Adaptive accessory
+Joystick
+Game controller
+MFi switch or switch interface
+How does Switch Control work?
+In Switch Control, each switch performs a specific action—for example, Move To Next Item moves the cursor to the next item on the screen. The switch’s action is performed when you activate the switch—such as by pressing the adaptive button, moving your head, or making a sound.
+You can use just one switch, or you can use multiple switches for different actions, depending on how you like to work. For example, you can activate your Move to Next Item switch to move the cursor from one item to the next. When the cursor highlights the item you want, you can activate your Select Item switch.

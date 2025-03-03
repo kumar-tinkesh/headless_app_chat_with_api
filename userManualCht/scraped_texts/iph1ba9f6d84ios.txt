@@ -1,0 +1,55 @@
+iPhone User Guide
+Set up HomePod in Home on iPhone
+You can use the Home app to set up HomePod and control many HomePod settings.
+To learn what you can do with iPhone and HomePod, see the following in the HomePod User Guide:
+Set up HomePod
+Play audio on HomePod using an iOS or iPadOS device
+Make Personal Requests on HomePod
+Use HomePod for phone calls
+Note: HomePod is not available in all countries or regions.
+Use Home to send and receive Intercom messages
+Go to the Home app on your iPhone.
+On the Home tab, tap , then tap Home Settings.
+Tap Intercom, then configure these settings:
+When you can receive Intercom messages
+Who is allowed to send or receive Intercom messages
+Which HomePod speakers can use Intercom
+Note: Any member of the Home can choose when they receive Intercom messages. Only a home owner or admin can choose who can send or receive Intercom messages and which HomePod speakers can use Intercom.
+Tap Back, then tap Done.
+Tap , say something like “Who ate the last cookie?” then tap Done.
+Your Intercom message is sent to all the HomePod speakers in your home, and to the iOS, iPadOS, and watchOS devices of all members of your home who can send and receive Intercom messages.
+To send a message to a HomePod in a specific room or zone, say something like “Siri, tell the office ‘The movie is starting’” or “Siri, announce upstairs ‘I’m going to the store.’”
+See Use HomePod as an Intercom in the HomePod User Guide.
+Use HomePod and HomeKit Secure Video to announce guests
+With a HomeKit Secure Video camera or doorbell, HomePod can notify you when someone you know is at the door (or send you a message if the person isn’t recognized).
+Note: To start announcing guests, first turn on Face Recognition .
+Go to the Home app on your iPhone.
+On the Home tab, tap , then tap Home Settings.
+Tap Cameras & Doorbells, then tap your camera or doorbell.
+Tap Doorbell Chime, then choose which HomePod speaker or speakers to enable.
+Use Home to add and edit HomePod alarms and timers
+Go to the Home app on your iPhone.
+Tap the right side of a HomePod tile, swipe up, then do any of the following:
+Add an alarm: Tap New Alarm, create the alarm, then tap Done.
+Edit an alarm: Tap the alarm, change the time, then tap Done.
+Turn alarms on or off: Tap the switch next to an alarm.
+Delete an alarm: Tap the alarm, then tap Delete Alarm.
+Create a new timer: Tap New Timer, enter a timer label (optional), choose the length of the timer, then tap Start.
+Pause and restart a timer: Tap ; tap to restart the timer.
+Remove a timer: Tap .
+Change HomePod settings
+You can assign HomePod to a different room, add an automation, create a stereo pair with two HomePod speakers of the same kind in the same room, and more.
+Go to the Home app on your iPhone.
+Tap the right side of a HomePod tile.
+Tap , then configure HomePod settings.
+Use HomePod to listen for alarm sounds
+HomePod can notify you when an alarm sound is detected in your home.
+Go to the Home app on your iPhone.
+Tap the right side of a HomePod tile.
+Tap , then tap Sound Recognition.
+Turn on Smoke & CO Alarm, then choose which HomePods will listen for alarms.
+Your HomePod will listen for certain sounds and notify you when alarm sounds may be recognized.
+Important: Sound Recognition may detect smoke and carbon monoxide alarm sounds and send you notifications when recognized. Sound Recognition should not be relied upon in circumstances where you may be harmed or injured, or in high-risk or emergency situations. Sound Recognition requires the new Home architecture .
+Add a Siri-enabled accessory
+You can extend access to HomePod throughout your home by enabling Siri on compatible HomeKit accessories. If you enable Siri on these accessories, you can control them with your voice, get help with everyday questions or tasks, and play your favorite music and podcasts.
+See Set up a Siri-enabled accessory in the HomePod User Guide.

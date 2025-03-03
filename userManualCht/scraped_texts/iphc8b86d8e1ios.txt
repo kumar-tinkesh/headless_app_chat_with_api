@@ -1,0 +1,17 @@
+iPhone User Guide
+Listen to Apple News Today on iPhone
+You can listen to Apple News Today, an audio briefing of the day’s top stories hosted by Apple News editors. With an Apple News+ subscription , you can also listen to audio versions of select Apple News+ stories in the News app and in the Podcasts app .
+Note: Apple News, Apple News+, and the audio feature aren’t available in all countries or regions. See the iOS and iPadOS Feature Availability website .
+Play Apple News Today
+Go to the News app on your iPhone.
+Tap , then tap an episode of Apple News Today.
+Apple News Today briefings also appear in the Today feed below Listen Now.
+For more audio controls, tap the mini player at the bottom to open the full-screen player.
+See Listen to audio stories .
+To return to the mini player, swipe down to minimize the full-screen player.
+To close the full-screen player, tap , then tap Close Audio Player. To close the mini player, tap .
+If you’re not an Apple News+ subscriber, a preview of an Apple News+ audio story plays when the briefing concludes.
+Get Apple News Today show notes notifications
+Go to the News app on your iPhone.
+Tap Following, swipe to the bottom of the screen, then tap Notifications & Email below Manage.
+Turn on notifications for Apple News Today.

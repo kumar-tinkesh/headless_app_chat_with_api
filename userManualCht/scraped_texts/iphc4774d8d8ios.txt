@@ -1,0 +1,20 @@
+iPhone User Guide
+Get started with FaceTime on iPhone
+Learn how to use the FaceTime app to visit face-to-face with friends and family—over Wi-Fi or cellular. In a FaceTime call, you can also watch TV shows and movies, listen to music, and even work out together.
+Set up FaceTime
+To get started with FaceTime, go to Settings > Apps > FaceTime, then sign in to your Apple Account or turn on FaceTime. If more than one contact method appears below “You can be reached by FaceTime at,” you can tap to select or deselect it.
+Make a FaceTime call
+Open the FaceTime app, tap New FaceTime, then enter the name or phone number of the person (or people) you want to call. Tap to make a video call or to make an audio call (not available in all countries or regions). You can talk with up to 32 people on a call.
+If you want to call someone who doesn’t have an Apple device, you can create and send a link to the call in Messages or Mail. To get started, open FaceTime, then tap Create Link.
+Use the FaceTime controls
+While on a FaceTime call, use the FaceTime controls to turn your speaker, camera, or mic on or off, take a Live Photo, and more. If you don’t see the controls, tap your screen.
+Watch, listen, and play together
+To get started sharing music or video together, or working out together during a FaceTime call, tap in the FaceTime controls (if you don’t see , tap the screen).
+Scroll through the apps below Listen and Play Together, then select one (for example, Apple TV app, Music, or Fitness).
+Want to learn more?
+Add people to a FaceTime call
+Share your screen during a FaceTime call
+Use SharePlay to watch, listen, and play together in FaceTime
+Change your FaceTime video settings
+Change your FaceTime audio settings
+Note: Not all features and content are available in all countries or regions.

@@ -1,0 +1,55 @@
+iPhone User Guide
+Share your internet connection from your iPhone with Personal Hotspot
+You can share the internet connection from your iPhone with other devices using a feature called Instant Hotspot. Instant Hotspot uses your iPhone device’s Personal Hotspot, and is useful when your other device doesn’t have internet access from a Wi-Fi network.
+There are several ways to connect other devices to your Personal Hotspot:
+Connect your other device to your iPhone through Wi-Fi settings.
+Pair your two devices with Bluetooth ® .
+Connect your other device to your iPhone with a cable.
+You can share the Personal Hotspot on your iPhone with another iPhone, an iPad, a Mac, a Windows device, and more.
+Note: Personal Hotspot isn’t available with all carriers. Additional fees may apply. The number of devices that can join your Personal Hotspot at one time depends on your carrier and iPhone model. Contact your carrier for more information.
+Before you begin
+Make sure of the following:
+Both devices have Wi-Fi and Bluetooth turned on.
+The devices are within 30 feet (10 meters) of each other.
+Both devices meet minimum system requirements for Instant Hotspot .
+If you’re using a VPN, make sure its configuration does not prevent local networking as that may interfere with some Continuity features.
+If you’re sharing your Personal Hotspot with your Apple devices, it’s faster to connect if you sign in to the same Apple Account on both devices.
+Note: You can only use Personal Hotspot by sharing your iPhone device’s cellular internet connection. You can’t connect your iPhone to a Wi-Fi network, and then share that network with another device.
+Set up Personal Hotspot on iPhone
+On your iPhone, go to Settings > Personal Hotspot, then tap Allow Others to Join.
+Optionally, you can change the Wi-Fi Password. Your Wi-Fi network name is your device name, which you can change in Settings > General > About.
+If you set up your iPhone to use two SIMs, Personal Hotspot uses the line you select for cellular data. See Set up Dual SIM .
+Note: If Cellular Data is turned on in Settings > Cellular, but you don’t see Set Up Personal Hotspot as an option, contact your carrier about adding Personal Hotspot to your plan.
+Turn Personal Hotspot on and off on iPhone
+On your iPhone, open Control Center . Tap to make your Personal Hotspot discoverable.
+You can choose who is allowed to use your Personal Hotspot, set a password, and—if you’re in a Family Sharing group—decide if you want to automatically share your Personal Hotspot with specific family members.
+Connect to a Personal Hotspot with Wi-Fi
+You can connect another device to the Personal Hotspot on your iPhone using Wi-Fi settings. You can connect another iPhone, an iPad, a Mac, a Windows device, and many other devices that are able to connect to a Wi-Fi network.
+On the device that you want to connect to your iPhone device’s Personal Hotspot, do any of the following:
+On an iPhone with Touch ID: Swipe down from the top-right edge to open Control Center. Tap to turn Wi-Fi on, then choose your iPhone.
+On an iPhone with Face ID: Swipe up from the bottom to open Control Center. Tap to turn Wi-Fi on, then choose your iPhone.
+On an iPad: Swipe down from the top-right edge to open Control Center. Tap to turn Wi-Fi on, then choose your iPhone.
+On a Mac: Click in the menu bar, then choose your iPhone.
+On a Windows device or other device: Follow the manufacturer’s instructions to connect to a Personal Hotspot.
+Enter the password you set up for your Personal Hotspot to connect. If you’re connecting another Apple device and you’re signed in to the same Apple Account on both devices, you don’t need to enter a password.
+Note: When a Mac is connected to your Personal Hotspot, a blue band appears at the top of your iPhone screen, and appears in the status bar of the connected Mac.
+When you’re not using using the hotspot, your devices automatically disconnect to save battery life.
+Connect to a Personal Hotspot with Bluetooth
+You can connect a Mac or Windows device to the Personal Hotspot on your iPhone using Bluetooth instead of Wi-Fi. Both devices must have Bluetooth turned on.
+On your Mac, choose Apple menu  > System Settings, then click Bluetooth in the sidebar. (You may need to scroll down.)
+Note: If your Mac has macOS 12.5 or earlier, choose Apple menu  > System Preferences, then click Bluetooth.
+On your iPhone, go to Settings  > Bluetooth to make it discoverable.
+On your Mac, select your iPhone when it appears. (It may take a moment.)
+As soon as it’s connected by Bluetooth, your Mac is able to use your iPhone device’s cellular connection.
+To connect your Windows device to your iPhone using Bluetooth, follow the manufacturer’s directions to set up a Bluetooth network connection.
+Connect to a Personal Hotspot with a USB cable
+You can connect a Mac or Windows device to the Personal Hotspot on your iPhone using the USB cable that came with your iPhone (or another cable that matches the ports on your iPhone and other device).
+Note: If you see an alert on your iPhone that says Trust This Computer? tap Trust. You may be asked to enter your device passcode to proceed. If you see an alert on your Mac that says “Allow accessory to connect?” click Allow.
+As soon as it’s connected by a cable, your Mac or Windows device is able to use your iPhone device’s cellular connection.
+If your Personal Hotspot isn’t working
+Make sure that your devices have Wi-Fi and Bluetooth turned on.
+Your devices must be within 30 feet (10 meters) of one another.
+See the Apple Support article If Personal Hotspot is not working on your iPhone or iPad (Wi-Fi + Cellular) for additional troubleshooting steps.
+Maximize compatibility in Settings > Personal Hotspot, then enable Maximize Compatibility. Maximize Compatibility may reduce performance for devices connected to your Personal Hotspot when turned on.
+When you share a Personal Hotspot from your iPhone, it uses cellular data for the internet connection. To monitor your cellular data network usage, go to Settings > Cellular. See View or change cellular data settings on iPhone .
+If you use Family Sharing, you can share your Personal Hotspot with any member of your family. See Set up Family Sharing on iPhone .

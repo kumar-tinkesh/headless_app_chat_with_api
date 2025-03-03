@@ -1,0 +1,35 @@
+iPhone User Guide
+Make your iPhone your own
+You can tailor your iPhone to your own interests and preferences. Personalize your Lock Screen, customize the appearance of apps on your Home Screen, keep your favorite features like magnifier and remote handy, change the sounds and vibrations for calls and messages, and more.
+Customize apps on your Home Screen
+You can tint the apps on your Home Screen your favorite color or give them a sleek dark look. You can also change the size of apps and move them anywhere on the screen—along the bottom for quicker reach, or off to the side to frame a favorite wallpaper.
+To change the color and the appearance of your apps, touch and hold the background on any Home Screen page until the apps jiggle. Tap Edit, tap Customize, then choose from the different appearance options.
+To move apps, touch and hold the Home Screen background until the apps jiggle, then drag an app to a new location on the current page, a different page, or to a new page.
+Personalize your Lock Screen
+You can showcase a favorite photo, add widgets, and change the font and style of the date and time. You can also swap out the controls at the bottom of the Lock Screen for other options—like Timer for when you’re cooking or Translate for when you travel.
+To get started, touch and hold the Lock Screen, then tap at the bottom of the screen. Browse the gallery of wallpaper options, then tap one to customize its appearance. When you’ve created a Lock Screen that you like, tap Add, then tap Set as Wallpaper Pair.
+Set your favorite controls
+Many iPhone features—like the timer and flashlight—are just a swipe away in Control Center. To quickly open Control Center on an iPhone with Face ID, swipe down from the top-right edge; on an iPhone with a Home button, swipe up from the bottom of the screen.
+To customize the controls, open Control Center, then touch and hold the background of the screen. Tap Add a Control at the bottom of the screen, then swipe up to view the controls gallery. When you see a control you want to add, tap it.
+Add widgets to your Home Screen
+Widgets let you easily see the information that’s most important to you, like the current weather and upcoming calendar events. You can also complete tasks—for example, check off an item in your Reminders to-do list, or play a song in Music.
+To add a widget, touch and hold the background on any Home Screen page until the apps jiggle, tap Edit, then tap Add Widget.
+Customize your phone calls
+Create your own unique call poster to personalize what people see when you call them. Choose your favorite photo or emoji, pair it with your preferred font, then add colors to make it pop. When you make a phone call, your call poster appears on the screen of the person you’re calling.
+To get started, open the Contacts app , tap your name, then tap Contact Photo & Poster.
+Choose sounds and vibrations
+iPhone can play different sounds and vibrations for phone calls, text messages, calendar alerts, and other notifications.
+Go to Settings > Sounds & Haptics. You can also change the sounds iPhone plays for certain people; in the Contacts app , tap a person’s name, tap Edit, then tap Ringtone or Text Tone.
+Use built-in accessibility features
+iPhone provides many accessibility features to support your vision, mobility, hearing, speech, and cognitive needs. Change text size, make it easier to use the touchscreen, control your iPhone with just your voice, and more.
+To customize these settings, go to Settings > Accessibility.
+Check your privacy settings
+iPhone is designed to protect your privacy and information. You can grant or deny apps permission to track your activity across other companies’ apps and websites.  To deny requests from apps to track your activity, go to Settings > Privacy & Security, tap Tracking, then turn off Allow Apps to Request to Track.
+Want to learn more?
+Customize apps and widgets on the iPhone Home Screen
+Create a custom iPhone Lock Screen
+Use and customize Control Center on iPhone
+Add, edit, and remove widgets on iPhone
+Get started with accessibility features on iPhone
+Control what you share on iPhone
+Apple Footer

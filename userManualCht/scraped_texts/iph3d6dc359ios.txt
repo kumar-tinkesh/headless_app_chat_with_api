@@ -1,0 +1,11 @@
+iPhone User Guide
+Share a recording in Voice Memos on iPhone
+You can share one or more audio recordings with others (or send it to your Mac or another device) using AirDrop, Mail, Messages, and more.
+Share a recording
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+In the list of recordings, tap the recording you want to share, then tap .
+Tap Share, choose a sharing option, select or enter a recipient, then tap Done or .
+Share more than one recording
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+Tap Edit above the list of recordings, then select the recordings you want to share.
+Tap , choose a sharing option, select or enter a recipient, then tap or Done.

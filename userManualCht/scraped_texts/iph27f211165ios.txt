@@ -1,0 +1,9 @@
+iPhone User Guide
+Report a FaceTime call as spam on iPhone
+If you receive an unwanted FaceTime call or Group FaceTime call In the FaceTime app , you can report it as spam.
+Report a FaceTime call as spam
+If you receive an unwanted FaceTime call from an unknown caller, you can report the call to Apple as spam by doing any of the following:
+During a FaceTime call: Tap at the top of the screen, tap Block Caller, then tap Block and Report Junk.
+In your FaceTime call history or in the Recents list in the Phone app: Swipe left on the call, tap , then tap Block and Report Junk.
+Report a Group FaceTime call from unknown callers as spam
+If you receive an unwanted Group FaceTime call from unknown callers, you can block them and report the call to Apple as spam. During the call, tap at the bottom of the screen, then tap Report as Junk. (You may need to scroll down.)

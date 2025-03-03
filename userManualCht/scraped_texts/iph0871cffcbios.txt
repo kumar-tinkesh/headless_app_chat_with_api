@@ -1,0 +1,28 @@
+iPhone User Guide
+Manually download Apple News+ issues on iPhone
+With the News app and an Apple News+ subscription, you can download issues to read later.
+Note: Apple News and Apple News+ aren’t available in all countries or regions. See the Apple Support article Availability of Apple Media Services .
+Download an Apple News+ issue
+Go to the News app on your iPhone.
+Do any of the following:
+Tap Today, then swipe to My Magazines.
+Tap News+, then tap My Magazines. You can also tap Catalog near the top of the screen, then tap a stack of magazines.
+Tap Following, then tap a magazine channel you follow.
+Tap Following, enter the magazine channel name in the search field, then tap the channel.
+When you find the issue you want, tap below the issue cover (or touch and hold the cover), then tap Download Issue.
+To download multiple issues, tap My Magazines, tap , tap Select, tap the issues you want to download, then tap .
+Read a downloaded issue
+Go to the News app on your iPhone.
+Tap the News+ tab.
+Tap Downloaded near the top of the screen, then tap an issue.
+Remove issues
+Go to the News app on your iPhone.
+Tap the News+ tab, then tap Downloaded near the top of the screen.
+Tap , tap Select, tap the issues you want to remove, then tap .
+If you remove an issue from the Downloaded tab, its cover remains in My Magazines so you can easily access the issue again.
+To remove all downloaded issues, tap Following > History, tap Clear, then tap Clear All.
+Remove an issue from My Magazines
+Go to the News app on your iPhone.
+Tap My Magazines near the top of the screen.
+Tap below the issue cover (or touch and hold the cover), tap Remove, then tap Remove from My Magazines.
+The issue’s cover and content are removed from iPhone and from any other devices where you’re signed in to the same Apple Account and where News is turned on in iCloud settings.

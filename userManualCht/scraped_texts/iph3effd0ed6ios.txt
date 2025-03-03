@@ -1,0 +1,15 @@
+iPhone User Guide
+Use Precision Finding on iPhone 15 and iPhone 16 to meet up with a friend
+Use the Find My app on iPhone 15 and iPhone 16 to meet up with a friend.
+Precision Finding for People isn’t available in all countries or regions, and both you and the friend you’re looking for must have an iPhone 15 or iPhone 16.
+To use another iPhone model to find someone, see Locate a friend .
+Go to the Find My app on your iPhone.
+Tap People at the bottom of the screen, then tap the name of the friend you want to meet.
+If you aren’t following each other, you may have to share your location or ask for their location .
+Do one of the following:
+See your friend in Maps: If you aren’t nearby, tap Directions to get closer to their location.
+Find your friend nearby: If you’re near one another, tap Find to notify your friend that you’re trying to locate them, then follow the onscreen instructions to get directions to them.
+When you get close enough to each other, an arrow points in their direction with an estimate of how far away they are.
+When you’re walking in the right direction, the screen turns green.
+When you locate the person you’re looking for, tap .
+If you receive a notification that a friend is trying to find you, you can tap Share so they can find their way to you more easily. If you’ve already shared your location with them, they see where you are relative to their location. You can stop sharing your location at any time.

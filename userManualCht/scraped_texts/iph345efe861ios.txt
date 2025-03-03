@@ -1,0 +1,12 @@
+iPhone User Guide
+Adjust the accessibility settings for AirPods on iPhone
+With AirPods 3 or later, AirPods Pro, or AirPods Max, you can adjust the accessibility settings to suit your mobility or hearing needs.
+Go to Settings > Accessibility > AirPods.
+If you have multiple AirPods, select one.
+Set any of the following options:
+Press Speed: Adjust how quickly you must press two or three times before an action occurs.
+Press and Hold Duration: Adjust the duration required to press and hold on your AirPods.
+Noise Cancellation with One AirPod: With AirPods Pro, turn on noise cancellation even when you’re using only one of your AirPods.
+Spatial Audio Head Tracking: When you turn on Follow iPhone, Spatial Audio sounds like it’s coming from your iPhone instead of following the movement of your head (for supported audio and video content).
+Tone Volume: Adjust the volume of the sound effects that are played by your AirPods, such as low battery alerts.
+If you have AirPods Pro 2, you can use your iPhone to take a hearing test. If you have perceived mild to moderate hearing loss, you can get hearing assistance with the Hearing Aid feature. See Use hearing health features with AirPods Pro 2 .

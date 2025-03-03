@@ -1,0 +1,127 @@
+/* Floating Chat Button */
+.chat-toggle {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 12px 18px;
+    font-size: 16px;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Chat Popup (Hidden by Default) */
+.chat-container {
+    display: none;
+    position: fixed;
+    bottom: 80px;
+    right: 20px;
+    width: 400px;
+    max-width: 90%;
+    height: 570px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    flex-direction: column;
+    display: flex; /* Ensure flex is applied */
+}
+
+
+/* Chat Header with Close Button */
+.chat-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #007bff;
+    color: white;
+    padding: 15px;
+    font-size: 18px;
+}
+
+.close-chat {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+/* Chat Messages */
+.chat-box {
+    flex: 1;
+    padding: 15px;
+    gap: 10px;
+    padding-bottom: 60px;
+    overflow-y: auto; /* Enables scrolling */
+    scrollbar-width: thin;
+    max-height: 500px; /* Ensure height is defined */
+    display: flex;
+    flex-direction: column; /* Ensures messages stack properly */
+}
+
+
+/* Chat Input Box */
+.chat-input {
+    display: flex;
+    padding: 10px;
+    background: white;
+    border-top: 1px solid #ddd;
+    position: absolute;
+    bottom: 0;
+    width: 95%;
+}
+
+.chat-input input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.chat-input button {
+    margin-left: 10px;
+    padding: 10px 15px;
+    border: none;
+    background: #007bff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.chat-input button:hover {
+    background: #0056b3;
+}
+
+/* User Messages */
+.user-message {
+    align-self: flex-end;
+    background: #007bff;
+    color: white;
+    gap: 3px;
+    padding: 10px;
+    border-radius: 8px;
+    max-width: 75%;
+    word-wrap: break-word;
+    font-size: 14px;
+    text-align: right;
+    border-top-right-radius: 0;
+}
+
+/* Assistant (Bot) Messages */
+.bot-message {
+    align-self: flex-start;
+    background: #e9ecef;
+    color: black;
+    padding: 10px;
+    border-radius: 8px;
+    max-width: 75%;
+    word-wrap: break-word;
+    font-size: 14px;
+    text-align: left;
+    border-top-left-radius: 0;
+}

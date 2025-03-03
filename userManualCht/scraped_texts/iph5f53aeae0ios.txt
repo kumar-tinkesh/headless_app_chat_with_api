@@ -1,0 +1,20 @@
+iPhone User Guide
+Set separation alerts in case you leave a device behind in Find My on iPhone
+In the Find My app, you can turn on separation alerts for a device so you don’t accidentally leave it behind. You can also set Trusted Locations, which are locations where you can leave your device without receiving an alert.
+If you have an iPhone Wallet with MagSafe and Find My support, you can get an alert if it detaches from your iPhone.
+Important: In order to receive separation alerts, make sure you allow notifications for the Find My app. See Change notification settings on iPhone . Location sharing and finding devices aren’t available in all countries or regions.
+Set up alerts for your iPhone, iPad, Mac, or AirPods
+You can set up separation alerts for your iPhone, iPad, or iPod touch with iOS 15, iPadOS 15, or later; Mac with Apple silicon and macOS 12 or later; or AirPods with the Find My network turned on.
+You can only set up a separation alert from the device sharing your location . You receive an alert every time the device sharing your location separates from the device you set an alert for.
+Go to the Find My app on your iPhone.
+Tap Devices at the bottom of the screen, then tap the name of the device you want to set up an alert for.
+Below Notifications, tap Notify When Left Behind.
+Turn on Notify When Left Behind, then follow the onscreen instructions.
+If you want to add a Trusted Location, you can choose a suggested location, or tap New Location, select a location on the map, then tap Done.
+Tap Done.
+Get notified when your iPhone Wallet with MagSafe detaches from your iPhone
+You can get an alert one minute after your iPhone Wallet with MagSafe and Find My support separates from your iPhone. Then you can use the Find My app to see its last known location on a map.
+Go to the Find My app on your iPhone.
+Tap Devices at the bottom of the screen, then tap the name of your iPhone Wallet with MagSafe.
+Below Notifications, tap Notify When Detached.
+Turn off or on Notify When Detached, then tap Done.

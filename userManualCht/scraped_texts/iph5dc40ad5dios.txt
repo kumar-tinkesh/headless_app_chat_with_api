@@ -1,0 +1,30 @@
+iPhone User Guide
+Expert advice from Apple Support
+Apple Support advisors help iPhone customers with all sorts of questions from forgotten passwords to lost photos. Below are a few pieces of advice that Apple Support advisors wish all iPhone owners knew. Follow these simple steps now to keep your iPhone, and the important information you keep on it, safe.
+Just in case you forget
+After you set up your iPhone, there are two things you really don’t want to forget—your iPhone passcode and your Apple Account information. Your iPhone passcode is the four- or six-digit numerical code that you use to unlock your iPhone. You use your Apple Account to sign in to Apple services, make purchases in the App Store, and more. Your Apple Account is typically your primary email address or phone number and the unique password you create to use with it.
+If you think you might forget these things, you can designate a trusted person as your account recovery contact. Your recovery contact doesn’t have access to your iPhone or Apple account, but they can give you a code to reset your passcode or access your account if you get locked out. To set up a recovery contact, go to Settings > [ your name ] > Sign-In & Security > Account Recovery, tap Add Recovery Contact, then follow the onscreen instructions.
+How to find your iPhone if it’s lost or stolen
+It’s easy to find your iPhone if it ever gets lost or stolen—as long as you turn on Find My iPhone before that happens. First, make sure you’re signed in to your Apple Account, then go to Settings > [ your name ] > Find My > Find My iPhone, and turn on Find My iPhone.
+After you turn on Find My iPhone, you can use the Find My app on another Apple device to see the location of your iPhone; you can even play a sound on your lost iPhone to help you find it. (Make sure you’re signed in to the same Apple Account on the other Apple device.) If you don’t have another Apple device, go to www.icloud.com/find on any web browser and sign in to the same Apple Account.
+Recover deleted photos or videos
+When you delete photos or videos from the Photos app, they’re automatically saved in the Recently Deleted album for 30 days. If you accidentally delete a photo or video, you can recover it and restore it to your Photos library.
+To recover deleted items, open the Photos app , tap Recently Deleted (below Utilities), then tap View Album. Unlock the album using your iPhone passcode, Face ID, or Touch ID. Tap a photo or video, tap Recover, then tap Recover Photo or Recover Video.
+Maximize the life of your iPhone battery
+There are a few easy steps you can take to preserve the life of your iPhone battery. First, make sure your iPhone is updated to the latest version of iOS. To check if a software update is available, go to Settings > General > Software Update.
+Next, always connect to Wi-Fi when it’s available; a Wi-Fi connection uses less battery power than a cellular connection.
+Last, turn down your screen brightness: Open Control Center and drag . To automatically dim your screen based on the surrounding light, go to Settings > Accessibility > Display & Text Size, then turn on Auto-Brightness.
+To learn more about your iPhone battery health, go to Settings > Battery.
+If you get a new phone number
+The phone number associated with your Apple Account is often used to verify your identity and authenticate that your iPhone is really yours—it’s known as your trusted phone number. If you get a new phone number, make sure you update your trusted phone number so you don’t lose access to your account if you forget your Apple Account password, or move to a new iPhone.
+To update your trusted phone number, go to Settings > [ your name ] > Sign-In & Security, then tap Edit next to Email & Phone Numbers. Tap Add Email or Phone Number, then tap Add a Phone Number. Enter your new phone number and follow the onscreen instructions to verify your new number.
+All about eSIM
+An eSIM is a digital version of the physical SIM card inside your iPhone that connects to your cellular carrier. With eSIM, you don’t have to swap out your SIM card when you get a new iPhone, and you can easily connect to new cellular carriers at home or while traveling. If you purchased an iPhone 14 model or later in the United States, your iPhone automatically connects to your cellular carrier using eSIM.
+If you erase your iPhone, or restore it from a backup and accidentally delete your eSIM, your iPhone may lose its cellular connection; to restore it, you’ll need to contact your cellular provider.
+Want to learn more?
+Keep your Apple Account secure on iPhone
+Locate a device in Find My on iPhone
+Delete or hide photos and videos on iPhone
+Check the iPhone battery health and usage
+Set up an eSIM
+Apple Footer

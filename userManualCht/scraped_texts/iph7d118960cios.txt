@@ -1,0 +1,10 @@
+iPhone User Guide
+Add Siri Shortcuts on iPhone
+Apps can offer shortcuts for things you do frequently. You can use Siri to initiate these shortcuts with just your voice.
+Some apps have Siri Shortcuts set up automatically. You can also create your own.
+Add a suggested shortcut
+Tap Add to Siri when you see a suggestion for a shortcut, then follow the onscreen instructions to record a phrase of your choice that performs the shortcut.
+You can also use the Shortcuts app to create a new shortcut that uses Siri, or to manage, re-record, and delete existing Siri Shortcuts. See the Shortcuts User Guide .
+Use a shortcut
+Activate Siri, then speak your phrase for the shortcut. See Use Siri .
+Based on your routines and how you use your apps, Siri also suggests shortcuts on the Home Screen, the Lock Screen, and when you start a search. To turn off shortcut suggestions for an app, see Change Siri settings on iPhone .

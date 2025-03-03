@@ -1,0 +1,38 @@
+iPhone User Guide
+Manage App Store purchases, settings, and restrictions on iPhone
+In the App Store app, you can review and download purchases made by you or other family members. You can also set restrictions and customize your preferences for the App Store in Settings .
+View and redownload your apps
+Go to the App Store app on your iPhone.
+Tap or your picture at the top right, then tap Apps.
+Tap My Apps or choose a family member (if you’re in a Family Sharing group ).
+Find the app you want to download (if it’s still available in the App Store), then tap .
+See your purchase history from the App Store and other Apple media services
+Your purchase history includes free and paid apps from the App Store as well as in-app purchases, subscriptions, music, videos, books, AppleCare+, and more.
+Go to the App Store app on your iPhone.
+Tap or your picture at the top right, then tap Purchase History.
+You may be asked to authenticate with Face ID, Touch ID, or your passcode.
+To narrow the results, enter the name, price, or order ID in the search field.
+To change the search criteria, tap “Last 90 Days, Paid,” then set any of the following:
+Date range
+Cost (free or paid)
+Type
+Family member (available if you’re the organizer of a Family Sharing group )
+Share and approve purchases with Family Sharing
+If you’re in a Family Sharing group , you can view and download eligible apps purchased by other family members.
+Note: You can see purchases made by family members only if they choose to share their purchases. Purchases made with Family Sharing may not be accessible after the family member leaves the family group.
+The family organizer can review and approve eligible purchases made by other family members under a certain age. See Turn on Ask to Buy .
+Change your App Store settings
+Go to Settings > App Store, then do any of the following:
+Automatically download apps purchased on your other Apple devices: Below Automatic Downloads, turn on App Downloads.
+Automatically update apps: Turn on App Updates.
+Download in-app content in the background: Turn on In-App Content to download content before you first open an app.
+Allow app downloads to use cellular data: Below Cellular Data, turn on Automatic Downloads. To choose whether you want to be asked for permission for downloads over 200 MB or all apps, tap App Downloads.
+Automatically play app preview videos: Turn on Video Autoplay.
+Automatically remove unused apps: Turn on Offload Unused Apps. You can reinstall an app at any time if it’s still available in the App Store.
+Set content restrictions and prevent in-app purchases
+After you turn on content and privacy restrictions , do the following.
+Go to Settings > Screen Time > Content & Privacy Restrictions, then turn on Content & Privacy Restrictions.
+Tap App Store, Media, Web & Games.
+Choose age-appropriate restrictions such as the following:
+Apps: Restrict apps by age ratings.
+App Clips: Prevent App Clips from opening.

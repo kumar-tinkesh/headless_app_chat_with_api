@@ -1,0 +1,16 @@
+iPhone User Guide
+Get live captions of spoken audio on iPhone
+With Live Captions on iPhone, you can get a real-time transcription of spoken audio. Use Live Captions to more easily follow the audio in any app, such as FaceTime or Podcasts, as well as live conversations around you.
+Note: Live Captions is available on iPhone 11 and later when the primary language is set to English (U.S.) or English (Canada). The accuracy of Live Captions may vary and shouldn’t be relied upon in high-risk or emergency situations.
+Set up and customize Live Captions
+Go to Settings > Accessibility > Live Captions, then turn on Live Captions.
+Tap Appearance to customize the text, size, and color of the captions.
+By default, Live Captions are shown across all apps. To get live captions only for certain apps such as FaceTime or RTT, turn them on below In-App Live Captions.
+Use Live Captions
+With Live Captions turned on, iPhone automatically transcribes the spoken audio in apps—or from dialogue around you. You can do any of the following:
+Transcribe an in-person conversation: Tap Live Captions, then tap Microphone.
+Transcribe iPhone audio: Tap Live Captions, then tap iPhone Audio.
+Pause the transcription: Tap Live Captions, then tap Pause Listening.
+Move the Live Captions window: Drag the Live Captions window to reposition it on the screen.
+Hide the Live Captions window: The Live Captions window is automatically hidden when no audio is detected. If the window is showing, swipe left or right on the window to hide it. To restore the window, tap .
+Make the transcription window full-screen: Tap . To restore the window to the smaller size, tap .

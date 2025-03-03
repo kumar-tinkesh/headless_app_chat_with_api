@@ -1,0 +1,55 @@
+iPhone User Guide
+Use Game Center to play with friends on iPhone
+With Game Center, you can send friend requests, manage your user profile, earn achievements, compete on leaderboards, and play with friends during a FaceTime call. You can use Game Center to access supported games across all your Apple devices.
+Set up your Game Center profile
+Go to Settings > Game Center, then sign in to your Apple Account .
+To choose a nickname that your friends will see when you play games together, tap Nickname, then enter a name or choose one of the suggestions.
+To personalize your avatar, tap Edit Avatar, then create a new Memoji, use an existing Memoji, or customize how your initials appear.
+To view your Game Center profile, achievements, recent games, friends, and their activity, go to Settings > Game Center > [ your profile ].
+Add friends
+Go to Settings > Game Center.
+Tap Invite Friends, then choose a suggested contact or find a contact by entering their name.
+Recipients can respond to friend requests in any of the following ways:
+In Messages, tap the link.
+Go to Settings > Game Center > Friend Requests.
+You can also add a friend in the Contacts app. Open their contact card, then tap Add Friend on Game Center.
+Get friend suggestions and see what they’re playing
+In the App Store, you can invite your contacts to connect on Game Center and see your friends’ recent activity.
+Go to the App Store app on your iPhone.
+Tap Games or Arcade (if you subscribe to Apple Arcade ).
+Scroll down to Game Center to see Friends are Playing, Recent Activity, or Friend Suggestions.
+You can also see your friends’ profiles and recent activity by going to Settings > Game Center > All Friends.
+Play games with friends using SharePlay
+You can find and download a Game Center multiplayer game in the App Store and play with friends while on a FaceTime call.
+During the call, open a supported multiplayer game, tap Start SharePlay, then follow the onscreen instructions.
+See Use SharePlay to watch, listen, and play together .
+Use AirDrop to invite people to a multiplayer game
+You can use AirDrop to invite nearby friends to multiplayer games that support Game Center.
+Open the game you want to play on your iPhone.
+Navigate to the screen where you invite friends.
+Hold the display of your iPhone a few centimeters from the top of the other person’s iPhone or Apple Watch.
+A glow emerges from both devices to indicate a connection is being made.
+Continue holding your devices near each other until the game appears on the other person’s screen.
+Report a user or remove a friend
+You can report a user for cheating, an inappropriate picture or nickname, or another problem. You can also remove someone from your Friends list.
+Go to Settings > Game Center > All Friends.
+Tap the friend you want to report or remove, tap , then choose Report User or Remove Friend.
+Manage Game Center settings and restrictions
+You can view friends, accept or decline requests, manage privacy settings, and set restrictions.
+Go to Settings > Game Center, then do any of the following:
+View friends: Tap All Friends.
+Accept or decline friend requests: Tap Friend Requests.
+Allow or disallow apps to access your list of Game Center friends: Tap Share Friends List.
+Allow Game Center friends to find you with the email and phone number associated with your Apple Account: Turn on Help Friends Find You.
+Manage activity sharing: Choose Everyone, Friends Only, or Only You to specify who can see your profile, achievement progress, leaderboard updates, and recently played games.
+Allow invitations from nearby players: Turn on Nearby Players to allow nearby Game Center players in the same game to invite your to a multiplayer game over Wi-Fi or Bluetooth.
+Go to Settings > Screen Time > Content & Privacy Restrictions, then turn on Content & Privacy Restrictions.
+Tap App Store, Media, Web & Games, scroll down to Game Center, then set any of the following restrictions:
+Multiplayer Games
+Adding Friends
+Connect with Friends
+Screen Recording
+Nearby Multiplayer
+Private Messaging
+Profile Privacy Changes
+Avatar & Nickname Changes

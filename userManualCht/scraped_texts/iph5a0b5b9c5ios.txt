@@ -1,0 +1,29 @@
+iPhone User Guide
+Wake, unlock, and lock iPhone
+iPhone turns off the display to save power, locks for security, and goes to sleep when you’re not using it. You can quickly wake and unlock iPhone when you want to use it again.
+Wake iPhone
+To wake iPhone, do one of the following:
+Press the side button.
+Raise iPhone.
+Note: To turn off Raise to Wake, go to Settings > Display & Brightness.
+Tap the screen (not available on iPhone SE).
+Unlock iPhone with Face ID
+If you have an iPhone with Face ID , but you didn’t turn on Face ID during setup, see Set up Face ID . Then follow these steps:
+Tap the screen or raise iPhone to wake it, then glance at your iPhone.
+The lock icon animates from closed to open to indicate that iPhone is unlocked.
+Swipe up from the bottom of the screen.
+Note: To lock iPhone again, press the side button. iPhone locks automatically if you don’t touch the screen for a minute or so. However, if Attention Aware Features is turned on in Settings > Face ID & Passcode, iPhone won’t dim or lock as long as it detects attention.
+Unlock iPhone with Touch ID
+If you have an iPhone with a Home button, but you didn’t turn on Touch ID during setup, see Set up Touch ID . Then follow these steps:
+To unlock iPhone, press the Home button using the finger you registered with Touch ID.
+To lock iPhone again, press the side button.
+Note: iPhone locks automatically if you don’t touch the screen for a minute or so.
+Unlock iPhone with a passcode
+If you didn’t create a passcode when you set up iPhone, see Set a passcode . Then follow these steps:
+Swipe up from the bottom of the Lock Screen (on an iPhone with Face ID) or press the Home button (on other iPhone models).
+Enter your passcode.
+Lock iPhone
+You can lock iPhone using the following methods:
+Manually: Press the side button.
+Automatically: iPhone locks on its own if you don’t interact with it for a certain amount of time. See Change when iPhone automatically locks .
+When iPhone locks, the display turns off unless you’ve turned on the Always On Display .

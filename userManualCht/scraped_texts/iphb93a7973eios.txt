@@ -1,0 +1,15 @@
+iPhone User Guide
+View electricity usage and rates on iPhone (participating U.S. providers only)
+You can view how much electricity your home uses in the Home app and easily track your usage over time, as well as view your electricity rate plan information.  Electricity usage data is typically displayed with a lag of 24 to 72 hours.
+Note: To use these features, you need to have a residential electrical service with a participating utility provider, and you must be the utility account owner or authorized user of the utility account.
+Set up electricity usage and rate information
+Go to the Home app on your iPhone.
+Tap the Home tab, tap , then tap Home Settings.
+Tap Energy, then tap Connect Account.
+Note: Participating utility providers are listed under Available Providers. If your utility provider isn’t listed, this feature isn’t currently supported in your area.
+Follow the onscreen instructions to link your compatible electricity account.
+Disconnect your account from electricity usage and rate information
+Go to the Home app on your iPhone.
+Tap the Home tab, tap , then tap Home Settings.
+Tap Energy, then tap your linked electricity account.
+Tap Disconnect Account.

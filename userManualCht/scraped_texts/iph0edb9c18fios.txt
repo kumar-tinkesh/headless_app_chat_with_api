@@ -1,0 +1,22 @@
+iPhone User Guide
+See photo and video information on iPhone
+You can see saved metadata information about a photo or video in the Photos app. You can also change the date, time, and location stored within the item’s metadata information.
+View photo and video metadata
+Go to the Photos app on your iPhone.
+Tap the photo or video whose metadata you want to see, then swipe up or tap .
+Depending on the photo or video, you see the following details:
+People identified in the photo
+A caption field to describe the photo or video, and make it easier to find in Search
+Items detected by Visual Look Up
+What device captured the photo or video
+The date and time the photo or video was taken (tap Adjust to edit the date and time)
+Camera metadata such as lens, shutter speed, file size, and more
+Where the photo or video was taken (tap the link to view the location in Maps; tap Adjust to edit the location)
+Who shared the photo or video with you, if it was shared
+What albums this photo is in
+Change the date, time, or location
+Go to the Photos app on your iPhone.
+Tap a photo or video to open it, then tap .
+Tap Adjust Date & Time or Adjust Location.
+To change the date, time, or location of a batch of photos, tap Select, tap the thumbnails you want to change, then follow the steps above.
+To revert a photo or video to its original date, time, or location, tap , tap Adjust Date & Time or Adjust Location, then tap Revert.

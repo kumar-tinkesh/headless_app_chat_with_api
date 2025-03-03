@@ -1,0 +1,19 @@
+iPhone User Guide
+Organize your cards, keys, and passes in Wallet on iPhone
+In the Wallet app, you can easily organize the cards, keys, and passes for your convenience. Set the default payment card, reorder the cards, archive expired passes, and remove the cards you don’t need anymore.
+Rearrange your cards, keys, and passes
+Go to the Wallet app on your iPhone.
+Touch and hold a card you want to move.
+Drag the card to a new position in the stack.
+Hide or archive expired passes
+Go to Settings > Wallet & Apple Pay, then turn on Hide Expired Passes.
+Unhide or restore expired passes
+To restore an expired pass to the Wallet stack, do the following:
+Go to the Wallet app on your iPhone.
+Scroll down to the bottom of the stack, then tap View Expired Passes.
+Choose the pass you want to restore, then tap Unhide.
+To unhide all your expired passes, go to Settings > Wallet & Apple Pay, then turn off Hide Expired Passes.
+Permanently remove a pass from Wallet
+Go to the Wallet app on your iPhone.
+Tap the pass you want to remove, then tap or .
+Tap Remove Pass.

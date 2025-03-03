@@ -1,0 +1,75 @@
+iPhone User Guide
+Use AssistiveTouch on iPhone
+With AssistiveTouch on iPhone, you can adapt the touchscreen to ﬁt your needs. If certain gestures don’t work for you, replace them with a tap or other gesture, or use a simple sound. You can also use AssistiveTouch when you need to press iPhone buttons. You can use AssistiveTouch without any accessory or with a compatible adaptive accessory (such as a joystick).
+You can use AssistiveTouch to perform actions such as the following:
+Go to the Home Screen
+Double-tap
+Perform multifinger gestures
+Perform scroll gestures
+Activate Siri
+Access Control Center, notifications, the Lock Screen, or the App Switcher
+Adjust the volume on iPhone
+Shake iPhone
+Take a screenshot
+Use 3D Touch (on supported iPhone models )
+Use Apple Pay
+Use Emergency SOS
+Speak screen
+Adjust dwell settings
+Restart iPhone
+Set up AssistiveTouch
+Siri: Say something like: “Turn on AssistiveTouch” or “Turn off AssistiveTouch.” Learn how to use Siri .
+Or do the following:
+Go to Settings > Accessibility > Touch > AssistiveTouch.
+Turn on AssistiveTouch. The AssistiveTouch menu button appears on the screen.
+To customize AssistiveTouch, tap any of the following:
+Customize Top Level Menu: Tap an icon to change its action. Tap or to change the number of icons in the menu. The menu can have up to eight icons.
+Single-Tap, Double-Tap, Long Press, or 3D Touch: Assign custom actions that run when you interact with the menu button. 3D Touch is available only on supported iPhone models .
+Create New Gesture: Add your favorite gestures.
+Idle Opacity: Adjust the visibility of the menu button when not in use.
+Confirm with AssistiveTouch: On an iPhone with Face ID , confirm payments with Face ID by using AssistiveTouch instead of double-clicking the side button.
+Tip: To quickly turn AssistiveTouch on or off, you can set up the Accessibility Shortcut , then triple-click the side or Home button.
+Use AssistiveTouch
+When AssistiveTouch is on, tap the AssistiveTouch menu button , then choose an action or gesture.
+To return to the previous menu, tap the arrow in the center of the menu. To exit the menu without performing a gesture, tap anywhere outside the menu.
+To move the AssistiveTouch menu button, drag it to a new location on the screen.
+For a multifinger gesture, do the following:
+Pinch and Rotate: Tap Custom, then tap Pinch and Rotate. When the two pinch circles appear, touch anywhere on the screen to move the pinch circles, then drag them in or out to perform a pinch or rotate gesture. When you finish, tap the menu button.
+Multifinger swipe or drag: Tap Device > More > Gestures, then tap the number of digits needed for the gesture. When the circles appear on the screen, swipe or drag in the direction required by the gesture. When you finish, tap the menu button.
+Control iPhone with a pointer device
+You can connect Bluetooth® and USB assistive pointer devices, such as trackpads, game controllers, and mouse devices.
+Go to Settings > Accessibility > Touch > AssistiveTouch.
+Turn on AssistiveTouch.
+Below Pointer Devices, tap any of the following:
+Devices: Pair or unpair devices and customize buttons.
+Mouse Keys: Allow the AssistiveTouch pointer to be controlled using the keyboard.
+Pointer Style: Adjust the size, color, and auto-hide settings.
+Show Onscreen Keyboard: Display the onscreen keyboard.
+Sound on Click: Play a sound when the pointer device is clicked.
+Always Show Menu: Show the AssistiveTouch menu when a pointer device is connected.
+Tracking Sensitivity: Adjust how quickly the pointer moves when you drag the mouse or your finger on the trackpad.
+You can also change the appearance of the pointer .
+Set up Dwell Control
+iPhone performs a selected action when you hold the cursor still on a screen element or an area of the screen.
+Go to Settings > Accessibility > Touch > AssistiveTouch, then turn on Dwell Control.
+Adjust any of the following:
+Fallback Action: Turn on to revert the dwell action to the selected fallback action after performing an operation.
+Movement Tolerance: Adjust the distance the cursor can move while dwelling on an item.
+Hot Corners: Perform a selected action—such as take a screenshot, open Control Center, activate Siri, scroll, or use a shortcut—when the cursor dwells in a corner of the screen.
+Time needed to initiate a dwell action: Tap or .
+Use simple sounds to perform gestures
+With AssistiveTouch, you can have iPhone perform a gesture or other action when you make a simple sound, such as a mouth pop or an S-sound.
+Go to Settings > Accessibility > Touch > AssistiveTouch, then turn AssistiveTouch on.
+Tap Sound Actions, then tap a sound.
+Select the gesture or other action you want performed when you make the sound.
+To perform the gesture or action, just make the sound.
+Create custom gestures
+You can add gestures you use often (such as touch and hold or two-finger rotation) to the AssistiveTouch menu. You can even create several gestures with, for example, different degrees of rotation.
+Go to Settings > Accessibility > Touch > AssistiveTouch > Create New Gesture.
+Perform your gesture on the recording screen. For example:
+Touch-and-hold gesture: Touch and hold your finger in one spot until the recording progress bar reaches halfway, then lift your finger. Be careful not to move your finger while recording, or the gesture will be recorded as a drag.
+Two-finger rotation gesture: Rotate two fingers on the iPhone screen around a point between them. (You can do this with a single finger or stylus—just create each arc separately, one after the other.)
+If you record a sequence of taps or drag gestures, they’re all played back at the same time. For example, using one finger or a stylus to record four separate, sequential taps at four locations on the screen creates a simultaneous four-finger tap.
+If your gesture doesn’t turn out quite right, tap Cancel, then try again.
+When you’re satisfied with your gesture, tap Save, then name the gesture.
+To use your custom gesture, tap the AssistiveTouch menu button , tap Custom, then choose the gesture. When the blue circles representing your gesture appear, drag them to where you want to use the gesture, then release.

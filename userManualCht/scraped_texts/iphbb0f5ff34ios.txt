@@ -1,0 +1,17 @@
+iPhone User Guide
+Mark items as favorites in Apple Music on iPhone
+You can mark items as “favorites” in Music to make them easier to find. If you subscribe to Apple Music , you can get notifications on new releases from your favorite artists, and easily get back to their music from the Home tab.
+Add favorite playlists, artists, albums, and songs
+Go to the Music app on your iPhone.
+Do any of the following:
+Add a favorite playlist: Touch and hold a playlist or tap next to a playlist, then tap Favorite.
+Add a favorite artist: Go to an artist page, then tap at the top of the screen.
+When you mark an artist as a favorite, they appear below Favorite Artists in Home, and their music is recommended more often.
+Add a favorite album: Touch and hold an album, then choose Favorite. Or tap an album, tap , then tap Favorite.
+Add a favorite song: Touch and hold a song or tap next to a song, then tap Favorite. Or on the Now Playing screen, tap .
+When you mark a song as a favorite, it appears in the Favorite Songs playlist. To view that playlist, tap Library, then tap Playlists.
+You can easily find favorite items in your music library. Tap Library, choose Playlists, Artists, Albums, or Songs, tap , then choose Favorites.
+Remove playlists, artists, albums, and songs as favorites
+Go to the Music app on your iPhone.
+Tap Library, choose Playlists, Artists, Albums, or Songs, tap , then choose Favorites
+Touch and hold a playlist, artist, album, or song, then tap Undo Favorite.

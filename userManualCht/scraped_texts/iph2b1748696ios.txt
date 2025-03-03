@@ -1,0 +1,13 @@
+iPhone User Guide
+Get personalized recommendations in Music on iPhone
+As soon as you subscribe to Apple Music , you can make selections so that you see playlists, albums, and songs based on your preferences. If you don’t want Music to make recommendations, you can also turn off your listening history.
+Select your favorite genres and artists
+When you first tap Home, you’re asked to tell Apple Music what you like. Apple Music uses these preferences when recommending music.
+Go to the Music app on your iPhone.
+Tap the genres you like (double-tap those you love, and touch and hold the genres you don’t care for).
+Tap Next, then do the same with the artists that appear.
+Tell Apple Music to ignore your listening habits
+You can turn off your listening history so that Apple Music ignores your listening habits and adjusts new music recommendations and the contents of Replay playlists.
+Go to Settings > Apps > Music.
+Turn off Use Listening History.
+This action also hides all the music you play from your followers on Apple Music. To hide only certain playlists or albums, see Hide music from your followers .

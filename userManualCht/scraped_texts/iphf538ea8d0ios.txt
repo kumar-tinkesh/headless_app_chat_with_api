@@ -1,0 +1,53 @@
+iPhone User Guide
+Use passkeys to sign in to websites and apps on iPhone
+You can create and save passkeys to replace the passwords you use to sign in to supported websites and apps on your iPhone.
+Passkeys are more secure than passwords, because they’re uniquely generated for every account by your own device and are less vulnerable to phishing. And they work on all your devices where you’re signed in to the same Apple Account.
+Also, websites and apps can automatically create passkeys for your account, so you can use the passkeys the next time you sign in.
+Like passwords, passkeys are encrypted and stored in your iCloud Keychain, where they aren’t visible to anyone (including Apple).
+Note: To use passkeys, iCloud Keychain and two-factor authentication must be turned on.
+Create and save a passkey using your iPhone
+You can create and save passkeys for websites and apps that support them.
+Note: The instructions for creating and saving a passkey can vary depending on the app, website, or browser, but they typically consist of steps similar to the ones below.
+Go to the sign-in screen for a supported website or app on your iPhone, and do one of the following:
+If you’re setting up a new account: Tap the button or link for setting up new accounts, then follow the onscreen instructions.
+If you already have an existing account: Sign in with your account name and password, then go to the account settings or management screen.
+When you see the option to save a passkey for the account, tap Continue.
+Your passkey is saved.
+Note: If you don’t see a passkey option, it means the website or app doesn’t currently support passkeys.
+The passkeys you create are stored on your iPhone in the Passwords app.
+You can have a passkey and password for the same website or app, and find them both under the same account in the Passwords app.
+You can also save a passkey to a hardware security key. Tap “Other options,” “Save on another device,” or similar (if available), then follow the onscreen instructions for saving a passkey. See Use security keys to sign in to your Apple Account .
+Use a passkey to sign in to a website or app on your iPhone
+After you create and save a passkey for a website or app, you can use the passkey whenever you sign in.
+Note: The instructions for signing in with a passkey can vary depending on the app, website, or browser, but they typically consist of steps similar to the ones below.
+Go to a website or app on your iPhone, and tap the account name field on the sign-in screen.
+Tap the suggested account name that appears at the bottom of the screen or near the top of the keyboard. If the account name doesn’t appear, or you want to use a different one, enter it.
+Use Face ID or Touch ID to complete sign in. If you didn’t set up Face ID or Touch ID on your iPhone, enter your device passcode (the code you use to unlock your iPhone).
+The passkey you saved completes the sign-in automatically.
+Use a passkey saved on your iPhone to sign in on another device
+If you’re using a device not associated with your Apple Account (such as a computer at a public library, an internet cafe, or a friend’s house) and you have your iPhone with you, you can sign in to apps or websites on that device using the passkeys you created for them.
+Note: The instructions for using a passkey on another device can vary depending on the app, website, or browser, but they typically consist of steps similar to the ones below.
+On the other device, go to the website or app and enter your user name in the account name field on the sign-in screen.
+Select “Other options,” “Passkey from nearby device,” or similar, then follow the onscreen instructions to display a QR code on the screen.
+Use your iPhone camera to scan the QR code .
+The passkey that’s saved to iCloud Keychain completes the sign-in automatically.
+Create a passkey on a device that’s not your own
+If you have your iPhone with you, you can create a passkey while using a device not associated with your Apple Account (such as a computer at a public library, an internet cafe, or a friend’s house) and save it to iCloud Keychain instead of to the device you’re using to create the passkey.
+Note: The instructions for creating a passkey can vary depending on the app, website, or browser, but they typically consist of steps similar to the ones below.
+On the other device, go to the sign-in page for a supported website or app, then do one of the following:
+If you’re setting up a new account: Tap the button or link for setting up new accounts, then enter a new username.
+If you already have an account: Sign in with your account name and password, then go to the account settings or management screen.
+When you see the option to save a passkey for the account, select “Other options,” “Save on another device,” or similar (instead of Continue).
+Note: If you don’t see a passkey option, it means the website or app doesn’t currently support passkeys.
+Select “Save a passkey on a device with a camera,” or similar, then follow the onscreen instructions to display a QR code on the screen.
+Use your iPhone camera to scan the QR code .
+The passkey is saved to your iPhone and iCloud Keychain.
+Change a passkey
+You might need to create a new passkey to replace the existing one (if, for example, you previously shared it with someone to whom you no longer want to give access).
+To change a passkey, follow the steps for an existing account in Create and save a passkey or Create a passkey on a device that’s not your own .
+Delete a passkey
+Go to the Passwords app on your iPhone.
+Tap Passkeys, then tap the account for the passkey you want to delete.
+Tap Edit.
+Tap Delete Passkey.
+If you delete a passkey, you can create a new one at any time.

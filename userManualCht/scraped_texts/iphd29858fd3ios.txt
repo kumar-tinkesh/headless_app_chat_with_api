@@ -1,0 +1,26 @@
+iPhone User Guide
+Wirelessly stream videos and photos to Apple TV or a smart TV from iPhone
+You can use your Apple TV or an AirPlay 2-enabled smart TV to watch videos and view photos streamed from your iPhone.
+Note: To stream videos or photos to Apple TV or a smart TV from your iPhone, both devices must be on the same Wi-Fi network .
+Play video on Apple TV or an AirPlay 2-enabled smart TV
+While playing video in the Apple TV app or another supported video app on your iPhone, tap the screen to show the controls.
+Tap , then choose your Apple TV or AirPlay 2-enabled smart TV as the playback destination.
+If an AirPlay passcode appears on the TV screen, enter the passcode on your iPhone.
+To change the playback destination, choose a different AirPlay option on your iPhone screen.
+Show photos on Apple TV or an AirPlay 2-enabled smart TV
+Go to the Photos app on your iPhone.
+Tap a photo, then tap .
+Swipe up, tap , then choose your Apple TV or an AirPlay 2-enabled smart TV as the playback destination.
+If an AirPlay passcode appears on the TV screen, enter the passcode on your iPhone.
+To stop streaming photos, tap near the top of the iPhone screen, then tap Turn off AirPlay.
+Turn automatic AirPlay streaming on or off
+You can allow your iPhone to discover and automatically connect to any frequently used Apple TV or smart TV when playing content from apps that you regularly use with AirPlay.
+Go to Settings > General > AirPlay & Continuity, then choose Automatic, Never, or Ask.
+Mirror your iPhone on Apple TV or a smart TV
+On Apple TV or a smart TV, you can show whatever appears on your iPhone.
+Open Control Center on your iPhone.
+Tap , then choose your Apple TV or an AirPlay 2-enabled smart TV as the playback destination.
+If an AirPlay passcode appears on the TV screen, enter the passcode on your iPhone.
+To switch back to iPhone, open Control Center, tap , then tap Stop Mirroring.
+Note: For a list of AirPlay 2-enabled smart TVs, see the Home accessories website .
+To learn more about using Apple TV, see the Apple TV User Guide .

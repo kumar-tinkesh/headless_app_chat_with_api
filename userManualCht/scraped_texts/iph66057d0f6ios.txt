@@ -1,0 +1,29 @@
+iPhone User Guide
+Control iPhone with the movement of your eyes
+With Eye Tracking, you can control iPhone using just your eyes. An onscreen pointer follows the movement of your eyes, and when you look at an item and hold your gaze steady, or dwell , you perform an action, such as a tap. All data used to set up and control Eye Tracking is processed on device.
+Before you begin
+Eye Tracking uses the built-in, front-facing camera on iPhone. For best results, make sure that the camera has a clear view of your face and that your face is adequately lit. iPhone should be on a stable surface about a foot and a half away from your face.
+Eye Tracking is available with supported iPhone models .
+Turn on Eye Tracking
+Go to Settings > Accessibility > Eye Tracking, then turn on Eye Tracking.
+Follow the onscreen instructions to calibrate Eye Tracking. As a dot appears in different locations around the screen, follow its movement with your eyes.
+Note: You need to calibrate Eye Tracking every time you turn it on.
+Use Eye Tracking
+After you turn on and calibrate Eye Tracking, an onscreen pointer follows the movement of your eyes. When you’re looking at an item on the screen, an outline appears around the item.
+When you hold your gaze steady at a location on the screen, the dwell pointer appears where you’re looking and the dwell timer begins (the dwell pointer circle starts to fill). When the dwell timer finishes, an action—tap, by default—is performed.
+To perform additional onscreen gestures or physical button presses, use the AssistiveTouch menu . See Use AssistiveTouch .
+Recalibrate Eye Tracking
+If you change the position of your face or your iPhone, Eye Tracking calibration automatically starts if recalibration is needed. You can also manually start Eye Tracking calibration.
+Look at the top-left corner of your screen and hold your gaze steady.
+The dwell pointer appears and the dwell timer begins (the dwell pointer circle starts to fill). When the dwell timer finishes, Eye Tracking calibration starts.
+Follow the onscreen instructions to calibrate Eye Tracking. As a dot appears in different locations around the screen, follow its movement with your eyes.
+You can change which corner of the screen you need to look at to start recalibration or assign actions to other corners. See Set up Dwell Control .
+Set options for Eye Tracking
+You can set options for how the Eye Tracking pointer responds to your gaze.
+Go to Settings > Accessibility > Eye Tracking, then adjust any of the following:
+Smoothing: Increase this value to make the movement of the pointer smoother. Or decrease this value to make the pointer more responsive.
+Snap to Item: Have the Eye Tracking pointer automatically move to the item on the screen that’s closest to where you’re looking.
+Zoom on Keyboard Keys: When you dwell on the keyboard, zoom in on the section of the keyboard you’re looking at. Dwell again on a key to tap it.
+Auto-Hide: Show the Eye Tracking pointer when you hold your gaze steady for the amount of time specified. The pointer automatically fades while your eyes are moving.
+Dwell Control: Turn Dwell Control on or off. To adjust settings for Dwell Control, such as the default dwell action and the duration of the dwell timer, see Set up Dwell Control .
+To change the size or color of the Eye Tracking pointer, go to Settings > Accessibility > Pointer Control. See Make the pointer easier to see when using a mouse or trackpad with iPhone .

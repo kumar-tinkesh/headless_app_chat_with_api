@@ -1,0 +1,30 @@
+iPhone User Guide
+Turn on or schedule a Focus on iPhone
+To use a Focus, you can turn it on directly in Control Center, or schedule it to turn on automatically.
+Turn on a Focus in Control Center
+Open Control Center , tap Focus, then tap the Focus you want to turn on (for example, Do Not Disturb).
+Note: If another Focus is already on, it turns off when you tap the new one.
+To choose an ending point for the Focus, tap , select an option (such as “For 1 hour” or “Until I leave this location”), then tap again.
+When a Focus is on, its icon (for example, for Do Not Disturb) appears in the status bar and on the Lock Screen, and your status is automatically displayed in the Messages app. People who try to send you a message will see that you’ve silenced notifications, but they can still notify you if something is urgent.
+Note: You can also turn a Focus on or off by going to Settings > Focus, tapping the Focus, then turning it on.
+Schedule a Focus to turn on or off
+You can schedule a Focus to turn on at certain times, when you’re at a particular location, or when you open a specific app.
+Go to Settings > Focus, then tap the Focus you want to schedule.
+If a time appears below Set a Schedule, you can tap it to set a schedule for turning the Focus on and off.
+To have this Focus turn on automatically based on cues like your location or app usage, tap Smart Activation, turn on Smart Activation, then tap at the top left.
+Tap Add Schedule, then set the times, a location, or an app you want to activate this Focus.
+Note: When you set up a Sleep Focus, it follows the sleep schedule you set in the Health app. To add or edit a sleep schedule, tap Open Sleep in Health. See Add or change sleep schedules in Health . You can also change your next bedtime and wake-up time. See Set an alarm in Clock .
+Turn a Focus on or off using Siri
+You can use Siri to turn a Focus on or off.
+Siri: Say something like: “Turn on the Work Focus” or “Turn off the Work Focus.” Learn how to use Siri .
+Turn off a Focus
+When you’re finished using a Focus, you can quickly turn it off to allow notifications again. After you turn off a Focus, it still appears in Control Center and can be reused.
+Do any of the following:
+Touch and hold the Focus icon on the Lock Screen.
+Open Control Center , then tap Focus.
+Tap the Focus that’s on to turn it off.
+Delete a Focus
+When you no longer need a Focus you set up, you can delete it.
+Go to Settings > Focus.
+Tap the Focus, scroll to the bottom of the screen, then tap Delete Focus.
+If you delete a provided Focus, you need to set it up again by going to Settings > Focus, then tapping .

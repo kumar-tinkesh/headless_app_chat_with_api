@@ -1,0 +1,45 @@
+iPhone User Guide
+Accessibility features for hearing on iPhone
+iPhone comes with built-in tools designed to help you hear better—or stay connected without hearing a sound.
+To explore accessibility features for hearing, go to Settings > Accessibility, then scroll down to the Hearing section.
+Use alternatives to sound
+Get real-time captions of spoken audio
+With Live Captions, get a transcription of the audio from any app and from live conversations around you.
+Get live captions of spoken audio
+Customize subtitles and captions
+Change how subtitles look. Or instead of standard subtitles, use closed captions and SDH when available.
+Display subtitles and captions
+Blink the iPhone light for notifications
+If you can’t hear your alerts, get notified visually.
+Flash the iPhone indicator light for notifications
+Get notified about sounds around you
+With Sound Recognition, have iPhone listen for sounds—such as a doorbell or siren—and alert you when it recognizes them.
+Recognize sounds
+Feel the music
+Experience music as taps, textures, and refined vibrations that are synchronized with a song’s audio.
+Play music as vibrations and other haptics
+Type to Siri
+Type your Siri requests instead of speaking them.
+Change Siri accessibility settings
+Make Real-Time Text (RTT) calls
+Type to communicate on a phone call. The person you’re talking to sees your message as you type it.
+Set up and use RTT and TTY
+You can also get transcriptions of audio messages , HomePod intercom messages , and podcasts .
+Use hearing devices and make audio adjustments
+Hearing devices
+Pair Made for iPhone (MFi) hearing aids or sound processors with iPhone and adjust their settings.
+Use hearing devices
+Live Listen
+Stream sound from the iPhone microphone to your MFi hearing devices or AirPods.
+Use iPhone as a remote microphone with Live Listen
+Audio balance
+Play stereo audio as mono, adjust left-right stereo balance, and more.
+Adjust audio settings
+AirPods
+Set accessibility options for AirPods and other Apple headphones paired with your iPhone.
+Adjust the accessibility settings for AirPods
+Background sounds
+Have your iPhone play ambient sounds—such as ocean waves or rain—to help you focus or rest.
+Play background sounds
+You can also have Siri announce notifications and calls on your MFi hearing devices.
+Tip: Control your go-to accessibility features and settings with the click of a button or from Control Center. See Quickly open features with Accessibility Shortcut .

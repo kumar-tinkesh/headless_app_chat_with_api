@@ -1,0 +1,35 @@
+iPhone User Guide
+Find out what Siri can do on iPhone
+Use Siri on iPhone to get information and perform tasks. Siri and its response appear on top of what you’re currently doing, allowing you to refer to information onscreen.
+Siri is interactive. When Siri displays a web link, you can tap it to see more information in your default web browser. When the onscreen response from Siri includes buttons or controls, you can tap them to take further action. And you can tap Siri again to ask another question or do an additional task for you.
+Below are some examples of what you can use Siri to do. Additional examples appear throughout this guide. You can also discover Siri capabilities on your iPhone and in apps by asking “What can I do here?”
+Use Siri to answer questions
+Use Siri to quickly check facts, do calculations, or translate a phrase into another language. Get Siri’s attention, then say something like:
+“What causes a rainbow?”
+“What does a cat sound like?”
+“What’s the derivative of cosine x?”
+“Who made the first rocket that went to space?”
+“How do you say Thank You in Mandarin?”
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max, Siri can answer questions about features and settings on your iPhone—as well as other Apple products like iPad, Mac, Apple TV, Apple Watch, AirPods, and HomePod. See Use Apple Intelligence with Siri on iPhone .
+Use Siri with apps
+You can use Siri to control apps with your voice. With Siri activated, say something like:
+“Set up a meeting with Gordon at 9” to create an event in Calendar.
+“Add artichokes to my groceries list” to add an item to Reminders.
+“Send a message to PoChun saying love you heart emoji” to send a text using Messages.
+“What’s my update?” to get an update about the weather in your area, the news, your reminders and calendar events, and more.
+For more examples, see any of the following:
+Announce calls, messages, and more with Siri on iPhone
+Use Siri to play music on iPhone
+Control your home using Siri on iPhone
+Get travel directions in Maps on iPhone
+Add Siri Shortcuts on iPhone
+Use Siri to share information with contacts
+You can share onscreen items like photos, webpages, content from Apple Music or Apple Podcasts, Maps locations, and more with people in your contacts .
+For example, when looking at a photo in your Photo library, activate Siri and say something like “Send this to mom” to create a new message with the photo.
+Personalize your experience with Siri
+The more you use Siri, the better it knows what you need. You can also tell Siri about yourself and change how and when Siri responds. See any of the following:
+Siri Suggestions
+Tell Siri about yourself
+Change Siri settings on iPhone
+You can also use accessibility features with Siri .
+Siri is designed to protect your information, and you can choose what you share. To learn more, see the Ask Siri, Dictation & Privacy website .

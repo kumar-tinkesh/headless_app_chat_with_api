@@ -1,0 +1,20 @@
+iPhone User Guide
+Stop or reduce onscreen motion on iPhone
+If you don’t want visual motion on your iPhone screen, you can stop or reduce the movement of some screen elements, such as:
+Parallax effect of wallpaper, apps, and alerts
+Screen transitions
+Siri animations
+Typing autocompletion
+Animated full-screen and bubble effects in the Messages app
+Animated images on the web and in apps
+Go to Settings > Accessibility > Motion.
+These settings stop or reduce motion:
+Reduce Motion: Turn on. (When off, more items in the user interface animate, such as the parallax effect of icons.)
+Auto-Play Message Effects: Turn off. (When on, the Messages app automatically plays full-screen effects. If you turn this setting off, you can still manually play effects by tapping Replay below the message bubble.)
+Auto-Play Video Previews: Turn off. (When on, it allows apps such as the App Store to automatically play video previews.)
+Auto-Play Animated Images: Turn off. (When on, rapid animated images and moving elements such as GIFs in Messages and Safari play automatically.)
+Dim Flashing Lights: Turn on. (The display of media automatically dims when flashes or strobe effects are detected.)
+Prefer Non-Blinking Cursor: Turn on. (Stop the blinking of the vertical bar that appears at the insertion point where you’re typing. If you use a braille display with iPhone, the cursor indicator on the display also stops blinking.)
+Limit Frame Rate: Turn on. (On models with ProMotion display technology , this limits the maximum frame rate of the display to 60 frames per second.
+To apply these effects to specific apps, see Customize visual accessibility settings for specific apps .
+Important: Your iPhone uses an on-device algorithm to detect flashing or strobing lights included in supported video content and automatically dims them on your iPhone in real time. Motion settings should not be relied upon in circumstances where you could be harmed or injured, in high-risk situations, or for the treatment of any medical condition.

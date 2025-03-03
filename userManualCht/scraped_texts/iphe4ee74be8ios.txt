@@ -1,0 +1,62 @@
+iPhone User Guide
+Use VoiceOver in apps on iPhone
+You can use VoiceOver in all the built-in apps that come with your iPhone—such as Safari, Maps, and more. With VoiceOver Recognition, you can get descriptions of images and screen elements on webpages and in apps, even if they don’t provide accessibility information.
+Browse the web in Safari
+With VoiceOver on, go to the Safari app on your iPhone.
+Do any of the following:
+Search the web: Select the address field, double-tap to show the keyboard, then enter a search term, phrase, or URL. Double-tap Go, or select a search suggestion, then double-tap.
+Skip to the next element on a webpage: Set the rotor to the element type—such as headings, links, and form controls—then swipe up or down.
+Set the rotor settings for web browsing: Go to Settings > Accessibility > VoiceOver > Rotor. Select or deselect items, or drag up or down to reposition an item.
+Skip images while navigating: Go to Settings > Accessibility > VoiceOver > Navigate Images. You can choose to skip all images or only those without descriptions.
+Reduce page clutter for easier reading and navigation: In the Safari address field, select the Format Options button, double-tap, select Show Reader View (not available for all webpages), then double-tap.
+Tip: If you use Magic Keyboard with iPhone, you can use single-key Quick Nav for web browsing .
+Navigate in Maps
+With VoiceOver on, go to the Maps app on your iPhone.
+Do any of the following:
+Control how the map tracks your current location: Select , then double-tap until you hear the tracking option you want.
+Tracking on: The map automatically centers on your current location.
+Tracking on with heading: The map automatically centers on your current location and rotates so that the heading you’re facing is at the top of the screen. In this mode, iPhone speaks street names and points of interest as you approach them.
+Tracking off: The map doesn’t automatically center on your current location.
+Explore the map: Drag your finger around the screen, or swipe left or right to move to another item.
+Zoom in or out: Select the map, set the rotor to Zoom, then swipe up or down with one finger.
+Pan the map: Select the map, then swipe with three fingers.
+Browse locations and pins on the map: Select the map, set the rotor to Points of Interest, then swipe up or down with one finger.
+Follow a road: Hold your finger down on the road, wait until you hear “pause to follow,” then move your finger along the road.
+Get information about a location: Select the location (for example, a business, landmark, or pin), then double-tap to open the information card. Swipe left or right to hear information such as directions, street address, phone number, business hours, and customer reviews.
+Get guidance to the starting point: When you start walking directions in Maps, iPhone guides you in the direction of the starting point using sound and haptic feedback.
+Read PDFs
+In the Books and Files apps, you can use VoiceOver to read PDFs. VoiceOver even describes detailed information—such as forms, tables, and lists.
+Make and receive phone calls
+You can use VoiceOver to make and receive calls.
+With VoiceOver on, go to the Phone app on your iPhone.
+Do any of the following:
+Answer or end a call: Double-tap the screen with two fingers.
+When a phone call is established with VoiceOver on, the screen displays the numeric keypad by default, instead of showing call options.
+Display call options: Select the Hide button in the lower-right corner, then double-tap.
+Display the numeric keypad again: Select the Keypad button near the center of the screen, then double-tap.
+Take photos and videos
+With VoiceOver on, go to the Camera app on your iPhone. VoiceOver describes objects in the viewfinder.
+Select Camera Mode, then swipe up or down with one finger to switch between modes, like Photo or Video.
+To take a photo or start or stop recording a video, double-tap the screen with two fingers.
+Trim voice memo recordings
+You can use VoiceOver to edit recordings in the Voice Memos app.
+With VoiceOver on, go to the Voice Memos app on your iPhone.
+Select the recording you want to trim, then double-tap.
+Select , then double-tap.
+Select Edit Recording, then double-tap.
+Select , then double-tap.
+In the Waveform Overview, select Trim Beginning or Trim End, double-tap and hold, then swipe up or down to adjust the start or end time.
+Select Trim, then double-tap.
+Select Save, then double-tap.
+Select Done, then double-tap.
+Hear visual Weather data as sound
+Some maps in the Weather app are encoded to allow you to hear the data as a changing tone or pitch. For example, as intensity of weather condition changes in a visual animation on screen, you can have these described using variations in sound.
+With VoiceOver on, go to the Weather app on your iPhone.
+Open a location page with a precipitation, wind, or air quality map.
+Double-tap and hold the map until you hear a tone or the words “Weather Map Snapshot.” If you hear spoken instructions, follow them.
+As you run your finger or pointer over a sonified map, the pitch shifts to represent the changing values.
+Read math equations
+VoiceOver can read math equations on the web (encoded using MathML) and in supported Apple apps such as Numbers and Keynote.
+Hear an equation: Have VoiceOver read the text as usual. VoiceOver says “math” before it starts reading an equation.
+Explore the equation: Double-tap the selected equation to display it in full screen and move through it one element at a time. Swipe left or right to read elements of the equation. Use the rotor to select Symbols, Small Expressions, Medium Expressions, or Large Expressions, then swipe up or down to hear the next element of that size. To drill down into the selected element, double-tap it, then swipe left or right to read one part of the element at a time.
+Equations spoken by VoiceOver can also be output to a braille device using Nemeth Code, as well as the codes used by Unified English Braille, British English, French, and Greek. See Use a braille display with VoiceOver .

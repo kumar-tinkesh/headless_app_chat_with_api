@@ -1,0 +1,27 @@
+iPhone User Guide
+Use ChatGPT with Apple Intelligence on iPhone
+If you choose to allow your iPhone to work with ChatGPT* from OpenAI, you can do the following:
+Use Siri to access ChatGPT: Siri can tap into ChatGPT to provide answers when that might be helpful for certain requests including questions about photos and documents.
+Use ChatGPT with Writing Tools: ChatGPT can compose text or images from just a description.
+Use ChatGPT with visual intelligence: Use visual intelligence with Camera Control to quickly learn more about the places and objects around you.
+Connect your ChatGPT account: You don’t need a ChatGPT account, but if you have one—free or paid—you can connect to your account. With a ChatGPT paid account, your iPhone can use advanced ChatGPT capabilities more often.
+You control when ChatGPT is used and will be asked before any of your information is shared.
+Note: The ChatGPT extension is available with Apple Intelligence** in iOS 18.2 or later on all iPhone 16 models, iPhone 15 Pro, and iPhone 15 Pro Max. Apple Intelligence is not available on iPhone and iPad if you’re in the EU and if your Apple Account country or region is also in the EU. To check whether Apple Intelligence is available for your device and language, see the Apple Support article Apple Intelligence requirements . You must be at least 13 years old or the minimum age required in your country to consent to use ChatGPT. For more information, see OpenAI Terms of Use .
+Set up ChatGPT
+When you first compose in Writing Tools , access ChatGPT with visual intelligence , or use Siri to get answers from ChatGPT , you may be prompted to turn on the extension. You can also set up ChatGPT in Settings.
+Go to Settings , then tap Apple Intelligence & Siri.
+Tap ChatGPT, then tap Set Up.
+Do one of the following:
+Use ChatGPT without an account: Tap Enable ChatGPT.
+Note: If you later decide to use ChatGPT with an account, go to Settings > Apple Intelligence & Siri, tap ChatGPT, then tap Sign In.
+Use ChatGPT with an existing account: Tap Use ChatGPT with an Account, then follow the onscreen instructions.
+Note: If you want your requests saved to your ChatGPT chat history, you must be signed in to a ChatGPT account.
+Turn ChatGPT off
+Go to Settings , then tap Apple Intelligence & Siri.
+Tap ChatGPT, then turn the ChatGPT extension off.
+If you want to prevent Siri from suggesting ChatGPT when you make a request, turn off ChatGPT, then turn off Setup Prompts.
+To block access to ChatGPT, see Block access to ChatGPT .
+ChatGPT and privacy
+If you choose to enable the ChatGPT extension without an account, only your request and attachments you choose to send—like documents, photos, or contents of the document—are sent to ChatGPT to answer your request. OpenAI does not receive any information tied to your Apple Account. Your IP address is obscured from ChatGPT, but your general location is provided for purposes such as enabling ChatGPT to prevent fraud and comply with applicable law. OpenAI must process your request solely for the purpose of fulfilling it and not store your request or any responses it provides unless required under applicable laws. OpenAI also must not use your request to improve or train its models. When you are signed in, your ChatGPT account settings and OpenAI’s data privacy policies will apply.
+For more information about privacy, see ChatGPT Extension & Privacy .
+Apple Footer

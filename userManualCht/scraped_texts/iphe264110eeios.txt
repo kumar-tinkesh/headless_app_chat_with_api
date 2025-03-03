@@ -1,0 +1,7 @@
+iPhone User Guide
+Leave a FaceTime call or switch to Messages on iPhone
+You can leave a call in the FaceTime app at any time, or switch your conversation to Messages.
+Leave a FaceTime call
+Tap the screen to show the FaceTime controls (if they aren’t visible), then tap .
+Switch to a Messages conversation
+To jump to a Messages thread that includes everyone on the call, tap the screen to show the FaceTime controls (if they aren’t visible), tap at the top of the controls, then tap Message or .

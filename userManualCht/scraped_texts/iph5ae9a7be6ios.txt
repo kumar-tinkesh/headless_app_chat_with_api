@@ -1,0 +1,34 @@
+iPhone User Guide
+Schedule a message on iPhone to send later
+If it’s too late at night or too important to forget, you can schedule a message to be sent at a later time.
+Note: You must be using iMessage with iOS 18, iPadOS 18, macOS Sequoia, watchOS 11, visionOS 2, or later. Your recipient can use any device, and they won’t know that the message was scheduled. You need to be online to reschedule, edit, or delete a scheduled message.
+Schedule a message
+You can schedule a message up to 14 days into the future.
+Go to the Messages app on your iPhone.
+Tap , then tap Send Later.
+Tap the time to open the scheduler, then choose when you want to send your message.
+The border of the text field turns into a dashed line, and the time your message will be sent appears above the message.
+Enter a message, then tap .
+The message appears with a dashed line until it’s time to send it, and it’s delivered even if all your devices are offline.
+Note: Scheduled messages are encrypted and stored on Apple servers only until they’re sent. When a message is sent, it’s removed from Apple servers, the balloon becomes a solid color, and its dashed line disappears.
+Change the time to send a message
+You can reschedule a message until its delivery time.
+Go to the Messages app on your iPhone.
+Go to the conversation with the message you want to reschedule.
+If you don’t see your message, scroll down to the bottom of the conversation. Scheduled messages may appear below sent messages.
+Tap Edit beside the date (above your scheduled message), then do any of the following:
+Reschedule it: Tap Edit Time, choose a new time, then tap away from the schedule to commit the new time.
+Send it immediately: Tap Send Message.
+Edit a scheduled message
+You can edit a scheduled message until its delivery time.
+Go to the Messages app on your iPhone.
+Go to the conversation with the scheduled message you want to edit.
+If you don’t see your message, scroll down to the bottom of the conversation. Scheduled messages may appear below sent messages.
+Touch and hold the message bubble, then tap Edit.
+Make any changes, then tap to resend with edits or to revert.
+Delete a scheduled message
+When you delete a message before its scheduled time, it’s canceled and not delivered to the recipient.
+Go to the Messages app on your iPhone.
+Go to the conversation with the scheduled message you want to delete.
+If you don’t see your message, scroll down to the bottom of the conversation. Scheduled messages may appear below sent messages.
+Touch and hold the message you want to cancel, then tap Delete.

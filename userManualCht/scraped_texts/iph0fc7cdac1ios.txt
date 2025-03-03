@@ -1,0 +1,30 @@
+iPhone User Guide
+Listen to radio stations in Music on iPhone
+Apple Music features six world-class radio stations (Apple Music 1, Apple Music Hits, Apple Music Country, Apple Music Club, Apple Música Uno, and Apple Music Chill), as well as a collection of stations based on different genres. These stations provide a great way to explore and enjoy new music or keep up with your favorites.
+Siri: Say something like: “Play Apple Music Country.” Learn how to use Siri
+You can also create your own custom stations, based on your pick of artist, song, or genre.
+In addition to radio, you can play Apple Music TV, a free, 24-hour curated livestream of popular new music videos that includes exclusive premieres, music video blocks, live shows and events, chart countdowns, and more.
+Play Apple Music radio
+You must be signed in to your Apple Account, but you don’t need to subscribe to Apple Music , to play live Apple Music radio stations and Apple Music TV.
+Go to the Music app on your iPhone.
+Tap Radio, then tap one of the currently playing Apple Music radio stations.
+Note: Because Apple Music radio stations are live radio, you can’t rewind or skip songs.
+Choose a radio station by genre
+You must subscribe to Apple Music to play curated radio stations, such as Stations by Genre.
+Go to the Music app on your iPhone.
+Tap Radio, scroll down, then tap a genre listed below Stations by Genre.
+Tap a featured station.
+Create a station
+You can create a radio station based on a particular artist or song. Chances are, if you like that artist or song, you’ll like the music the station plays.
+Go to the Music app on your iPhone.
+Touch and hold an artist or song.
+Tap Create Station.
+To create a station on the Now Playing screen, tap , then tap Create Station.
+Play broadcast radio stations
+Go to the Music app on your iPhone.
+Do any of the following:
+Use Siri: Activate Siri , then say something like, “Play Wild 94.9” or “Tune in to ESPN Radio.”
+Search for a station: Tap Search, enter the station in the search field, then tap a result to play the station.
+You can search for stations by name, call sign, frequency, and nickname.
+Choose a station in the Radio tab: Tap Radio, scroll up, then choose a station below the Local Broadcasters or International Broadcasters heading.
+Note: You don’t need a subscription to Apple Music to play broadcast radio. Broadcast radio isn’t available in all countries or regions and not all stations are available in all countries or regions.

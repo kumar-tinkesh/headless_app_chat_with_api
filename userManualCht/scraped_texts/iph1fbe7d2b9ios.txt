@@ -1,0 +1,21 @@
+iPhone User Guide
+Summarize notifications and reduce interruptions with Apple Intelligence on iPhone
+With its deep understanding of language, Apple Intelligence* can help condense the information most important to you. Notifications are summarized so you can scan them for key details, such as when a group chat is particularly active. And the Reduce Interruptions Focus shows you only the notifications that might need immediate attention, like a text about an early pickup from daycare.
+Note: Apple Intelligence is available in iOS 18.1 or later on all iPhone 16 models, iPhone 15 Pro, and iPhone 15 Pro Max. Apple Intelligence is not available on iPhone and iPad if you’re in the EU and if your Apple Account country or region is also in the EU. To check whether Apple Intelligence is available for your device and language, see the Apple Support article Apple Intelligence requirements .
+Customize notification summaries
+When you first turn on Apple Intelligence, you can choose which types of notifications you want to summarize. You can also customize these settings later.
+Go to Settings , then tap Notifications.
+Turn on Summarize Notifications, then tap the notifications you want to summarize.
+Turn notification summaries on or off
+Your iPhone can summarize long or stacked notifications, making them easier to understand at a glance.
+Go to Settings , then tap Notifications.
+Turn Summarize Notifications on or off.
+Use the Reduce Interruptions Focus
+The Reduce Interruptions Focus understands the content of your notifications and shows you the most important ones, but silences notifications that are less important.
+You can customize a Reduced Interruptions Focus.
+Go to Settings > Focus.
+Tap at the top right, then tap Reduce Interruptions.
+Tap Customize Focus, then tap People or Apps.
+Choose the people and apps to allow notifications from.
+Note: When you turn on Intelligent Breakthrough & Silencing for any Focus, any notifications specifically allowed or silenced will always be allowed or silenced.
+Apple Footer

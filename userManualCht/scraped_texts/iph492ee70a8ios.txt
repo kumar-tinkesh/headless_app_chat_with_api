@@ -1,0 +1,29 @@
+iPhone User Guide
+Add formatting, photos, and more in Journal on iPhone
+In the Journal app, you can edit your entries and add photos, videos, audio, and more.
+Format text
+Go to the Journal app on your iPhone.
+While composing an entry, tap .
+Apply bold text, italics, underline, strikethrough, bulleted or numbered lists, block quote, or font color.
+Add photos, videos, locations, and attachments
+Go to the Journal app on your iPhone.
+While composing an entry, do any of the following:
+Edit or hide the date: Tap .
+Get suggestions from your recent activities: Tap .
+Choose photos and videos from your library: Tap .
+Take a new photo or video: Tap .
+Add a map location: Tap .
+Log your state of mind: Tap . See Journal for your wellbeing on iPhone .
+View an attachment in full screen: Tap the thumbnail.
+Reorder attachments: Touch and hold a thumbnail, then drag it to a different position.
+Remove an attachment: Tap in the top right corner of the thumbnail.
+Record and transcribe audio
+You can record audio and have your words transcribed in a journal entry. Audio transcription is available in English only (excluding Singapore and India locales).
+Go to the Journal app on your iPhone.
+While composing an entry, tap , tap , then start speaking.
+When you’re done, tap .
+Tap the audio recording, then tap to review the transcription.
+To add the text to the entry, tap , then tap Add Transcript to Entry.
+Show or hide the title
+Go to the Journal app on your iPhone.
+While composing an entry, tap , then tap Show Title or Hide Title.

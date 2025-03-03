@@ -1,0 +1,24 @@
+iPhone User Guide
+Adjust the volume on iPhone
+Adjust the volume of media, alerts, and sound effects using the volume buttons, Siri, or Control Center.
+Use the volume buttons or Siri to adjust volume
+When you’re on a call or listening to songs, movies, or other media on iPhone, you can use the buttons on the side of your device to adjust the audio volume. Otherwise, the buttons control the volume for the ringer, alerts, and other sound effects, unless the ringer and alert volumes are locked in Settings .
+You can also use Siri to turn the volume up or down.
+Siri: Say something like: “Turn up the volume” or “Turn down the volume.” Learn how to use Siri .
+WARNING: For information about avoiding hearing loss, see Important safety information for iPhone .
+Lock the ringer and alert volumes in Settings
+Go to Settings , then tap Sounds & Haptics.
+Turn off Change with Buttons.
+Adjust the volume in Control Center
+When iPhone is locked or when you’re using an app, you can adjust the volume in Control Center.
+Open Control Center , then drag .
+Reduce loud headphone sounds
+You can limit the maximum volume of sound that plays through headphones on your iPhone.
+Go to Settings > Sounds & Haptics > Headphone Safety.
+Turn on Reduce Loud Audio, then drag the slider to specify the maximum volume.
+Note: If you set up Screen Time for a family member , you can prevent them from changing the Reduce Loud Audio level. Go to Settings > Screen Time > Content & Privacy Restrictions, turn on Content & Privacy Restrictions, tap Reduce Loud Audio, then select Don’t Allow.
+Limit the speaker volume
+With iOS 18.2 or later, you can limit the maximum volume of sound that plays through your iPhone’s built-in speaker.
+Go to Settings > Sounds & Haptics > Volume Limit.
+Turn on Limit Maximum Volume, then drag the slider to specify the maximum volume.
+Note: If you set up Screen Time for a family member , you can prevent them from changing the Speaker Volume Limit level. Go to Settings > Screen Time > Content & Privacy Restrictions, turn on Content & Privacy Restrictions, tap Speaker Volume Limit, then select Don’t Allow.

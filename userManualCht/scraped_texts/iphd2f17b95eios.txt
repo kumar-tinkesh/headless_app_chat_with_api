@@ -1,0 +1,35 @@
+iPhone User Guide
+Insert sketches, photos, and scans from your iPhone on Mac
+With Continuity Camera and Continuity Sketch, you can draw a sketch, take a photo, or scan a document using your nearby iPhone and have it appear instantly on your Mac, exactly where you need it—for example, in an email, note, or folder. You can also mark up a file on your Mac with your iPhone using Continuity Markup.
+You can use Continuity Camera, Continuity Sketch, and Continuity Markup with your iPhone and a Mac.
+Before you begin
+Make sure of the following:
+Both devices have Wi-Fi and Bluetooth ® turned on.
+You’re signed in to the same Apple Account on both devices.
+Both devices meet minimum system requirements for Continuity Camera, Continuity Sketch, and Continuity Markup .
+If you’re using a VPN, make sure its configuration does not prevent local networking as that may interfere with some Continuity features.
+Depending on where the photo or scan is inserted, you can mark it up or adjust other aspects, such as crop it or apply a filter.
+Insert a sketch, photo, or scan from your iPhone
+You can draw a sketch on your iPhone and have it appear on your Mac with Continuity Sketch, or take a photo or scan a document on your iPhone and have it appear on your Mac with Continuity Camera.
+On your Mac, Control-click where you want to insert the sketch or photo—for example, in an open window, like a note or email message.
+You can also Control-click the desktop or a folder in a Finder window.
+Choose Import from iPhone, then choose Add Sketch or Take Photo.
+Do any of the following:
+Add a sketch: On your iPhone, draw a sketch using your finger.
+Take a photo: On your iPhone, take the photo, then tap Use Photo or Retake.
+Scan a document: On your iPhone, take the scan. Your iPhone detects the edges of the document and autocorrects any skewing of the image. If you want to adjust the area included in the scan, drag the frame or its edges. When you’re ready, tap Keep Scan or Retake. You can continue to scan documents until you’re done, then tap Save.
+On your Mac, the sketch, picture, or scan appears in the location you chose in step 1. If you added it from the desktop or a folder, it appears as a file.
+Note: Scans you take on your iPhone aren’t saved on the device.
+Use your iPhone to mark up a file on your Mac
+Use your iPhone to add text, make drawings, rotate, and crop images, PDF documents, and more on your Mac, called Continuity Markup.
+On your Mac, open the Finder.
+Select the file you want to mark up, then press the Space bar to open a preview window.
+Click in the toolbar.
+Click the Annotate button, then use the Markup tools to draw, add text or shapes, use the magnifier, and more.
+When you’re done, tap Done on your iPhone.
+To save your changes, click Done on your Mac.
+If Continuity Camera, Continuity Sketch, or Continuity Markup isn’t working:
+Make sure you’re signed in to the same Apple Account on both devices.
+Make sure that both devices have Wi-Fi and Bluetooth turned on.
+Make sure that your devices are within 30 feet of one another.
+Make sure your device meets minimum system requirements for Continuity Camera .

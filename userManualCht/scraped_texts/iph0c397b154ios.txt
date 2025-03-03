@@ -1,0 +1,43 @@
+iPhone User Guide
+Use the Camera Control on iPhone 16 models
+The Camera Control on iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and iPhone 16 Pro Max lets you quickly open your iPhone camera and access common camera settings. The location of the Camera Control is shown below.
+Open Camera with the Camera Control
+Click the Camera Control to open Camera .
+Take a photo or video with the Camera Control
+Click the Camera Control to open Camera .
+Click again to take a photo, or click and hold to record a video.
+Note: If your camera is set to Video mode on launch, click to start recording.
+Settings available with the Camera Control
+You can select and adjust any of the following settings with the Camera Control:
+Exposure: Brighten or darken the scene by increasing or decreasing the exposure.
+Depth: Increase or decrease the background depth-of-field effect (this setting turns on Portrait mode if it wasn’t already selected).
+Zoom: Zoom in or out.
+Cameras: Switch between cameras, including the front-facing camera (iOS 18.1 or later).
+Style: Change the Photographic Style .
+Tone: Lighten or deepen the mood by increasing or decreasing the tone.
+Note: Not all controls are available in all camera modes .
+Select and adjust the Camera Control settings
+Click the Camera Control to open Camera .
+Lightly press the Camera Control twice to open an overlay that shows the available settings for that camera mode (see below).
+Slide your finger on the Camera Control to scroll through the settings choices, then lightly press to select the setting you want.
+Slide your finger on the Camera Control to adjust the setting.
+The setting is saved and appears the next time you lightly press the Camera Control.
+Click the Camera Control to take your shot.
+Lock the exposure and focus with the Camera Control
+You can use the Camera Control to lock the exposure and focus settings on a subject as you take photos and record video (iOS 18.2 or later).
+Go to Settings , then tap Camera.
+Tap Camera Control, then turn on AE/AF Lock.
+After you complete steps 1 and 2, you don’t need to repeat them to use AE/AF Lock.
+Click the Camera Control to open Camera .
+Lightly press and hold the Camera Control until you see AE/AF Lock above the frame.
+Keep your finger touching the Camera Control to maintain the AE/AF Lock.
+Note: If you release the Camera Control, the AE/AF Lock turns off.
+Click the Camera Control to take photos or click and hold to record video.
+Release the Camera Control to turn off the AE/AF Lock.
+Customize how you use the Camera Control
+You can change the number of clicks it takes to open Camera with the Camera Control from one click to two.
+Go to Settings , then tap Camera.
+Tap Camera Control, then tap Single Click or Double Click.
+You can also adjust accessibility options for the Camera Control, such as the pressure required to lightly press or the speed required to lightly double-press. See Adjust accessibility settings for the Camera Control .
+Use visual intelligence with Camera Control
+If you have any iPhone 16 model and Apple Intelligence is turned on, you can use visual intelligence with Camera Control to quickly learn more about the places and objects around you. For example, get details about a restaurant or business, have text translated or read aloud, find out where to buy something you see, and more. See Use visual intelligence with Camera Control on iPhone .

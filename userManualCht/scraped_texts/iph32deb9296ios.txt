@@ -1,0 +1,22 @@
+iPhone User Guide
+Get live descriptions of visual information around you with Magnifier on iPhone
+If you’re blind or have low vision, you can use Detection Mode in the Magnifier app on iPhone to scan your surroundings and get live descriptions of the scenes detected in the camera view. Live descriptions are available as text or speech.
+Important: Detection Mode should not be relied on in high-risk or emergency situations, in circumstances where you may be harmed or injured, or for navigation.
+Get live descriptions of your surroundings
+Go to the Magnifier app on your iPhone.
+Tap to start Detection Mode.
+If you don’t see , you can add it. See Customize controls .
+Touch and hold , then make sure Scenes is selected. You can also select any of the following:
+People: See Detect people around you using Magnifier .
+Doors: See Detect doors around you using Magnifier .
+Furniture: See Detect furniture around you using Magnifier .
+Text: See Detect text in the camera frame and have it read out loud .
+Point & Speak: See Point your finger at text to have it spoken .
+Note: Detection of people, doors, and furniture is only available on supported iPhone models .
+To temporarily pause detection, double-tap the screen with two fingers. Double-tap again with two fingers to resume detection. To stop Detection Mode, tap .
+If you use VoiceOver, you can turn on Live Recognition from any screen on iPhone, and get descriptions of your surroundings without going to the Magnifier app. See Get live descriptions of your surroundings with VoiceOver .
+Customize settings for live scene descriptions
+Go to the Magnifier app on your iPhone.
+Tap , then tap Detect.
+Tap Scenes, then turn on any combination of Labels or Speech feedback.
+To return to the live Magnifier lens, tap , tap it again, then tap Done.

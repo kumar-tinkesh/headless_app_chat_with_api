@@ -1,0 +1,23 @@
+iPhone User Guide
+Set up Touch ID on iPhone
+Use Touch ID ( supported models ) to securely and conveniently unlock iPhone, authorize purchases and payments, and sign in to many third-party apps by pressing the Home button with your finger or thumb.
+To use Touch ID, you must also set up a passcode on your iPhone.
+Turn on Touch ID
+Go to Settings > Touch ID & Passcode.
+Turn on any of the options below Use Touch ID For, then follow the onscreen instructions.
+If you turn on iTunes & App Store, you’re asked for your Apple Account password when you make your first purchase from the App Store, Apple Books, or the iTunes Store. When you make your next purchases, you’re asked to use Touch ID.
+Note: If you can’t add a fingerprint or unlock your iPhone using Touch ID, see the Apple Support article If Touch ID isn’t working on your iPhone or iPad .
+Choose when to use Touch ID
+You can use Touch ID to unlock your iPhone, authorize payments, automatically fill in passwords, and open password-protected apps.
+Go to Settings > Touch ID & Passcode, then turn on options below Use Touch ID For.
+Add a fingerprint
+You can add multiple fingerprints (both of your thumbs and forefingers, for example).
+Go to Settings > Touch ID & Passcode.
+Tap Add a Fingerprint.
+Follow the onscreen instructions.
+Name or delete a fingerprint
+Go to Settings > Touch ID & Passcode.
+If you added more than one fingerprint, place a finger on the Home button to identify its print.
+Tap the fingerprint, then enter a name (such as “Thumb”) or tap Delete Fingerprint.
+Turn off Touch ID
+Go to Settings > Touch ID & Passcode, then turn off one or more of the options.

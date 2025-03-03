@@ -1,0 +1,34 @@
+iPhone User Guide
+Add or remove accounts in Contacts on iPhone
+In the Contacts app, you can add multiple accounts—such as iCloud, Microsoft Exchange, Google, and Yahoo. You can choose a default account, set up LDAP or CardDAV accounts, show or hide accounts, and delete accounts.
+Add your iCloud contacts
+Go to Settings > [ your name ] > iCloud.
+Tap See All next to Saved to iCloud, then turn on Contacts.
+Add your contacts from other accounts
+You can use the Contacts app to manage your contacts in other accounts, such as Microsoft Exchange, Google, and Yahoo.
+Go to Settings > Apps > Contacts.
+Tap Contacts Accounts, then tap Add Account.
+Choose an account, sign in to it, then turn on Contacts.
+Add contacts from contacts provider apps
+You can allow third-party apps to add contacts to the Contacts app. The contacts are managed by the third-party app and can’t be edited in Contacts.
+Go to Settings > Apps > Contacts.
+Tap Providers, then turn on the option for an app.
+Choose your default account
+You can select a default account where new contacts are automatically added.
+Go to Settings > Apps > Contacts.
+Tap Default Account, then tap the account you want to make your default.
+Set up an LDAP or CardDAV account to access business or school directories
+Go to Settings > Apps > Contacts.
+Tap Contacts Accounts, then tap Add Account.
+Tap Other, then tap Add LDAP Account or CardDAV Account.
+Enter the account information.
+Show or hide a contact list
+Go to the Contacts app on your iPhone.
+Tap Lists, tap Edit, then select the lists you want to see.
+This button appears only if you have more than one source of contacts.
+Remove a contact account
+When you remove an account, the contacts in that account no longer appear on your iPhone. The contacts remain in your internet account (for example, iCloud.com or Google) and any other devices you had already set up.
+Temporarily stop using an account: Go to Settings > Apps > Contacts > Contacts Accounts, tap the account, then turn off Contacts.
+To view the contacts in that account on your iPhone again, turn on Contacts.
+Delete an account: Go to Settings > Apps > Contacts > Contacts Accounts, tap the account, then tap Sign Out (for an iCloud account) or Delete Account (for other accounts).
+If you don’t see Sign Out or Delete Account, your account may be managed by your organization. See an administrator for removal instructions.

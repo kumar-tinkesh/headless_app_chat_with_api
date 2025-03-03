@@ -1,0 +1,14 @@
+iPhone User Guide
+Read PDF documents in the Books app on iPhone
+You can open and save PDFs in the Books app that you receive in Mail, Messages, or other apps.
+Open a PDF you receive in another app in Books
+Tap the PDF attachment to open it.
+Tap , then tap Books from the list options.
+Share or print a PDF
+Go to the Books app on your iPhone.
+Tap Library, then tap below the PDF.
+Tap , then choose a share option such as AirDrop, Mail, or Messages, or tap Print.
+Mark up a PDF in Books
+Go to the Books app on your iPhone.
+Open the PDF.
+Tap the page, then tap at the top of the screen to use the drawing and annotation tools.

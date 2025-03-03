@@ -1,0 +1,9 @@
+iPhone User Guide
+Install and manage fonts on iPhone
+You can download fonts from the App Store app and use them in documents you create on iPhone.
+Install fonts
+Go to the App Store app on your iPhone.
+Get an app containing fonts.
+Open the app to install the fonts.
+Manage fonts
+Go to Settings > General, then tap Fonts.

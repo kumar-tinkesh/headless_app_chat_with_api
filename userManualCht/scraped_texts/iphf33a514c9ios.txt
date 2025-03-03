@@ -1,0 +1,6 @@
+iPhone User Guide
+Intro to CarPlay and iPhone
+Connect your iPhone to CarPlay to get turn-by-turn directions, make phone calls, listen to music, check your calendar, and more—all from your vehicle’s display.
+Note: CarPlay isn’t available in all countries or regions (see the iOS and iPadOS Feature Availability website ).
+CarPlay is available on select automobiles (see the CarPlay Available Models website ) and on select aftermarket navigation systems.
+WARNING: For important information about avoiding distractions that could lead to dangerous situations, see Important safety information for iPhone .

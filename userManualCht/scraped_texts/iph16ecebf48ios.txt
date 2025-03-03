@@ -1,0 +1,15 @@
+iPhone User Guide
+Recover deleted messages in Messages on iPhone
+You can recover deleted text messages you deleted on your iPhone.
+You can restore messages you deleted for up to 30 days.
+Go to the Messages app on your iPhone.
+In the Messages conversation list, do one of the following:
+Tap Edit in the top-left corner, then tap Show Recently Deleted.
+Tap Filters in the top-left corner, then tap Recently Deleted.
+If you’re in a conversation, tap to return to the conversation list.
+Select the conversations whose messages you want to restore, then tap Recover.
+Tap Recover Messages.
+If you use Messages in iCloud , recovering a message or conversation on your iPhone recovers it on all your devices where Messages in iCloud is on. See Keep your messages up to date with iCloud in the iCloud User Guide.
+Deleting and recovering messages changes only your own Messages conversations where you’re signed in to the same Apple Account , not those of your recipients.
+Once you recover a blocked conversation whose participants haven’t all turned on iMessage , incoming messages will no longer be automatically deleted.
+Note: Any message that you delete from a conversation using Undo Send is permanently deleted. Audio messages that expire before being saved aren’t recoverable. See Send and receive audio messages .

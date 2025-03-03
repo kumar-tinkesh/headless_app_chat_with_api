@@ -1,0 +1,18 @@
+iPhone User Guide
+Complete and remove items in Reminders on iPhone
+In a Reminders list, you can check off items to hide them, or you can permanently delete items. With the Reminders widget, you can complete items from the iPhone Home Screen or Lock Screen.
+Mark an item as completed
+Go to the Reminders app on your iPhone.
+While viewing a list, tap the empty circle next to an item to mark the item as completed.
+Completed items are hidden on your list.
+To unhide completed items, tap , then tap Show Completed. To delete the completed items, tap Clear.
+Remove or delete an item
+Go to the Reminders app on your iPhone.
+While viewing a list, swipe left on an item, then tap Delete.
+If you change your mind, you can recover the deleted item—tap with three fingers or shake to undo.
+Tip: You can recover or permanently delete items in the Recently Deleted list.
+Use the Reminders widget
+With the Reminders widget, you can complete items from the Home Screen without opening the Reminders app .
+On the iPhone Home Screen, add the Reminders widget .
+To change the list shown in the widget, touch and hold the widget, tap Edit Widget, then choose a list.
+To complete an item, tap the item in the widget.

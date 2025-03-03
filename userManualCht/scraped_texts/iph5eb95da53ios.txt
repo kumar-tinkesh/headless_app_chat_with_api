@@ -1,0 +1,21 @@
+iPhone User Guide
+Detect furniture around you using Magnifier on iPhone
+If you’re blind or have low vision, you can use the Magnifier app on iPhone to detect furniture around you. You can get information about how far you are from furniture, and when chairs or sofas are detected, find out if they’re occupied.
+Important: Detection Mode should not be relied on in high-risk or emergency situations, in circumstances where you may be harmed or injured, or for navigation. Detection of furniture is only available on supported iPhone models .
+Detect furniture near you
+Go to the Magnifier app on your iPhone.
+Tap to start Detection Mode.
+If you don’t see , you can add it. See Customize controls .
+Touch and hold , then make sure Furniture is selected.
+Position iPhone so the rear camera can detect furniture around you. When furniture is detected nearby, you’re notified with sounds, speech, or haptic feedback. The feedback becomes more frequent as you get closer to the furniture.
+If you don’t hear sound or speech feedback, make sure Silent mode isn’t on. See Adjust the volume .
+To temporarily pause detection, double-tap the screen with two fingers. Double-tap again with two fingers to resume detection. To stop Detection Mode, tap .
+Customize the settings for detecting furniture
+Go to the Magnifier app on your iPhone.
+Tap , then tap Detect.
+Tap Furniture, then customize any of the following:
+Units: Choose Meters or Feet.
+Sound pitch distance: Tap or to adjust the distance for sound feedback. When furniture is detected within this distance, the pitch of the sound feedback increases.
+Feedback: Turn on any combination of Labels, Sounds, Speech, and Haptics. If you turn on Speech, iPhone speaks the distance between you and the furniture.
+Announce Seat Occupancy: Turn on Announce Seat Occupancy to get information about the number of people occupying chairs and sofas.
+To return to the live Magnifier lens, tap , tap it again, then tap Done.

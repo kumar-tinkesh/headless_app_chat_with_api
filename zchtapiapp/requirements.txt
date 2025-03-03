@@ -1,0 +1,10 @@
+langchain
+langchain-huggingface
+langchain_community
+langchain_ollama
+langchain_groq
+faiss-cpu
+python-dotenv
+requests
+fastapi
+pypdf

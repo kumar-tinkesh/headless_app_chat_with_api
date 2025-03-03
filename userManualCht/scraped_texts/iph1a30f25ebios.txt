@@ -1,0 +1,58 @@
+iPhone User Guide
+Follow your favorite teams with My Sports on iPhone
+With My Sports, you can follow your favorite sports, teams, leagues, and athletes; receive stories from top sports publications, local newspapers, and more; access scores, schedules, and standings for the top professional and college leagues; and watch highlights.
+Set up iPhone to use My Sports
+Before you can use My Sports, you must do the following:
+Sign in to your Apple Account: Go to Settings , tap “Sign in to your iPhone,” then enter your Apple Account information.
+Sign in to the App Store: Go to Settings > [ your name ], then tap Media & Purchases.
+Get started with My Sports
+Before you can use My Sports, you must allow syncing between Apple News and the Apple TV app. When you allow syncing, teams you follow in News are followed automatically in the Apple TV app, and vice versa.
+Go to the News app on your iPhone.
+Tap Sports at the bottom of the screen, tap Get Started, then tap Pick Your Teams.
+On the Manage My Sports screen, tap next to sports, teams, leagues, and major sporting events to follow them.
+Sports topics you’ve previously expressed interest in appear below Suggested.
+To search for a sports topic, tap the search field, enter a search term such as a team’s name or location, tap next to a result, then tap Done.
+View sports coverage
+Go to the News app on your iPhone.
+Tap Sports at the bottom of the screen to view comprehensive sports coverage.
+Note: To see the most important sports coverage at a glance, tap Today, then swipe up to the Sports group.
+You can also find the sports topics you follow in the Following tab below My Sports.
+Browse all available sports
+Go to the News app on your iPhone.
+Tap Sports, then tap All Sports at the top of the screen.
+Tap a sport or league to go to its feed.
+To follow that sport or league, tap at the top of the screen.
+Manage sports topics
+You can follow and unfollow sports topics after you’ve set up My Sports.
+Go to the News app on your iPhone.
+Tap Sports, tap at the top right, tap Manage My Sports, then do any of the following:
+Follow topics: Tap next to each topic you want to follow, then tap Done.
+Unfollow topics: Tap next to topics you want to unfollow, tap Unfollow, then tap Done.
+Reorder topics: Touch and hold , drag topics to the order you prefer, then tap Done.
+Show scores and schedules, highlights, and more
+My Sports offers scores and schedules for your favorite teams, stats and stories for individual games and events, video highlights, and stories related to your favorite teams.
+Go to the News app on your iPhone.
+Tap Sports, then do any of the following:
+Show scores and schedules: Swipe left on the scores at the top of the feed, then tap See More.
+Show stats and stories for individual games: Tap a score at the top of the feed, or swipe down to a sports topics you follow, then tap a game.
+Watch a live game: Tap a score at the top of the feed, then tap Open in Apple TV (before or after the game) or Watch on Apple TV (during a live game). Or swipe down to a topic you follow, tap the game’s tile, then tap Open in Apple TV or Watch on Apple TV. If the game is available in your area and you’ve subscribed to a service that broadcasts the game, you can watch it in the Apple TV app or in a supported app.
+Note: Supported sports apps may require a separate subscription. Not all games are available in all areas.
+View highlights: Swipe up to the Highlights section, then tap in the thumbnail. Tap to see more highlights.
+Note: Highlights are available only for select leagues.
+Read sports stories related to topics you follow: Swipe up to For You, then tap a story.
+Get Sports notifications
+Receive notifications about teams you follow.
+Go to the News app on your iPhone.
+Tap Following, swipe to the bottom of the screen, then tap Notifications & Email below Manage.
+Turn on notifications for Sports.
+Note: To receive Sports notifications, you must allow syncing between Apple News and the Apple TV app, and follow at least one sports topic.
+Remove the Sports group from Today
+Go to the News app on your iPhone.
+In Today, swipe up to Sports, then tap .
+Tap Block from Today.
+When you block Sports, the group no longer appears in your Today feed.
+Stop syncing My Sports
+You can stop syncing between Apple News and the Apple TV app.
+Note: When you turn off Sync My Sports, you can no longer use My Sports.
+Go to Settings > Apps > News.
+Turn off Sync My Sports.

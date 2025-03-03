@@ -1,0 +1,5 @@
+iPhone User Guide
+Enable cookies on iPhone
+You can enable cookies. Some websites use cookies to keep track of your activity, such as your settings. Enabling cookies allows websites that require cookies to work normally.
+Go to Settings > Apps > Safari.
+Tap Advanced, then turn off Block All Cookies.

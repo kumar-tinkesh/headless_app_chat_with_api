@@ -1,0 +1,21 @@
+iPhone User Guide
+Get traffic and weather info in Maps on iPhone
+You can view traffic conditions and find out about the weather and air quality.
+Find out about traffic conditions
+Go to the Maps app on your iPhone.
+With a map showing, tap the button at the top right, choose Driving or Satellite, then tap .
+Yellow indicates slowdowns, and red indicates stop-and-go traffic.
+To get an incident report, tap an incident marker.
+Markers indicate incidents such as:
+Hazards
+Road closures
+Road construction
+Accidents
+You can report traffic incidents .
+Note: Traffic conditions and other information are available in select areas. Features vary by country and region. See the iOS and iPadOS Feature Availability website .
+Find out about the weather and the air quality
+Go to the Maps app on your iPhone.
+Zoom in on a map until the weather icon appears in the lower-right corner; the icon shows the current conditions for that area. In some regions, the air quality index (AQI) also appears in the lower-right corner.
+To get the hourly forecast, touch and hold the weather icon. Tap the hourly forecast to get a multiday forecast in the Weather app.
+If you don’t want to get air quality or weather information in Maps, go to Settings > Apps > Maps, then turn off Air Quality Index or Weather Conditions.
+Note: Air quality and weather data are available in select areas. Features vary by country and region.

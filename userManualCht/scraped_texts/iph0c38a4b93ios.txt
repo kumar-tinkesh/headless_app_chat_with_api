@@ -1,0 +1,19 @@
+iPhone User Guide
+Use Offline Mode to read downloaded News content on iPhone
+Apple News+ subscribers can automatically download News content, then access it when there’s no Wi-Fi or cellular connection—for example, when taking a flight or riding the subway.
+Note: Content that can be downloaded for Offline Mode may include stories, issues, audio stories, and puzzles. Not all content types are available in all countries and regions. See the Apple Support article Availability of Apple Media Services .
+Turn on Automatic Downloads for Apple News+
+Sign in to your Apple Account .
+Go to Settings > Apps > News.
+Turn on Background App Refresh.
+Tap Automatic Downloads, turn on Allow Automatic Downloads, then turn on any of the following:
+Recent Stories: Downloads the latest stories in the Today feed, Best of News+ feed, Sports feed, Shared with You, and History.
+Saved Stories: Downloads the latest stories in your Saved Stories list.
+Magazine Issues: Downloads the latest issues of magazines you follow.
+Puzzles: Downloads the Puzzles feed, the feed for each puzzle type, and the puzzles in these feeds.
+Audio Stories: Downloads audio stories in the Today feed and Audio tab.
+Note: To download smaller versions of images in stories, turn on Optimize Storage.
+Your iPhone downloads News content when it has sufficient storage space and is connected to Wi-Fi and power. If you have a cellular connection but not Wi-Fi, only Top Stories in the Today feed are downloaded automatically.
+Use News in Offline Mode
+If you don’t have a Wi-Fi or cellular connection, No Internet Connection appears at the top of the screen and any content in the app that isn’t downloaded is dimmed. To switch from the currently loaded version of each feed to the downloaded version, tap Show Stories Downloaded for Offline Mode.
+When you reconnect to the internet, tap Check for New Stories at the top of the screen. All feeds in the app are refreshed and display the latest content.

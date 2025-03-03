@@ -1,0 +1,34 @@
+iPhone User Guide
+Change your appearance in a FaceTime call on iPhone
+On video calls in the FaceTime app , you can become your favorite Memoji (on an iPhone with Face ID). On supported models , you can use a built-in filter to change your appearance and add stickers, labels, and shapes.
+Become a Memoji
+In Messages on an iPhone with Face ID, you can create a Memoji character to use in your FaceTime calls. iPhone captures your movements, facial expressions, and voice, and conveys them through your character. (Your character imitates you even when you stick out your tongue!)
+See Send stickers in Messages on iPhone .
+During a FaceTime call, tap . (If you don’t see , tap the screen.)
+Tap , then choose a Memoji (swipe through the characters at the bottom, then tap one).
+The other caller hears what you say, but sees your Memoji doing the talking.
+Use a filter to change your appearance
+During a FaceTime video call, tap your tile, then tap ( supported models ).
+Tap to open the filters.
+Choose your appearance by tapping a filter at the bottom (swipe left or right to preview them).
+Add a text label
+During a call, tap the screen, then tap .
+Tap , then tap a text label.
+To see more label options, swipe up from the top of the text window.
+While the label is selected, type the text you want to appear in the label, then tap away from it.
+Drag the label where you want to place it.
+To delete the label, tap it, then tap .
+Add stickers
+During a call, tap your tile, tap , then do any of the following:
+Tap to add a Memoji sticker or to add an Emoji sticker.
+Tap , swipe up, then tap .
+Tap a sticker to add it to the call.
+To see more options, swipe left or swipe up.
+Drag the sticker to place it where you want.
+To delete the sticker, tap it, then tap .
+Add shapes
+During a call, tap your tile, then tap .
+Tap , then tap a shape to add it to the call.
+To see more options, swipe up from the top of the shapes window.
+Drag the shape where you want to place it.
+To delete the shape, tap it, then tap .

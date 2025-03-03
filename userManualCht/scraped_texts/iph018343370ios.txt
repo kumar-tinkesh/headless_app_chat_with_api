@@ -1,0 +1,6 @@
+iPhone User Guide
+Show user names and passwords in large text on iPhone
+In iOS 18.2 or later, you can show user names, passwords, and verification codes in large text on your iPhone.
+Go to the Passwords app on your iPhone.
+Tap All, then tap an account.
+Touch and hold your user name, password, or verification code, then tap Show in Large Type.

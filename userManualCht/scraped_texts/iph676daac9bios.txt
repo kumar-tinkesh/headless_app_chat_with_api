@@ -1,0 +1,33 @@
+iPhone User Guide
+Use the music player controls on iPhone
+You can play and control music in the Music app in two different ways—the MiniPlayer and the Now Playing screen.
+Use the MiniPlayer
+The MiniPlayer shows the song that’s currently playing. You can use the MiniPlayer to play or pause music, or skip to the next track.
+Use the controls in the Now Playing screen
+Go to the Music app on your iPhone.
+While a song is playing, tap the MiniPlayer to open the Now Playing screen.
+Do any of the following:
+Adjust the volume: Drag the volume slider.
+You can also use the volume buttons on the side of iPhone.
+Scrub to any point in a song: Drag the playhead.
+Navigate to the artist, album, or playlist: Tap the artist name below the song title, then choose an option.
+Turn animated album cover art on or off: Go to Settings > Apps > Music, then tap Animated Art and choose an option.
+For additional control over your music, tap any of these buttons:
+Control
+Description
+Dismiss the Now Playing screen.
+Mark the song as a favorite. See Mark items as favorites .
+Tap for more options.
+Go back to the beginning of the song. Tap again to play the previous song in an album or playlist. Touch and hold to rewind through the current song.
+Pause playback.
+Play the current song.
+Skip to the next song. Touch and hold to fast-forward through the current song.
+Show time-synced lyrics (lyrics not available for all songs).
+Stream music to Bluetooth or AirPlay-enabled devices.
+Show the queue .
+Stream music to Bluetooth ® or AirPlay-enabled devices
+Go to the Music app on your iPhone.
+While a song is playing, tap the MiniPlayer to open the Now Playing screen.
+Tap , then choose a device.
+See Play audio from iPhone on HomePod and other wireless speakers .
+Note: You can play the same music on multiple AirPlay 2-enabled devices, such as two or more HomePod speakers. You can also pair two sets of AirPods to one iPhone and enjoy the same song or movie along with a friend. See Play audio on multiple AirPlay 2-enabled devices in this user guide and Share audio with AirPods and Beats headphones in the AirPods User Guide.

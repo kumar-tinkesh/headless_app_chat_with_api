@@ -1,0 +1,42 @@
+iPhone User Guide
+Create, edit, and delete music playlists on iPhone
+You can create playlists to suit specific moods or to organize songs with a certain theme.
+Create playlists to organize your music
+Go to the Music app on your iPhone.
+To create a new playlist, tap Library, tap Playlists, then tap New Playlist.
+To more easily identify the playlist later, enter a name and description.
+To give your playlist cover art, tap , then take a photo or choose an image from your photo library.
+Tap Create, then tap Add Music.
+You can search for music, select music from your library, or choose songs listed at the bottom of the screen.
+Tap to add music to the playlist.
+Tip: If you want to add songs to your library when you add them to a playlist, go to Settings > Apps > Music, then turn on Add Playlist Songs.
+Add music to a playlist
+After you create a playlist, you can add music to it in several ways.
+Go to the Music app on your iPhone.
+Do one of the following:
+Touch and hold an album, playlist, song, or music video, tap Add to a Playlist, then choose a playlist.
+From the Now Playing screen, tap , tap Add to a Playlist, then choose a playlist.
+Edit a playlist
+You can rename playlists, change the artwork, add and remove songs, and more.
+Note: The owner of a collaborative playlist can make any changes to the playlist. Other participants can only add, remove, or reorder songs in the playlist.
+Go to the Music app on your iPhone.
+Tap the playlist, tap , tap Edit, then do any of the following:
+Rename the playlist: Tap the current name, then enter a new name.
+Edit cover art: Select from a variety of Apple templates to use as cover art or tap to add your own.
+Show (or hide) the playlist in your Apple Music profile: Turn on (or off) the “Show in My Profile and in Search” option.
+Add songs from your library: Tap , navigate to any place in your library, then tap next to the song.
+You can also touch and hold an item (song, album, playlist, or music video), tap Add to a Playlist, then choose a playlist.
+Add a Suggested Song: Tap , scroll below the Library options, then tap next to the song.
+Suggested Songs also appears at the bottom of your playlist song list. To refresh the list of suggestions, tap .
+Delete a song: Tap the song, then tap . Deleting a song from a playlist doesn’t delete it from your library.
+Change the song order: Drag next to a song.
+Changes you make to your music library are updated across all your devices when Sync Library is turned on (go to Settings > Apps > Music, then turn on Sync Library). If you’re not an Apple Music subscriber, the changes appear in your music library the next time you sync with your computer .
+Sort a playlist
+Go to the Music app on your iPhone.
+Tap a playlist, then tap at the top right of the screen.
+Tap Sort By, then choose an option.
+Delete a playlist
+If you delete a playlist, the songs in the playlist remain in your library and on your iPhone. If you’re the owner of a collaborative playlist and you delete it, the collaboration ends and the playlist is removed from your library, but it remains in the participants’ library.
+Go to the Music app on your iPhone.
+Touch and hold the playlist, then tap Delete from Library.
+You can also tap the playlist, tap , then tap Delete from Library.

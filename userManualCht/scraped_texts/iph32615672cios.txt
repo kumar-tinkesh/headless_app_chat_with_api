@@ -1,0 +1,33 @@
+iPhone User Guide
+Record and transcribe an audio call in FaceTime on iPhone
+In some countries and regions, you can record a FaceTime audio call when you’re talking to one other person. In select regions and languages, you can view the transcript of the call in the Notes app. Check the iOS and iPadOS Feature Availability website .
+Note: Call recording is not currently available in the European Union, Azerbaijan, Bahrain, Egypt, Iran, Iraq, Jordan, Kuwait, Morocco, Nigeria, Oman, Pakistan, Qatar, Russia, Saudi Arabia, South Africa, Turkey, United Arab Emirates, and Yemen.
+Record a call
+Before you begin, check the iOS and iPadOS Feature Availability website to see if call recording is available in your language and region, and make sure the other call participant is willing to be recorded.
+During a one-to-one audio call in the FaceTime app , tap .
+Both call participants hear an audio notice that the call is being recorded.
+To stop recording, tap or just end the call.
+Call recordings are automatically saved to a Call Recordings folder in the Notes app.
+Play a call recording
+Go to the Notes app on your iPhone.
+Select a note in the Call Recordings folder, then tap .
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max, you can view a summary of an audio recording in Notes .
+View a call transcript
+In select regions and languages , you can view the transcript of a recorded call in the Notes app. The transcript may not be available immediately—you may see a message that the transcription is in progress.
+Note: Verify the accuracy of a transcription before relying on it. It might not be a perfect representation of the conversation.
+Go to the Notes app on your iPhone.
+Select a note in the Call Recordings folder, then tap Transcript.
+Note: Spoken words in supported languages are automatically transcribed. If you don’t see Transcript, your iPhone doesn’t meet the minimum requirements or detect a supported language.
+In the transcript, the speaker of each statement is identified.
+While viewing the transcript, you can do any of the following:
+Play the audio from a specific point: Select the text you want to hear.
+Search the transcript: Tap , then tap Find in Transcript.
+Copy the transcript: Tap , then choose Add Transcript to Note or Copy Transcript.
+Save or delete the audio recording: Tap , then choose an option.
+Note: Deleting the audio recording also deletes the transcript.
+View the waveform of the recording: Tap .
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max, you can view a summary of an audio recording in Notes .
+Turn off Call Recording
+Call Recording is turned on by default, but you can turn it off.
+Go to Settings > Apps > Phone.
+Tap Call Recording, then turn off Call Recording.

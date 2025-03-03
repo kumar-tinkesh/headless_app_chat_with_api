@@ -1,0 +1,9 @@
+iPhone User Guide
+Qi-certified wireless chargers for iPhone
+You can wirelessly charge iPhone using a Qi-certified charger (sold separately). You can also use a Qi-certified charger to charge AirPods.
+Charge iPhone or AirPods with a Qi-certified charger
+Connect the charger to power. Use the power adapter that came with your charger or a power adapter recommended by the manufacturer.
+Do one of the following:
+iPhone: Place iPhone face up on the center of the charger. When iPhone is aligned properly with the charger, appears in the status bar.
+AirPods 2 (with Wireless Charging Case), AirPods 3, AirPods 4 (with Active Noise Cancellation), and AirPods Pro: Place your AirPods in the charging case, close the lid, then place the case with the status light facing up on the center of the charger. When the case is aligned properly with the charger, the status light turns on for several seconds, then turns off while continuing to charge.
+See the Apple Support articles How to wirelessly charge your iPhone and Charge your AirPods and learn about battery life .

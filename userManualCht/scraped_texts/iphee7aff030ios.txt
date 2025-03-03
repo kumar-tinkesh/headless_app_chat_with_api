@@ -1,0 +1,30 @@
+iPhone User Guide
+Edit and organize albums on iPhone
+You can update, rename, rearrange, and delete albums in the Photos app. You can also create folders to contain multiple albums. For example, you could create a folder named “Vacations,” and then create multiple albums within the folder of all your vacations.
+Add photos to an album
+Go to the Photos app on your iPhone.
+Tap Albums, then tap the album.
+Tap after the last photo in the album’s photo grid.
+Select the photos or videos you want to add to the album, then tap Add.
+Tip: Use the search field at the top of the screen to find photos from a specific time or place.
+Remove photos from an album
+Go to the Photos app on your iPhone.
+Tap Albums, tap the album, then tap the photo or video you want to remove to view it in full screen.
+Tap , then choose one of the following:
+Remove from Album: The photo is removed from that album, but remains in other albums and your library.
+Delete from Library: The photo is removed from all albums and your library and moved to Recently Deleted.
+To remove multiple photos or videos from an album, tap Select, tap the photo and video thumbnails you want to remove, then tap .
+Rename an album
+Go to the Photos app on your iPhone.
+Tap Albums, then tap the album you want to rename.
+Tap , then tap Edit Title and Photos.
+Enter the new name in the text field, then tap Done.
+Delete albums
+Go to the Photos app on your iPhone.
+Tap Albums, then touch and hold the album you want to delete.
+Tap Delete Album.
+Organize albums in folders
+Go to the Photos app on your iPhone.
+Tap Albums, tap Create, then choose New Folder.
+Name the folder, then tap .
+To remove an album from a folder, tap the folder to open it, touch and hold an album, then tap Move Album out of “[ name ].”

@@ -1,0 +1,71 @@
+iPhone User Guide
+Create original images with Image Playground on iPhone
+In the Image Playground app, you can use Apple Intelligence* to combine concepts, text descriptions, and people from your photo library to create stylized images within seconds. You can also use Image Playground to create images in Messages, Freeform, and more.
+Note: Image Playground is an Apple Intelligence feature available in iOS 18.2 or later on all iPhone 16 models, iPhone 15 Pro, and iPhone 15 Pro Max. Apple Intelligence is not available on iPhone and iPad if you’re in the EU and if your Apple Account country or region is also in the EU. To check whether Apple Intelligence is available for your device and language, see the Apple Support article Apple Intelligence requirements .
+Create an image
+You can combine up to six elements to create original images.
+Go to the Image Playground app on your iPhone.
+Tap , then do any of the following:
+Create an image from a concept: Tap a concept—a theme, costume, accessory, or place.
+Create an image from a description: Tap “Describe an image,” enter a description, then tap Done.
+Create an image of a person: Tap , then choose a person from your photo library.
+To add a person from Photos, you need to name them in the Photos app. See Find and name people and pets in Photos . If you provide a text description that’s different from the image you use—for example, the name in Photos doesn’t match the name in your description—your image is personalized based on the photo you selected rather than the text description.
+Tip: You can also create an image of a person without using a photo from your library. Tap , tap Appearance, then choose an appearance setting.
+Create an image based on a photo, such as an image of a pet, nature, or food: Tap , then tap Choose Photo or Take Photo.
+Change the image style: Tap , then tap Animation or Illustration.
+Note: Changing the image style creates a new set of previews.
+To see variations of an image, tap the preview bubble, then swipe left.
+When you’re happy with your image, tap Done in the top-right corner to save it to your gallery.
+To view the image in your gallery, tap .
+Tip: Tap or to rate an image. Your ratings help improve the Image Playground experience.
+In addition to using the Image Playground app, you can also use Image Playground features to create original images in apps like Freeform and Messages. See Create and send original images in Messages and Create original images in Freeform .
+Edit or refine your image
+Go to the Image Playground app on your iPhone.
+In the gallery, tap an image, then tap Edit.
+Do any of the following:
+Add a concept: Tap a suggested concept.
+You can also tap Show More, then swipe left to see Themes, Costumes, Accessories, and Places.
+Add a description: Tap the “Describe an image” field, enter a description, then tap Done.
+Add an image of a person: Tap , then choose a person from your photo library.
+To add a person from Photos, you need to name them in the Photos app. See Find and name people and pets in Photos . If you provide a description that’s different from the image you use—like a name of a different person, for example—your image is personalized based on the photo you selected rather than the text description.
+Tip: You can also add an image of a person without using a photo from your library. Tap , tap Appearance, choose a skin tone and appearance setting, then tap Done.
+Edit an image of a person: If you already added a person and you want to change the image, tap , tap Edit, choose a new starting point, then tap Done.
+To change the appearance, tap , tap Edit, make adjustments, then tap Done.
+Take a photo or choose a photo from your library: Tap , then tap Take Photo or Choose Photo.
+Change the image style: Tap , then tap Animation or Illustration.
+Note: Changing the image style creates a new set of previews.
+Remove a concept: Tap .
+When you’re finished, tap Done, then tap Save or Save as Duplicate.
+To return to your gallery, tap .
+Copy, share, or save an image
+Go to the Image Playground app on your iPhone.
+Tap a saved image, then do any of the following:
+Copy or duplicate your image: Tap , then tap Copy or Duplicate.
+Share your image: Tap , then choose a share option.
+Add a caption to your image: Tap , tap Add Caption, enter an image description, then tap Done.
+Delete an image
+Note: If you delete an image from Image Playground, it’s deleted on all your devices where you’re signed in to the same Apple Account .
+Go to the Image Playground app on your iPhone.
+Tap an image in the gallery, then tap .
+Create and send original images in Messages
+You can create images with Image Playground directly in the Messages app.
+Go to the Messages app on your iPhone.
+Start a new message or open a conversation.
+Tap , then tap Image Playground.
+Create an image , then tap Done.
+When you’re ready to send your image, tap .
+Create original images in Freeform
+You can create images with Image Playground directly in the Freeform app.
+Go to the Freeform app on your iPhone.
+Open a board, or tap to start a new one.
+Do one of the following:
+Create a new image: Tap in the toolbar, tap Image Playground, then create an image .
+Use elements from your board: Select up to six images, drawings, text boxes, stickies, or shapes that you want to use, tap them, then tap Add to Playground.
+Replace an existing image with an image created in Image Playground: Add an image, tap in the toolbar, tap Replace, tap Image Playground, then create an image .
+Tap Done to add the image to your board.
+To block access to image creation features like Image Playground, see Block access to image creation features .
+Share feedback
+Go to the Image Playground app on your iPhone.
+Tap a saved image, then tap .
+Choose feedback such as “Doesn’t match description” or “Doesn’t resemble original photo,” then tap Send to Apple.
+Apple Footer

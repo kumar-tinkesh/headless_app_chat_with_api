@@ -1,0 +1,16 @@
+iPhone User Guide
+Find photos and videos by date on iPhone
+You can find and browse the photos and videos taken on a particular date—year, month, or day—in the Photos app.
+View photos and videos you took on a recent day
+You can find the photos and videos you took on a particular day in the Recent Days collection (below the photo library).
+Go to the Photos app on your iPhone.
+Scroll down to Recent Days and tap a day to see photos and videos from that day.
+Swipe left or right to quickly move to other days.
+When you open a day in Recent Days, you see a summary of the best photos from the day. To see all the photos you took that day, tap , then tap All.
+Browse through your library by year or month
+Go to the Photos app on your iPhone.
+Swipe down on the photo grid to open the library, then tap one of the following near the bottom of the screen:
+Years: Quickly locate a specific year in your photo library.
+Months: View collections of photos that you took throughout a month, organized by significant events—like a family outing, social occasion, birthday party, or trip.
+Years and Months views are curated to show your best shots, and visual clutter like similar photos, screenshots, whiteboards, and receipts aren’t shown. To see every photo and video, tap All.
+You can also search for a specific date. See Search for photos and videos .

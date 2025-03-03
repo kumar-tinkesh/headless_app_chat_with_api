@@ -1,0 +1,34 @@
+iPhone User Guide
+Edit and organize a list in Reminders on iPhone
+In the Reminders app, you can organize a list with sections and subtasks. You can also view the sections as columns and easily move items to different columns.
+Note: All Reminders features described in this guide are available when you use updated reminders in iCloud . Some features aren’t available when using other accounts.
+Edit a list
+Go to the Reminders app on your iPhone.
+While viewing a list, tap , then do any of the following:
+Change the list name, type, color, or icon: Tap Show List Info.
+Edit multiple items: Tap tap Select Reminders or Select Items, then select the items you want to edit. You can also drag two fingers over the items. Use the buttons at the bottom of the screen to add a date and time, move, delete, assign, complete, tag, or flag the selected items.
+Sort items by due date, creation date, priority, or title: (not available in all Smart Lists) Tap Sort By, then choose an option.
+When you sort or reorder a list, the new order is applied to the list on your other devices where you’re using updated reminders . If you sort or reorder a shared list, other participants also see the new order (if they use updated reminders).
+Remove the list: Tap Delete List.
+Manually reorder or recategorize items in a list
+Go to the Reminders app on your iPhone.
+While viewing a list, touch and hold an item you want to move, then drag it to a new location.
+Organize with sections
+Go to the Reminders app on your iPhone.
+While viewing a list, do any of the following:
+Create a new section: Tap , tap New Section, then enter a name.
+Collapse a section: Tap .
+Expand a section: Tap .
+Rename section: Tap the section name, then enter a new name.
+Move a section: Touch and hold the section, then drag it to a new position.
+Note: You can’t move the Others section.
+Remove a section: Swipe left on the section, then tap Delete.
+View the sections as columns
+You can view the list in columns, making it easy to visualize and recategorize the items.
+Go to the Reminders app on your iPhone.
+While viewing a list, tap , then tap View as Columns.
+To recategorize an item, drag it into a different column.
+Create subtasks
+Go to the Reminders app on your iPhone.
+While viewing a list, swipe right on an item, then tap Indent. Or drag an item onto another item.
+If you complete a main task, the subtasks are also completed. If you delete or move a main task, the subtasks are also deleted or moved.

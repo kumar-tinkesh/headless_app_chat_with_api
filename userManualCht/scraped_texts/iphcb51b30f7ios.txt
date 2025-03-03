@@ -1,0 +1,32 @@
+iPhone User Guide
+Subscribe to Apple TV+, MLS Season Pass, or an Apple TV channel on iPhone
+In the Apple TV app, you can subscribe to Apple TV+, MLS Season Pass , and Apple TV channels . A subscription gives you access to content on demand on iPhone, iPad, Mac, Apple TV, Apple Vision Pro, and supported smart TVs and streaming devices . You can also download content to watch offline on iPhone, iPad, and Mac.
+You can choose to bundle your Apple TV+ subscription with other Apple services by subscribing to Apple One. See the Apple Support article Bundle Apple subscriptions with Apple One .
+Note: Apple TV+, MLS Season Pass, Apple TV channels, and Apple One aren’t available in all countries or regions. See the Apple Support article Availability of Apple Media Services .
+Subscribe to Apple TV+
+Apple TV+ is a subscription streaming service featuring Apple Originals—award-winning series, compelling dramas, groundbreaking documentaries, kids’ entertainment, comedies, and more—with new items added every month.
+Go to the Apple TV app on your iPhone.
+Tap Apple TV+, then tap the subscription button.
+Review the free trial (if eligible) and subscription details, then follow the onscreen instructions.
+Subscribe to MLS Season Pass
+MLS Season Pass is a subscription streaming service featuring every match of the Major League Soccer season, all in one place, with consistent match times, and no blackouts.
+Go to the Apple TV app on your iPhone.
+Tap Search, then tap MLS Season Pass.
+Tap the subscription button.
+Review the subscription details, tap a subscription option, then follow the onscreen instructions.
+Subscribe to Apple TV channels and apps
+You can subscribe to Apple TV channels like Paramount+, Starz, and others to get the shows you want, without downloading any apps.
+Go to the Apple TV app on your iPhone.
+Tap Store, then scroll down to the Add Channels & Apps row.
+Swipe left to browse, then tap an item.
+Tap the subscription button, review the free trial (if eligible) and subscription details, then follow the onscreen instructions.
+To disconnect supported streaming apps, tap your picture or initials at the top right, tap Connected Apps, then tap the button next to the streaming app to disconnect it.
+Change or cancel your subscriptions to Apple TV+, MLS Season Pass, or Apple TV channels
+Go to the Apple TV app on your iPhone.
+Tap Home, then tap your picture or initials at the top right.
+Tap Manage Subscriptions.
+Follow the onscreen instructions to change or cancel your subscription.
+Share Apple TV+, MLS Season Pass, and Apple TV channels with family members
+When you subscribe to Apple TV+, MLS Season Pass, Apple TV channels, or Apple One, you can use Family Sharing to share your subscriptions with up to five other family members. Your family group members don’t need to do anything—a shared subscription is available to them the first time they open the Apple TV app after your subscription begins.
+If you join a family group that subscribes to Apple TV+, MLS Season Pass, Apple TV channels, or Apple One, and you already subscribe, your subscription isn’t renewed on your next billing date; instead, you use the group’s subscription. If you join a family group that doesn’t subscribe, the group uses your subscription.
+Note: To stop sharing your subscription with a family group, you can cancel the subscription, leave or remove a member from a Family Sharing group , or (if you’re the family group organizer), stop using Family Sharing.

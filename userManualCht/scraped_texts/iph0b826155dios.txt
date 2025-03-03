@@ -1,0 +1,31 @@
+iPhone User Guide
+Share your activity in Fitness on iPhone
+You can keep your fitness routine on track by sharing your activity with your family and friends—you can even share with a trainer or coach. You can view highlights and get notifications when others meet their goals, finish workouts, and earn achievements.
+Add or remove a friend
+Go to the Fitness app on your iPhone.
+Tap Sharing, tap , then tap Invite a Friend.
+Note: If you’re sharing for the first time, tap Sharing, then tap Invite a Friend.
+Do any of the following:
+Add a friend from your contacts: Enter a contact’s name, then tap the name.
+You can also tap to select contacts.
+Add a friend’s phone number: Enter a phone number, then tap Return.
+Add a friend’s email address: Enter an email address, then tap Return.
+Tap Send.
+If a friend hasn’t accepted an invitation, tap their name in the Invited area of the Sharing screen, then tap Invite Again.
+If you want to unsend an invitation you’ve sent, swipe left next to the friend’s name, then tap Delete.
+To remove a friend, tap a friend you’re sharing with, tap , then tap Remove Friend.
+View your friends’ activity
+You can see highlights of your friends’ activity—like workouts they’ve finished or goals they’ve met. You can also view your friends’ activity rings for the last 7 days and a summary of activities they’ve completed.
+Go to the Fitness app on your iPhone.
+Tap Sharing, then do any of the following:
+View highlights: Swipe left or right below Highlights to see how all of your friends are doing.
+View a friend’s activity: Tap a friend’s name below Activity Rings to see a summary of their activity rings for the last 7 days and recently completed activities like workouts and meditations.
+Change your friend settings
+You can easily adjust friend settings.
+Go to the Fitness app on your iPhone.
+Tap Sharing, then tap a friend.
+Tap , then do any of the following:
+View the friend’s contact card: Tap View Contact.
+Mute notifications for the friend: Tap Mute Notifications.
+Hide your activity progress with a friend: Tap Hide My Activity.
+Stop sharing your activity with a friend: Tap Remove Friend.

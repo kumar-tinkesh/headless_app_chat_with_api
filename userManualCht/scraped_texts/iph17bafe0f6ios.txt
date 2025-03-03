@@ -1,0 +1,42 @@
+iPhone User Guide
+Use Apple Intelligence with Siri on iPhone
+Siri is the intelligent assistant that’s built into your iPhone to simplify and accelerate everyday tasks. With the capabilities of Apple Intelligence,* Siri is more natural, more contextually relevant, and more personal to you. In addition to using your voice, you can type requests to Siri. You can also take advantage of Siri’s product knowledge to get answers to questions about your iPhone and other Apple products. And with your permission, Siri can tap into the expertise of ChatGPT** when it might be helpful for certain requests.
+Siri also follows along if you stumble over your words while making a request. For example, you might say, “Siri, set an alarm—wait no, sorry, I meant a timer for 10 minutes—actually, let’s make that 15.” Siri understands what you meant and starts a timer for 15 minutes.
+When Siri is activated, a glowing light appears around the edge of the iPhone screen, and you can keep scrolling or typing while you talk to Siri.
+Note: Apple Intelligence is available in iOS 18.1 or later on all iPhone 16 models, iPhone 15 Pro, and iPhone 15 Pro Max. Apple Intelligence is not available on iPhone and iPad if you’re in the EU and if your Apple Account country or region is also in the EU. To check whether Apple Intelligence is available for your device and language, see the Apple Support article Apple Intelligence requirements .
+Type to Siri
+When you don’t want to speak out loud, you can type to Siri—for example, when you’re in a quiet place like a meeting or a library.
+To type to Siri, double-tap the bottom of the screen, then enter your request.
+To turn off Type to Siri, go to Settings > Apple Intelligence & Siri, tap Talk & Type to Siri, then turn off Type to Siri.
+Ask Siri questions about your Apple products
+Siri can answer questions not only about your iPhone, but also about other Apple products like iPad, Mac, Apple TV, Apple Watch, AirPods, and HomePod. Activate Siri , then say or type something like:
+“How do I download an app on iPhone?”
+“Where do I name a group text on iPhone?”
+“How do I edit photos on iPhone?”
+“I want to block someone from texting me on my iPhone. How do I do that?”
+“How do I make the text on my iPhone bigger?”
+“Tell me how to connect my AirPods to iPhone?”
+“How do I change what shows up in Control Center on my iPhone?”
+“How do I play sound from my TV through HomePod?”
+“Where do I go to log my medications?”
+Make requests to Siri that maintain context
+With Apple Intelligence, you can make requests to Siri that build on your previous requests, maintaining the context of what you just said.
+For example, you can say or type something like “How are the San Francisco Giants doing this season?” Then ask, “When are they playing next?” And finally: “Add that to my calendar.”
+Activate Siri , then make a request.
+Immediately after you make the request, make another one.
+Use Siri to get answers from ChatGPT
+In iOS 18.2 or later, if you turn on the ChatGPT extension, Siri can tap into ChatGPT when it might be helpful to get the information you’re looking for. To get started with ChatGPT, see Use ChatGPT with Apple Intelligence .
+Note: You must be at least 13 years old or the minimum age required in your country to consent to use ChatGPT. For more information, see OpenAI Terms of Use .
+Activate Siri , then say or type something like:
+“Hey Siri, ask ChatGPT to compose a haiku about dragons.”
+“What should I get my uncle for his 70th birthday? He loves to fish.”
+“Hey Siri, ask ChatGPT for some ideas of how to spend a free afternoon in Malibu if I don’t feel like hitting the beach.”
+“Hey Siri, compose a limerick about a tiger named Terry.”
+“What kind of recipes can I make with this?” with a photo of fruit open in the Photos app.
+“Hey Siri, ask ChatGPT to summarize this document for me,” with a document—like a PDF of a lease agreement—open in the Files app.
+If you make a request to Siri without mentioning ChatGPT, and Siri determines that ChatGPT would be helpful, it asks if you want to use ChatGPT to fulfill the request. You’re always asked to confirm before any photos or files are sent to ChatGPT.
+If you want Siri to use ChatGPT without asking your permission for those requests, go to Settings > Apple Intelligence & Siri, tap ChatGPT, then turn off Confirm ChatGPT Requests.
+To block the ability to make requests to ChatGPT, see Block access to ChatGPT .
+Note: ChatGPT uses generative models and outputs may vary. Check important information for accuracy.
+Note: To learn more about Apple Intelligence and Privacy, see Apple Intelligence and privacy . To learn more about Privacy and Siri, see Siri, Dictation & Privacy .
+Apple Footer

@@ -1,0 +1,19 @@
+iPhone User Guide
+Journal for your wellbeing on iPhone
+You can log your state of mind in the Journal app. You can also automatically add the time you spent journaling as mindful minutes in the Health app.
+Log your state of mind in your journal
+You can reflect on how you’re feeling and log your momentary emotions with a Journal entry.
+Go to the Journal app on your iPhone.
+While composing an entry, tap .
+You may be asked to turn on Health access .
+Drag the slider to indicate how you’re feeling, then tap Next.
+Tap any words that describe how you’re feeling, swipe up to see more words, then tap Next.
+Tap any words that describe what’s having the biggest impact on you, then tap Done.
+When you’re done editing, tap Done to save your entry including your state of mind.
+Your state of mind will be added to Health, where you can review its history over time. See Log your state of mind in Health .
+Allow the Health app to access your state of mind and mindful minutes in Journal
+To automatically add the time you spent journaling as mindful minutes in the Health app, do the following:
+Go to the Journal app on your iPhone.
+Tap , then tap Health Access.
+Turn on State of Mind and Mindful Minutes.
+You can also go to Settings > Apps > Journal, then tap Health Access.

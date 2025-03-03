@@ -1,0 +1,6 @@
+iPhone User Guide
+Search for events in Calendar on iPhone
+You can search for events by title, invitees, location, and notes.
+Go to the Calendar app on your iPhone.
+Tap , then enter the text you want to find in the search field.
+Siri: Say something like: “What’s on my calendar for Friday?” Learn how to use Siri .

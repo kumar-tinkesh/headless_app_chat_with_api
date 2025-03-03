@@ -1,0 +1,9 @@
+iPhone User Guide
+Use Visual Look Up to identify objects in your photos and videos on iPhone
+With Visual Look Up, you can identify and learn about popular landmarks, plants, pets, and more that appear in photos, images, and videos. Visual Look Up can also identify food in a photo and suggest related recipes.
+Visual Look Up is available on supported models and can be used in Photos, Safari, Quick Look, and more.
+Open a photo or image in full screen, or pause a video on any frame.
+If the Info button displays a symbol with stars such as or , Visual Look Up is available.
+Tap the starred Info button, then tap Look Up at the top of the photo information to view the Visual Look Up results.
+Tap to close the Visual Look Up results, then swipe down on the photo or video frame to close the photo information.
+Visual Look Up isn’t available in all regions or languages. See iOS and iPadOS Feature Availability .

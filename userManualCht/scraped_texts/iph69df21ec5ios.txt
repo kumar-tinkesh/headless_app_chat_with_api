@@ -1,0 +1,26 @@
+iPhone User Guide
+Add emoji, Memoji, and stickers with the iPhone keyboard
+As you type, you can use the iPhone keyboard to enter emoji, Memoji, and stickers to express yourself in messages and documents.
+Add an emoji, Memoji, or sticker
+Use the emoji keyboard to replace text and bring words to life.
+Tap a text field, then tap or to switch to the emoji keyboard.
+Swipe left or right to browse emoji, Memoji, and stickers, or tap a symbol below the keyboard to jump to that category.
+Emoji, Memoji, and stickers you recently used appear in the Frequently Used section of the emoji keyboard.
+Tap an image to add it to your text field.
+To see variations of an emoji—such as different skin tones—touch and hold the emoji, then drag your finger and release it on the variation you like.
+Tap ABC to return to the regular keyboard.
+Tip: As you use the keyboard to type, words that can be replaced with emoji appear above the keyboard; tap the emoji to apply it in place of the text.
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max and Apple Intelligence is turned on, you can create custom emoji—called Genmoji. Simply describe what you want the Genmoji to look like, or create one of friends and family based on their photos. See Create Genmoji with Apple Intelligence .
+Make a sticker with the iPhone keyboard
+In supported apps, you can make a new sticker from images in your photo library as you type a message with your iPhone keyboard.
+Tap a text field, then tap or to switch to the emoji keyboard.
+Tap , then tap .
+To search your photo library, enter a term in the search field at the top of screen, or tap a category such as People or Animals.
+Tap the photo you want to use, then tap Add Sticker.
+The sticker is automatically added to your sticker collection.
+Make or edit Memoji with the iPhone keyboard
+In supported apps, you can create a Memoji as you type a message with your iPhone keyboard. You can also edit, delete, or duplicate a Memoji that you already created.
+Tap a text field, then tap or to switch to the emoji keyboard.
+Tap , then tap to make your first Memoji or tap to edit, delete, duplicate, or make additional Memoji.
+Follow the instructions on the screen to make your Memoji, then tap Done.
+The Memoji is automatically added to your Memoji collection.

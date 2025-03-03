@@ -1,0 +1,23 @@
+iPhone User Guide
+Update iOS on iPhone
+When you update to the latest version of iOS, your data and settings remain unchanged.
+Before you update, set up iPhone to back up automatically, or back up your device manually.
+Update iPhone automatically
+If you didn’t turn on automatic updates when you first set up your iPhone, do the following:
+Go to Settings > General > Software Update > Automatic Updates.
+Turn on iOS Updates below Automatically Install and Automatically Download.
+When an update is available, iPhone downloads and installs the update overnight while charging and connected to Wi-Fi. You’re notified before an update is installed.
+Update iPhone manually
+At any time, you can check for and install software updates.
+Go to Settings > General > Software Update.
+The screen shows the currently installed version of iOS and whether an update is available.
+To turn off automatic updates, go to Settings > General > Software Update > Automatic Updates.
+Update using your computer
+Connect iPhone and your computer with a cable .
+Do one of the following:
+On a Mac (macOS 10.15 or later): In the Finder sidebar, select your iPhone, then click General at the top of the window.
+On a Mac (macOS 10.14 or earlier) or a Windows device: Open the iTunes app, click the button resembling an iPhone near the top left of the iTunes window, then click Summary.
+Note: Use the latest version of iTunes. See the Apple Support article Update to the latest version of iTunes .
+Click Check for Update.
+To install an available update, click Update.
+See the Apple Support articles Update to the latest iOS and If you can’t update or restore your iPhone, iPad, or iPod touch .

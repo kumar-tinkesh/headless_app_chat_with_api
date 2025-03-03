@@ -1,0 +1,9 @@
+iPhone User Guide
+Find recently saved photos on iPhone
+You can find all the photos you’ve saved from other apps—like Messages, Safari, and Mail—in the Recently Saved collection. Photos and videos that were sent to you using AirDrop also appear here.
+Go to the Photos app on your iPhone.
+Do any of the following:
+In Pinned Collections, tap Recently Saved.
+Swipe down on the grid, tap , then tap Sort by Recently Added.
+To see where you saved a photo or video from, open it, then swipe up to see information about the photo.
+Tip: To see photos you saved today, tap in Recent Days.

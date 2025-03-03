@@ -1,0 +1,18 @@
+iPhone User Guide
+Share passkeys and passwords securely with AirDrop on iPhone
+You can use AirDrop to securely share passkeys and passwords for website and app accounts with someone using an iPhone, iPad, or Mac.
+Note: To show someone the password you saved for a Wi-Fi network, see Find a Wi-Fi password .
+Check the AirDrop requirements
+Compared to sharing other types of information, AirDrop has more stringent requirements for sharing passkeys and passwords.
+iCloud Keychain must be set up on your iPhone.
+The person youʼre sharing with must be in your contacts list in the Contacts app, and they must be listed with the email address they use for iCloud.
+You must be in the other person’s contacts list in the Contacts app, and you must be listed with the email address you use for iCloud.
+Send a passkey or password
+To share with someone on iPhone or iPad, ask them to open Control Center and allow AirDrop to receive items . To share with someone on a Mac, ask them to allow themselves to be discovered in AirDrop in the Finder.
+Go to the Passwords app on your iPhone.
+Tap All, then tap the account you want to share.
+Tap , then select the device or picture of the person you want to send the passkey or password to.
+Receive a passkey or password
+If you haven’t already done so, allow AirDrop to receive items .
+When you receive a request to accept a passkey or password from someone else, tap Accept.
+The passkey or password is saved to your iPhone, where you can view its information and let iPhone automatically fill it in on the sign-in screen for the account. The passkey or password is also saved to your iCloud Keychain, so you can use it on other devices where you’re signed in to your Apple Account .

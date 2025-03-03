@@ -1,0 +1,15 @@
+iPhone User Guide
+Save a draft in Mail on iPhone
+You can save a draft to finish later and see all draft emails from all of your accounts.
+Save a draft for later
+Go to the Mail app on your iPhone.
+In a message you’re writing, tap Cancel, then tap Save Draft.
+To resume work on a message you saved as a draft, touch and hold , then select a draft.
+You can also swipe down on the title bar of a message you’re writing to save it for later. When you’re ready to return to your message, tap its title at the bottom of the screen.
+Tip: You can also hand off unfinished emails between your iPhone and your Mac. See Hand off tasks between your iPhone and your other devices .
+Show draft emails from all your accounts
+If you have more than one email account, you can show draft emails from all your accounts.
+Go to the Mail app on your iPhone.
+Tap in the upper-left corner until your see Mailboxes.
+Tap Edit at the top of the list.
+Tap Add Mailbox, then turn on the All Drafts mailbox.

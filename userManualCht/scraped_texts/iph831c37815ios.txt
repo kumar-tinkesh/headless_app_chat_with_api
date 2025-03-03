@@ -1,0 +1,6 @@
+iPhone User Guide
+Export a Voice Memos recording to Files on iPhone
+Any recording can be exported from Voice Memos to the Files app on your iPhone. Layered recordings are in QTA (QuickTime Audio) format. One-layer recordings are in .m4a format.
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+Tap the recording you want to export, tap , then tap .
+Scroll down, tap Save to Files, navigate to the location where you want to save the recording, then tap Save.

@@ -1,0 +1,5 @@
+iPhone User Guide
+Automatically fill in SMS passcodes on iPhone
+When you sign in to some websites and apps, a one-time SMS passcode is sent to your iPhone. As a security measure, you’re required to enter the code into the website or app. iPhone can detect the passcode in Messages and display it above the keyboard.
+To use the passcode, tap it.
+Note: With Continuity, all the SMS and MMS messages you send and receive on iPhone can also appear on your other iPhone, iPad, and iPod touch devices and your Mac. See the Apple Support article Use Continuity to connect your Mac, iPhone, iPad, and Apple Watch .

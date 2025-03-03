@@ -1,0 +1,41 @@
+iPhone User Guide
+Set up multiple calendars on iPhone
+In the Calendar app, you can set up multiple calendars to keep track of different kinds of events. You can keep track of all your events and appointments in one calendar, but additional calendars are easy to set up and a great way to stay organized.
+Set up a calendar
+Go to the Calendar app on your iPhone.
+Tap Calendars at the bottom of the screen, then tap Add Calendar.
+Do one of the following:
+Create an iCloud calendar: Tap Add Calendar, enter a name for the calendar, then choose a color for it.
+Subscribe to an external, read-only calendar: Tap Add Subscription Calendar, enter the URL of the .ics file you want to subscribe to (and any other required server information), then click Subscribe.
+Add a Holiday calendar: Tap Add Holiday Calendar, tap the holiday calendar you want to subscribe to, then tap Add.
+See Use the Holidays calendar .
+You can also subscribe to an iCalendar (.ics) calendar by tapping a link to it.
+Unsubscribe from a calendar
+You can unsubscribe from a calendar you’re subscribed to. When you unsubscribe, you can also report the calendar as junk.
+Go to the Calendar app on your iPhone.
+Tap Calendars at the bottom of the screen.
+Tap next to the calendar you want to unsubscribe from.
+Tap Unsubscribe, then Tap Unsubscribe or Unsubscribe and Report Junk.
+Note: When you tap Unsubscribe and Report Junk, the calendar is reported to Apple as a suspected junk subscription.
+See multiple calendars at once
+Go to the Calendar app on your iPhone.
+Tap Calendars at the bottom of the screen, then do any of the following:
+Select the calendars you want to view.
+Tap US Holidays to include national holidays with your events.
+Tap Birthdays to include birthdays from Contacts with your events.
+Turn on calendar event alerts
+You can turn on event notifications for calendars you create or subscribe to.
+Go to the Calendar app on your iPhone.
+Tap Calendars at the bottom of the screen.
+Tap next to a calendar.
+Turn Event Alerts on or off.
+Tap Done.
+Change a calendar’s color
+Go to the Calendar app on your iPhone.
+Tap Calendars at the bottom of the screen.
+Tap next to the calendar, then choose a color.
+Tap Done.
+For some calendar accounts, such as Google, the color is set by the server.
+Move an event to another calendar
+Go to the Calendar app on your iPhone.
+Tap the event, tap Calendar, then select a calendar to move the event to.

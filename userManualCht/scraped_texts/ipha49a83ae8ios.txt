@@ -1,0 +1,4 @@
+iPhone User Guide
+Block pop-ups in Safari on iPhone
+Go to Settings > Apps > Safari.
+Turn on Block Pop-ups.

@@ -1,0 +1,59 @@
+iPhone User Guide
+Share files and folders in iCloud Drive on iPhone
+After you set up iCloud Drive , you can share folders and individual files with friends and colleagues. When you make changes to a shared folder or file, others see your changes automatically. If you allow people to make edits, their changes appear automatically as well.
+Files and folders shared in iCloud Drive have these important characteristics:
+If you collaborate on a folder, all items added to that folder by you or other participants are automatically shared.
+The link to a shared file includes its name. If the name or content is confidential, be sure to ask recipients not to forward the link to anyone else.
+If you move a shared file to another folder or location, the link no longer works, and people lose access to the item.
+Depending on the app, users might need to reopen a file or tap the original link to see the latest changes.
+Share a folder or file
+If you own a folder or file in iCloud Drive, you can invite others to view or collaborate on its contents.
+You can share a folder or file so that only people you invite can open it, or anyone with the link can open it.
+You can allow the contents of a folder or file to be changed, or you can restrict access so that the contents can only be viewed.
+Go to the Files app on your iPhone.
+Go to a location, then touch and hold the folder or file you want to share.
+Tap , then choose whether you want to collaborate or send a copy of the folder or file.
+Do one of the following:
+Allow only invitees to view and edit the contents: Tap , tap “Only invited people,” tap “Can make changes,” tap Done, then choose a method—such as Messages or Mail—for sending people a link to the folder or file.
+Allow only invitees to view the contents: Tap , tap “Only invited people,” tap “View only,” tap Done, then choose a method for sending the link.
+Allow anyone with the link to view and edit the contents: Tap , tap “Anyone with the link,” tap “Can make changes,” tap Done, then choose a method for sending the link.
+Allow anyone with the link to view the contents: Tap , tap “Anyone with the link,” tap “View only,” tap Done, then choose a method for sending the link.
+Allow anyone to invite more people: Tap , turn on “Allow others to invite,” then tap Done.
+Choose how you want to send your invitation, then tap Send.
+Invite more people to collaborate on a folder or file
+If you already shared a folder or file and its access is set to “Only invited people,” you can share it with more people.
+Go to the Files app on your iPhone.
+Tap Shared at the bottom of the screen.
+Touch and hold the folder or file you want to share.
+Tap , then tap Manage Shared Folder or Manage Shared File.
+Tap Share With More People, and choose a method for sending the link.
+Enter any other requested information, then send or post the invitation.
+Share a folder or file with more people using a link
+If you set the access to a shared folder or file to “Anyone with the link,” anyone with the link can share it with others.
+Go to the Files app on your iPhone.
+Tap Shared at the bottom of the screen.
+Touch and hold the folder or file you want to share.
+Tap , tap Manage Shared Folder or Manage Shared File, then tap Send Link.
+Choose a method for sending the link, enter any other requested information, then send or post the invitation.
+Change access and permission settings for everyone
+If you’re the owner of a shared folder or file, you can change its access at any time. However, everyone you shared the link with is affected.
+Go to the Files app on your iPhone.
+Tap Shared at the bottom of the screen.
+Touch and hold the folder or file whose permissions you want to change.
+Tap , then tap Manage Shared Folder or Manage Shared File, then tap Share Options.
+Change either or both of the options.
+Access option: When you change the access option from “Anyone with the link” to “Only invited people,” the original link no longer works for anyone, and only people who receive a new invitation from you can open the folder or file.
+Permission option: When you change the permission option, everyone who has the file open when you change the permission sees an alert. New settings take effect when the alert is dismissed.
+Change access and permission settings for one person
+If you’re the owner of a shared folder or file and its access is set to “Only invited people,” you can change the permission for one person without affecting the permission of others. You can also remove the person’s access.
+Go to the Files app on your iPhone.
+Touch and hold the folder or file whose permission you want to change.
+Tap , then tap Manage Shared Folder or Manage Shared File.
+Tap the person’s name, then select an option.
+Stop sharing a folder or file
+If you’re the owner of a shared folder or file, you can stop sharing it.
+Go to the Files app on your iPhone.
+Open the location of the folder or file you want to stop sharing.
+Touch and hold the folder or file, tap , then tap Manage Shared Folder or Manage Shared File.
+Tap Stop Sharing.
+Anyone who has the file open when you stop sharing it sees an alert. The item closes when the alert is dismissed, the file is removed from the person’s iCloud Drive, and the link no longer works. If you later share the item again and set the access to “Anyone with the link,” the original link works. If the access is set to “Only invited people,” the original link works again only for people you reinvite to share the item.

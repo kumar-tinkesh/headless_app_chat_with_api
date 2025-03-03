@@ -1,0 +1,25 @@
+iPhone User Guide
+Stay focused while driving with iPhone
+Turning on the Driving Focus helps you stay focused on the road. When you turn it on, text messages and other notifications are silenced or limited. You can have Siri read replies to you so you don’t have to look at your iPhone. Incoming calls are allowed only when iPhone is connected to CarPlay—a car Bluetooth® system—or a hands-free accessory.
+WARNING: For important information about navigation and avoiding distractions that could lead to dangerous situations, see Important safety information for iPhone . The Driving Focus is not a substitute for following all the rules that prohibit distracted driving.
+Set up the Driving Focus
+You can set up the Driving Focus to turn on automatically when you’re in a moving car. (You can also turn it on manually in Control Center .)
+Go to Settings > Focus, tap Driving, then turn on Driving.
+If you don’t see the Driving Focus, tap at the top right, then tap Driving.
+Tap Focus Status, then turn on Share Focus Status.
+Tap Auto-Reply, then choose who should receive an auto-reply when the Driving Focus is on:
+No one
+Recents
+Favorites
+All Contacts
+You can edit your auto-reply message to customize it.
+Then tap at the top left.
+Tap While Driving (below Turn On Automatically), then select when to activate Driving:
+Automatically: When iPhone detects you might be driving.
+When Connected to Car Bluetooth: When your iPhone is connected to a car’s Bluetooth system.
+Manually: When you turn it on in Control Center .
+Activate With CarPlay: Automatically when iPhone is connected to CarPlay.
+Get calls, messages, and notifications when you’re a passenger
+If you receive a Driving notification when you’re in a car, but you’re not driving (for example, when you’re a passenger), you can dismiss the notification.
+Tap I’m Not Driving.
+When the Driving Focus is on and you’re a passenger in a moving car, you can receive calls, messages, and notifications.

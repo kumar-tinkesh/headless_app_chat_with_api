@@ -1,0 +1,13 @@
+iPhone User Guide
+View your sleep history in Health on iPhone
+Sleep data provides insight into your sleep habits.
+To obtain sleep data, you can use a sleep tracker or monitor , or manually add the data.
+Siri: On supported models , say something like: “How much did I sleep last night?” Not available in all languages or regions. Learn how to use Siri .
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Sleep.
+Do any of the following:
+View sleep data by week or month: Tap a tab at the top of the screen.
+Change the time span displayed in the graph: Swipe the graph left or right.
+View the details for a day: Tap the column for the day.
+Manually add sleep data: Tap Add Data in the top-right corner of the screen.
+Get cumulative sleep data: Tap Show More Sleep Data.

@@ -1,0 +1,44 @@
+iPhone User Guide
+Add photos, videos, stickers, scans, links, and other files to a Freeform board on iPhone
+You can add any photo or video to a Freeform board, or take a new one with your iPhone camera. You can also add any kind of file to your board by scanning, linking, or inserting it.
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max and Apple Intelligence is turned on, you can use Image Playground to create one-of-a-kind images in Freeform. See Create original images with Image Playground .
+Add a photo, video, sticker, link, or other file
+Go to the Freeform app on your iPhone.
+Open a board, or tap to start a new one.
+Do one of the following:
+Copy the item to your Clipboard, tap an empty space, then, when a menu appears, tap Paste.
+Tap , then choose, for example, Stickers.
+Note: You can insert files saved on your iPhone or in iCloud Drive. For most file types, Freeform makes a copy of the inserted file. When you add a link to a collaborative Keynote presentation , Numbers spreadsheet , or Pages document , participants in your Freeform board can tap the card to move to the shared file in iCloud. (If you want others to be able to collaborate on the file, you must save it in iCloud.)
+Double-tap any media item—photo, video, scan, or other file—to preview it.
+Scan and add a document
+You can scan a paper document and add it to your board as a PDF without leaving Freeform.
+Go to the Freeform app on your iPhone.
+Open a board, or tap to start a new one.
+Tap , then tap Scan.
+Position the document so that it appears on the screen, then tap or press a volume button.
+Drag the corners to select the area you want in the scanned document, then tap Keep Scan.
+Scan additional pages, then tap Save when you’re done.
+A card with an image of the first page of your scan appears on your board.
+Tip: To save your scan to iCloud Drive or on your iPhone, select the card, tap , tap , then tap Save to Files.
+Format a photo or video
+After you add photos or videos to a Freeform board, you can crop them, mask them, or change their formatting.
+Go to the Freeform app on your iPhone.
+Choose the photo you want to edit, then do any of the following:
+Crop or mask the photo: Tap .
+Remove the photo’s background: Tap , then tap Remove Background. If the background of the photo can’t be made transparent, Remove Background isn’t available.
+Tip: You can also paste an image without a background. See Lift a subject from the photo or video background .
+Add a shadow, round the corners, add a description, and more: Tap , then choose an option.
+Replace the photo or video: Select the photo or video, tap or , tap Replace, then select a replacement.
+Preview the photo or video: Tap , or double-tap the photo or video.
+To preview a movie in full screen, double-tap it.
+Put an image inside a shape
+You can use a shape as a mask or frame for an image. For example, you can put your photo inside a circle.
+Go to the Freeform app on your iPhone.
+Open a board, or tap to start a new one.
+Add a photo or other image to the board.
+Tap , then choose a shape.
+Position the shape over the image, then select both it and the image. (See Select, align, and group multiple items on a board .)
+Tap , then tap Mask with Shape.
+Or drag an image onto a shape to use it as a frame.
+To remove it from the shape, select the masked image, tap , then tap Reset Mask.
+Tip: To add a photo, video, file, or link to a Freeform board from supported apps (such as Notes, Photos, Safari, and more), select it and tap in the other app, tap the Freeform app icon, then tap New Board or the name of an existing board.

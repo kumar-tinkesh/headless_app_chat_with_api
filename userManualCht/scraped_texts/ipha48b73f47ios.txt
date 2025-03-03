@@ -1,0 +1,22 @@
+iPhone User Guide
+Manage your iTunes Store purchases and settings on iPhone
+In the iTunes Store app, you can review and download music, movies, and TV shows purchased by you or other family members. You can also customize content restrictions for the iTunes Store in Settings.
+Approve purchases with Family Sharing
+With Family Sharing set up, the family organizer can review and approve purchases made by other family members under a certain age. See Turn on Ask to Buy .
+View and download music purchased by you or family members
+Go to the iTunes Store app on your iPhone.
+Tap More, then tap Purchased.
+If you set up Family Sharing, choose a family member to view their purchases.
+Note: You can see purchases made by family members only if they choose to share their purchases.
+Tap Music, find the item you want to download, then tap .
+To view and download movies or TV shows purchased by you or family members, see Manage your library in the Apple TV app .
+View your entire iTunes Store purchase history
+To see a chronological list of the apps, songs, movies, TV shows, books, and other items purchased with your Apple Account, view your iTunes Store purchase history .
+In your purchase history, you can do any of the following:
+View when an order was billed to your account.
+View the date of a purchase.
+Resend email receipts.
+Report a problem with purchased content.
+Set content restrictions
+After you turn on content and privacy restrictions , go to Settings > Screen Time > Content & Privacy Restrictions > App Store, Media, Web, & Games, then set any of the available restrictions. You can block explicit content, turn off music videos, restrict content by age-appropriate ratings, and more.
+Apple Footer

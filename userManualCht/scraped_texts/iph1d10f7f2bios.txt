@@ -1,0 +1,6 @@
+iPhone User Guide
+Control your home remotely with iPhone
+In the Home app , you can control your accessories even when you’re away from home. To do so, you need a home hub—a device such as Apple TV (4th generation or later) or HomePod.
+Go to Settings > [ your name ] > iCloud, tap See All, then turn on Home.
+You must be signed in to the same Apple Account on your home hub device and your iPhone.
+If you have an Apple TV or HomePod, and you’re signed in to the same Apple Account as your iPhone, it’s set up automatically as a home hub.

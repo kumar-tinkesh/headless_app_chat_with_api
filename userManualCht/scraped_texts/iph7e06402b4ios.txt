@@ -1,0 +1,9 @@
+iPhone User Guide
+Take panoramic photos with your iPhone camera
+Use your iPhone camera to take a panoramic photo of your surroundings in Pano mode .
+Open Camera on your iPhone.
+Choose Pano mode.
+Tap the Shutter button or click the Camera Control ( on supported models ).
+Pan slowly in the direction of the arrow, keeping it on the center line.
+To finish, tap the Shutter button again or click the Camera Control ( on supported models ).
+Tap the arrow to pan in the opposite direction. To pan vertically, rotate iPhone to landscape orientation. You can reverse the direction of a vertical pan, too.

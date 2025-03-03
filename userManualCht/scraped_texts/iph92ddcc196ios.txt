@@ -1,0 +1,20 @@
+iPhone User Guide
+Follow your favorite podcasts on iPhone
+When you find a show you like in the Podcasts app, follow it to add it to your library so you can get notified about new episodes, change the playback order, and more.
+Follow a podcast
+When you follow a podcast, it’s added to your library. You can access podcasts you follow on your other Apple devices, or on the Apple Podcasts app .
+Go to the Podcasts app on your iPhone.
+Do any of the following:
+While viewing show information: Tap Follow.
+You can also tap , then tap Follow Show.
+While viewing episode information, or from Now Playing: Tap , then tap Follow Show.
+Unfollow a podcast
+Go to the Podcasts app on your iPhone.
+Tap Library, then tap Shows.
+Tap a show you follow, tap , then tap Unfollow Show.
+Get notifications for new episodes
+Get notified when new episodes are available for podcasts you follow.
+Go to the Podcasts app on your iPhone.
+Tap Home.
+Tap or your picture.
+Tap Notifications, then turn Notifications on or off.

@@ -1,0 +1,41 @@
+iPhone User Guide
+Accessibility features for mobility on iPhone
+With built-in accessibility features for mobility, you can navigate and interact with iPhone using just your eyes, spoken commands, assistive devices, an external keyboard, and more. You can also set options so it’s easier to use gestures and press iPhone buttons.
+To explore accessibility features for mobility, go to Settings > Accessibility, then scroll down to the Physical and Motor section.
+Action
+Related features and settings
+Navigate your iPhone hands-free
+Eye Tracking
+Voice Control
+Siri
+Shortcuts
+Call audio routing
+Use simple sounds to perform gestures
+Let iPhone type for you
+Dictation
+Predictive text
+Connect other inputs
+Switch Control
+Keyboards
+Bluetooth accessories
+Head tracking
+Control other devices
+Apple Watch Mirroring
+Apple TV remote
+Control nearby devices
+Platform Switching
+Customize gestures
+AssistiveTouch
+Back tap
+Reachability
+AirPods
+Pointer scrolling speed
+Side or Home button
+Face ID and attention
+Adjust the sensitivity of your input
+Slow Keys and Sticky Keys
+Siri Pause Time
+Touch accommodations
+Turn off vibration
+Vibration
+Tip: Control your go-to accessibility features and settings with the click of a button or from Control Center. See Quickly open features with Accessibility Shortcut .

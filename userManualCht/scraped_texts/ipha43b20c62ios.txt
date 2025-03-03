@@ -1,0 +1,12 @@
+iPhone User Guide
+Book rides in Maps on iPhone
+You can request a ride with a compatible ridesharing app. If you don’t have one installed, you can see which ones are available from the App Store.
+Note: Ridesharing is available in select areas. Features vary by country and region.
+Find a ride
+Go to the Maps app on your iPhone.
+Search for the place you want to go, then tap (at the right).
+Tap Open to see the option in the ridesharing app, then book your ride in that app.
+Stop sharing your location with a ridesharing app
+To estimate wait times and fares, Maps may share your location with ridesharing apps. You can stop sharing your location with ridesharing apps.
+Go to Settings > Apps > Maps.
+Tap Ride Booking, then turn off any app.

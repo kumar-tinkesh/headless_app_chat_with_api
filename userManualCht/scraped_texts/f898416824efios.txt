@@ -1,0 +1,18 @@
+iPhone User Guide
+Change your Reminders settings on iPhone
+You can customize your preferences for the Reminders app in Settings. Choose the default list for new items, adjust notifications, and more.
+Customize your Reminders settings
+Go to Settings > Apps > Reminders.
+Adjust any of the following:
+Accounts: Add or remove accounts in Reminders .
+Siri & Search: Allow Siri to make suggestions across apps based on the way you use Reminders. You can also allow suggestions and content from Reminders to appear in Search and widgets .
+Notifications: Change notification settings .
+Language: Choose your preferred languages.
+Default List: Choose the list for new reminders you create outside of a specific list, such as reminders you create using Siri.
+Today Notification: Set a time to see notifications for all-day reminders that have been assigned a date without a time.
+Show as Overdue: The scheduled date turns red for overdue all-day reminders .
+Include Due Today: The badge count includes overdue items and items due today .
+Mute Notifications: Turn off notifications for assigned reminders .
+Show Suggestions: If you type text that matches a previously completed reminder, that reminder appears as a suggestion.
+Add Language: Set an additional language that Reminders uses to automatically place grocery items into categories .
+Clear Categorization History: Clears categorization learned as you manually moved items in grocery lists; this applies to all your devices and grocery lists you’ve shared. Existing items are not affected.

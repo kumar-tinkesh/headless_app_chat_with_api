@@ -1,0 +1,34 @@
+iPhone User Guide
+Add details in Reminders on iPhone
+You can add details to your reminders such as notes, links, due dates, and photos.
+Note: All Reminders features described in this guide are available when you use updated reminders in iCloud . Some features aren’t available when using other accounts.
+Add a note, URL, and other details to a reminder
+Go to the Reminders app on your iPhone.
+Tap an item.
+Tap Add Note, then add more information.
+Tap to edit the item details. For example, you can set a date and time, set a location-based reminder, flag an important item, or attach a photo.
+Set when and where to be reminded
+You can be reminded on a certain date, at a specific time or location, or when you’re texting someone in Messages.
+Go to the Reminders app on your iPhone.
+Tap an item, then do any of the following:
+Schedule a date and time: Tap , then choose an option.
+Tip: Reminders with a due date appear as an all-day event in Calendar. See Use Reminders in Calendar .
+Set a recurring reminder: Tap , tap Repeat, then choose the frequency.
+Get an early reminder before the scheduled date and time: Tap , tap Early Reminder, then choose when you want to be reminded. For example, “5 minutes before,” “2 days before,” or another choice.
+Add a location: Tap , then choose where you want to be reminded—for example, when you arrive home or get into a car with a Bluetooth® connection to your iPhone.
+Note: To receive location-based reminders, you must allow Reminders to use your precise location. Go to Settings > Privacy & Security > Location Services. Turn on Location Services, tap Reminders, choose While Using the App, then turn on Precise Location.
+Get a reminder in Messages: Tap , turn on When Messaging, then choose someone from your contacts list. The reminder appears the next time you chat with that person in Messages.
+Set a flag and priority
+Go to the Reminders app on your iPhone.
+Tap an item.
+Do any of the following:
+Flag an important item: Tap .
+Set a priority: Tap , tap Priority, then choose Low, Medium, or High.
+Add a photo or scan a document
+Go to the Reminders app on your iPhone.
+Tap an item, then tap .
+Do any of the following:
+Take a new photo.
+Choose a photo from your photo library.
+Scan a document.
+Scan and insert text.

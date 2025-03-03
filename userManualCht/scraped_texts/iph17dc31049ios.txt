@@ -1,0 +1,7 @@
+iPhone User Guide
+Delete recent directions in Maps on iPhone
+You can delete directions that you recently viewed.
+Go to the Maps app on your iPhone.
+Scroll down in the card to Recents, then do one of the following:
+Delete a single item: Swipe the item left.
+Delete all recent: Tap More, then tap Clear.

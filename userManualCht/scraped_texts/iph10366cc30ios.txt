@@ -1,0 +1,50 @@
+iPhone User Guide
+Type braille directly on the iPhone screen with VoiceOver
+When you turn on Braille Screen Input in VoiceOver, you can use your fingers to type braille directly on the iPhone screen, without a physical braille keyboard. You can also use Braille Screen Input to enter braille commands for navigating and controlling your iPhone.
+Enter braille on the screen
+With VoiceOver turned on, do one of the following to start Braille Screen Input:
+Use a gesture: Place one finger from each hand at the top and bottom edges of the screen and double-tap. If the gesture doesn’t work, go to Settings > Accessibility > VoiceOver > Braille. Tap Braille Screen Input, then turn on Use Activation Gestures.
+Use the rotor: When you’re in a text input area, set the rotor to Braille Screen Input. If Braille Screen Input isn’t in the rotor, go to Settings > Accessibility > VoiceOver > Rotor. Tap Rotor Items, then select Braille Screen Input.
+Place iPhone in one of the following positions:
+Tabletop mode: Lay iPhone flat in front of you.
+Screen away mode: Hold iPhone in landscape orientation with the screen facing away from you. Your fingers wrap around the sides of iPhone to tap the screen.
+Enter braille characters by tapping the screen with one or more fingers at the same time.
+Tip: To hear where each dot is located, touch and hold, then drag your finger around the screen. To move the entry dots to match your natural finger positions, tap and lift your right three fingers all at once to position dots 4, 5, and 6, followed immediately by your left three fingers for dots 1, 2, and 3.
+You can also use gestures to perform actions such as the following:
+Action
+Gesture
+Enter a space
+Swipe right with one finger; in screen away mode, swipe to your right
+Delete the previous character
+Swipe left with one finger
+Move to a new line
+Swipe right with two fingers
+Cycle through spelling suggestions
+Swipe up or down with one finger
+Enter a carriage return, or send a message (in Messages)
+Swipe up with three fingers
+Cycle through modes (like Braille Entry Mode and Command Mode)
+Swipe left or right with three fingers
+Translate immediately (if you’re typing contracted braille)
+Swipe down with two fingers
+Switch to the next braille table
+Swipe up with two fingers
+To exit Braille Screen Input, slide two fingers in opposite directions, or do a two-finger scrub (draw the letter “z” by quickly moving two fingers back and forth three times).
+Tip: You can view and edit the commands and gestures you can perform when Braille Screen Input is turned on. Go to Settings > Accessibility > VoiceOver > Commands > Braille Screen Input.
+Type on the screen to enter braille commands
+With Braille Screen Input Command Mode, you can control iPhone by typing braille commands on the screen. You can use the same commands you use with a refreshable braille display.
+With VoiceOver turned on, place one finger from each hand at the top and bottom edges of the screen and double-tap to start Braille Screen Input.
+Switch to Command Mode by swiping left or right with three fingers.
+Type braille commands directly on the screen.
+See the Apple Support article Common braille commands for VoiceOver on your iPhone, iPad, and iPod touch .
+Change Braille Screen Input settings
+Go to Settings > Accessibility > VoiceOver > Braille > Braille Screen Input.
+Set any of the following:
+Use Activation Gestures: To start Braille Screen Input, place one finger from each hand at the top and bottom edges of the screen and double-tap. If this option is off, use the rotor to start Braille Screen Input.
+Start Automatically when Editing: Have Braille Screen Input start automatically when you enter a text input area.
+Keep Active until Dismissed: After you launch an app or choose an item in Braille Entry Mode, automatically switch to Command Mode and keep it active.
+Reverse Dot Positions: For six-dot braille, swap the positions of dots 1 and 3, and dots 4 and 6.
+Visual Text Feedback: As you type in braille, display a text translation of what you’re typing.
+Typing Feedback: Get sound or haptic feedback as you enter text with Braille Screen Input.
+Mode announcements: When you switch Braille Screen Input modes, have VoiceOver speak, play sounds, or both.
+Braille table: Set the method for braille screen input.

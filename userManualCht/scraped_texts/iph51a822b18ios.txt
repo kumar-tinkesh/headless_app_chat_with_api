@@ -1,0 +1,38 @@
+iPhone User Guide
+Log menstrual cycle information in Health on iPhone
+You can log menstrual cycle information to get period and fertile window predictions.
+Siri: On supported models , say something like: “Log that my period started today.” Not available in all languages or regions. Learn how to use Siri .
+Set up cycle tracking
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Cycle Tracking.
+Tap Get Started, then follow the onscreen instructions.
+To help improve predictions for your period and fertile windows, enter the requested information.
+Log your cycle information
+You can log the days of a period and track information like symptoms, spotting, basal body temperature, and more.
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Cycle Tracking.
+Do any of the following:
+Log a period day: Tap a day in the timeline at the top of the screen. Or tap Add Period at the top right, then select days from the monthly calendar.
+Log the flow level for a day: Swipe the timeline to select a day, tap Period (below Bleeding), choose an option, then tap Done.
+Log symptoms, spotting, or other information: Swipe the timeline to select a day, tap a category (below Other Data), supply the information, then tap Done.
+To add categories to the data logging screen, tap Options next to Log, then choose from the categories below Log.
+Note: You can use Apple Watch to help log your cycle information. See Use Cycle Tracking on Apple Watch in the Apple Watch User Guide.
+Edit your log
+Your logged information appears in the timeline at the top of the screen, where a solid red circle represents a day you logged a period and a purple dot represents a day you logged with additional information. Data for the day selected in the timeline appears in the Cycle Log (below the timeline). To change your logged information, do the following:
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Cycle Tracking.
+Swipe the timeline to select a day.
+Tap a category of data (such as Menstruation or Symptoms), make your changes, then tap Done.
+To unmark a period day, tap its solid red circle in the timeline.
+Manage cycle factors
+When you enter information about pregnancy, lactation, and contraceptive use, that information is used to help manage your cycle predictions.
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Cycle Tracking.
+Tap Factors, then do any of the following:
+Add a factor: Tap Add Factor, select a factor, tap Started if you need to change the start date, then tap Add.
+Change the end date for a current factor: Tap the factor, tap Ended, select a date, then tap Done.
+Delete a current factor: Tap the factor, then tap Delete Factor.
+About your health data and privacy
+The information you add about yourself in Health is yours to use and share. You can decide what information is stored in Health as well as who can access your data.
+When your iPhone is locked with Face ID, Touch ID, or a passcode, all of your health and fitness data in Health, other than your Medical ID, is encrypted. Any health data synced to iCloud is encrypted both in transit and on Apple servers. And if you have a version of iOS, iPadOS, and watchOS (if you’re using iPad and Apple Watch for cycle tracking) with default two-factor authentication and a passcode, your health and activity data is stored in a way that Apple can’t read it.
+This means that when you use the Cycle Tracking feature and two-factor authentication, your health data synced to iCloud is encrypted end-to-end, and Apple doesn’t have the key to decrypt the data and therefore cannot read it.

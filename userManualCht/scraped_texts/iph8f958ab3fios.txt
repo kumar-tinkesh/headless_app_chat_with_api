@@ -1,0 +1,28 @@
+iPhone User Guide
+Add a member to a Family Sharing group on iPhone
+With Family Sharing , each family member joins the family group with their own Apple Account . That way you can share access to subscriptions and other features without sharing personal information like photos or documents.
+The family organizer can easily invite family members who have an Apple Account or create an Apple Account for a child who doesn’t have one yet.
+Learn about types of Family Sharing members .
+Add a family member with an Apple Account
+The organizer of the Family Sharing group can add a family member who has their own Apple Account.
+Go to Settings > Family, then tap in the upper-right corner.
+Tap Invite Others, then follow the onscreen instructions.
+You can send the invitation using AirDrop, Messages, or Mail. If you’re near the family member, you can also tap Invite in Person and ask the family member to enter their Apple Account email address (or phone number) and password on your device.
+People you invite see your invitation at the top of Settings in the Family row. If they haven’t accepted your invitation, you can also follow up with reminders.
+Create an Apple Account for a child
+Children under 13 can't create an Apple Account on their own. (This age varies by country or region.) But if you're the family organizer or a parent or guardian, you can create an Apple Account for a child and add them to the Family Sharing group.
+Go to Settings > Family.
+Do one of the following:
+If you’re the organizer: Tap , then tap Create Child Account.
+Note: If your child already has an Apple Account, tap Invite Others. They can enter their Apple Account and password on your device to accept the invitation.
+If you’re a parent or guardian: Tap .
+Enter the child’s name and birthday. The child’s birthday is used to set suggested content restrictions that determine the content they can access. You can adjust these content restrictions later by going to Settings > Family > [ child’s name ] > Screen Time > Parental Controls on your device and dragging the age slider.
+You can also manually set content restrictions , communication limits , and downtime in Settings > Screen Time; share your child’s location with all members of the Family Sharing group, including any new members added later; and use Ask to Buy. You can change these settings at any time. For more information, see any of the following:
+Set up Screen Time for a family member
+Share locations with family members and locate their lost devices
+Apple Support article: Approve what kids buy with Ask to Buy
+Follow the onscreen instructions to finish creating the child account.
+For more information about child accounts and the age at which a child can create their own Apple Account, see the Apple Support article Create an Apple Account for your child .
+To change device settings for image creation features, Writing Tools, and the ChatGPT extension, see Block access to Apple Intelligence features in Screen Time .
+Note: You can use Apple Intelligence features on any iPhone 16 model, iPhone 15 Pro, iPhone 15 Pro Max, a Mac or iPad with M1 or later, or an iPad mini (A17 Pro).
+If you want to join an existing Family Sharing group, ask the organizer to add you . You can only be a member of one Family Sharing group at a time. If you want to join a different group, leave your current group first. See Leave a Family Sharing group .

@@ -1,0 +1,44 @@
+iPhone User Guide
+Type with the onscreen keyboard on iPhone
+On iPhone, you can use the onscreen keyboard to enter and edit text.
+Note: You can also use Magic Keyboard and Dictation to enter text on iPhone.
+Enter text using the onscreen keyboard
+In any app that allows text editing, open the onscreen keyboard by tapping a text field. Tap individual keys to type, or use QuickPath to type a word by sliding from one letter to the next without lifting your finger (not available for all languages). To end a word, lift your finger. You can use either method as you type, and even switch in the middle of a sentence. (If you tap after sliding to type a word, it deletes the whole word.)
+While entering text, you can do any of the following:
+Type uppercase letters: Tap , or touch , then slide to a letter.
+Turn on Caps Lock: Double-tap .
+Quickly end a sentence with a period and a space: Double-tap the Space bar.
+Enter numbers, punctuation, or symbols: Tap or .
+Undo autocorrect: As you type, misspelled words are automatically corrected and temporarily underlined so you know what’s been changed; to revert to the spelling as you typed it, tap the underlined word, then tap the spelling you want to use.
+Correct spelling: Tap a misspelled word (underlined in red) to see suggested corrections, then tap a suggestion to replace the word, or type the correction.
+Undo the last edit: Swipe left with three fingers, then tap Undo at the top of the screen.
+Redo the last edit: Swipe right with three fingers, then tap Redo at the top of the screen.
+Turn on keyboard sounds and haptic feedback
+You can customize keyboard settings to hear clicking or feel tapping as you type.
+Go to Settings > Sounds & Haptics > Keyboard Feedback, then turn on Sound or Haptic.
+Turn the onscreen keyboard into a trackpad
+You can turn the onscreen keyboard into a trackpad to easily move and place the insertion point.
+Touch and hold the Space bar with one finger until the keyboard turns light gray.
+To move the insertion point, slide your finger around the keyboard.
+To select text, touch and hold the keyboard with a second finger, then adjust the selection by moving the first finger around the keyboard.
+See Select, cut, copy, and paste text for more ways to select text.
+Enter accented letters or other characters while typing
+While typing on the keyboard, touch and hold the letter, number, or symbol that’s related to the character you want.
+For example, to enter é, touch and hold the e key, then slide your finger and release it on the option you want.
+You can also do any of the following:
+On a Thai keyboard: To choose native numbers, touch and hold the related Arabic number.
+On a Chinese, Japanese, or Arabic keyboard: Tap a suggested character or candidate at the top of the keyboard to enter it, or swipe left to see more candidates.
+Note: To view the full candidate list, tap the up arrow on the right. To return to the short list, tap the down arrow.
+Move text
+In a text editing app, select the text you want to move.
+Touch and hold the selected text until it lifts up, then drag it to another location within the app.
+If you change your mind about moving the text, lift your finger before dragging, or drag the text off the screen.
+Change keyboard settings
+You can turn special typing features—such as predictive text and auto-correction—off and on.
+While typing on the onscreen keyboard, touch and hold or , then tap Keyboard Settings. Or go to Settings > General > Keyboard.
+Turn the typing features (below All Keyboards) on or off.
+Type with one hand
+To make it easier to type with one hand, you can move the keys closer to your thumb.
+Touch and hold or .
+Tap one of the keyboard layouts. (For example, choose to move the keyboard to the right side of the screen.)
+To center the keyboard again, tap the right or left edge of the keyboard.

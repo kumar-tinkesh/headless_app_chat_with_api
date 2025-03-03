@@ -1,0 +1,17 @@
+iPhone User Guide
+Use the compass on iPhone
+The Compass app shows you the direction iPhone is pointing in, your current location, and the elevation.
+Note: Your coordinates and elevation may not be available in certain countries or regions.
+See your bearings, coordinates, and elevation
+Your bearings, coordinates, and elevation are shown at the bottom of the screen.
+Go to the Compass app on your iPhone.
+For accurate bearings, hold iPhone flat to align the crosshairs at the center of the compass.
+To lock your current direction, tap the compass dial.
+A red band appears when you’re off course.
+To open your location in Maps, tap the coordinates at the bottom of the screen.
+Allow Compass to access your location
+If Compass doesn’t see your location, make sure you’ve turned on Location Services.
+Go to Settings > Privacy & Security > Location Services, then turn on Location Services.
+Tap Compass, then tap While Using the App.
+For more information, see Control the location information you share on iPhone .
+Important: The accuracy of the compass can be affected by magnetic or environmental interference; even the magnets in the iPhone EarPods can cause a deviation. Use the digital compass only for basic navigation assistance. Don’t rely on it to determine precise location, proximity, distance, or direction.

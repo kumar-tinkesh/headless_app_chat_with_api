@@ -1,0 +1,28 @@
+iPhone User Guide
+Turn read receipts on or off in Messages on iPhone
+You can use read receipts to automatically let someone know when you’ve seen their text messages.
+When read receipts are turned on, the sender sees the word “Read” below messages they’ve sent to you, indicating that you’ve read their message. If you haven’t read their message, the sender sees “Delivered.”
+You can turn on read receipts for everyone or for individual contacts.
+Note: To use read receipts, you and your recipient must turn on iMessage .
+Turn on read receipts
+You can turn on read receipts to let everyone know when you’ve opened their messages.
+Go to Settings > Apps > Messages.
+Turn on Send Read Receipts.
+Note: If you turned off read receipts for a particular contact, you have to turn the setting back on for that one contact individually. (See Turn on read receipts for one person , below.)
+Turn off read receipts
+If you don’t want others to know that you’ve opened their messages, you can turn off read receipts.
+Go to Settings > Apps > Messages.
+Turn off Send Read Receipts.
+Note: This action affects only those conversations with contacts whose read receipts you never turned on individually. (See Turn off read receipts for one person , below.)
+Turn on read receipts for one person
+You can turn on read receipts in a conversation to let that one recipient know when you’ve seen their incoming messages, even if you turned off read receipts generally.
+Go to the Messages app on your iPhone.
+Tap a conversation, then tap the number or name of the person you’re communicating with at the top of the conversation.
+Turn on Send Read Receipts.
+Turn off read receipts for one person
+If you turned on read receipts for an individual, but you want them to stop getting read receipts, you can turn the setting off for that one contact.
+Go to the Messages app on your iPhone.
+Tap a conversation, then tap the number or name of the person you’re communicating with at the top of the conversation.
+Turn off Send Read Receipts.
+Get read receipts when someone else sees your messages
+You can’t turn on read receipts for anyone but yourself. To receive read receipts when your messages are opened, ask the recipient to turn them on. See Turn on read receipts for one person , above.

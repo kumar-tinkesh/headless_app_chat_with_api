@@ -1,0 +1,16 @@
+iPhone User Guide
+Organize your notes with Smart Folders on iPhone
+In the Notes app, you can easily search and filter your notes across folders using Smart Folders.
+Create a Smart Folder
+Go to the Notes app on your iPhone.
+Tap , choose an account (if you have more than one), enter a name, then tap Make Into Smart Folder.
+Choose one or more filters, then choose to include notes matching any or all of the selected filters. You can filter by tags, dates, mentions, and more.
+You can also create a Smart Folder when viewing a list of tagged notes; tap , then tap Create Smart Folder.
+Convert a folder to a Smart Folder
+When viewing the folder you want to convert, tap , scroll to the bottom, then tap Convert to Smart Folder.
+When you convert a folder, its notes are moved to the Notes folder and tagged with the name of the Smart Folder.
+Note: You can’t convert a shared folder, a folder with a subfolder, or a folder that contains locked notes.
+Edit a Smart Folder
+Do either of the following:
+In the folders list, tap Edit, then tap to add, move, and rename folders.
+Touch and hold a Smart Folder, then tap Edit Smart Folder. You can change the name or filters.

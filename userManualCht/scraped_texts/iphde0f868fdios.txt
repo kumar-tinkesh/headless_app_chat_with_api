@@ -1,0 +1,31 @@
+iPhone User Guide
+Use iCloud on iPhone
+iCloud securely stores your photos, videos, documents, backups, and more—and keeps them updated across all your devices—automatically. With iCloud, you can also share photos, calendars, notes, folders, and files with friends and family. iCloud provides you with an email account and 5 GB of free storage for your data. For more storage and additional features, you can subscribe to iCloud+ .
+Note: Some iCloud features have minimum system requirements . The availability of iCloud and its features varies by country or region.
+Set up iCloud
+Go to Settings > [ your name ].
+If you don’t see your name, tap Apple Account, then sign in to your Apple Account.
+Tap iCloud, tap See All, then turn on the apps and features you want to sync with iCloud.
+For example, turn on iCloud Drive to make your files in iCloud Drive available to your other devices.
+For information on how to customize iCloud features on your other devices, see Set up iCloud and change settings on all your devices in the iCloud User Guide.
+Ways to use iCloud on iPhone
+iCloud can keep your iPhone backed up automatically. See Back up iPhone .
+You can also keep the following information stored in iCloud and kept up to date across your iPhone and other Apple devices:
+Photos and videos; see Back up and sync your photos with iCloud
+Files and documents; see Set up iCloud Drive
+iCloud Mail
+Contacts, Calendars, Notes, and Reminders
+Data from compatible third-party apps and games
+Messages; see Set up Messages
+Passwords; see Use passwords
+Safari bookmarks and open tabs; see Bookmark a website and Organize your tabs with Tab Groups
+News, Stocks, and Weather settings
+Home and Health data
+Voice memos
+Map favorites
+You can also do the following:
+Share your photos and videos. See Create shared albums and Set up or join an iCloud Shared Photo Library .
+Use iCloud Drive to share folders and documents .
+Use Find My to locate a missing device and share locations with friends and family .
+For additional storage and access to iCloud Private Relay, Hide My Email, and HomeKit Secure Video support, you can subscribe to iCloud+ .
+You can also access your iCloud data on iPad, Apple Watch, Mac, Apple Vision Pro, Apple TV, Windows devices, and iCloud.com . To learn more about the available features and how they work across all your devices, see the iCloud User Guide .

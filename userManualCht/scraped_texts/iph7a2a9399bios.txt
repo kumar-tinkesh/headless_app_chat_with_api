@@ -1,0 +1,19 @@
+iPhone User Guide
+Erase iPhone
+You can securely erase your personal information, content, and settings (such as privacy and network settings) from your iPhone. When you erase your iPhone, it’s restored to factory settings. If you want to reset your iPhone settings but keep your personal content, see Reset iPhone settings to their defaults .
+Before you begin
+Back up your iPhone so you can restore your data later on a different device.
+Erase iPhone using Settings
+Go to Settings > General > Transfer or Reset iPhone.
+Tap Erase All Content and Settings.
+If asked, enter your iPhone passcode or Apple Account password.
+Tap Continue to confirm.
+If you have an eSIM, you can choose to erase your eSIM or keep it. If you erase your eSIM, you need to contact your carrier to reactivate your cellular plan.
+Erase iPhone using your Mac or Windows device
+Connect your iPhone to your computer with a USB or USB-C cable.
+On your Mac, click to open a Finder window, or open the Apple Devices app on your Windows device.
+If your Mac is using macOS 10.14 or earlier, or your Windows device doesn’t have the Apple Devices app, open iTunes instead.
+Click the iPhone icon in the Finder sidebar (below Locations), then click General at the top of the window.
+Click Restore iPhone, then click Restore to confirm.
+Note: If you’re signed in to Find My, you need to sign out before you can click Restore.
+For troubleshooting, see the Apple Support article, Restore your iPhone, iPad, or iPod to factory settings .

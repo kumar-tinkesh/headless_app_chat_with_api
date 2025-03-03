@@ -1,0 +1,6 @@
+iPhone User Guide
+Use Siri in your car
+With CarPlay or Siri Eyes Free, you can keep focused on the road by using Siri to make calls, send text messages, play music that’s on your iPhone, get directions, and use other iPhone features.
+CarPlay (available in select cars) takes the things you want to do with your iPhone while driving and puts them on your car’s built-in display. CarPlay uses Siri, so you can control CarPlay with just your voice. See Use Siri to Control CarPlay .
+With Siri Eyes Free (available in select cars), use your voice to control features of your iPhone without looking at or touching iPhone. To connect iPhone to your car, use Bluetooth® (refer to the user guide that came with your car if you need to). To activate Siri, press and hold the voice command button on your steering wheel until you hear the Siri tone, then make a request.
+WARNING: For important information about avoiding distractions that could lead to dangerous situations, see Important safety information .

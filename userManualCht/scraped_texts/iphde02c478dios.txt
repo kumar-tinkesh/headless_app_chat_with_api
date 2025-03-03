@@ -1,0 +1,20 @@
+iPhone User Guide
+Record ProRes videos with your iPhone camera
+On supported models , you can use your iPhone camera to record and edit videos in ProRes, which offers higher color fidelity and less compression.
+ProRes is available on all cameras, including the front camera. ProRes isn’t supported in Cinematic, Time-lapse, or Slo-Mo mode.
+Note: ProRes videos result in larger file sizes.
+Set up ProRes
+To set up ProRes, go to Settings > Camera > Formats, then turn on Apple ProRes.
+Record a video with ProRes
+Open Camera on your iPhone.
+Select Video mode , then tap to turn ProRes on.
+To start recording, tap the Record button, press either volume button, or click the Camera Control ( on supported models ).
+While recording with the rear camera, you can pinch to zoom in or out, tap .5x, 1x, 2x, 3x, and 5x (depending on your model) to switch between lenses, or touch and hold the lens chooser, then slide the dial for more precise zoom control.
+To stop recording, tap the Record button, press either volume button, or click the Camera Control ( on supported models ).
+Tap when you want to turn off ProRes.
+ProRes is available for recording up to 4K at 30 fps. iPhone 15 Pro and iPhone 15 Pro Max can record 4K at 60 fps when connected to a compatible external storage device. iPhone 16 Pro and iPhone 16 Pro Max can record 4K at 120 fps when connected to a compatible external storage device.
+On iPhone 15 Pro and iPhone 16 Pro models with 128 GB, recording to internal storage is only available at 1080p at 30 fps, but can record 4K up to 60 fps on iPhone 15 Pro models and up to 120 fps on iPhone 16 models when connected to a compatible external storage device. For more information, see the Apple Support article About Apple ProRes on iPhone .
+Choose color encoding options for your ProRes recordings
+On iPhone 15 Pro, iPhone 15 Pro Max, iPhone 16 Pro, and iPhone 16 Pro Max, you can choose between HDR, SDR, or Log color encoding when you record video in ProRes.
+Go to Settings > Camera > Formats, then turn on Apple ProRes.
+Tap ProRes Encoding, then tap HDR, SDR, or Log.

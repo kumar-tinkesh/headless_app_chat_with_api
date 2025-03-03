@@ -1,0 +1,32 @@
+iPhone User Guide
+Intro to Health data on iPhone
+The Health app securely stores your health information from iPhone, iPad, and Apple Watch, as well as from compatible third-party apps and connected devices. You can also manually enter data for body measurements, symptoms, menstrual cycle information, and more.
+Siri: On supported models , say something like: “What’s my heart rate?” or “How far have I walked today?” Not available in all languages or regions. Learn how to use Siri .
+Health data from iPhone
+iPhone automatically stores and analyzes valuable health data, including the following:
+Steps, flights of stairs, and other walking data: Built-in sensors on your iPhone capture the number of steps you take, the number of flights of stairs you climb, your walking speed, and more. You can browse highlights, trends, and details about this data in the Activity category in Health.
+Mobility data: iPhone stores important mobility metrics such as walking asymmetry, double support time, and more. Over time, as you walk with iPhone in your pocket or wear it near your waist, these metrics are used to calculate and record your walking steadiness. You can browse this data in the Mobility category. You can also receive a notification and share your notification with others if your steadiness becomes low enough to put you at increased risk of falling in the next 12 months.
+Headphone audio levels: Audio level measurements from connected AirPods, EarPods, or other compatible headphones are automatically stored in Health. You can review this data in the Hearing category to help you understand your headphone listening habits.
+Sleep history: If you set up a sleep schedule in Health , iPhone estimates the periods you’re lying in bed with the intention to sleep. You can review this data in the Sleep category to help you meet your sleep goals.
+Health records from your healthcare providers: You can set up automatic downloads of health records of your allergies, medical conditions, medications, and more from supported healthcare organizations (not available in all countries or regions). You can browse these records in Health.
+Health data from Apple Watch
+After you pair iPhone with Apple Watch, periodic heart rate and blood oxygen measurements are automatically sent from Apple Watch to Health, where you can browse highlights, trends, and details in the Heart and Respiratory categories. You can also set up Apple Watch to send additional information to Health, including the following:
+Exercise minutes and other activity metrics: You can view these metrics in the Activity category in Health on iPhone.
+A history of time in daylight (Apple Watch SE 2nd generation, Apple Watch Series 6 or later, and all Apple Watch Ultra models): The ambient light sensor in Apple Watch estimates how much time you’ve spent in daylight. You can view details in the Other Data category in Health on iPhone.
+Notifications about high or low heart rates, low cardio fitness (watchOS 7.2 or later), and irregular heart rhythms (not available in all countries or regions): You can view the details about these notifications in the Heart category.
+Environmental noise levels and notifications about loud sounds: You can view the details about noise in your environment in the Hearing category.
+Overnight health metrics in the Vitals app: You can view overnight health metrics—heart rate, respiratory rate, wrist temperature, blood oxygen, and sleep duration—to get a better understanding of your daily health status. If you wear your Apple Watch to sleep for multiple nights, the Vitals app establishes a typical range for each of your health metrics. If multiple metrics are outside your typical range, you’ll receive a notification along with context for factors that may be involved—like medications or illness, for example. You can view the details about your overnight vitals in the Vitals category.
+A history of hard falls (Apple Watch SE and Apple Watch Series 4 and later): In the Other Data category, you can view details about the number of times fallen.
+To learn more about health data from Apple Watch, see Get started with health features , Time spent in daylight , Measure noise levels , Track your vitals , and Manage Fall Detection in the Apple Watch User Guide.
+Health data from other apps and devices
+As you set up health and fitness apps that you download from the App Store, follow their onscreen instructions to allow them to share data with Health.
+To store data from devices like blood pressure monitors and weight scales, follow their setup instructions. Bluetooth® devices need to be paired with iPhone.
+Note: You can change health data permissions for apps and devices at any time.
+Data that you add manually
+You can manually enter data about your menstrual cycles, medications, body measurements, and more.
+Add information about your menstrual cycles: By logging menstrual cycle information, you can get period and fertile window predictions. See Log menstrual cycle information in Health .
+Add your medications, vitamins, and supplements: By adding these items, you can get reminders to take them and learn more about them. See Track your medications in Health .
+Set up a sleep schedule: Scheduling regular times for getting to bed and waking up can help you meet your sleep goals. See Set up a Sleep Focus schedule in Health .
+Add information to a Medical ID: You can provide information about your medical conditions, medications, emergency contacts, and more in an emergency Medical ID. First responders and others can view this critical information directly on your iPhone, even while it’s locked. See Set up and view your Medical ID .
+Add information to other Health categories: Tap Browse at the bottom right of Health, tap a category, tap for the data you want to update, then tap Add Data at the top right.
+Important: iPhone, iPad, and Apple Watch aren’t medical devices. See Important safety information for iPhone .

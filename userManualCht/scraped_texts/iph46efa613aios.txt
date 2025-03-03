@@ -1,0 +1,42 @@
+iPhone User Guide
+Solve math with Math Notes in Calculator on iPhone
+You can solve mathematical expressions, create and use variables, or graph equations—for example, when learning new concepts in class, day-to-day budgeting, planning an event, home remodeling, and more.
+Note: Math Notes uses common mathematical symbols, the same operations as the scientific calculator , and digits from select numeric systems. Learn more on the iOS and iPadOS Feature Availability website .
+Solve expressions
+Go to the Calculator app on your iPhone.
+Tap , then tap Math Notes.
+Tap to open a previous Math Note, or tap to start a new one.
+Do any of the following:
+Type a math expression, then include an equal sign.
+Tap , write a math expression horizontally, then include an equal sign.
+Tap , write a stack of numbers, then draw a horizontal line below the numbers to add the numbers in the stack. Write a different symbol to the left of each digit if you want a different operation.
+Tap the equal sign to see what Math Notes understood in what you wrote. To correct mistakes, you can fix any of the following:
+Unrecognized math and unsolvable expressions: Tap any dotted red lines to see details about the error.
+Ambiguous characters: Tap any dotted blue lines to clarify what you wrote.
+See the Apple Support article How to handle errors in Math Notes to learn more.
+Math Notes uses the standard order of operations in horizontal expressions. For example, multiplication is completed before addition and subtraction. Add parentheses around expressions that you want calculated first. In vertically stacked math, Math Notes evaluates expressions from top to bottom.
+Math Notes automatically converts any units and currency used in expressions. You can also mix different systems—for example, 42 meters + 143 feet. Available units and currency match the Convert mode of the basic or scientific calculator. See Convert units or currency .
+Update values
+Go to the Calculator app on your iPhone.
+Tap , tap Math Notes, then tap the note you want to update.
+Do one of the following:
+Erase the number, then enter a new value.
+Tap the number, then slide left and right to adjust the value using the scrubber that appears above the number.
+Any graphs using the values automatically update. If the value was assigned to a variable, results or graphs of any equations using the variable automatically update as well.
+Use variables in expressions and equations
+Go to the Calculator app on your iPhone.
+Tap , then tap Math Notes.
+Tap to open a Math Note, or tap to start a new one.
+To declare a variable, type or write a letter or word to use as the variable, followed by an equal sign.
+Type or write a value or expression after the equal sign to assign a value to the variable.
+Type or write the variable name in an expression or an equation to use it.
+Note: Math Notes reads entries from top left to bottom right. You must declare a variable (for example, x = 5) before using it in an expression (such as x + 10 =). Writing an expression without first declaring a variable produces an error. Variable names must contain characters only from the Latin alphabet. Variables can’t be used in vertical math.
+You can use equations with two variables to create a graph .
+Show results automatically or as suggestions
+You can choose how you want your iPhone to respond to the math problems you enter in Math Notes.
+Go to the Calculator app on your iPhone.
+Tap , then tap Math Notes.
+Tap , then tap Math Results, then do one of the following:
+If you want problems to be solved: Choose Insert Results. Answers appear automatically when you type or write a solvable math problem.
+If you want suggestions to appear: Choose Suggest Results. When you type or write an equal sign or select a solvable math problem, a Solve button appears that, when tapped, inserts the answer.
+If you don’t want any math results: Choose Off. Answers don’t appear when you write or type an equal sign after an expression.

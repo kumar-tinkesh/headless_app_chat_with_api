@@ -1,0 +1,13 @@
+iPhone User Guide
+Scan a QR code with your iPhone camera
+You can use your iPhone camera or the Code Scanner to scan Quick Response (QR) codes for links to websites, apps, coupons, tickets, and more. The camera automatically detects and highlights a QR code.
+Use the camera to read a QR code
+Open Camera on your iPhone.
+Position iPhone so that the QR code appears inside the camera frame.
+Tap the notification that appears on the bottom of the screen to go to the relevant website or app.
+Tip: On iPhone 16 models, you can use the Camera Control to open Code Scanner. See Use the Camera Control to open another app on iPhone .
+Add Code Scanner to Control Center
+Open Control Center .
+Touch and hold the background of the screen, then tap Add a Control.
+In the Control Center gallery, tap Scan Code, then tap anywhere on the screen to return to Control Center.
+Note: After you add the code scanner control to Control Center, you don’t need to add it again for future use.

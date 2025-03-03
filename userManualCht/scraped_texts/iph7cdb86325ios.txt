@@ -1,0 +1,12 @@
+iPhone User Guide
+Turn your Sleep Focus on or off on iPhone
+Quickly turn your Sleep Focus on or off
+Open Control Center , tap Focus, then tap Sleep.
+Your Sleep Focus turns on or off again at your next scheduled bedtime or wake up time.
+To share your Sleep Focus settings with your other devices, make sure you have Share Across Devices turned on. Go to Settings > Focus > Share Across Devices.
+Turn off your Sleep Focus for all sleep schedules
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Sleep.
+Scroll down to Your Schedule, then tap Full Schedule & Options.
+Turn off Use Schedule for Sleep Focus.
+When this setting is off, your sleep schedules remain in effect, but your Sleep Focus doesn’t automatically turn on. You can turn this setting on again at any time.

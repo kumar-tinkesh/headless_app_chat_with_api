@@ -1,0 +1,13 @@
+iPhone User Guide
+Intro to playlists in Music on iPhone
+A playlist is a custom compilation of songs and music videos. You might want to create a playlist to do the following:
+Suit a specific mood or occasion. For example, you could create a playlist for a dinner party, a wedding, or your morning workout.
+Select certain songs to share with others on your local network or to sync with your Mac or Windows device.
+Organize your music library.
+When you subscribe to Apple Music , there are a few other types of playlists available:
+Favorite Songs playlist: See Mark items as favorites .
+Playlists created by any Apple Music contributor: See Add music to iPhone and listen offline .
+Playlists created by other subscribers that you follow: See See what your friends are listening to .
+Special playlists (like Replay): See the Apple Support article How to get your Apple Music Replay .
+Collaborative playlists: See Collaborate on a playlist and Join a collaborative playlist .
+Changes you make to your music library (creating playlists, for example) are updated across all your devices when Sync Library is turned on (go to Settings > Apps > Music, then turn on Sync Library). If you’re not an Apple Music subscriber, the changes appear in your library the next time you sync with your computer .

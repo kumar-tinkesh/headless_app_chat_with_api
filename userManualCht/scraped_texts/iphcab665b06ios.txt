@@ -1,0 +1,16 @@
+iPhone User Guide
+Solve handwritten math problems on a Freeform board on iPhone
+You can solve handwritten math problems on a Freeform board.
+Note: To see results for handwritten math problems, you must be using iOS 18, iPadOS 18, or later.
+Go to the Freeform app on your iPhone.
+Open a board, or tap to start a new one.
+Tap , tap Math Results, then choose how you want your iPhone to respond to the math problems you enter:
+If you want it to solve them: Choose Insert Results. (The answer appears in writing that matches your own.)
+If you want suggestions to appear: Choose Suggest Results. (A Solve button appears that, when tapped, adds the answer in writing that matches your own.)
+Tap , then start writing a math equation.
+Write an equal sign or draw a horizontal line below a stack of numbers, then do one of the following:
+In Insert Results mode: Tap the answer to open the equation. You can tap to delete the answer.
+In Suggest Results mode: Tap Solve to add the answer in writing that matches your own.
+You can decide which mode you want, or turn off math hints. See Get math hints .
+You can also type equations to be solved in any text in sticky notes, shapes, and text boxes and in the Notes app.
+You can also use variables, edit equations, and update results as you can in the Calculator app. See Solve math with Math Notes .

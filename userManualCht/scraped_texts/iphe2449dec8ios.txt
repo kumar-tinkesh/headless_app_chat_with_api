@@ -1,0 +1,24 @@
+iPhone User Guide
+View a larger version of text you’re reading or typing on iPhone
+With Hover Text on iPhone, you can move the pointer over text and other items on the screen (such as icons) to view a larger version of them. Or use Hover Typing to display a separate window with a larger version of text that you’re typing.
+Before you begin
+To use Hover Text, you need to connect a pointing device such as a trackpad or mouse with your iPhone. See the Apple Support article How to use a pointer device with AssistiveTouch on your iPhone, iPad, or iPod touch .
+You don’t need to connect a pointing device to use Hover Typing.
+Show a larger version of text when you hover over it
+Go to Settings > Accessibility > Hover Text, then turn on Hover Text.
+Move the pointer over text to display a larger version of it.
+If you have a connected keyboard, you need to press and hold the Control key to show the Hover Text window.
+If you use iPhone with a connected keyboard, you can have the Hover Text window automatically displayed when you move the pointer over text, without needing to press and hold a key every time. Go to Settings > Accessibility > Hover Text, then turn on Activation Lock. To use activation lock, quickly press the Control key three times.
+You can change the key you press to activate Hover Text and activation lock. Tap Activation Modifier, then choose another key.
+Show a larger version of text you’re typing
+Go to Settings > Accessibility > Keyboards & Typing, then tap Hover Typing.
+Turn on Hover Typing.
+As you type in a text entry field, a larger version of what you’re typing is displayed.
+To temporarily hide the Hover Typing window, swipe on it. It reappears when you start typing again.
+Customize Hover Text or Hover Typing
+Go to Settings > Accessibility.
+Tap Hover Text, or tap Keyboards & Typing, then tap Hover Typing.
+Customize any of the following:
+Display mode: Choose where to show the Hover Text or Hover Typing window—inline (near the cursor), at the top of the screen, or directly above the onscreen keyboard.
+Appearance: Choose the size, font, and color of the text in the Hover Text or Hover Typing window, or the colors of the window itself.
+Scrolling speed: Choose a faster or slower speed (for scrolling in the Hover Text window when viewing large blocks of text).

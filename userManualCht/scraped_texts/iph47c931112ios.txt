@@ -1,0 +1,16 @@
+iPhone User Guide
+Manage storage on iPhone
+On iPhone, you can check how much storage space is available and increase the available space by removing items you no longer need.
+Check storage on your iPhone
+Go to Settings > General > iPhone Storage.
+The available storage is shown at the top of the screen.
+Remove apps and data
+When you’re low on storage, you can have iPhone automatically remove unused apps.
+Go to Settings > General > iPhone Storage.
+Tap Enable next to Offload Unused Apps.
+The unused apps move to iCloud Drive. You can find them in iCloud Drive in the Files app.
+You can also remove many apps manually, and redownload them if you change your mind. See Remove or delete apps .
+If you have documents and data on your iPhone that you no longer need, you can find and delete them in the Files app. See Delete a file .
+You can also review items you downloaded in the TV app and remove ones you already watched. See Manage your library in the Apple TV app .
+Keep selected files
+If you have downloaded files that you always want to be able access on your iPhone, you can make sure they're not removed. See Keep selected files downloaded .

@@ -1,0 +1,29 @@
+iPhone User Guide
+Share long videos on iPhone
+Some long video files are too large to send in a standard text message. You can use AirDrop, iCloud, or Mail Drop to send long videos that you record with your iPhone camera.
+Send a video using AirDrop
+The simplest way to send a large video to a nearby iPhone, iPad, Mac, or Apple Vision Pro is with AirDrop . AirDrop sends information using Wi-Fi and Bluetooth®, so before sending, make sure both you and the recipient have these controls turned on in Control Center .
+If the person you’re sending the video to isn’t in your contacts, have them do one of the following:
+On iPhone or iPad: Go to Settings > General > AirDrop, then tap Everyone for 10 Minutes.
+On a Mac: Choose Apple menu > System Settings, then click General in the sidebar. Click AirDrop & Handoff, then click the pop-up menu next to AirDrop and choose Everyone.
+Go to the Photos app on your iPhone.
+Tap the video you want to send, then tap .
+If you want to send the video in its original format, including metadata, location, and any associated edit history or captions, tap Options, then turn on All Photos Data.
+Tap AirDrop, then tap the contact or device you want to share with.
+After you share, the recipient receives an alert to accept or decline the AirDrop transfer.
+Send a video using an iCloud link
+An iCloud link is a URL that you can use to send a large video with Messages or Mail.
+To send an iCloud link, make sure you have iCloud Photos turned on . Then follow these steps:
+Go to the Photos app on your iPhone.
+Tap the video you want to send, then tap .
+Tap Options, then tap Copy iCloud Link.
+Go to Messages , Mail , or another communication app, then enter the recipient of the iCloud link. Paste the iCloud link into a message, and send it.
+Recipients have 30 days to download a video sent with an iCloud link.
+Send a video using Mail Drop
+With Mail Drop, you can send a large video as an attachment in Mail.
+Go to the Photos app on your iPhone.
+Tap the video you want to send, tap , then tap Mail.
+Tap the To field, then enter the name or email of the recipient.
+If you want to add a subject or message, tap the Subject field or email body.
+Tap to send.
+Recipients have 30 days to download Mail Drop attachments.

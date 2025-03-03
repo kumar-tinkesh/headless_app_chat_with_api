@@ -1,0 +1,17 @@
+iPhone User Guide
+Get started with Health on iPhone
+The Health app on iPhone stores health data from a number of different sources: your iPhone, iPad, Apple Watch, and compatible apps and third-party devices. You can set up a sleep schedule, check your headphone levels, schedule when to take your medications, and much more.
+Find your health data in one place
+iPhone automatically stores and analyzes valuable health details, including mobility data, sleep history, and even health records from your medical providers. You can also manually add information about medications you’re taking, your menstrual cycle, and more. To display all of your health data, open the Health app and scroll down to see highlights.
+Fill out your health details
+To personalize your experience, add your name, date of birth, sex, and other basic information to Health Details. To edit your health details, tap Summary, tap your picture or initials at the top right, tap Health Details, then tap Edit.
+Schedule your medications
+Create a list of the medications you’re taking, schedule when to take them, and log when you do. To add a new medication, tap Browse, tap Medications, then tap Add a Medication.
+Track your menstrual cycle
+With Cycle Tracking, you can log your period, record symptoms like cramps, and track cycle factors like lactation. You can also use it to help predict when your next period or fertile window will begin. To set up Cycle Tracking, tap Browse, tap Cycle Tracking, then tap Set Up Cycle Tracking.
+Want to learn more?
+View health records in Health on iPhone
+Add or change sleep schedules in Health on iPhone
+Log your state of mind in Health on iPhone
+Share your data in Health on iPhone
+Back up your Health data in iCloud on iPhone

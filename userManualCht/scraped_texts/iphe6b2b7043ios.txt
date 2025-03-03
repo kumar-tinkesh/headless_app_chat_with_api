@@ -1,0 +1,27 @@
+iPhone User Guide
+Share passwords or passkeys with people you trust on iPhone
+Shared password groups are an easy and secure way to share passwords, passkeys, and Sign in with Apple credentials with your family and trusted contacts.
+Anyone in the group can add passwords, passkeys, and Sign in with Apple credentials. When a shared credential changes, it changes on everyone’s device.
+Create a group
+Note: To create a shared password group, you must be signed in to your Apple Account.
+Go to the Passwords app on your iPhone.
+Tap New Group under Shared Groups.
+Enter a name for the group, then tap Add People.
+Type the name, email address, or phone number of the person or people you want to add, then tap Add.
+Note: To add someone to your group, they must be in your contacts and have an iPhone, iPad, or Mac with iOS 17, iPadOS 17, macOS 14, or later. If they can be added to the group, their contact information appears in blue. If it appears in gray, their iPhone, iPad, or Mac might not support shared password groups.
+Tap Create.
+Select the passwords you want to share with the group, then tap Move in the top-right corner.
+If you don’t want to share any passwords yet, tap Not Now in the top-left corner.
+You can notify the people you’ve invited to the group, and they can also see the invitation in Passwords > Group Invitations.
+Your shared passwords are saved in iCloud Keychain, and you can use them like any other saved password.
+You receive a notification whenever anyone else is invited to the group.
+Manage a group
+If you create a group, you can add or remove other members, or delete the group. Other members of the group don’t have these options, but they can choose to leave at any time.
+Go to the Passwords app on your iPhone.
+Tap the name of your group.
+You can add or remove other members, or delete the group.
+When you’re finished making changes, tap Done.
+Respond to an invitation to join a group
+Go to the Passwords app on your iPhone.
+Tap the invitation, then tap Accept to join the group. You can also decline the invitation.
+Important: Don’t accept an invitation if you don’t recognize the sender.

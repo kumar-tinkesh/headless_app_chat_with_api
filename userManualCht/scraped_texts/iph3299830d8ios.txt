@@ -1,0 +1,13 @@
+iPhone User Guide
+Play podcasts with CarPlay
+Use CarPlay to play the podcasts that are on your iPhone.
+You can use your vehicles’s built-in controls to open Podcasts and select a podcast to play.
+Note: If you’re viewing CarPlay Dashboard, tap to see pages of all of your CarPlay apps, including Podcasts.
+You can also use the controls on your vehicle’s steering wheel, the buttons on the Now Playing screen, and CarPlay Dashboard to control podcast playback.
+Button
+Description
+Play
+Pause
+Jump back 15 seconds
+Jump forward 30 seconds
+Choose a faster or slower playback speed

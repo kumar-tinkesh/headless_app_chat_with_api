@@ -1,0 +1,20 @@
+iPhone User Guide
+Create Genmoji with Apple Intelligence on iPhone
+With Apple Intelligence,* you can create custom emoji—called Genmoji. Simply describe what you want the Genmoji to look like or create one of friends and family based on their photos. You can add Genmoji to messages, share them as a sticker or Tapback, and more.
+Note: Genmoji is an Apple Intelligence feature available in iOS 18.2 or later on all iPhone 16 models, iPhone 15 Pro, and iPhone 15 Pro Max. Apple Intelligence is not available on iPhone and iPad if you’re in the EU and if your Apple Account country or region is also in the EU. To check whether Apple Intelligence is available for your device and language, see the Apple Support article Apple Intelligence requirements .
+Create Genmoji
+Tap a text field, then tap or to switch to the emoji keyboard.
+Tap at the top right of the onscreen keyboard.
+Enter a description in the Describe a Genmoji field, like “Rainbow cactus.”
+Tap Done.
+To add a Genmoji to a message, swipe through to find the Genmoji you want to use, then tap Add.
+To create a Genmoji based on a photo, enter the name of a person you’ve identified in your photo library , add a description—“Danny celebrating his 35th birthday,” for example—tap Choose a Person, select a person identified in your Photos library, then choose a variation.
+Refine your Genmoji
+After seeing the results of your initial description, you can alter your Genmoji simply by changing the description in the New Genmoji screen.
+For example, if the original description was “Giraffe riding a unicycle,” you can update the Genmoji by typing “Purple giraffe riding a unicycle across the ocean.”
+Delete Genmoji
+Tap a text field, then tap or to switch to the emoji keyboard.
+Swipe right or tap .
+Tap , touch and hold a Genmoji, then tap Remove.
+You can also tap in a Messages conversation, tap Stickers, touch and hold a Genmoji, then tap Remove.
+Apple Footer

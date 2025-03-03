@@ -1,0 +1,17 @@
+iPhone User Guide
+Find shows, movies, and more in the Apple TV app on iPhone
+You can use the Search tab in the Apple TV app to look for TV shows and movies by specific categories like title, sport, and cast. The Home tab gives you easy access to next episodes, new releases, personalized recommendations, and much more.
+Note: The availability of Apple Media Services varies by country or region. See the Apple Support article Availability of Apple Media Services .
+Search for specific shows, movies, and more
+When you’re looking for something specific—like a show or actor—use the Search tab.
+Go to the Apple TV app on your iPhone.
+Tap Search, then either tap a category, or tap the search field to see previous searches or enter a new search.
+Tip: When you want to search, simply describe what you’re looking for using natural language—for example, “Popular dramas with a twist.”
+Find content in the Home tab
+When you’re looking for suggestions or just want to see what’s available, use the Home tab.
+Go to the Apple TV app on your iPhone.
+Tap Home, then do any of the following:
+Get recommendations: Get video previews of personalized recommendations based on your channel subscriptions, supported apps, purchases, and viewing interests.
+Browse a collection: Swipe left on the collection or tap to see all items.
+See shows, movies, and episodes sent by friends in Messages: Scroll down to the Shared with You row. See Share content in Messages .
+You can also tap the Apple TV+, Store, and Library tabs to see content specific to those categories.

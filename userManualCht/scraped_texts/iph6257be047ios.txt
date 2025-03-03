@@ -1,0 +1,22 @@
+iPhone User Guide
+View and search your journal entries on iPhone
+The Journal app provides a scrollable view of your past entries. You can search for text in your entries and filter for details such as photos, locations, and conversations. You can also bookmark entries to revisit later and edit or delete entries from your journal.
+View and search your journal entries
+Go to the Journal app on your iPhone.
+Scroll down to view your entries.
+Tap the text in an entry to expand it. To collapse the entry, tap it again. Tap an attachment to see it fullscreen.
+Do any of the following:
+Find specific entries: Tap , choose a category such as Photos or Conversations, then type the text to search for in your entries.
+Find entries for a specific day: Tap , then tap a date on the calendar.
+Sort entries: Tap , tap Sort By, then choose Entry Date or Moment Date.
+Bookmark important journal entries
+Go to the Journal app on your iPhone.
+Swipe right on an entry, then tap .
+To see only the bookmarked entries, tap , then tap Bookmarked.
+Edit a journal entry and change the date
+Go to the Journal app on your iPhone.
+Swipe left on an entry, then tap .
+To change the date, tap , then tap Edit Date.
+Delete a journal entry
+Go to the Journal app on your iPhone.
+Swipe left on an entry, then tap .

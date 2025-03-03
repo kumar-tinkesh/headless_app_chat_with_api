@@ -1,0 +1,4 @@
+iPhone User Guide
+Sign in with fewer CAPTCHA challenges on iPhone
+Some website and app sign-in screens require you to pass CAPTCHA challenges, such as recognizing letters in unusual shapes. iCloud allows you to bypass many challenges by automatically and privately verifying your iPhone and account. You can turn this bypass on or off.
+Go to Settings > [ your name ] > Sign-In & Security, then turn Automatic Verification on or off.

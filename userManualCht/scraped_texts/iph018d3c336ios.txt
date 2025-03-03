@@ -1,0 +1,26 @@
+iPhone User Guide
+React with Tapbacks in Messages on iPhone
+Tapbacks give you a quick and easy way to respond to a message, such as a heart, a thumbs-up or thumbs-down, laughter, exclamation points, a question mark, and any sticker, Memoji, or emoji.
+Note: To send and receive emoji and sticker Tapbacks, you and your recipients must be using iOS 18, iPadOS 18, macOS Sequoia, watchOS 11, visionOS 2, or later.
+React with a Tapback
+Go to the Messages app on your iPhone.
+Open a conversation.
+Double-tap (or touch and hold) a message.
+Swipe left to see suggested emoji and stickers, or tap , then tap to choose any of the following kinds of Tapbacks:
+Other emoji: Tap (jump to other emoji categories with icons to the right of ).
+Stickers: Tap .
+The Tapback is attached to a specific message in a conversation, and everyone who’s part of the conversation can see it.
+Find out who sent a Tapback
+If there’s more than one Tapback for a message, they appear as a stack. You can find out who added each Tapback.
+Go to the Messages app on your iPhone.
+Open a conversation with Tapbacks.
+Double-tap (or touch and hold) a message with Tapbacks.
+Senders appear near the top of the screen.
+Edit or remove your Tapback
+You can only edit or remove Tapbacks you added. You can’t edit or remove Tapbacks other people added.
+Go to the Messages app on your iPhone.
+Open a conversation.
+Tap your Tapback, then do one of the following:
+Use a different Tapback: Tap a different emoji, Memoji, or sticker. (See React with a Tapback , above.)
+Remove the Tapback: Tap the same Tapback you used (so it’s not highlighted).
+You can only add one Tapback per message. If you want to send additional stickers, see Place stickers on a conversation .

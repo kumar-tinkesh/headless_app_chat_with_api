@@ -1,0 +1,21 @@
+iPhone User Guide
+Use Apple Pay in apps and on the web on iPhone
+You can make purchases using Apple Pay in apps, in App Clips, and on the web wherever you see the Apple Pay button. (Available in certain countries and regions; see Countries and regions that support Apple Pay .)
+Pay in an app, an App Clip, or Safari
+During checkout, tap the Apple Pay button.
+Review the payment information and set any of the following:
+Payment method
+You can choose a different payment card; if available, you can also pay with rewards or installments (available on cards from participating banks and card providers in certain markets; subject to eligibility and approval).
+Billing and shipping addresses
+Contact information
+Tip: If you subscribe to iCloud+, you can use Hide My Email to keep your real email address private.
+Authenticate with Face ID, Touch ID, or your passcode to complete the payment.
+See the Apple Support articles Pay with rewards using Apple Pay and Pay with installments using Apple Pay .
+Use Apple Pay in third-party browsers on Mac, Window devices, and other devices
+When you shop in a supported third-party web browser, you can complete the purchase with Apple Pay using the payment information on your iPhone. (Not available in all countries or regions.)
+At checkout, click Apple Pay, then scan the code using your iPhone camera.
+On your iPhone, review the payment information and set any of the following:
+Payment method
+Billing and shipping addresses
+Contact information
+Authenticate with Face ID, Touch ID, or your passcode to complete the payment.

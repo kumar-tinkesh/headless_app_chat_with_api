@@ -1,0 +1,17 @@
+iPhone User Guide
+Make text easier to read on iPhone
+You can make it easier to read text on iPhone by increasing its size, making it bold, and more.
+Make text bigger and bolder
+You can set a single preferred text size for all supported apps (including Calendar, Mail, Messages, Notes, Settings, and more). You can also turn on bold text.
+Go to Settings > Accessibility > Display & Text Size.
+Do any of following:
+Make text bigger: Tap Larger Text, then drag the slider to adjust the text size.
+For additional text sizes, turn on Larger Accessibility Sizes.
+Make text heavier: Turn on Bold Text.
+Tip: Change the size of text while you’re in an app. Open Control Center , then adjust the Text Size slider . If you don’t see the Text Size slider, tap in the top-left corner, tap Add a Control, then tap the Text Size control.
+You can also turn on Display Zoom to increase the size of text as well as interface elements like icons and buttons.
+Identify tappable text
+You can underline any text that performs an action when you tap it.
+Go to Settings > Accessibility > Display & Text Size.
+Turn on Button Shapes.
+You can also change display colors on iPhone to make it easier to see what’s onscreen or zoom in on the screen .

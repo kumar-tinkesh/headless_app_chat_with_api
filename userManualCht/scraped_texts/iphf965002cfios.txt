@@ -1,0 +1,30 @@
+iPhone User Guide
+Change your Journal settings on iPhone
+You can customize the settings for the Journal app . Personalize the journaling suggestions you receive, lock your journal, set a schedule for journaling, and more.
+Customize the journaling suggestions
+Do any of the following:
+Customize the privacy settings: Go to Settings > Privacy & Security > Journaling Suggestions, then turn on or off any of the categories.
+Suggestions use data from apps and services you turn on; data used for suggestions is private and stored on your iPhone. For more information, see the Journaling Suggestions & Privacy website .
+Change the notification settings: Go to Settings > Notifications > Journaling Suggestions.
+Create new entries without viewing suggestions: Go to Settings > Apps > Journal, then turn on Skip Journaling Suggestions.
+Add a title and date to new journal entries
+Do any of the following:
+Add a title to new entries: Go to Settings > Apps > Journal, tap Add Entry Title, then choose Always, Only for Moments, or Never.
+Use the date from the moment as the entry date: Go to Settings > Apps > Journal, then turn on Always Use Moment Date.
+See an insights summary at the top of your journal
+To see a summary of insights such as your current writing streak, words written, and days journaled at the top of your journal, go to Settings > Apps > Journal, then turn on Show Insights Summary.
+Lock your journal
+You can keep your journal private so only you can access it with with Face ID, Touch ID, or your passcode.
+To lock your journal, use any of the following methods:
+From the Home Screen or App Library: See Lock or hide an app .
+In the Journal app: Tap , then tap Lock Journal.
+In Settings: Go to Settings > Apps > Journal, then tap Lock Journal.
+Save photos and videos taken in Journal to the Photos app
+Go to Settings > Apps > Journal.
+Turn on Save to Photos.
+Turn Journal notifications on or off
+Go to Settings > Notifications > Journal.
+Store your journal entries in iCloud
+Go to Settings > [ your name ] > iCloud.
+Tap See All, then turn on Journal.
+To back up without using iCloud, see the Apple Support article About encrypted backups on your iPhone, iPad, or iPod touch .

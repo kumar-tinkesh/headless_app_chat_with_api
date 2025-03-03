@@ -1,0 +1,12 @@
+iPhone User Guide
+Change the wallpaper on iPhone
+On iPhone, you can change the wallpaper on the Lock Screen and the Home Screen. You can set your wallpaper in Settings or through the wallpaper gallery from your Lock Screen. See Create a custom iPhone Lock Screen .
+Go to Settings > Wallpaper, then tap Add New Wallpaper.
+The wallpaper gallery appears.
+Do any of the following:
+Tap a button at the top of the wallpaper gallery—for example, Photos, Photo Shuffle, Live Photo, and so on—to design your wallpaper with a photo, an emoji pattern, a picture of your local weather, and more.
+Choose wallpaper from one of the featured sets (Collections, Astronomy, Weather, and so on).
+If you’re adding a Photo or Photo Shuffle to your wallpaper and want to customize one or more photos for it, see Customize your Lock Screen photo .
+Tap Add, then do one of the following:
+Choose whether to use the wallpaper on both the Lock Screen and Home Screen: Tap Set as Wallpaper Pair.
+Make further changes to the Home Screen: Tap Customize Home Screen. Tap a color to change the wallpaper color, tap to use a custom photo, or select Blur to blur the wallpaper so the apps stand out.

@@ -1,0 +1,10 @@
+iPhone User Guide
+Use the Podcasts widget on iPhone
+You can add the Podcasts widget to your Home Screen to view and play episodes in your Up Next queue without opening the Podcasts app .
+Add a Podcasts widget to the Home Screen
+Touch and hold the Home Screen until the apps begin to jiggle.
+Tap Edit at the top left, then tap Add Widget to open the widget gallery.
+Scroll down, then tap Podcasts.
+Swipe left and right to view the different widget sizes and layouts. When you see the option you want, tap Add Widget.
+To move the widget on your Home Screen, touch and hold the Home Screen until the apps begin to jiggle. Drag the widget to a new location, then tap Done.
+To remove the widget from your Home Screen, touch and hold the Home Screen until the apps begin to jiggle, tap at the top left of the widget, then tap Remove.

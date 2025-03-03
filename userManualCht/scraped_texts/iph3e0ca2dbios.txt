@@ -1,0 +1,29 @@
+iPhone User Guide
+Add and use contact information on iPhone
+You can use the Contacts app to create, find, share, and delete contacts.
+Siri: Say something like:
+“What’s my brother’s work address?”
+“Sarah Milos is my sister”
+“Send a message to my sister”
+Learn how to use Siri
+Create a contact
+Go to the Contacts app on your iPhone.
+Tap .
+Siri also suggests new contacts based on your use of other apps, such as email you receive in Mail and invitations you receive in Calendar. (To turn this feature off, go to Settings > Apps > Contacts > Siri, then turn off Show Contact Suggestions.)
+Based on the way you use Contacts, Siri also provides contact information suggestions in other apps. (To turn this feature off, go to Settings > Apps > Contacts > Siri, then turn off “Learn from this App.”) See Siri Suggestions .
+Find a contact
+Go to the Contacts app on your iPhone.
+Tap the search field at the top of the contacts list, then enter a name, address, phone number, or other contact information.
+You can also search your contacts using Search (see Search with Spotlight ).
+Share a contact
+Go to the Contacts app on your iPhone.
+Tap a contact, tap Share Contact, then choose a sharing method.
+Sharing the contact sends all of the information from the contact’s card.
+Quickly reach a contact
+Go to the Contacts app on your iPhone.
+To start a message, make a phone call or a FaceTime call, compose an email, or send money with Apple Pay, tap a button below the contact’s name.
+To change the default phone number or email address for a contact method, touch and hold the button for that method below the contact’s name, then tap a selection in the list.
+Delete a contact
+Go to the Contacts app on your iPhone.
+Go to the contact’s card, then tap Edit.
+Scroll down, then tap Delete Contact.

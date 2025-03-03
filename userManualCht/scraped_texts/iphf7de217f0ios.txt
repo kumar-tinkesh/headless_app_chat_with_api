@@ -1,0 +1,31 @@
+iPhone User Guide
+Use Apple Intelligence in Photos on iPhone
+With Apple Intelligence,* you can find just about anything in the photos and videos you capture, create memory movies of stories you want to see, and focus on the most important parts of your photos by removing distracting objects.
+Search for specific photos and videos with Apple Intelligence
+Apple Intelligence makes it even easier to find a specific photo or a key moment in a video—just describe what you want to find.
+Note: Apple Intelligence is available in iOS 18.1 or later on all iPhone 16 models, iPhone 15 Pro, and iPhone 15 Pro Max. Apple Intelligence is not available on iPhone and iPad if you’re in the EU and if your Apple Account country or region is also in the EU. To check whether Apple Intelligence is available for your device and language, see the Apple Support article Apple Intelligence requirements .
+Go to the Photos app on your iPhone.
+Tap Search, then enter a description using natural language—“Maya skateboarding in a tie-dye shirt,” or “Sadie cartwheeling on the grass,” for example.
+Note: For more information on naming people and pets in photos, see Find and name people and pets in Photos .
+Do any of the following:
+See all search results: Tap See All.
+Select specific search results: Tap Select, then select the photos and videos you want to share or add to an album.
+Sort search results in reverse chronological order: Tap .
+When you’re finished, tap Done.
+Create a memory movie
+You can create a custom memory movie of a story you want to see, right in Photos. Just type a description, and Apple Intelligence finds the best photos and videos, crafts a storyline with unique chapters and a narrative arc, and sets it to music.
+Note: Apple Intelligence is available in iOS 18.1 or later on all iPhone 16 models, iPhone 15 Pro, and iPhone 15 Pro Max. Apple Intelligence is not available on iPhone and iPad if you’re in the EU and if your Apple Account country or region is also in the EU. To check whether Apple Intelligence is available for your device and language, see the Apple Support article Apple Intelligence requirements .
+Go to the Photos app on your iPhone.
+Scroll down to Memories, then tap Create.
+Type a description of the movie you want to create from your library, then tap Done.
+Remove distractions from your photos
+You can use the Clean Up tool to remove distracting objects in the background of a photo.
+Note: Clean Up is available in iOS 18.1 or later on all iPhone 16 models, iPhone 15 Pro, and iPhone 15 Pro Max in most regions around the world.
+Go to the Photos app on your iPhone.
+Open a photo, tap , then tap Clean Up.
+Note: After you tap Clean Up, some items may be highlighted automatically so you can quickly tap to remove them.
+Tap, brush, or circle what you want to remove.
+Use two fingers to pinch to zoom or pan the image.
+Note: If you brush over a person’s face, the face may become blurred with a pixelated effect.
+When you’re finished, tap Done.
+Apple Footer

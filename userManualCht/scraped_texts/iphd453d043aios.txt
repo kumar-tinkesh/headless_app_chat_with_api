@@ -1,0 +1,20 @@
+iPhone User Guide
+Check the iPhone battery health and usage
+You can view information about your iPhone battery health and learn how your iPhone usage affects the battery level.
+Review your iPhone battery health
+Go to Settings > Battery, then tap Battery Health & Charging.
+iPhone displays information about your battery’s capacity, peak performance, and whether your battery needs to be serviced.
+View your battery usage information
+Go to Settings > Battery.
+Information about your battery usage and activity appears for the last 24 hours and up to the last 10 days.
+Insights and suggestions: You might see insights about conditions or usage patterns that cause iPhone to consume energy. You might also see suggestions for lowering energy consumption. If a suggestion appears, you can tap it to go to the corresponding setting.
+Last Charged: Indicates how fully the battery was last charged and the time it was disconnected.
+Battery Level graph (in Last 24 Hours): Shows the battery level, charging intervals, and periods when iPhone was in Low Power Mode or the battery was critically low.
+Battery Usage graph (in Last 10 Days): Shows the percentage of battery used each day.
+Activity graph: Shows activity over time, split by whether the screen was on or off.
+Screen On and Screen Off: Shows total activity for the selected time interval, for when the screen was on and when it was off. The Last 10 Days view shows the average per day.
+Battery Usage by App: Shows the proportion of the battery used by each app in the selected time interval.
+Activity by App: Shows the amount of time each app was used in the selected time interval.
+Note: To see battery information for a specific hour or day, tap that time interval in the graph. To deselect it, tap outside the graph.
+Battery life and charge cycles vary with use and settings. To learn how to maximize your battery’s performance and lifespan, see the Apple Support article iPhone Battery and Performance .
+The iPhone battery should be serviced or recycled by Apple or an Apple Authorized Service Provider. See the Battery Service and Recycling website .

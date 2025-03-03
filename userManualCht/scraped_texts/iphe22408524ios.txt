@@ -1,0 +1,10 @@
+iPhone User Guide
+Shuffle or repeat songs in Music on iPhone
+You can shuffle all songs and albums in your library (play them in random order) or just shuffle a playlist or album. You can also repeat individual songs, playlists, or albums.
+Go to the Music app on your iPhone.
+While a song is playing, tap the MiniPlayer to open the Now Playing screen.
+Tap , then do any of the following:
+Play your songs in random order (shuffle): Tap . Tap again to turn off shuffle.
+Repeat an album, playlist, or the entire queue: Tap .
+Note: When multiple songs are repeating, you can view how many songs will be repeated—just scroll to the bottom of the queue.
+Repeat a single song: Double-tap .

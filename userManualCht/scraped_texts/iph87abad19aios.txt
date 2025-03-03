@@ -1,0 +1,35 @@
+iPhone User Guide
+Find and use your apps in App Library on iPhone
+App Library shows your apps organized into categories, such as Social, Entertainment, and Productivity & Finance. The apps you use most are near the top of the screen and at the top level of their categories, so you can easily locate and open them.
+Note: The apps in App Library are organized in categories intelligently, based on how you use your apps. You can add apps in App Library to the Home Screen, but you can’t move them to another category in App Library.
+Find and open an app in App Library
+Go to the Home Screen , then swipe left past all your Home Screen pages to get to App Library.
+Tap the search field at the top of the screen, then enter the name of the app you’re looking for. Or scroll up and down to browse the alphabetical list.
+To open an app, tap it.
+If a category has a few small app icons, you can tap them to expand the category and see all the apps in it.
+Hide and show Home Screen pages
+Because you can find all of your apps in App Library, you might not need as many Home Screen pages for apps. You can hide some Home Screen pages, which brings App Library closer to your first Home Screen page. (When you want to see the hidden pages again, you can show them.)
+Go to the Home Screen , then touch and hold the Home Screen wallpaper until the app icons begin to jiggle.
+Tap the dots at the bottom of the screen.
+Thumbnail images of your Home Screen pages appear with checkmarks below them.
+To hide pages, tap to remove the checkmarks.
+To show hidden pages, tap to add the checkmarks.
+Tap Done (on an iPhone with Face ID) or press the Home button (on other iPhone models).
+With the extra Home Screen pages hidden, you can go from the first page of the Home Screen to App Library (and back) with only one or two swipes.
+Note: When Home Screen pages are hidden, new apps you download from the App Store may be added to App Library instead of the Home Screen.
+Reorder Home Screen pages
+If you have multiple Home Screen pages, you change their order. For example, you can gather together your favorite apps on one Home Screen page, and then make that your first Home Screen page.
+Go to the Home Screen , then touch and hold the Home Screen wallpaper until the app icons begin to jiggle.
+Tap the dots at the bottom of the screen.
+Thumbnail images of your Home Screen pages appear with checkmarks below them.
+To move each Home Screen page, touch and hold it, then drag it to a new position.
+Tap Done twice (on an iPhone with Face ID) or press the Home button twice (on other iPhone models).
+Change where new apps get downloaded
+When you download new apps from the App Store, you can add them to the Home Screen and App Library, or to App Library only.
+Go to Settings > Home Screen & App Library.
+Choose Add to Home Screen or App Library Only.
+Note: To allow app notification badges to appear on apps in App Library, turn on Show in App Library.
+Move an app from App Library to the Home Screen
+If you moved an app from the Home Screen to App Library, you can easily move it back to the Home Screen.
+Go to App Library .
+Touch and hold the app until the app icons begin to jiggle and the app moves to the Home Screen, then lift your finger.

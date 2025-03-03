@@ -1,0 +1,11 @@
+iPhone User Guide
+Listen to subscriber-only content in Podcasts on iPhone
+In the Podcasts app, you can listen to audio content from Apple Music, Apple News+, and eligible third-party subscription apps.
+Note: Not all apps offer audio content that’s available in Podcasts.
+Connect app subscriptions to Podcasts
+Your eligible app subscriptions are automatically connected to Podcasts if you subscribed through the App Store and the app offers audio content in Podcasts.
+If you subscribed using another method, do the following:
+Go to the Podcasts app on your iPhone.
+Browse or search for a channel with an eligible subscription.
+On the Channel page, tap the Already a Subscriber link, then follow the instructions to connect your app subscription.
+After an app subscription is connected, you can find the channel in your library. You can use Podcasts to play all subscriber-only shows and episodes.

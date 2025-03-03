@@ -1,0 +1,14 @@
+iPhone User Guide
+Save stories in News on iPhone
+You can save news stories to read later. Apple News+ subscribers can read saved stories in Offline Mode .
+Save a story
+Go to the News app on your iPhone.
+When reading a story, tap , then tap Save Story.
+Read a saved story
+Go to the News app on your iPhone.
+Tap Following, tap Saved Stories, then tap the story.
+Delete a saved story
+Go to the News app on your iPhone.
+Tap Following, tap Saved Stories, then do one of the following:
+Delete one story: Swipe the story left.
+Remove all saved stories: Tap Clear.

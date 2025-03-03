@@ -1,0 +1,96 @@
+iPhone User Guide
+Use VoiceOver gestures on iPhone
+When VoiceOver is on, standard touchscreen gestures have different effects, and additional gestures let you move around the screen and control individual items. VoiceOver gestures include two-, three-, and four-finger taps and swipes.
+You can use different techniques to perform VoiceOver gestures. For example, you can perform a two-finger tap using two fingers on one hand, one finger on each hand, or your thumbs. Instead of selecting an item and double-tapping, you can use a split-tap gesture—touch and hold an item with one finger, then tap the screen with another finger.
+Explore and speak items on the screen
+To explore the screen, drag your finger over it. VoiceOver speaks the name of each item you touch.
+You can also use VoiceOver gestures to explore the screen in order, from top to bottom and left to right.
+Action
+Gesture
+Select and speak an item
+Tap or touch the item
+Select the next item
+Swipe right
+Select the previous item
+Swipe left
+Move into a group of items
+Two-finger swipe right
+Move out of a group of items
+Two-finger swipe left
+Select the first item on the screen
+Four-finger tap near the top of the screen
+Select the last item on the screen
+Four-finger tap near the bottom of the screen
+Speak the entire screen from the top
+Two-finger swipe up
+Speak the entire screen from the selected item
+Two-finger swipe down
+Pause or continue speaking
+Two-finger tap
+Speak additional information, such as the position within a list or whether text is selected
+Three-finger tap
+For more information about navigation styles, see Use flat or grouped navigation .
+Scroll up, down, left, and right
+Use VoiceOver gestures to move to another page.
+Action
+Gesture
+Scroll up one page
+Three-finger swipe down
+Scroll down one page
+Three-finger swipe up
+Scroll left one page
+Three-finger swipe right
+Scroll right one page
+Three-finger swipe left
+Take action on an item
+Use VoiceOver gestures to perform actions on an item.
+Action
+Gesture
+Select an item
+Tap
+Activate the selected item
+Double tap
+Double-tap the selected item
+Triple tap
+Drag a slider
+Tap the slider to select it, then swipe up or down with one finger; or double-tap and hold the slider until you hear three rising tones, then drag the slider
+Start or stop the current action (for example, play or pause music or a video, take a photo in Camera, start or stop a recording, start or stop the stopwatch)
+Two-finger double tap
+Dismiss an alert or return to the previous screen
+Two-finger scrub (move two fingers back and forth three times quickly, making a “z”)
+Edit an item’s label to make it easier to find
+Two-finger double tap and hold
+Tip: As an alternative to selecting an item and double-tapping to activate it, touch and hold an item with one finger, then tap the screen with another.
+Use gestures to control VoiceOver
+Use these gestures to control VoiceOver.
+Action
+Gesture
+Mute or unmute VoiceOver
+Three-finger double tap.
+If both VoiceOver and Zoom are turned on, use the three-finger triple-tap gesture.
+Turn the screen curtain on or off
+(When the screen curtain is on, the screen contents are active even though the display is black and appears to be turned off.)
+Three-finger triple tap.
+If both VoiceOver and Zoom are turned on, use the three-finger quadruple-tap gesture.
+Use a standard gesture
+Double-tap and hold your finger on the screen until you hear three rising tones, then make the gesture. When you lift your finger, VoiceOver gestures resume.
+For example, to drag a volume slider with your finger instead of swiping up and down, select the slider, double-tap and hold, wait for the three tones, then slide left or right.
+Open the Item Chooser
+Two-finger triple tap.
+To move quickly through the list of items, type a name in the search field, swipe right or left to move through the list alphabetically, or tap the table index to the right of the list and swipe up or down. You can also use handwriting to select an item by writing its name. If you use Braille Screen Input to type braille directly on the screen , when you’re not entering text, you can type to search for an item.
+To dismiss the Item Chooser without making a selection, do a two-finger scrub (move two fingers back and forth three times quickly, making a “z”).
+Open the VoiceOver quick settings
+Two-finger quadruple tap.
+Start or stop Live Recognition
+Four-finger triple tap. See Get live descriptions of your surroundings with VoiceOver .
+Use the VoiceOver rotor
+You can use the onscreen rotor to change VoiceOver settings, jump from one item to the next on the screen, select special input methods such as Braille Screen Input or Handwriting, and more. See Control VoiceOver using the rotor .
+You can use these gestures with the rotor.
+Action
+Gesture
+Choose a rotor setting
+Two-finger rotation
+Move to the previous item or increase (depending on the rotor setting)
+Swipe up
+Move to the next item or decrease (depending on the rotor setting)
+Swipe down

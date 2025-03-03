@@ -1,0 +1,13 @@
+iPhone User Guide
+Read and bookmark the iPhone User Guide
+When you view the iPhone User Guide in the Safari app, you can change the language and country or region, add a bookmark, or save it as a shortcut on the Home Screen. You can also view the guide in the Tips app.
+View and bookmark the iPhone User Guide in Safari
+Go to the Safari app on your iPhone.
+Go to https://support.apple.com/guide/iphone .
+To view the user guide in a different language, scroll down to the bottom of the page, tap the country or region link (United States, for example), then choose a country or region.
+For quick access, tap , then choose any of the following:
+Add to Home Screen: The shortcut appears as a new icon on the Home Screen.
+Add Bookmark: The bookmark appears when you tap in Safari.
+View the iPhone User Guide in Tips
+Go to the Tips app on your iPhone.
+Scroll down to User Guides, then tap iPhone.

@@ -1,0 +1,36 @@
+iPhone User Guide
+Get information about your iPhone
+View overall storage availability and storage used per app
+Go to Settings > General > iPhone Storage.
+See the Apple Support articles How to check the storage on your iPhone and iPad and Manage your iCloud storage .
+See battery usage
+Go to Settings > Battery to see the elapsed time since iPhone was charged as well as battery usage by app.
+You can also display battery level as a percentage, turn Low Power Mode on or off, and check your battery’s health.
+See Monitor the iPhone battery level .
+View call time and cellular usage
+Go to Settings > Cellular. See View or change cellular data settings on iPhone .
+Find your IMEI
+You can view the IMEI (International Mobile Equipment Identity) for your iPhone in Settings.
+Go to Settings > General > About.
+Scroll down to find your IMEI.
+See the name, model, iOS version, serial number, and more
+Go to Settings > General > About. The items you can view include:
+Name
+iOS software version
+Model name
+Part and model numbers. To the right of Model, the part number appears. To see the model number, tap the part number.
+Serial number
+Number of songs, videos, photos, and apps
+Capacity and available storage space
+Wi-Fi and Bluetooth® addresses
+Cellular network
+Carrier settings. To the right of Carrier, the carrier settings version number appears. To see additional carrier-specific information, tap the version number. Contact your carrier for more details.
+ICCID (Integrated Circuit Card Identifier, or Smart Card) for GSM networks
+MEID (Mobile Equipment Identifier) for CDMA networks
+Modem firmware
+To copy the serial number and other identifiers, touch and hold the identifier until Copy appears.
+To see Legal & Regulatory information (including legal notices and license, warranty, and RF exposure information) and regulatory marks, go to Settings > General > Legal & Regulatory.
+On supported models , you can also find the IMEI on the SIM card tray and the model number in the SIM tray opening.
+View or turn off diagnostic information
+Go to Settings > Privacy & Security > Analytics & Improvements.
+To help Apple improve products and services, iPhone sends diagnostic and usage data. This data doesn’t personally identify you, but may include location information.

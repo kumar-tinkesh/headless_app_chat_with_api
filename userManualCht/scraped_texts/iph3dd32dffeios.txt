@@ -1,0 +1,15 @@
+iPhone User Guide
+Remove payment cards from Apple Wallet on iPhone
+In the Wallet app, you can remove cards that you don’t use anymore. You can also remove debit and credit cards from Apple Pay if your iPhone is lost or stolen.
+Note: If you sign out of iCloud in Settings > [ your name ], all your credit and debit cards for Apple Pay are removed from iPhone. You can add the cards again the next time you sign in to your Apple Account.
+Remove a debit or credit card from your iPhone
+Go to the Wallet app on your iPhone.
+Tap the card you want to remove, then tap .
+Tap Card Details, then tap Remove Card.
+If you remove a card, you can add it again later.
+Remove your cards from Apple Pay if your iPhone is lost or stolen
+If you turned on Find My iPhone , you can use it to help locate and secure your iPhone.
+To remove your cards from Apple Pay, do any of the following:
+On another iPhone or iPad: Go to Settings > [ your name ], select the lost iPhone, then tap Remove Items (below Wallet & Apple Pay).
+Using a web browser: Sign in to your Apple Account . Click Devices, then select the lost device. In the Wallet & Apple Pay section, click Remove Items.
+Call the issuers of your cards.

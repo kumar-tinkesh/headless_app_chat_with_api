@@ -1,0 +1,11 @@
+iPhone User Guide
+See the time worldwide in Clock on iPhone
+You can see the local time in time zones around the world.
+Siri: Say something like: “What time is it?” or “What time is it in London?” Learn how to use Siri .
+Go to the Clock app on your iPhone.
+Tap World Clock.
+To manage your list of cities, do any of the following:
+Add a city: Tap , then choose a city.
+Delete a city: Tap Edit, then tap .
+Reorder the cities: Tap Edit, then drag up or down.
+When you’re finished, tap Done.

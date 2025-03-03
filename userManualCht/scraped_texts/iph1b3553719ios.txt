@@ -1,0 +1,21 @@
+iPhone User Guide
+View a route overview or a list of turns in Maps on iPhone
+While following driving, cycling, transit, and walking directions, you can get an overview of your route and a list of upcoming turns.
+Get an overview of your route
+You can zoom out to see your entire route onscreen, from the starting point to the destination.
+Go to the Maps app on your iPhone.
+Get directions .
+Tap .
+To return to turn-by-turn directions, tap .
+View a list of upcoming directions
+Go to the Maps app on your iPhone.
+Get directions .
+Tap anywhere on the route card except the Go button.
+Scroll down to see more directions.
+When finished, tap .
+Share a route with someone
+Go to the Maps app on your iPhone.
+Get directions .
+Tap anywhere on the route card except the Go button.
+Scroll to the bottom of the card, tap Share, then choose a way to share the route.
+Tap Done.

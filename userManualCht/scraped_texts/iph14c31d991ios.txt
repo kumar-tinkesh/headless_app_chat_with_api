@@ -1,0 +1,9 @@
+iPhone User Guide
+See previous calculations in Calculator on iPhone
+Keep track of previous calculations in the basic or scientific calculators, and copy results from them to use in Calculator or other apps.
+Go to the Calculator app on your iPhone.
+Tap , then select Basic or Scientific.
+Tap , then do any of the following:
+Reload the calculation: Tap the listing. The calculation appears where you left off earlier.
+Copy the answer: Touch and hold the listing, then tap Copy Expression or Copy Result.
+Delete the calculation: Touch and hold the listing, then tap Delete.

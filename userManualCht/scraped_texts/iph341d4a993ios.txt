@@ -1,0 +1,10 @@
+iPhone User Guide
+Measure a person’s height with iPhone
+On supported models , you can instantly measure a person’s height from the floor to the top of their head, hair, or hat. (You can even measure a person’s seated height.)
+Go to the Measure app (in the Utilities folder) on your iPhone.
+Position iPhone so that the person you want to measure appears on the screen from head to toe.
+After a moment, a line appears at the top of the person’s head (or hair, or hat), with the height measurement showing just below the line.
+To take a photo of the measurement, tap .
+To save the photo, tap the screenshot in the lower-left corner, tap Done, then choose Save to Photos or Save to Files.
+You can easily access and share the height measurement image from Photos or Files on iPhone whenever you want.
+To take the measurement again, turn iPhone away for a moment to reset the height.

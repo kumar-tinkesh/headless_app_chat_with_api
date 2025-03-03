@@ -1,0 +1,20 @@
+iPhone User Guide
+Subscribe to Apple Arcade on iPhone
+In the App Store app, you can subscribe to Apple Arcade to enjoy unlimited access to a curated collection of games on iPhone, iPad, Mac, and Apple TV . (Not all Apple Arcade games are available on Mac and Apple TV.)
+You can subscribe to Apple Arcade or to Apple One, which includes Apple Arcade and other services. See the Apple Support article Bundle Apple subscriptions with Apple One .
+Note: Apple Arcade and Apple One aren’t available in all countries or regions. See the Apple Support article Availability of Apple Media Services . The availability of Apple Arcade games across devices varies based on hardware and software compatibility. Some content may not be available in all areas. See the Apple Support article Apple Arcade game availability across devices .
+Subscribe to Apple Arcade
+Go to the App Store app on your iPhone.
+Tap Arcade, then tap the subscription button.
+Review the free trial (if eligible) and subscription details, then follow the onscreen instructions.
+Share Apple Arcade with family members
+When you subscribe to Apple Arcade or Apple One, you can use Family Sharing to share Apple Arcade with up to five other family members. Your family group members don’t need to do anything—Apple Arcade is available to them the first time they open the App Store app after your subscription begins.
+If you join a family group that subscribes to Apple Arcade or Apple One, and you already subscribe, your subscription isn’t renewed on your next billing date; instead, you use the group’s subscription. If you join a family group that doesn’t subscribe, the group uses your subscription.
+Note: To stop sharing Apple Arcade with a family group, you can cancel the subscription, leave the family group , or (if you’re the family group organizer) stop using Family Sharing.
+Play Apple Arcade games on your Apple devices
+If you subscribe to Apple Arcade, you can play and access your game progress on every compatible device where you’re signed in to your Apple Account . (Not all Apple Arcade games are available on Mac and Apple TV.)
+See the Apple Support article Access your Apple Arcade gameplay data on all of your devices .
+Change or cancel your Apple Arcade subscription
+Go to Settings > [ your name ] > Subscriptions, tap Apple Arcade, then follow the onscreen instructions.
+If you cancel your subscription, you can’t play any Apple Arcade games, even if you downloaded them to your device. Delete the apps if you don’t want them anymore.
+You can resubscribe to play Apple Arcade games again and regain access to your gameplay data. If you wait too long, some of your gameplay data might not be supported after you resubscribe.

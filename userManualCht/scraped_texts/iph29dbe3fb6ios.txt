@@ -1,0 +1,33 @@
+iPhone User Guide
+Detect text around you and have it read out loud using Magnifier on iPhone
+If you’re blind or have low vision, you can use the Magnifier app to aim your iPhone camera at nearby text and have it spoken out loud. You can even point your finger at the specific text you want spoken.
+Important: Detection Mode should not be relied on in high-risk or emergency situations, in circumstances where you may be harmed or injured, or for navigation. Text Detection and Point & Speak are not available in all languages.
+Detect text in the camera frame and have it read out loud
+You can use the Magnifier app to detect text in the field of view of your iPhone camera and have it read out loud.
+Go to the Magnifier app on your iPhone.
+Tap to start Detection Mode.
+If you don’t see , you can add it. See Customize controls .
+Touch and hold , then make sure Text is selected.
+Position iPhone so the rear camera can detect text around you.
+If you don’t hear speech feedback, make sure Silent mode isn’t on. See Adjust the volume .
+To temporarily pause detection, double-tap the screen with two fingers. Double-tap again with two fingers to resume detection. To stop Detection Mode, tap .
+If you have any iPhone 16 model and Apple Intelligence is turned on, you can use visual intelligence with Camera Control to interact with text around you. See Use visual intelligence with the Camera Control .
+Point your finger at text to have it spoken
+You can use the Magnifier app to point your finger at text near you and have your iPhone speak it out loud. This can be especially useful when you need to interact with an object that has text labels, such as a digital screen at a grocery store self-checkout, or dials, buttons, or keypads on household appliances or ATMs.
+Go to the Magnifier app on your iPhone.
+Tap to start Detection Mode.
+If you don’t see , you can add it. See Customize controls .
+Touch and hold , then make sure Point & Speak is selected.
+Position iPhone so the rear camera can detect the text, then point your finger to identify which text to read.
+If you don’t hear sound or speech feedback, make sure Silent mode isn’t on. See Adjust the volume .
+To temporarily pause detection, double-tap the screen with two fingers. Double-tap again with two fingers to resume detection. To stop Detection Mode, tap .
+Customize settings for Text Detection or Point & Speak
+Go to the Magnifier app on your iPhone.
+Tap , then tap Detect. To detect text in other languages, turn on Detect Languages.
+Tap Text or Point & Speak, then customize any of the following:
+Detection Feedback: Turn on any combination of Labels and Speech. For Point & Speak, you can also turn on Sound and Haptic feedback.
+Location: For Point & Speak, tap Under (to read text under your fingertip) or Above (to read text directly above your finger).
+Automatic Flashlight: When your environment is too dark to detect text, have Magnifier turn the flashlight on for 10 seconds.
+Border and Color: For Point & Speak, outline the text you’re pointing to in a color of your choice.
+To return to the live Magnifier lens, tap , tap it again, then tap Done.
+Text Detection and Point & Speak work with VoiceOver. See Turn on and practice VoiceOver .

@@ -1,0 +1,22 @@
+iPhone User Guide
+View data shared by others in Health on iPhone
+You can receive notifications about a loved one’s health, and you can view data about their activity, mobility, heart rate, and health trends in the Health app.
+Accept an invitation to view another person’s health data
+After the invitation arrives, do one of the following:
+Tap the invitation, such as on the Lock Screen or in Notification Center.
+In Health, tap Sharing at the bottom of the screen, then tap View in the invitation at the top of the screen.
+Tap Accept, then tap Done.
+View shared data and quickly respond to it
+Go to the Health app on your iPhone.
+Tap Sharing at the bottom of the screen.
+Tap the contact card listed below Sharing With You.
+You can do any of the following:
+Quickly respond: Tap Message, Call, or FaceTime.
+See more detail: Tap an item on the screen.
+If the detail includes chart data, you can start a conversation about it by tapping Message. The chart is included in your message.
+Ask another person to share their health data with you
+You can ask someone to share their health data with you if they have an iPhone with iOS 15.6 or later or an iPad with iPadOS 17 or later. They control what data they share and when to stop sharing.
+Go to the Health app on your iPhone.
+Tap Sharing at the bottom of the screen.
+Tap Ask Someone to Share, then choose an option.
+Let your invitee know that you need to be included in their contacts to share with you, and that if they need assistance, sharing instructions are available in Share health data with a loved one .

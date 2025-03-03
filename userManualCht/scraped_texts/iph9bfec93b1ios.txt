@@ -1,0 +1,29 @@
+iPhone User Guide
+Notify a friend when your location changes in Find My on iPhone
+Use the Find My app to let a friend know when your location changes.
+You can also get a notification when your friend’s location changes. See Get notified when a friend’s location changes in Find My on iPhone .
+Note: Location sharing and finding people aren’t available in all countries or regions.
+Notify a friend when your location changes
+Go to the Find My app on your iPhone.
+Tap People at the bottom of the screen, then tap the name of the person you want to notify.
+Below Notifications, tap Add, then tap Notify [ your friend’s name ].
+Choose whether you want to notify your friend when you arrive at or leave a location.
+Choose a location, or tap New Location to create a new location and set a location radius.
+With a larger radius, your friend is notified when you’re near the location instead of right at the location.
+Choose whether you want your friend to be notified only once or every time.
+Tap Add.
+You can stop notifying friends when your location changes at any time. See Change or turn off a notification you set .
+See all notifications about you
+Go to the Find My app on your iPhone.
+Tap Me at the bottom of the screen.
+Below Notifications About You, you see a list of people who are notified when your location changes.
+If you don’t see the Notifications About You section, you aren’t notifying any friends when your location changes.
+Select a name to see more details.
+Turn off notifications about you
+You can turn off any location notification about you. This includes notifications you set and notifications your friends create.
+Go to the Find My app on your iPhone.
+Tap Me at the bottom of the screen.
+Below Notifications About You, you see a list of people who are notified when your location changes.
+If you don’t see the Notifications About You section, you aren’t notifying any friends when your location changes.
+Select a name, then tap a notification.
+Tap Delete Notification, then tap Delete Notification again.

@@ -1,0 +1,11 @@
+iPhone User Guide
+Take a screen recording on iPhone
+You can make a recording of what happens on your iPhone screen.
+Swipe down from the top-right corner of the screen to open Control Center .
+Touch and hold the background of the screen, then tap Add a Control.
+In the controls gallery, tap to add the screen recording control to Control Center, then tap anywhere on the screen to return to Control Center.
+Note: Once you’ve added the screen recording control to Control Center, you don’t need to add it again for future recordings.
+Tap , then wait for the 3-second countdown to start recording.
+To stop recording, tap the red circle at the top of the screen, then tap .
+Screen recordings are automatically saved to your photo library in the Photos app . To see all of your screen recordings in one place, open Photos, scroll down to Media Types, tap Media Types, then tap Screen Recordings.
+Note: Screen recordings may include audio as well as video, although some apps might not allow you to record one or the other. You can’t record your screen and use screen mirroring at the same time.

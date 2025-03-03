@@ -1,0 +1,52 @@
+iPhone User Guide
+Customize the Photos app on iPhone
+You can remove, reorder, and pin collections to organize them the way you want.
+Reorder collections
+You can change the order of collections so that the items you use most frequently are the first ones you see below the photo grid. For example, if you frequently view your photo albums, you can move them above other collections.
+Go to the Photos app on your iPhone.
+Scroll to the bottom of the app, then tap Customize & Reorder.
+Drag the collections into a new order.
+Hide or unhide a collection
+You can hide any collections you don’t want displayed. When you hide a collection, none of your photos are lost. You can unhide the collection at any time to view the photos in it.
+Go to the Photos app on your iPhone.
+Scroll to the bottom of the app, then tap Customize & Reorder.
+Deselect the collections you want to hide.
+To unhide a collection, select its checkbox.
+To reset all your collections back to the default, tap Reset.
+Pin a collection
+You can choose what collections and albums appear in Pinned Collections, to make them easy to find.
+Go to the Photos app on your iPhone.
+Scroll down, then tap Pinned Collections.
+Tap Modify, then do any of the following:
+Remove a pinned collection: Tap , then tap Delete.
+Pin a collection: Tap the suggested collection you want to add, or tap Any Collection or Album to see more options.
+Reorder pinned collections: Drag the collections into a new order.
+Note: The collections with next to them are currently in your pinned collections. The collections with next to them are not yet pinned.
+Set the background color of Edit mode
+By default, the background of Edit mode matches the light or dark appearance of your iPhone. You can change the background color of Edit mode—for example, set it to always appear dark if you prefer to edit photos against a dark background.
+Go to the Photos app on your iPhone.
+Tap a photo or video to open it, then tap .
+Tap , tap Appearance, then do one of the following:
+Match Edit mode to the light or dark appearance of your iPhone: Tap System.
+Make Edit mode always appear dark: Tap Dark.
+Make Edit mode always appear light: Tap Light.
+Reset suggestions and hide or show featured content
+You can reset suggested memories and People & Pets suggestions, and turn featured content and holiday events on or off.
+Go to the Photos app on your iPhone.
+Tap your account in the top-right corner.
+Do any of the following:
+Hide featured content and memories: Turn off Show Featured Content to prevent Photos from automatically generating featured photos and memories.
+Turn off holiday events: Turn off Show Holiday Events to prevent Photos from creating memories and featured content about holidays.
+Reset memories: Tap Reset Suggested Memories to bring back any memories you altered or featured less.
+Reset people and pets: Tap Reset People & Pets Suggestions to bring back any people or pets you featured less.
+Turn off autoplay of videos and Live Photos
+By default, videos and Live Photos automatically play when you open collections and albums. You can turn autoplay on or off.
+Go to the Photos app on your iPhone.
+Tap your account in the top-right corner.
+Turn Auto-Play Motion on or off.
+Turn off the preview view in collections and albums
+By default, a preview of your best shots automatically plays at the top of the screen when you open collections and albums. You can turn automatic previewing on or off.
+Go to the Photos app on your iPhone.
+Open a collection or album, then tap .
+Tap Hide Preview.
+To turn it back on, tap , then tap Show Preview.

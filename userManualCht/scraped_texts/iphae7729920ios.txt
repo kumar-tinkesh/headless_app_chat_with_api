@@ -1,0 +1,7 @@
+iPhone User Guide
+Add a reaction to a collaborative playlist in Music on iPhone
+If you subscribe to Apple Music and you join a collaborative playlist , you can react to songs in the playlist with emoji.
+Note: Apple Music isn’t available in all countries or regions. See the Apple Support article Availability of Apple Media Services .
+Go to the Music app on your iPhone.
+Tap a collaborative playlist, then tap the MiniPlayer to open the Now Playing screen.
+Tap , then choose a reaction (for example, a thumbs up emoji) or tap to find a specific emoji.

@@ -1,0 +1,30 @@
+iPhone User Guide
+Write in your journal on iPhone
+The Journal app makes it easy to capture your thoughts on everyday moments and special events. You can also get suggestions for topics to write about.
+Create a journal entry
+Go to the Journal app on your iPhone.
+Tap .
+Tap New Entry, or choose a journaling suggestion or reflection prompt. (If you turned off Journaling Suggestions , you can just start writing.)
+Tip: To save a suggestion for later, touch and hold the suggestion, then tap Save Without Writing.
+Use journaling suggestions
+Journaling suggestions intelligently group outings, photos, workouts, and more to help you remember and reflect on your experiences.
+Go to the Journal app on your iPhone.
+Tap , then browse the recommended suggestions. Tap Recent to see suggestions sorted by time.
+To start a new entry with all the suggested attachments, tap at the bottom right corner of the suggestion. Or, to preview the attachments before creating the entry, tap the suggestion, then do any of the following:
+Browse the attachments: Swipe through the attachments.
+Change to the list view: To see the details for all attachments, tap .
+Choose the attachments you want: Tap an attachment to select or deselect it.
+Tap Start Writing or Save Without Writing.
+Tip: To delete a suggestion, touch and hold the suggestion, then tap Remove.
+Take action from the Home Screen
+On the iPhone Home screen, touch and hold .
+Choose any of the following:
+Record Audio
+Add Photos
+View Suggestions
+New Entry
+Start a journal entry from another app
+When you’re doing something in another app—such as listening to a song in the Music app or reading an article in the News app—you can quickly capture your thoughts in a new journal entry.
+In the app you’re using, tap or Share, then tap Journal. (If you don’t see Journal, you may need to add it to the sharing options .)
+Enter your thoughts, then tap Save.
+You can review your entry and add more details later in the Journal app. See Edit a journal entry and change the date .

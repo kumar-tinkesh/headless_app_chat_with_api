@@ -1,0 +1,56 @@
+iPhone User Guide
+Set up security cameras in Home on iPhone
+You can use the Home app to view video activity captured by your home’s cameras. With any HomeKit-compatible camera, you can view video streams in the Home app , choose who can view those streams , and set up notifications when activity is detected.
+See the Home accessories website for a list of compatible security cameras.
+If you have one or more HomeKit Secure Video cameras, you can additionally take advantage of these features:
+Encrypted video: Video captured by your cameras is privately analyzed and encrypted on your home hub device (Apple TV or HomePod) and securely uploaded to iCloud so that only you and those you share it with can view it.
+Record video: If you subscribe to iCloud+, you can view the last 10 days of activity from one to an unlimited number of cameras. The 50 GB iCloud+ plan supports a single camera, the 200 GB iCloud+ plan supports up to five cameras, and the 2 TB, 6 TB, and 12 TB iCloud+ plans support an unlimited number of cameras.
+Note: Video content doesn’t count against your iCloud storage limit.
+Activity Zones: Create zones that focus your camera on the most important areas within its view.
+Face recognition: Receive notifications when people you’ve tagged in the Photos app are within the camera’s view.
+See Store encrypted security camera footage in iCloud with HomeKit Secure Video and Set up HomeKit Secure Video on all your devices in the iCloud User Guide.
+Camera options
+When you add a camera in the Home app, you can choose streaming options and assign the camera to a room. With a HomeKit Secure Video camera, you can also choose recording options. By default, up to four cameras are marked as favorites and appear on the Home tab. To edit those settings later, tap the Camera tile, then tap to see these options:
+Room: A camera can be located in a room inside your home, or you can create a room for an outside location such as your front porch or back yard.
+Notifications: Tap Status and Notifications, then choose to receive notifications when the camera detects activity , changes status, or goes offline.
+Recording options for HomeKit Secure Video cameras: You can create separate recording settings for when you’re home and when you’re away. For example, when you’re home, you might choose to stop streaming and recording from a camera inside your home, but continue to stream and record from an outdoor camera.
+Note: The Home app uses the location of devices belonging to members of the home to switch between Home and Away modes. For example, when you leave home with your iPhone, the camera switches from the When Home settings to the When Away settings.
+Set up notifications
+Go to the Home app on your iPhone.
+On the Home tab, tap , then tap Home Settings.
+Tap Cameras & Doorbells.
+Tap a camera, then turn on Activity Notifications.
+All HomeKit-compatible cameras can send a notification when motion is detected. HomeKit Secure Video cameras can additionally send notifications based on these factors:
+The time of day
+When someone is or isn’t home
+When a clip is recorded
+When any or a specific type of motion is detected
+When you choose a specific motion, you receive a notification when the camera detects people, animals, or vehicles, or when a package is delivered. For a package to be detected, it must be within the camera’s view after delivery.
+Choosing a specific motion, rather than any motion, results in fewer clips (and fewer clip notifications) and less video to review. For example, if you choose to detect people, your camera doesn’t capture the movement of leaves on a tree or a squirrel leaping from branch to branch.
+Create Activity Zones for HomeKit Secure Video cameras
+You can create zones that focus your HomeKit Secure Video camera on the most important areas within its view—your front walkway but not the sidewalk behind it, for example. You can then be alerted when motion is detected in these zones.
+Note: You can create Activity Zones only for cameras set up to record when a specific motion is detected. Activity Zones don’t affect motion detection automations.
+Go to the Home app on your iPhone.
+On the Home tab, tap the camera tile, then tap .
+Tap Select Activity Zones, then tap the video to create a zone.
+To have your camera detect motion only outside the zone you defined, tap Invert Zone.
+Create any additional zones you want within the camera’s view—one for the driveway and another for the mailbox, for example.
+Tap Done.
+To remove an activity zone, tap Select Activity Zones, tap inside a zone, then tap Clear.
+View video
+Go to the Home app on your iPhone.
+On the Home tab, tap the camera tile.
+Live video should play automatically.
+If you’ve chosen to record video with your HomeKit Secure Video camera, swipe through the timeline at the bottom of the screen to browse recorded clips.
+Tap a clip to play it.
+Tap Live to switch back to live video.
+When you set up the camera to detect specific motion, the timeline displays unique symbols for people, animals, vehicles, and packages.
+Note: If there are more cameras in your home than Home Hubs that can analyze the cameras’ video, video captured from some of the cameras may not be analyzed. Clips are still recorded, but they’ll show , which indicates that the video wasn’t analyzed for specific motion.
+You can also view live and recorded video in the Home app on your Mac with macOS 10.15.1 or later.
+Choose access options
+To allow other people to view video from your cameras, follow these steps:
+Go to the Home app on your iPhone.
+On the Home tab, tap , then tap Home Settings.
+Below the People heading, tap a person.
+Tap Cameras, then choose an option.
+To learn how to allow other people to view video from your cameras, see Invite others to control accessories in your home on iPhone .

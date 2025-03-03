@@ -1,0 +1,11 @@
+iPhone User Guide
+View your Safari tabs from another Apple device on iPhone
+You can view the tabs that are open on your other Apple devices and keep tabs and Tab Groups updated across devices. You must be signed in to iCloud with the same Apple Account on all your devices to manage Safari tabs across your devices.
+View tabs that are open on your other Apple devices
+Go to the Safari app on your iPhone.
+Tap , tap , then scroll to see the tabs open on your other devices at the bottom of the start page.
+To close a tab on another Apple device, touch and hold the link, then choose Close.
+Note: To view tabs open on your other devices, you must have iCloud Tabs turned on for your start page. See Customize your start page .
+Keep tabs and Tab Groups updated across your devices
+Go to Settings > [ your name ] > iCloud > See All, then make sure Safari is turned on.
+Note: To also see tabs open on your Mac, you must have Safari turned on in iCloud settings on your Mac, be signed in to the same Apple Account , and use two-factor authentication .

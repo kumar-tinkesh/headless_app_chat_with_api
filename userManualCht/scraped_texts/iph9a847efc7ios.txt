@@ -1,0 +1,28 @@
+iPhone User Guide
+Add your iPhone to Find My
+Before you can use the Find My app to locate a lost iPhone, you need to connect the device to your Apple Account .
+When you add your iPhone to Find My, you can also get notified if you leave it behind. See Set separation alerts in case you leave a device behind in Find My on iPhone .
+Note: Location sharing and finding devices aren’t available in all countries or regions.
+Add your iPhone
+On your iPhone, go to Settings > [ your name ] > Find My.
+If you’re asked to sign in, enter your Apple Account information. If you don’t have an Apple Account, tap “Don’t have an Apple Account or forgot it?” then follow the instructions.
+Tap Find My iPhone, then turn on Find My iPhone.
+You can also turn on or off either of the following:
+Find My network: If your device is offline (not connected to Wi-Fi or cellular), Find My can locate it using the Find My network.
+On a supported iPhone , turning on the Find My network allows you to locate your iPhone for up to 24 hours after it’s turned off, or up to 5 hours when it’s in power reserve mode.
+Send Last Location: If your device’s battery charge level becomes critically low, its location is sent to Apple automatically.
+Your iPhone also includes a feature called Activation Lock that prevents anyone else from activating and using your device, even if it’s completely erased. See the Apple Support article Activation Lock for iPhone, iPad, and iPod touch .
+Add another device
+See any of the following:
+iPad: Add your iPad to Find My in the iPad User Guide
+iPod touch: Add your iPod touch to Find My in the iPod touch User Guide
+Mac: Set up Find My on Mac in the Find My User Guide for Mac
+Apple Watch: Set up and pair your Apple Watch with iPhone in the Apple Watch User Guide
+AirPods: Pairing instructions for your model in the “Pair and connect” section in the AirPods User Guide and Turn on the Find My network for AirPods (3rd generation), AirPods Pro, and AirPods Max
+iPhone Wallet with MagSafe and Find My support: Add your iPhone Wallet with MagSafe to Find My on iPhone
+You can also add AirTags and other items to Find My using your iPhone. See any of the following:
+Add an AirTag in Find My on iPhone
+Add or update a third-party item in Find My on iPhone
+Add a family member’s device
+You can see your family members’ devices in Find My if you set up Family Sharing first . Their devices appear below yours in the Devices list. See Share locations with family members and locate their lost devices on iPhone .
+You can’t add friends’ devices to Find My. Friends who lose a device can go to Find Devices on iCloud.com and sign in to their Apple Account.

@@ -1,0 +1,31 @@
+iPhone User Guide
+Use your iPhone from your Mac with iPhone Mirroring
+iPhone Mirroring allows you to use iPhone from your nearby compatible Mac. While being remotely used on your Mac, iPhone remains locked.
+Note: Some iPhone features such as camera and microphone aren’t compatible with iPhone Mirroring. In addition, only one Continuity feature can be used at a time (such as Continuity Camera or iPhone Mirroring).
+Before you begin
+Make sure of the following:
+Your iPhone has iOS 18 or later and your Mac has macOS Sequoia or later.
+Both devices have Wi-Fi and Bluetooth ® turned on.
+Both devices are near each other and you’re signed in to the same Apple Account on both devices.
+Both devices meet minimum system requirements for Handoff .
+If you’re using a VPN, make sure its configuration does not prevent local networking as that may interfere with some Continuity features.
+If iPhone Mirroring is not available in your country or region, iPhone Mirroring tells you that it's unable to connect to your iPhone for that reason.
+Use iPhone Mirroring on your Mac
+Go to the iPhone Mirroring app on your compatible Mac.
+Note: Your iPhone must be nearby to use iPhone Mirroring.
+Enter your device passcode, then choose one of the following:
+Ask Every Time: Receive a prompt for Touch ID or your device passcode each time you use iPhone Mirroring.
+Authenticate Automatically: Automatically connect to iPhone Mirroring without needing to authenticate.
+Interact with your iPhone using the iPhone Mirroring app window.
+To rearrange your Home Screen apps or widgets, secondary click any app, then click Edit Home Screen.
+Transfer files using iPhone Mirroring
+You can transfer files, photos, videos, and more between your Mac and iPhone in supported apps using iPhone Mirroring. To transfer a file, simply drag and drop it between your Mac and the iPhone Mirroring app window in either direction.
+Choose the iPhone that your Mac uses
+If you have more than one iPhone that is both signed in to your Apple Account and nearby, you can choose the one that your Mac uses for mirroring and iPhone notifications.
+Choose Apple menu > System Settings, then click Desktop & Dock in the sidebar.
+Choose your iPhone from the iPhone pop-up menu on the right. This menu appears just below the “Use iPhone widgets” setting. It appears only when your Mac detects more than one nearby iPhone that can be used for mirroring.
+Remove Mac computers from iPhone Mirroring
+On your iPhone, go to Settings > General.
+Tap AirPlay & Continuity, then tap iPhone Mirroring.
+iPhone Mirroring settings are available after connecting to a Mac with iPhone Mirroring.
+Tap Edit in the top right, then select a Mac to remove.

@@ -1,0 +1,9 @@
+iPhone User Guide
+Adjust settings for the side or Home button on iPhone
+You can adjust accessibility settings for the side button (on an iPhone with Face ID) or Home button (on other iPhone models).
+Go to Settings > Accessibility, then tap Side Button (on an iPhone with Face ID) or Home Button (on other iPhone models).
+Set any of the following:
+Click Speed: Choose the speed required to double-click or triple-click the button—Default, Slow, or Slowest.
+Press and Hold to Speak: Choose whether Siri responds when you press and hold the button.
+Rest Finger to Open: On an iPhone with Touch ID , you can unlock and open iPhone by resting your finger on Touch ID.
+On an iPhone with Face ID , you can also use AssistiveTouch or use Switch Control to confirm payments with Face ID instead of double-clicking the side button.

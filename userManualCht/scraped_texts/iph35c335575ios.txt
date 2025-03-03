@@ -1,0 +1,24 @@
+iPhone User Guide
+Detect doors around you using Magnifier on iPhone
+If you’re blind or have low vision, you can use the Magnifier app on iPhone to detect doors around you. You can get information about how far you are from the door and hear about the door’s attributes, including how to open it.
+Important: Detection Mode should not be relied on in high-risk or emergency situations, in circumstances where you may be harmed or injured, or for navigation. Detection of doors is only available on supported iPhone models .
+Detect doors near you
+Go to the Magnifier app on your iPhone.
+Tap to start Detection Mode.
+If you don’t see , you can add it. See Customize controls .
+Touch and hold , then make sure Doors is selected.
+Position iPhone so the rear camera can detect doors around you. When doors are detected nearby, you’re notified with sounds, speech, or haptic feedback. The feedback becomes more frequent as you get closer to the door.
+If you don’t hear sound or speech feedback, make sure Silent mode isn’t on. See Adjust the volume .
+To temporarily pause detection, double-tap the screen with two fingers. Double-tap again with two fingers to resume detection. To stop Detection Mode, tap .
+Customize the settings for detecting doors
+Go to the Magnifier app on your iPhone.
+Tap , then tap Detect.
+Tap Doors, then customize any of the following:
+Units: Choose Meters or Feet.
+Sound pitch distance: Tap or to adjust the distance for sound feedback. When a door is detected within this distance, the pitch of the sound feedback increases.
+Feedback: Turn on any combination of Labels, Sounds, Speech, and Haptics. If you turn on Speech, iPhone speaks the distance between you and the door.
+Color: Select a color to outline detected doors.
+Back tap: When you double-tap the back of your iPhone, you can hear more information about doors around you.
+Door Attributes: Turn on any combination of door attributes, such as the size of the detected door, how to open the door, and if the door is currently open.
+Door Decorations: Turn on Door Decorations to get information about text and signs on or near the detected door, such as a sign for an accessible entrance or a restroom.
+To return to the live Magnifier lens, tap , tap it again, then tap Done.

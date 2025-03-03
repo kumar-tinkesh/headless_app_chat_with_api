@@ -1,0 +1,49 @@
+iPhone User Guide
+Lock or hide an app on iPhone
+If you want to show someone something on your iPhone but want peace of mind that they can’t get into certain apps, you can lock or hide the apps. Locking an app requires Face ID, Touch ID, or your passcode to open it. Information inside a locked app won’t appear in other locations—for example, in CarPlay, notification previews, search, Siri suggestions, or your call history.
+When you lock or hide an app on your device, it’s only locked or hidden on that device. The locked or hidden status of an app doesn’t sync with iCloud.
+Note: Children under 13 in a Family Sharing group can’t lock or hide apps. Anyone aged 13 to 17 in a Family Sharing group can lock or hide an app, but a parent or guardian in the family group can see that the app was downloaded and how much time it’s used, and restrict access to it using Screen Time. (These ages vary by country or region.)
+Lock an app
+Locking an app requires Face ID, Touch ID, or your passcode to open the app.
+Note: Some of the apps that come with iPhone can’t be locked—including Calculator, Camera, Clock, Contacts, Find My, Maps, Shortcuts, and Settings.
+Go to the Home Screen .
+Locate the app you want to lock.
+Touch and hold the app icon until the quick actions menu opens.
+Tap Require Face ID (or Touch ID or Passcode).
+Tap Require Face ID (or Touch ID or Passcode) again, then authenticate using Face ID (or Touch ID or a passcode).
+Open an app that’s locked
+You can open and use an app that you locked.
+Go to the Home Screen .
+Locate the app you want to open.
+Tap the app, then authenticate using Face ID (or Touch ID or a passcode).
+Unlock an app
+You can unlock an app so you no longer need to use Face ID, Touch ID, or a passcode to open it.
+Go to the Home Screen .
+Locate the app you want to unlock.
+Touch and hold the app icon until the quick actions menu opens.
+Tap Don’t Require Face ID (or Touch ID or Passcode), then authenticate using Face ID (or Touch ID or a passcode).
+Hide an app
+Hiding an app prevents others from seeing or opening it (unless they have a way to authenticate your iPhone using Face ID, Touch ID, or a passcode).
+When you hide an app, its name is still visible in some places, such as Screen Time, Battery Usage By App (in Settings), and your App Store purchase history.
+Note: Apps that come installed with iOS 18 or later can’t be hidden—only apps you download separately from the App Store can be hidden. Apps that are set by the user as default web browser or app marketplace (available only in the EU) can’t be hidden either.
+Go to the Home Screen .
+Locate the app you want to hide.
+Touch and hold the app icon until the quick actions menu opens.
+Tap Require Face ID (or Touch ID or Passcode).
+Tap Hide and Require Face ID (or Touch ID or Passcode), authenticate using Face ID (or Touch ID or a passcode), then tap Hide App.
+The app disappears from your Home Screen and moves to the Hidden folder at the bottom of App Library.
+Tip: To view a list of your hidden apps, go to Settings > Apps > Hidden Apps, then authenticate using Face ID (or Touch ID or a passcode).
+Open a hidden app
+You can open and use an app that you’ve hidden.
+Go to the Home Screen .
+Swipe left past all your Home Screen pages to go to App Library.
+Tap the Hidden folder at the bottom of App Library, then authenticate using Face ID (or Touch ID or a passcode).
+The app appears in the Hidden folder.
+Tap the app, then authenticate using Face ID (or Touch ID or a passcode).
+Unhide an app
+You can stop hiding an app so that you can see and use it.
+Go to the Home Screen .
+Swipe left past all your Home Screen pages to go to App Library.
+Tap the Hidden folder at the bottom of App Library, then authenticate using Face ID (or Touch ID or a passcode).
+To move the app out of the Hidden folder, touch and hold the app, tap Don’t Require Face ID (or Touch ID or Passcode), then authenticate using Face ID (or Touch ID or a passcode).
+The app appears near the top of App Library.

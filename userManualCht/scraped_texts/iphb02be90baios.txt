@@ -1,0 +1,33 @@
+iPhone User Guide
+Delete and recover emails in Mail on iPhone
+You can delete or archive email messages you no longer need. If you change your mind, you can recover deleted messages.
+Delete emails
+Go to the Mail app on your iPhone.
+Do any of the following:
+While viewing a Primary message: Tap .
+While viewing a category message list: Tap Select, then select the messages you want to delete by tapping their checkboxes. Tap Trash at the bottom of the message list.
+Important: When you select messages in Transactions, Updates, or Promotions, you are selecting all the messages in that category from the sender.
+While viewing a sender’s digest view: Swipe left on a message, then tap .
+To turn off the deletion confirmation, go to Settings > Apps > Mail, then turn off Ask Before Deleting (below Messages).
+Recover a deleted email
+Go to the Mail app on your iPhone.
+Tap in the upper-left corner until you see Mailboxes.
+Tap , tap the message you want to recover, then tap .
+Tap Move Message, then choose another mailbox.
+Tip: To easily see all deleted messages, you can add a mailbox with deleted messages across all your accounts. Tap in the upper-left corner until you see Mailboxes, tap Edit at the top right, then select the All Trash mailbox.
+Archive instead of delete
+Instead of deleting email messages, you can archive them in the Archive mailbox.
+Go to Settings > Apps > Mail.
+Tap Mail Accounts, then do one of the following:
+If you’re using an iCloud email account: Tap iCloud, then tap Mailbox Behaviors.
+If you’re using another email account: Tap an email account, tap Account Settings, then tap Advanced.
+Select Archive Mailbox (below Move Discarded Messages Into).
+When this option is turned on, to delete an message instead of archiving it, touch and hold , then tap Trash Message.
+Decide how long to keep deleted emails
+With some email clients, you can set how long deleted messages stay in the Trash mailbox.
+Go to Settings > Apps > Mail.
+Tap Mail Accounts, then do one of the following:
+If you’re using an iCloud email account: Tap iCloud, then tap Mailbox Behaviors.
+If you’re using another email account: Tap an email account, tap Account Settings, then tap Advanced.
+Tap Remove, then select a time interval.
+Note: Some email services might override your selection; for example, iCloud doesn’t keep deleted messages longer than 30 days, even if you select Never.

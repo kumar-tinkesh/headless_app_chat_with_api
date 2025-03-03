@@ -1,0 +1,14 @@
+iPhone User Guide
+Learn more about your medications in Health on iPhone (U.S. only)
+You can learn more about the medications you add to your medications list.
+Learn about a medication
+You can learn more about what a medication is used for, how it works, potential side effects, and how to pronounce it.
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Medications.
+Tap the medication (in the list of your medications), then scroll down.
+Learn about interactions between your medications
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Medications.
+Tap Drug Interactions.
+To learn whether interaction factors like alcohol might interact with your medications, tap Edit (in the Interaction Factors area), select the factors that apply, then tap Done.
+To learn more about an interaction, tap it.

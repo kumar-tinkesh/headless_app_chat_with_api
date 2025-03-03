@@ -1,0 +1,15 @@
+iPhone User Guide
+Tell Apple Music what you enjoy on iPhone
+You can make a song or album a favorite so that you can easily find and play it again later. If you dislike a song or album, you receive fewer suggestions for similar music.
+Tell Apple Music what you enjoy
+Go to the Music app on your iPhone.
+Do any of the following:
+Touch and hold an album, playlist, or song, then tap Favorite or Suggest Less.
+On the Now Playing screen, tap , then tap Favorite or Suggest Less.
+Telling Apple Music what you like and dislike improves future recommendations.
+Rate music in your library
+Go to Settings > Apps > Music.
+Turn on Show Star Ratings.
+This option appears only if you already have star ratings from a synced library on your device.
+Go to the Music app , touch and hold a song in your library, tap Rate Song, then choose a rating from one to five stars.
+Song ratings sync to all devices that are signed in to the same Apple Account.

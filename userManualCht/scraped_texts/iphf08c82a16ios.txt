@@ -1,0 +1,38 @@
+iPhone User Guide
+Collaborate on projects with Messages on iPhone
+In the Messages app , you can send a text message to invite people to collaborate on a project, and everyone in the conversation is added to the document, spreadsheet, or other shared file.
+Note: To start collaborating on a project with Messages, you and your recipients must be using iMessage with iOS 16, iPadOS 16, macOS 13, watchOS 9, visionOS 1, or later, and you must first save the content somewhere it can be accessed by others, such as iCloud Drive . For iPhone apps, you may need to turn on iCloud to use their collaboration features: go to Settings > [ your name ] > iCloud, then tap See All next to Saved to iCloud.
+Invite people to collaborate
+You can invite people to collaborate on a project from another app, and then discuss your content in Messages. Share files from apps like Notes , Freeform , Reminders , Safari , Keynote , Numbers , Pages , and more, as long as you first turn on their collaboration features in iCloud settings and save the content somewhere it can be accessed by others, such as iCloud Drive .
+The process for inviting someone to collaborate depends on the app. Here’s one way you might start a collaboration in a supported app:
+Select the file you want to share, then tap , or tap Collaborate.
+Make sure Collaborate (rather than Send Copy) is selected, then tap the group or individual you want to collaborate with. If you don’t see the group or person listed, tap .
+The suggested icons may correspond with groups or individuals with active FaceTime calls or recent Messages conversations.
+A Messages conversation opens with the invitation ready to send. Add a note (optional), then tap .
+After you invite participants in Messages, you can work on the project in the other app and return to the Messages conversation by tapping the Collaborate button in that app.
+When someone edits the file, you see updates at the top of the Messages thread. To return to the shared project and see changes, tap an update.
+Note: Your participants may need to accept your invitation or join the shared item before they can interact with it or see any updates.
+Collaborate on a project in Messages
+After you share your project, you see activity updates at the top of the Messages conversation whenever someone makes an edit.
+Go to the Messages app on your iPhone.
+Go to the conversation that contains the invitation to the project you’ve started collaborating on, then do any of the following to return to the project:
+Tap the file in your conversation to open it.
+If you see an update at the top of the conversation, tap Show.
+Tap the name of your participant or group at the top of the screen, scroll to Collaboration, then tap the shared project.
+When you make any changes or edits to the project, your participants get updates in the conversation.
+Note: If you add a new person to a group conversation, you have to grant them access to the projects you’re collaborating on. If they’ve been added to the group conversation recently, you can tap a notification at the top of screen to add them. Or invite them to collaborate .
+Manage the collaboration and group
+The group of people in the Messages collaboration and the group collaborating on the file may not match. For example, you may invite people to collaborate on the file outside of Messages. Or you may have two different groups in Messages, each with its own collaboration conversation.
+If you share a project with two or more people in a Messages conversation, you can add or remove participants.
+Go to the Messages app on your iPhone.
+Go to the conversation you want to manage, then tap the group icon at the top of the conversation to open details about the group’s conversation.
+Tap the button showing the participants in the conversation, then do any of the following:
+Add new participants: Scroll to the bottom of the list, tap Add Contact , then add contacts.
+If you started collaborating with just one other person, you must start a new conversation to add people to the collaboration.
+Note: You must add new participants to any files that were shared in the conversation before they joined. As you add participants, a notification appears at the top of the conversation. Tap Show in the notification to review the previously shared files you can add new participants to.
+Remove participants from the conversation: Swipe left on the name of the person you want to remove, then tap Remove.
+Important: The apps where the collaboration happens usually control access to the project. Check participant access in the app itself to remove viewing or editing privileges completely.
+When you add someone to a document you’ve shared with others earlier, you have the option of adding them to an existing conversation or keeping the conversations separate. People added to conversations aren’t able to read messages sent before they joined the conversation.
+Stop collaborating on a project in Messages
+The apps where the collaboration happens usually control access to the project. For example, if you’re collaborating on a document in the Pages app, the Pages settings take precedence over the Messages settings. You can, however, unsend or delete the invitation from the conversation just as you would any other message.
+Important: When you delete an invitation from a thread, that conversation is no longer associated with the collaboration, but it doesn’t remove participants from the file. Check participant access in the app to remove viewing or editing privileges completely.

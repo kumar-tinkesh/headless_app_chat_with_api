@@ -1,0 +1,23 @@
+iPhone User Guide
+Search for photos and videos on iPhone
+When you tap Search in the Photos app, you see suggestions of dates, people, and locations to help you find what you’re looking for.
+Tap the suggestions or type keywords into the search field—for example, a person’s name, date, location, or object—to help you find a specific photo.
+Search for photos and videos
+Go to the Photos app on your iPhone.
+Tap Search, then search by any of the following:
+Date (month or year)
+Place (city or state)
+Business names (museums, for example)
+Category (beach or sunset, for example)
+Events (sports games or concerts, for example)
+A person identified in People & Pets (see Find and name people and pets )
+Text (an email address or phone number, for example)
+Caption (see See photo and video information )
+Tip: Looking for something more specific? Refine your search with multiple keywords—keep adding keywords until you find the right photo. Search also suggests keywords to add to your search.
+Search by shared library participant
+If you’re a participant in an iCloud Shared Photo Library , you can also search by the person who added the photo or video to the library.
+Go to the Photos app on your iPhone.
+Tap Search, then enter “Shared by.”
+Tap a suggested name.
+Search with Apple Intelligence
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max, you can use Apple Intelligence to search for specific images by describing what you want to find. You can also search video clips for key moments. See Search for specific photos and videos with Apple Intelligence .

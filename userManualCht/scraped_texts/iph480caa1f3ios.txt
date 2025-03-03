@@ -1,0 +1,25 @@
+iPhone User Guide
+Import and export photos and videos on iPhone
+You can import photos and videos directly to the Photos app from a digital camera, an SD memory card, or another iPhone or iPad that has a camera. You can also export unmodified versions of your photos and videos directly to an external drive, memory card, or other storage device that’s connected to your iPhone.
+Import photos and videos to your iPhone
+Import photos and videos saved on another device such as a digital camera or an external drive to the Photos app  on your iPhone.
+Insert the camera adapter or card reader into the Lightning or USB-C connector, or connect the device directly to your iPhone.
+Do one of the following:
+Connect a camera: Connect the adapter to the camera, then turn on the camera and make sure it’s in transfer mode. For more information, see the documentation that came with the camera.
+Connect an external storage device or insert an SD memory card into the card reader: Don’t force the card into the slot on the reader; it fits only one way.
+Connect an iPhone or iPad: Use the Lightning adapter or the USB-C cable that came with the device to connect it to the camera adapter. Turn on and unlock the device.
+Go to the Photos app on your iPhone.
+Tap Import.
+Select the photos and videos you want to import, then select your import destination.
+Import all items: Tap Import All.
+Import selected items: Tap the items you want to import (a checkmark appears for each), tap Import, then tap Import Selected.
+After the photos and videos have been imported, keep or delete them on the camera, card, iPhone, or iPad.
+Disconnect the camera adapter or card reader.
+Export photos and videos to an external storage device
+You can export photos and videos you took on your iPhone directly to an external drive, a memory card, or other storage device.
+Note: For photos and videos that have been edited, the unmodified original version will be exported.
+Connect your iPhone to the storage device using the Lightning or USB-C connector, or connect the device directly to your iPhone.
+Go to the Photos app on your iPhone.
+Select the photos and videos you want to export.
+Tap , then tap Export Unmodified Original.
+Tap your storage device (below Locations), then tap Save.

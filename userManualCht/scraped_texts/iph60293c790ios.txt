@@ -1,0 +1,11 @@
+iPhone User Guide
+Get webpage summaries with Apple Intelligence on iPhone
+With Apple Intelligence,* you can generate summaries of webpages in the Safari app.
+Note: Apple Intelligence is available in iOS 18.1 or later on all iPhone 16 models, iPhone 15 Pro, and iPhone 15 Pro Max. Apple Intelligence is not available on iPhone and iPad if you’re in the EU and if your Apple Account country or region is also in the EU. To check whether Apple Intelligence is available for your device and language, see the Apple Support article Apple Intelligence requirements .
+Summarize a webpage
+Go to the Safari app on your iPhone.
+Tap , then tap Show Reader.
+Tap Summarize at the top of the page.
+To return to the normal view, tap , then tap Hide Reader.
+You can also use Writing Tools to summarize webpages. See Use Writing Tools with Apple Intelligence .
+Apple Footer

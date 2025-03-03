@@ -1,0 +1,9 @@
+iPhone User Guide
+Receive iPhone Notifications on your Mac
+iPhone Notifications on Mac forwards your iPhone notifications to your Mac so you don’t miss them. You can receive notifications for every app, or just the apps you choose.
+Set up iPhone Notifications on your Mac
+To set up iPhone Notifications on Mac, first connect to iPhone Mirroring. See Use iPhone Mirroring on your Mac .
+Note: iPhone Mirroring and iPhone Notifications require an iPhone with iOS 18 or later and a Mac with macOS Sequoia or later. Both devices must be near each other and signed in to the same Apple Account .
+Choose which apps send notifications to your Mac
+On your iPhone go to Settings > Notifications.
+Choose any app, then turn Show on Mac on or off.

@@ -1,0 +1,9 @@
+iPhone User Guide
+Show the iPhone battery percentage
+You can view how much charge remains in your iPhone battery in the status bar. You can also add a widget to the Home Screen to monitor the battery levels of your iPhone and connected accessories (including AirPods and other devices).
+See the iPhone battery percentage in the status bar
+Go to Settings > Battery, then turn on Battery Percentage.
+On an iPhone with Face ID, the battery percentage appears inside the battery symbol on the status bar.
+Tip: On iPhone models with Face ID , you can also swipe down from the top-right corner to quickly view the battery percentage in Control Center.
+Add a Batteries widget to your Lock Screen or Home Screen
+See Add a widget to your Home Screen and Create a custom Lock Screen .

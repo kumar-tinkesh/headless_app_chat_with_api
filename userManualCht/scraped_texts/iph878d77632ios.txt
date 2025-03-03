@@ -1,0 +1,18 @@
+iPhone User Guide
+Use StandBy to view information at a distance while iPhone is charging
+You can use StandBy to turn your iPhone into a bedside clock, a photo frame, a display for viewing widgets or Live Activities in full screen, and more.
+Start StandBy
+Go to Settings > StandBy and make sure StandBy is turned on.
+Connect iPhone to a charger and set it down on its side, keeping it stationary.
+Press the side button.
+Swipe left or right to switch between widgets, photos, and clocks. Swipe up or down to scroll between options for each of these views.
+When Night Mode is turned on for StandBy, the screen adapts to low ambient light at night and displays items with a red tint so that it’s not intrusive while you’re sleeping.
+With the Always-On display (on supported models ), StandBy stays on to show useful information. For all other iPhone models, it’s easy to activate StandBy any time by either tapping the screen, gently nudging the table your iPhone is on, or using Siri.
+In each location where you charge iPhone with MagSafe, StandBy remembers your preferred view, whether that’s a clock, photos, or widgets. For example, you can have it set up for family photos in the kitchen or an alarm clock at your bedside.
+Set display preferences for when StandBy is on
+You can choose how long to have your iPhone display stay on when StandBy is on.
+Go to Settings > StandBy > Display.
+Choose one of the following:
+Automatically: The display turns off when iPhone isn’t in use and the room is dark.
+After 20 Seconds: The display turns off after 20 seconds.
+Never: The display stays on as long as StandBy is on.

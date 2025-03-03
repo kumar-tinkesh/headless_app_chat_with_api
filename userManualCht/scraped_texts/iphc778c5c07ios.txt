@@ -1,0 +1,33 @@
+iPhone User Guide
+Change the Apple TV app settings on iPhone
+You can adjust streaming and download settings for the Apple TV app. You can also change how the Apple TV app uses your viewing history to provide personalized recommendations and choose what appears in the Apple TV app, including live sports scores and items in Continue Watching.
+Change streaming and download options
+Go to Settings > Apps > TV.
+Choose streaming options:
+Use Cellular Data: Turn off to limit streaming to Wi-Fi connections.
+Wi-Fi: Choose High Quality or Data Saver.
+High Quality requires a faster internet connection and uses more data.
+Choose download options:
+Use Cellular Data: Turn off to limit downloads to Wi-Fi connections.
+Wi-Fi: Choose High Quality or Fast Downloads.
+High Quality results in slower downloads and uses more data.
+Languages: Choose a language. Each added audio language increases the download size. To remove a language, swipe left on the language you want to remove, then tap Delete.
+The default language is the primary language for your country or region. If you turned on Audio Descriptions in Settings > Accessibility, audio descriptions are also downloaded.
+Change how your viewing history is used
+By default, what you watch on your iPhone affects your personalized recommendations and Watchlist on all your devices where you’re signed in to the same Apple Account .
+You can do any of the following:
+Clear your viewing history: Go to the Apple TV app , tap Home, tap your picture or initials at the top right, then tap Clear Play History.
+Turn off personalization features based on your viewing history: Go to Settings > Apps > TV, then turn off Use Play History.
+Change autoplay settings
+By default, when you finish watching an episode of a TV show, the next episode automatically plays. And when you finish a series, movie, or sporting event, recommended content automatically plays. You can change these settings.
+Go to the Apple TV app on your iPhone.
+Tap Home, then tap your picture or initials at the top right.
+Do any of the following:
+Automatically play the next episode: Turn Play Next Episode on or off.
+Automatically play content recommended for you after you finish a series, movie, or sporting event: Turn Play a Recommendation on or off.
+Change your device preferences
+Go to Settings > Apps > TV.
+Do any of the following:
+Show or hide live sports scores: Turn off Show Sports Scores.
+Use your viewing history for personalized recommendations and Continue Watching: Turn on Use Play History.
+Choose the art you want to see in Continue Watching: Tap Continue Watching Display, then tap Still Frame to see paused images from what you’re watching, or Poster Art to show main title images for shows or movies.

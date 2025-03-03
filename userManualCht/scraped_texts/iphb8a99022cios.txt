@@ -1,0 +1,25 @@
+iPhone User Guide
+Report traffic incidents in Maps on iPhone
+You can report accidents, hazards, speed checks, and road work, and you can report when they’re cleared. (Features vary by region and country.)
+Apple evaluates incoming incident reports. When there’s a high level of confidence in the reports, incident markers—such as for hazards and accidents —are displayed (or cleared) for other Maps users too.
+Note: Speed checks, where supported, aren’t displayed with incident markers. Instead, notifications for speed checks appear when you follow turn-by-turn driving directions .
+Report traffic incidents
+Siri: Say something like:
+“Report an accident”
+“There’s something on the road”
+“There’s a speed check here”
+Learn how to use Siri .
+Or without using Siri:
+Go to the Maps app on your iPhone.
+Do one of the following:
+When following turn-by-turn driving directions: Tap the route card at the bottom of the screen, tap Report an Incident, then choose an option.
+When not following directions: Tap your picture or initials next to the search field, then tap Reports. Tap Report a New Issue, tap Report an Incident, then choose an option.
+If neither your picture nor initials appear, tap Cancel next to the search field, or tap the search field, then tap Cancel.
+Report on the status of a hazard or accident
+A map may display hazard and accident markers. When you’re near the incidents in select countries or regions, you can report on their status.
+Siri: Say something like: “The hazard is gone” or “Clear the accident.” Learn how to use Siri .
+Or without using Siri:
+Go to the Maps app on your iPhone.
+Tap the incident marker.
+Tap Cleared or Still Here.
+(You can’t clear reports of speed checks.)

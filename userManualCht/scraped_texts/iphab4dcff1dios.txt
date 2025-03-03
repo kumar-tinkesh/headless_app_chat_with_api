@@ -1,0 +1,28 @@
+iPhone User Guide
+Translate text in apps on iPhone
+On iPhone, you can translate text in apps such as Camera, Photos, Safari, Messages, Mail, supported third-party apps, and more.
+Note: Translation is available for supported languages. See the iOS and iPadOS Feature Availability website .
+Translate text in apps
+You can select any text to translate in apps such as Safari, Messages, Mail, supported third-party apps, and more. When you enter text on your iPhone, you can even replace what you wrote with a translation.
+Go to an app like Safari, Message, or Mail on your iPhone.
+Select the text you want to translate, then tap Translate.
+If you don’t see Translate, tap to see more options.
+Tap the language you want to translate your selected text to.
+Below the text translation, choose any of the following:
+Replace with Translation: Replace your original text with the translation (available only when translating editable text).
+Copy Translation: Copy the translated text.
+Add to Favorites: Add the translation to a list of favorites.
+Open in Translate: Do more with the translation in the Translate app.
+Download Languages: Download languages for offline translation.
+Listen to Original Text: Tap more, then tap to listen to the original text.
+Listen to Translated Text: Tap to listen to the translated text.
+Translate text in photos
+On supported models , when you view a photo that includes text, tap , touch and hold the text you want to translate, then tap Translate.
+If you don’t see Translate, tap to see more options.
+Translate text in the Camera app
+On supported models , you can use the Camera app to translate text around you—like a recipe, for example.
+Go to the Camera app on your iPhone.
+Position iPhone so that the text appears on the screen.
+When the yellow frame appears around detected text, tap .
+Select the text you want to translate, then tap Translate.
+If you don’t see Translate, tap to see more options.

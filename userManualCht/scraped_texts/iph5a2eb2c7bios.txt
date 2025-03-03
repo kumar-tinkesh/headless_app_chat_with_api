@@ -1,0 +1,47 @@
+iPhone User Guide
+Share Freeform boards and collaborate on iPhone
+You can invite people to collaborate on a Freeform board in iCloud, and everyone will see the latest changes when they’re online and signed in to their Apple Account . To make sure the board is accessible to all, you can add descriptions for visual items.
+Invite others to collaborate on a board
+When you collaborate with others on a shared Freeform board, you can see edits as others make them. Changes are saved in iCloud, so everyone with access to the board sees the latest version whenever they open it.
+Note: Boards are stored only in the iCloud account of the owner. The iCloud storage of participants isn’t affected by items in a board.
+Go to the Freeform app on your iPhone.
+Do one of the following:
+While browsing All Boards: Touch and hold the board you want to share, then tap Share.
+From inside a board: Open the board you want to share (or tap to start a new one), then tap .
+The current sharing setting is described below the name of the board, such as “Only invited people can edit.” Tap the setting to change it. See Manage sharing settings .
+Note: If you want to be the only one who can invite others, select “Only invited people” and turn off “Allow others to invite” (green is on).
+Choose how you want to share the board—such as in Messages or Mail—or tap the icon of anyone you’ve communicated with recently to share with them.
+You can add people after you’ve started sharing a board. Tap , tap Manage Shared Board, then tap Share With More People. Depending on the settings of others in Messages, may change appearance.
+Note: To edit or view the board, everyone you share with must be signed in to their Apple Account with iOS 16.2, iPadOS 16.2, macOS 13.1, or later. To collaborate using Messages, you and anyone you invite must also turn on iMessage .
+View others in a board
+You can see where others are working on your board in real time or follow along while another participant moves in a board. For example, if you’re following someone who’s presenting their design proposal on a Freeform board, you can see where they are on the board and what they see.
+Go to the Freeform app on your iPhone.
+Open the shared board where you want to see others at work, then tap .
+Turn on Participant Cursors if the setting is off.
+Do any of the following:
+Jump to where they’re working: Tap the name of a participant.
+The color next to the participant’s name matches the color marking their place on the board.
+Follow their board view as they work or present: Tap next to the name of a participant, then tap Follow Along. Or you can just tap the person’s avatar wherever they are on the board, then tap Follow.
+Anything you’d selected before entering the mode is deselected. A border (with a color matching the cursor of the person you’re following) frames what they see on the board.
+Both you and the presenter you’re following need to be online.
+When you’re following along, you can’t select anything on the board, and the zoom level is based on the other person’s view.
+To stop following along, tap Stop in the top-right corner—or just scroll, zoom, or edit.
+Note: Others working with you on the board can only undo and redo their own changes while the board is open. Use to move through the changes you made on your own iPhone. To redo a change after you undo it, touch and hold , then tap Redo.
+Add accessibility descriptions
+You can add a description of your visual content to any item on your board. That way, people who use assistive technology such as VoiceOver can hear the visual content described aloud. (Descriptions aren’t visible on the board itself.)
+Go to the Freeform app on your iPhone.
+Open the board where you want to add accessibility descriptions.
+Select the item you want to describe, tap , then tap Description.
+Enter a description of the visual content, then tap .
+To hear the description, turn on VoiceOver , then tap the item.
+Stop sharing or collaborating
+Go to the Freeform app on your iPhone.
+Open the board you want to stop sharing or collaborating on.
+Tap , then tap Manage Shared Board.
+Do any of the following:
+Remove people: Tap the name of the participant you want to remove, then tap Remove Access.
+Remove yourself from someone else’s board: Tap your name, then tap Remove Me.
+Stop sharing with everyone: Tap Stop Sharing, then tap Stop Sharing.
+When you choose this option, the board no longer appears on the devices of the other participants, even though you still have access to it.
+You can change access and permissions for individuals or for everyone after you’ve started sharing a board. See Manage sharing settings .
+To use the collaboration features fully, all participants must be online, signed in to their Apple Account , have Freeform turned on in iCloud (see Set up iCloud for Freeform on all your devices in the iCloud User Guide), and have set up two-factor authentication .

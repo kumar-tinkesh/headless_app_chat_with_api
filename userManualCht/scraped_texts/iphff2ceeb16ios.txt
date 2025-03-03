@@ -1,0 +1,8 @@
+iPhone User Guide
+Play music on iPhone as taps, textures, and more
+With Music Haptics, you can experience music on iPhone with taps, textures, and refined vibrations that are synchronized with a song’s audio.
+Note: Music Haptics is available with supported iPhone models for millions of songs in Apple Music , Music Classical , Shazam , and compatible third-party apps when your iPhone is connected to Wi-Fi or cellular.
+Go to Settings > Accessibility > Music Haptics.
+Turn Music Haptics on.
+To start or stop Music Haptics as a song plays, open Control Center , tap the audio card, then tap . If you see , Music Haptics is not available for the song.
+Tip: You can also control Music Haptics with the click of a button or other shortcut. See Quickly turn accessibility features on or off .

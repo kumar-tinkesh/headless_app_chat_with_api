@@ -1,0 +1,27 @@
+iPhone User Guide
+Take spatial photos and record spatial videos for Apple Vision Pro with your iPhone camera
+Use your iPhone to take spatial photos and record spatial videos, and then relive the memories in three dimensions in the Photos app with Apple Vision Pro.
+Note: You can take spatial photos on all iPhone 16 models (iOS 18 or later) and on iPhone 15 Pro and iPhone 15 Pro Max (iOS 18.1 or later). You can record spatial videos on all iPhone 16 models, iPhone 15 Pro, and iPhone 15 Pro Max (iOS 18 or later).
+Take spatial photos and record spatial videos
+Follow the instructions below to take spatial photos and record spatial videos on all iPhone 16 models (iOS 18 or later) and on iPhone 15 Pro and iPhone 15 Pro Max (iOS 18.1 or later).
+Open Camera .
+Select Spatial mode, then rotate your iPhone to landscape orientation.
+Tap or to take a spatial photo or record a spatial video.
+For best results, do the following:
+Keep your iPhone steady and level.
+Frame your subjects 3 to 8 feet from the camera.
+Use lighting that is even and bright.
+Tap the Shutter button or Record button to take a photo or begin recording a video.
+After you take a spatial photo or video, you can view it in three dimensions in the Photos app on your Apple Vision Pro. You can also view and share spatial photos and videos just like regular photos and videos on any of your other Apple devices. Spatial photos and videos sync to all your devices where you’re signed in to the same Apple Account and have iCloud Photos turned on .
+Record spatial videos on iPhone 15 Pro and iPhone 15 Pro Max
+Follow the instructions below to record spatial videos with iPhone 15 Pro and iPhone 15 Pro Max (iOS 18 or earlier).
+Open Camera on your iPhone 15 Pro or iPhone 15 Pro Max.
+Select Video mode , then rotate your iPhone to landscape orientation.
+Tap , then tap the Record button or press either volume button to start recording.
+For best results, do the following as you record:
+Keep your iPhone steady and level.
+Frame your subjects 3 to 8 feet from the camera.
+Use lighting that is even and bright.
+Tap the Record button or press either volume button to stop recording.
+Tap to turn off spatial video recording.
+Note: Spatial videos are recorded at 1080p at 30 fps in SDR. One minute of spatial video is approximately 130 MB (one minute of regular 1080p 30 fps video is approximately 65 MB).

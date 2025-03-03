@@ -1,0 +1,27 @@
+iPhone User Guide
+Mark an AirTag or other item as lost in Find My on iPhone
+If you lose an AirTag or third-party item registered to your Apple Account, you can use the Find My app to mark it as lost.
+Learn how to register an AirTag or third-party item .
+Note: Finding items isn’t available in all countries or regions.
+What happens when you mark an item as lost?
+You can add a message saying that the item is lost and include your phone number or email address.
+If someone else finds your item, they can use a supported device to see a website with the Lost Mode message.
+Turn on Show Contact Info for a lost item
+To Turn on Show Contact Info for a lost item, do the following:
+Go to the Find My app on your iPhone.
+Tap Items at the bottom-left side of the screen, then tap the name of the lost item.
+Below Lost AirTag, tap Show Contact Info.
+Follow the onscreen instructions to enter a phone number where you can be reached. To enter an email address instead, tap “Use an email address.”
+Important: Make sure you allow notifications for the Find My app. See Change notification settings on iPhone .
+Tap Done.
+Change the contact information in the Lost Mode message
+Go to the Find My app on your iPhone.
+Tap Items at the bottom-left side of the screen, then tap the name of the lost item.
+Below Lost AirTag, tap Show Contact Info.
+Edit the phone number or message, then tap Done.
+Turn off Show Contact Info for a lost item
+When you find your lost item, turn off Show Contact Info.
+Go to the Find My app on your iPhone.
+Tap Items at the bottom-left side of the screen, then tap the name of the item.
+Below Lost AirTag, tap Show Contact Info.
+Tap Stop Showing Information.

@@ -1,0 +1,28 @@
+iPhone User Guide
+Work with templates in Reminders on iPhone
+In the Reminders app, you can save a list as a template to reuse it for routines, packing lists, and more. Create a link to publish and share a template with others, or download templates that others have shared.
+Save a list as a template
+Go to the Reminders app on your iPhone.
+When viewing a list, tap , then tap Save as Template.
+Enter a name for the template.
+Turn on or off Include Completed Reminders, then tap Save.
+After you make a template from a list, any changes you make to that list don’t affect the template.
+Make a new list from a template
+Go to the Reminders app on your iPhone.
+When viewing your lists, tap , tap Templates, then tap the name of a template.
+Enter a name for the list, then tap Create.
+Edit or delete a template
+Any changes you make to a template don’t affect lists previously created from the template.
+Go to the Reminders app on your iPhone.
+When viewing your lists, tap , tap Templates, then tap next to the template you want to manage.
+Choose one of the following:
+Edit Template: Add, edit, or delete any items in the template. You can also change the name, color, and icon for the template.
+Delete Template: Remove the template.
+Share a template
+When you share a template, Apple servers have access so that anyone with the link can download a copy of the template on a device using iOS 16, iPadOS 16, macOS 13, or later. You can choose whether to keep any dates, tags, or locations in the shared template; images are removed.
+Go to the Reminders app on your iPhone.
+When viewing your lists, tap , tap Templates, then tap next to the template you want to share.
+Tap Share Template, then choose a method for sharing.
+To manage a shared template, tap , tap Templates, tap , then tap Manage Link.
+If you make changes to the template after sharing, you can update the shared version. Anyone who downloaded the previous version needs to download the template again to get the updates.
+If you stop sharing a template, this doesn’t affect anyone who has already downloaded the template.

@@ -1,0 +1,17 @@
+iPhone User Guide
+Move apps and widgets on the iPhone Home Screen
+You can move apps and widgets anywhere on the Home Screen to create the ideal layout—frame your wallpaper photo, align apps and widgets along the side or bottom, or drag them to other Home Screen pages. If you have multiple Home Screen pages, each one can have a unique layout. You can also temporarily hide Home Screen pages, change where new apps get downloaded, and more.
+Tip: You can put all your apps and widgets related to a particular Focus (your Work Focus, for example) onto one Home Screen page, and make that page accessible during that Focus.
+Move apps and widgets on your Home Screen
+Go to the Home Screen .
+Touch and hold the Home Screen background until the items begin to jiggle.
+Drag the app or widget to one of the following locations:
+Another location on the same page—including the top, bottom, or side of the screen
+Another Home Screen page
+Drag the app or widget to the right edge of the screen. You might need to wait a moment for the new page to appear. The dots above the Dock show how many pages you have and which one you’re viewing.
+When you’re finished, press the Home button (on an iPhone with a Home button) or tap the Home Screen background (on other iPhone models).
+To remove a widget, see Remove a widget from the Home Screen .
+Reset the Home Screen and apps to their original layout
+Go to Settings > General > Transfer or Reset iPhone.
+Tap Reset, tap Reset Home Screen Layout, then tap Reset Home Screen.
+Any folders you created are removed, and apps you downloaded are arranged alphabetically after apps that came with your iPhone.

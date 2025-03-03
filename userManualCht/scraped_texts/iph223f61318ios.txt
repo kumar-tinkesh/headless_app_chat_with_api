@@ -1,0 +1,26 @@
+iPhone User Guide
+Set up Family Sharing on iPhone
+Family Sharing lets you and up to five other family members share access to Apple services, eligible purchases, an iCloud storage plan, and more. You can even help locate each other’s missing devices.
+One adult family member—the organizer —invites other family members to participate. When family members join, Family Sharing is set up on everyone’s devices automatically. The group then chooses which services and features they want to use and share.
+Family Sharing is available on eligible devices. See the Apple Support article System requirements for iCloud .
+Create a Family Sharing group
+You only need to set up Family Sharing on one device. Then it’s available on all your devices that are signed in to the same Apple Account .
+Go to Settings > [ your name ] > Family > Set Up, then follow the onscreen instructions to set up your Family Sharing group.
+Invite one or more family members. When you add an adult family member, you can designate them as a parent or guardian. Learn about types of Family Sharing members .
+You can also add family members later. See Add a member to a Family Sharing group .
+Tap a feature you want to set up for your Family Sharing group, then follow the onscreen instructions.
+To set up parental controls or Apple Cash for a child, tap their name, tap the feature, then follow the onscreen instructions.
+You can see what you’re sharing with your family and adjust sharing settings at any time.
+To learn how to set up or join a Family Sharing group on all your devices, see the Apple Support article Set up Family Sharing .
+What you can do with Family Sharing
+With a Family Sharing group, you can set up or share the following:
+Passwords and passkeys : You can share passwords and passkeys with people in your family to access important accounts. See Share passwords or passkeys with people you trust on iPhone .
+An iCloud Drive folder : Organize and share family documents, photos, and more. See Share files and folders in iCloud Drive .
+Apple and App Store subscriptions: You can share Apple subscriptions, including iCloud+, and eligible App Store subscriptions. See Share Apple and App Store subscriptions with family members .
+Purchases: You can share items purchased in the App Store, Apple Books, and Apple TV. All purchases are billed to the family organizer. See Share App Store, Apple TV, and Apple Books purchases with Family Sharing .
+Locations: When you share your location with your Family Sharing group, all family members, including any new members added later, can use the Find My app to see your location and help locate a missing device. See Share locations with family members and locate their lost devices .
+Apple Card and Apple Cash: You can share Apple Card with trusted members of your Family Sharing group or set up an Apple Cash Family account for a child. See Use Apple Cash and Apple Card with Family Sharing (U.S. only) .
+Parental controls: You can manage your children’s purchases, how they use their Apple devices, and more. See Set up parental controls with Family Sharing .
+A device for your child: You can set up a new iPhone or iPad for a child and customize parental controls. See Set up a device for a child with Family Sharing .
+See recommendations for Family Sharing features
+To see suggestions to help you get the most out of Family Sharing, go to Settings > Family, then tap Recommended For Your Family.

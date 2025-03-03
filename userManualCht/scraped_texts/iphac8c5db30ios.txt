@@ -1,0 +1,7 @@
+iPhone User Guide
+Get notified about car horns and sirens in CarPlay
+With Sound Recognition in CarPlay, you can have iPhone continuously listen for car horns and sirens, and recognize them using on-device intelligence. A notification appears on the CarPlay touchscreen when these sounds are detected.
+Note: Sound Recognition in CarPlay is available with supported iPhone models . Don’t rely on Sound Recognition in circumstances where you may be harmed or injured, in high-risk or emergency situations, or for navigation. CarPlay is not available in all countries or regions. See the iOS and iPadOS Feature Availability webpage.
+In CarPlay, go to Settings > Accessibility.
+Tap Sound Recognition, then turn on Sound Recognition.
+Turn on the sounds you want to be notified about.

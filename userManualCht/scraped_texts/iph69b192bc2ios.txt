@@ -1,0 +1,39 @@
+iPhone User Guide
+Share your location in Messages on iPhone
+You can let others know where you are (or find out where they are) by using location sharing.
+Share and update your location automatically
+When you share your location in a Messages conversation, it updates in real time right in the conversation. You can share your location by tapping Current Location (above the keyboard) when somebody asks where you are, or do the following:
+Go to the Messages app on your iPhone.
+Start a new message or open a conversation, then do one of the following:
+Tap , tap Location, then tap Send.
+Tap the name of the person you want to share your location with at the top of the conversation, then tap Share My Location.
+Decide how long you want to share your location.
+Tap Indefinitely if you want to share your location until you manually stop sharing it.
+Tap to send your location. (Or tap if you change your mind.)
+You can also use Messages to check in with someone—for example, to notify a family member or friend that you’ve made it to your destination safely. See Use Check In to let your friends know you’ve arrived .
+When you share your location in a group conversation and then add other people to the group, you can reshare your location to let everyone see where you are.
+When you want to share your location in an SMS conversation, send a pinned location instead.
+Meet up with a friend
+If both you and a friend are using an iPhone 15 model or later, you can use Find My to get precise directions to their location once you’re near one another. See Use Precision Finding to meet up with a friend .
+Stop sharing your location
+Go to the Messages app on your iPhone.
+Open a conversation, then do one of the following:
+Tap the message with your shared location, then tap Stop Sharing My Location.
+Tap the name of the person you’re sharing your location with at the top of the conversation, then tap Stop Sharing or Stop Sharing My Location.
+The previous bubbles in the conversation no longer display a map.
+Ask for someone else’s location
+Go to the Messages app on your iPhone.
+Start a new message or open a conversation with one other person, then do one of the following:
+Tap , tap Location, then tap Request.
+Send a message that ends with the question, “Where are you?” then tap Request Location (above the keyboard).
+Tap the name of the person whose location you want at the top of the conversation, then tap Request Location.
+Tap to send your request.
+After someone shares their location with you, their location appears below their name at the top of the conversation. Tap their name to see where they are on a map. Tap the map to enlarge it.
+When you are near the person you’re looking for and both of you are using an iPhone 15 model or later, you can use Find My to get precise directions to their location. See Use Precision Finding to meet up with a friend .
+Note: Location sharing and finding people aren’t available in all countries or regions. If you set up location sharing and others still can’t see your location, make sure you’ve allowed access. Go to Settings > Privacy & Security > Location Services > Find My, then choose an option. See Control the location information you share .
+Send a pinned location
+Go to the Messages app on your iPhone.
+Start a new message or open a conversation, tap , then tap Location.
+Tap , then drag the map until the pin is in the right place.
+Tap Send Pin, then tap to send your pin.
+Messages uses the Find My app when you share your location. Learn how to share your location and locate someone .

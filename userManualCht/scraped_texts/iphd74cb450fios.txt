@@ -1,0 +1,54 @@
+iPhone User Guide
+Translate text, voice, and conversations on iPhone
+You can translate text, voice, and conversations into any supported language. You can also download languages to translate entirely on a device, even without an internet connection.
+Note: Translation is available for supported languages. See the iOS and iPadOS Feature Availability website .
+Translate text or your voice
+Go to the Translate app on your iPhone.
+Tap the language you want to translate your selected text to.
+To swap languages, tap .
+Tap one of the following:
+Translate text: Tap “Enter text,” type a phrase (or paste text), then tap Next in the keyboard.
+You can also tap Done in the top-left corner of the screen.
+Translate your voice: Tap , then say a phrase.
+Note: Words are translated as you type or speak.
+When the translation is shown, do any of the following:
+Play the audio translation: Tap .
+Tip: Touch and hold to adjust the playback speed.
+Show the translation to someone else: Tap .
+Save the translation as a favorite: Tap .
+Look up a word in the dictionary: Tap .
+Copy the translation: Tap .
+Tip: To view your recent history, swipe the translation down.
+To delete a translation, swipe left, then tap .
+View your favorite translations
+Go to the Translate app on your iPhone.
+Tap Favorites, then scroll to view translations you’ve favorited and words and phrases you’ve recently translated.
+To remove a translation from your favorites, swipe left, then tap .
+Note: You can see your favorite translations in the Translate app on your iPhone, iPad, or Apple Watch where you’re signed in to your Apple Account .
+Translate a conversation
+iPhone shows the translated text bubbles from both sides of the conversation. Conversations work for downloaded languages when you don’t have an internet connection or when On-Device Mode is turned on.
+Go to the Translate app on your iPhone.
+Tap Conversation.
+Tap one of the following:
+Type text: Tap “Enter text,” type a phrase (or paste text), then tap Done.
+Use your voice: Tap , then say a phrase.
+Note: Words are translated as you type or speak.
+Tap to hear the audio translation.
+To hear audio translations automatically, tap , then tap Play Translations.
+Tip: You can translate a conversation without tapping the microphone button before each person speaks. Tap , tap Auto Translate, then tap to start the conversation. iPhone automatically detects when you start speaking and when you stop.
+When chatting face to face, tap View in the top left, then tap Face to Face so that each person can see the conversation from their own side.
+Review words with multiple meanings
+When translating a word that has several meanings, you can choose the one you want. You can also select feminine or masculine translations for words that have grammatical gender variations.
+Note: When gender hasn’t been specified, translations automatically default to the gender-neutral form of a word.
+Go to the Translate app on your iPhone.
+Translate a word or phrase, then tap Next in the keyboard.
+When available, do any of the following:
+Choose a different meaning: When available, tap the light-colored word to select the intended meaning.
+Choose grammatical gender translations: When available, tap the light-colored word to select a feminine or masculine translation.
+To turn off grammatical gender translations, tap , then tap Show Grammatical Gender.
+Download languages for offline translation or On-Device Mode
+Download languages to translate when you don’t have an internet connection or when On-Device Mode is turned on.
+Go to Settings > Apps > Translate.
+Do any of the following:
+Tap Downloaded Languages, then tap next to the languages you want to download.
+Turn On-Device Mode on.

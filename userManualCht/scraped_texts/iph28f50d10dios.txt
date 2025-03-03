@@ -1,0 +1,7 @@
+iPhone User Guide
+Use the Dynamic Island on iPhone
+On iPhone 14 Pro and later, you can check alerts and current activity in progress—such as a Voice Memo recording in progress, an AirDrop connection, and directions from Maps—in the Dynamic Island at the top of the Home Screen or at the top of the active app. The Dynamic Island appears at the top of the screen whenever your iPhone is unlocked.
+You can do any of the following in the Dynamic Island:
+Expand the activity to see more detail: Touch and hold the activity or swipe from the center to the right or left side.
+Collapse the activity to make the Dynamic Island smaller: Swipe from the right or left side toward the center.
+Switch between two activities: Swipe from one side or the other.

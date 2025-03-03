@@ -1,0 +1,28 @@
+iPhone User Guide
+Take and edit photos or videos in Messages on iPhone
+You can capture photos and videos directly in the Messages app. You can also modify the photos and videos before you send them by editing the image, marking it up, or adding effects.
+Note: Your carrier may set size limits for attachments; iPhone may compress photo and video attachments when necessary.
+Take and edit a new photo or video
+Go to the Messages app on your iPhone.
+Open a conversation or start a new message, tap , then tap Camera.
+To change the camera mode, tap Slo-Mo, Video, Photo, Portrait, or Pano. (You may have to swipe left or right.)
+To add camera effects to your photo or video—such as filters, stickers, labels, and shapes—tap , then tap a button, such as or . Choose an option, then tap to add the effect to your image.
+Do one of the following:
+Take a photo: Frame the shot in the viewfinder, then tap .
+Take a video: Tap to begin recording and to stop.
+Tap Done to add the photo or video to the message bubble, add a comment, then tap to send your message. (Or just tap to send the photo or video without adding a message.)
+Note: To send SMS, MMS, or RCS attachments on models with Dual SIM , you need to set up Dual SIM .
+You can also send a photo or video with a Digital Touch effect or record a video message in the FaceTime app.
+Note: You can have your (or a family member’s) iPhone receive warnings about sensitive content and warn you before it’s sent or received. See Receive warnings about sensitive content or Check for sensitive images .
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max and Apple Intelligence is turned on, you can use Image Playground to create and add one-of-a-kind images in Messages. See Use Image Playground with Apple Intelligence .
+Add and edit an existing photo
+You can edit or mark up an existing image from your photo library before you send it in a Messages conversation.
+Go to the Messages app on your iPhone.
+Open a conversation or start a new message, tap , then tap Photos.
+Swipe up to search, browse through all photos, or change albums, then tap the images you want to send.
+To alter a photo, tap the photo in the message bubble, then do any of the following:
+Tap Markup, write or draw with the Markup tools on the photo, tap Save, then tap Done.
+Tap Edit, use the photo editing tools to change the photo, then tap Done.
+Add a comment (optional), then tap to send the photo.
+To remove a photo or video from the message bubble before sending it, tap .
+Note: Attachments you send over iMessage (such as photos or videos) may be uploaded to Apple and encrypted so that no one but the sender and receiver can access them. To improve performance, your iPhone may automatically upload attachments to Apple while you’re composing a message. If you decide not to send your message, the attachments are deleted from the server after several days.

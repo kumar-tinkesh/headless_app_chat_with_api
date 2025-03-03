@@ -1,0 +1,27 @@
+iPhone User Guide
+Draw and handwrite messages on iPhone
+You can send messages with handwriting, doodling, and more.
+You need iMessage to exchange drawn or handwritten messages.
+Send a Digital Touch gesture, animation, or effect
+With Digital Touch, you can send animated sketches, taps, kisses, heartbeats, and more, on their own or as an effect on a photo or video.
+Go to the Messages app on your iPhone.
+Tap , swipe up or tap More, then tap Digital Touch.
+Do one of the following:
+Send an animated gesture: Tap or touch and hold with one or two fingers. Your gesture is sent automatically when you finish it.
+Touch and hold the color dot to choose a color for the one-finger taps.
+Note: If you have Apple Watch or another sensor that records heartbeat data, Messages may use the recorded data when you touch and hold with two fingers to send a heartbeat.
+Send an animated drawing: Draw with one finger.
+You can change the color, then start drawing again.
+Add an effect to a new image: Tap , then tap to take a photo or to record a video.
+To take a new photo or video, or to erase anything you draw on your preview, tap .
+Tap to send your drawing or image, or tap to delete it.
+To send an animated doodle on a white background, see Send a handwritten message or doodle .
+Send a handwritten message or doodle
+Use your finger to write a message or draw a doodle. Recipients see what you wrote or drew, re-created before their eyes.
+Go to the Messages app on your iPhone.
+In a conversation, rotate iPhone to landscape orientation.
+Tap on the keyboard.
+Write a message with your finger or choose a saved message at the bottom, then tap Done.
+Tap to send your message or to cancel.
+After you create and send a handwritten message, the message is saved at the bottom of the handwriting screen. To use the saved message again, tap it. To delete the saved message, touch and hold it until the messages jiggle, then tap .
+To send a doodle on a black background, see Send a Digital Touch gesture, animation, or effect .

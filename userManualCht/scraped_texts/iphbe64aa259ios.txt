@@ -1,0 +1,43 @@
+iPhone User Guide
+Navigate and present scenes in your Freeform boards on iPhone
+You can save scenes—saved views of your board—to organize your boards into sections, then quickly navigate and present those parts of your board to others. Scenes let you identify and label content so you can present your board, section by section, and rearrange the order in which you present your board. You can also use scenes to identify the parts of your board you want to print or export as a PDF.
+Save scenes
+Go to the Freeform app on your iPhone.
+Open a board with content.
+Zoom and scroll until you frame the part of your board you want on the screen for your first scene.
+Tap , then tap Add Scene.
+The Scene Navigator opens at the bottom of your board.
+Repeat these steps until you capture all the scenes you want: Frame your next scene, tap in the Scene Navigator or tap , then tap Add Scene.
+Tip: Don’t worry about saving scenes in order. You can edit their sequence after you capture them.
+Navigate scenes
+Go to the Freeform app on your iPhone.
+Open a board with saved scenes.
+Tap , tap Scene Navigator, then do any of the following:
+Tap , then tap the scene you want to go to.
+Tap and to move between scenes.
+Note: What you (and others) see may depend on what device is being used to view the board and how it is positioned. For example, for iPhone and iPad, portrait or landscape mode may affect how the scene is framed.
+Edit scenes
+Go to the Freeform app on your iPhone.
+Open a board with saved scenes.
+Tap , tap Scene Navigator, then tap .
+Tap Edit, then do any of the following:
+Change the name of a scene: Enter a new name, then tap Done.
+Reframe a scene: Tap , then tap Replace Scene.
+Rearrange the view order: Touch and hold , then drag the scene up or down.
+Delete a scene: Tap .
+Print or export all scenes
+Go to the Freeform app on your iPhone.
+Open a board with saved scenes.
+Tap , then do one of the following:
+Tap Print, tap Scenes, then tap Print.
+Tap Export as PDF, tap Scenes, then choose how you want to share it or tap Save to Files.
+Tip: Printed and exported scenes default to the size of the device you’re on. To print as the scenes were originally framed, tap Freeform Options, then select Capturing Device.
+Print or export one scene
+Go to the Freeform app on your iPhone.
+Open a board with saved scenes.
+Tap , then tap Scene Navigator.
+Tap , touch and hold a scene name, then do one of the following:
+Tap Print Scene, then tap Print.
+Tap Export Scene as PDF, tap Export, then choose how you want to share it, or tap Save to Files.
+Tip: If you’re already in the Scene Navigator, you can tap next to any scene you want to print or export.
+All collaborators can access any scenes saved in a board.

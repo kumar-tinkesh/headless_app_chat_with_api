@@ -1,0 +1,19 @@
+iPhone User Guide
+Open and close tabs in Safari on iPhone
+Use tabs to help you navigate between multiple open webpages.
+Note: If you’re using the Single Tab layout, the menus and other items may look different from what’s described in this guide. See Change the layout of Safari .
+Open a link in a new tab
+Go to the Safari app on your iPhone.
+Touch and hold the link, then tap Open in New Tab.
+To stay on the current webpage when you open new links in a separate tab, go to Settings > Apps > Safari > Open Links, then tap In Background.
+View a tab’s history
+You can see which webpages you previously visited in this tab.
+Go to the Safari app on your iPhone.
+Touch and hold or .
+Close tabs
+Go to the Safari app on your iPhone.
+Tap , then tap in the upper-right corner of a tab to close it.
+Tip: To close all tabs in this Tab Group at the same time, touch and hold Done, then tap Close All Tabs.
+Open a recently closed tab
+Go to the Safari app on your iPhone.
+Tap , touch and hold , then choose from the list of recently closed tabs.

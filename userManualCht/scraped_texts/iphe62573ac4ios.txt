@@ -1,0 +1,26 @@
+iPhone User Guide
+Enter characters with diacritical marks while using Magic Keyboard with iPhone
+If your Magic Keyboard doesn’t include accents and other diacritical marks for the language you’re typing, you can use an Option key modifier or the onscreen keyboard to enter those marks.
+Use the Option key to enter a diacritical mark for a character
+To enter a character with a diacritical mark, you can press the Option key on Magic Keyboard to select a mark.
+Do one of the following:
+Add or remove a keyboard for another language that supports diacritical marks, then in an app, switch to that language keyboard .
+For example, add the Spanish (Mexico) keyboard, then in an app, press and hold the Control key on Magic Keyboard, then press the Space bar until you select Español (México).
+Go to Settings > General > Keyboard > Hardware Keyboard, then choose an alternative keyboard layout that supports diacritical marks.
+For example, if you have the English (US) language keyboard, tap English (US), then choose U.S. International — PC or ABC — Extended.
+In an app, press and hold the Option key, then press a key that enters a diacritical mark.
+For example, the Spanish (Mexico) keyboard and the U.S. International — PC alternative layout support these diacritical marks:
+Acute accent (for example, é ): Option-E.
+Grave accent (for example, è ): Option-`.
+Tilde (for example, ñ ): Option-N.
+Diaeresis or umlaut (for example, ü ): Option-U.
+Circumflex (for example, ê ): Option-I.
+Press the letter.
+For example, to enter ñ using the Spanish (Mexico) keyboard or the U.S. International — PC alternative layout, press Option-N, then type an n .
+Note: The ABC - Extended alternative layout also allows you to enter tone marks for typing Mandarin Chinese in Pinyin orthography. For example, to type ǚ in lǚxíng (“travel”), press Option-V, then type a v . In addition, the ABC - Extended layout allows you to type diacritical marks and letters from several different European languages, such as Czech, French, German, Hungarian, and Polish.
+Use the onscreen keyboard to enter a diacritical mark
+To show the onscreen keyboard, press on Magic Keyboard.
+On the onscreen keyboard, touch and hold the letter, number, or symbol on the keyboard that’s related to the character you want.
+For example, to enter é, touch and hold the e key.
+Slide your finger to choose a variant.
+To hide the onscreen keyboard when you’re finished, press on Magic Keyboard.

@@ -1,0 +1,17 @@
+iPhone User Guide
+Harden your iPhone from a cyberattack with Lockdown Mode
+Lockdown Mode is an extreme protection feature for iPhone. Its protections include safer wireless connectivity defaults, media handling, media sharing defaults, sandboxing, and network security optimizations.
+Lockdown Mode is optional and should be used only if you believe you might be targeted by a highly sophisticated cyberattack, such as by a private company developing state-sponsored mercenary spyware.
+Important: Most people are never targeted by attacks of this nature.
+When iPhone is in Lockdown Mode, it doesn’t function as it typically does. Apps, websites, and features are strictly limited for security, and some functionality isn’t available, including:
+SharePlay
+Shared Albums
+FaceTime Live Photos
+FaceTime Continuity Handoff
+In addition, your iPhone must be unlocked to connect with wired accessories. (Some connections are permitted for a short time after going into Lockdown Mode.)
+Turn on Lockdown Mode
+Go to Settings > Privacy & Security > Lockdown Mode, then tap Turn On Lockdown Mode.
+If you’ve set up an Apple Watch with your iPhone, turning on Lockdown Mode also turns it on for the paired Apple Watch (requires watchOS 10 or later).
+Important: For complete protection, all of your devices must have Lockdown Mode turned on.
+Learn about Lockdown Mode
+Go to Settings > Privacy & Security > Lockdown Mode, then tap Learn More.

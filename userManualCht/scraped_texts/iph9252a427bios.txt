@@ -1,0 +1,21 @@
+iPhone User Guide
+Use Apple Watch with iPhone
+Pair Apple Watch with iPhone
+On your iPhone, tap the Apple Watch app , then follow the onscreen instructions.
+See Set up and pair your Apple Watch with iPhone in the Apple Watch User Guide. (Apple Watch sold separately.)
+Unlock iPhone with Apple Watch
+When you’re wearing your Apple Watch (Series 3 and later), you can use it to securely unlock your iPhone ( models with Face ID ) when you’re wearing a face mask (watchOS 7.4 or later required).
+Note: On all iPhone 12, iPhone 13, iPhone 14, iPhone 15 models, and iPhone 16 models, it’s not necessary to use Apple Watch to unlock iPhone when you’re wearing a face mask. See Set up Face ID on iPhone .
+To allow Apple Watch to unlock your iPhone, do the following:
+Go to Settings > Face ID & Passcode.
+Scroll down, then turn on Apple Watch (below Unlock with Apple Watch).
+If you have more than one watch, turn on the setting for each one.
+To unlock your iPhone while you’re wearing your Apple Watch and a face mask, raise iPhone or tap its screen to wake it, then glance at your iPhone.
+Note: To unlock your iPhone, your Apple Watch must have a passcode, be unlocked and on your wrist, and be close to your iPhone.
+Work out with Apple Fitness+
+Used in conjunction with Apple Watch, Apple Fitness+ is a subscription service that lets you choose from a catalog of workouts led by expert trainers. While you follow a workout on your iPhone, in-session metrics like heart rate and calories burned (which are captured by your watch) appear on your screen. (watchOS 7.2 or later required; Apple Fitness+ availability varies by country or region.)
+See Apple Fitness+ at a glance in the Apple Fitness+ User Guide.
+Note: With Fitness on iPhone, you can view your active calories and steps, set a move goal, track your progress, and see your movement trends over time—even if you don’t have an Apple Watch. See Track your daily activity and change your move goal in Fitness .
+Collect health and fitness data from Apple Watch
+Apple Watch can send data about your health and fitness to iPhone for you to view in Health . Apple Watch can also send notifications about high heart rates, low heart rates, loud environmental sounds, and more to your iPhone.
+See Track important health information in the Apple Watch User Guide.

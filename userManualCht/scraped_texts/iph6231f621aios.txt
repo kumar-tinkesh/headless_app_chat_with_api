@@ -1,0 +1,20 @@
+iPhone User Guide
+Share locations with family members and locate their lost devices on iPhone
+With Family Sharing , you can share your location with members of your Family Sharing group and help them find lost devices. When the family organizer sets up location sharing in Family Sharing settings, the organizer’s location is automatically shared with everyone in the family, including any new members added later. Then, family members can choose whether or not to share their location.
+Share your location with family members
+When you share locations with your family, they can see your location in Find My . You can also get notified when family members change their locations —for example, if a child leaves school during school hours.
+Go to Settings > Family > Location Sharing.
+Select the family member you want to share your location with.
+You can repeat this step for each family member you want to share your location with. Each family member receives a message that you’re sharing your location and can choose to share their location with you.
+You can stop sharing your location with any family member at any time.
+Note: Children and teens with Screen Time turned on may not be able to change their own location sharing settings.
+To share your location, you must have Location Services turned on in Settings > Privacy & Security. See Control the location information you share .
+Locate a family member’s device
+After you share your location with members of your Family Sharing group, they can help locate a missing device added to the Find My app .
+See Locate a device in Find My .
+Your devices are at the top of the list, and your family members’ devices are below yours.
+Ask a family member to share an AirTag with you
+If you receive a notification in the Find My app that says AirTag Detected Near You or Unknown AirTag, you can ask the family member who owns it to share the AirTag with you.
+In the notification, tap Ask Owner to Share AirTag.
+Tap Ask Owner at the bottom of the screen.
+You can also use Find Devices on iCloud.com to locate a family member’s missing device. See Locate a device in Find Devices on iCloud.com in the iCloud User Guide.

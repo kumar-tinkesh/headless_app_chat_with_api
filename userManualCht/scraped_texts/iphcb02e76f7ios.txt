@@ -1,0 +1,9 @@
+iPhone User Guide
+Create and manage Hide My Email addresses in Settings on iPhone
+When you subscribe to iCloud+ , you can use Hide My Email to keep your personal email address private. With Hide My Email, you can generate unique, random email addresses that forward to your personal email account, so you don’t have to share your real email address when filling out forms or signing up for newsletters on the web, or when sending email.
+You can create and manage Hide My Email addresses in Settings . Go to Settings > [ your name ] > iCloud > Hide My Email, then do any of the following:
+Create a Hide My Email address: Tap Create New Address, then follow the onscreen instructions.
+Deactivate a Hide My Email address: Tap an address (below Create New Address), then tap Deactivate Email Address. After you deactivate the address, it no longer forwards emails to you.
+Change which personal email address you forward to: Tap Forward To, then choose an email address. Options consist of addresses that are available with your Apple Account.
+Copy a forwarding address to use elsewhere: Tap an address (below Create New Address), touch and hold the Hide My Email section, then tap Copy. To immediately use that address elsewhere, touch and hold in a text field, then tap Paste.
+You can also generate Hide My Email addresses in Safari and Mail wherever email addresses are required. See Use Hide My Email in Safari and Use Hide My Email in Mail . In supporting apps, you can also generate a Hide My Email address when an email address is required by tapping the email address field, then tapping Hide My Email above the keyboard.

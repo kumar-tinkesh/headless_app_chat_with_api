@@ -1,0 +1,15 @@
+iPhone User Guide
+Get rid of duplicate contacts on iPhone
+When you have contacts from multiple sources, you might have multiple entries for the same person. In the Contacts app, link contact cards for the same person in different accounts so they appear only once in your All Contacts list. Linked contact cards are displayed as a single unified contact .
+Resolve duplicate contacts
+If you have more than one contact card with the same first and last name, you can merge the duplicate contacts.
+Go to the Contacts app on your iPhone.
+Below My Card, tap View Duplicates.
+Tap individual contacts to review and merge them, or tap Merge All to merge all duplicate contacts.
+Link contacts manually
+If two entries for the same person aren’t linked automatically, you can unify them manually.
+Go to the Contacts app on your iPhone.
+Tap one of the contacts, tap Edit, then tap Link Contacts.
+Choose the other contact entry to link to, then tap Link.
+When you link contacts with different first or last names, the names on the individual cards don’t change, but only one name appears on the unified card. To choose which name appears on the unified card, tap one of the linked cards, tap the contact’s name on that card, then tap Use This Name For Unified Card.
+Note: When you link contacts, those contacts aren’t merged. If you change or add information in a unified contact, the changes are copied to each source account where that information already exists.

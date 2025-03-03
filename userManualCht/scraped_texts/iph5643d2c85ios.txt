@@ -1,0 +1,11 @@
+iPhone User Guide
+Adjust the sound in Music on iPhone
+Change the way music sounds in the Music app on iPhone with EQ and Sound Check. Crossfade songs in playlists.
+WARNING: For important information about avoiding hearing loss, see Important safety information .
+Use EQ and normalize volume levels
+Choose an equalization (EQ) setting: Go to Settings > Apps > Music > EQ.
+Normalize the volume level of your audio: Go to Settings > Apps > Music, then turn on Sound Check.
+Crossfade songs in playlists
+You can crossfade songs in a playlist, which creates a listening experience with no audio gaps between songs.
+Go to Settings > Apps > Music.
+Turn on Crossfade, then drag the slider to choose the length of the crossfade.

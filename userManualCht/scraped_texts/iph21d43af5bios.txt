@@ -1,0 +1,29 @@
+iPhone User Guide
+Allow or silence notifications for a Focus on iPhone
+When you set up a Focus , you can select people and apps you want to receive notifications from by either silencing them or allowing them. For example, set up a Work Focus and allow only notifications from your coworkers and the apps you use for work.
+Allow or silence notifications from specific people during a Focus
+Go to Settings > Focus, then choose a Focus—for example, Do Not Disturb, Personal, Sleep, or Work.
+Tap People (or tap Choose People), then do one of the following:
+Allow specific people: Tap Allow Notifications From, tap , then select from your contacts.
+You can also turn on options to allow calls from certain groups of people and allow repeated calls (two or more calls from the same person within 3 minutes).
+Silence specific people: Tap Silence Notifications From, tap , then select from your contacts.
+You can also turn on Allow Calls From Silenced People.
+Note: Regardless of your Focus settings, you can allow calls from your emergency contacts to come through. See Allow calls from emergency contacts when notifications are silenced , below.
+Allow or silence notifications from specific apps during a Focus
+Go to Settings > Focus, then choose a Focus—for example, Do Not Disturb, Personal, Sleep, or Work.
+Tap Apps (or tap Choose Apps), then do one of the following:
+Allow specific apps: Tap Allow Notifications From, tap , then select apps.
+Silence specific apps: Tap Silence Notifications From, tap , then select apps.
+Note: You can allow or silence notifications from specific web apps you’ve added to your Home Screen. (See Add a website icon to your Home Screen .)
+You can also turn on Time Sensitive Notifications, which allows all apps to send time-sensitive notifications immediately.
+Share your Focus status
+When you’re using a Focus, it limits the notifications you receive from people and apps. When someone outside your allowed notifications tries to contact you, your Focus status appears in Messages and other apps you give permission to, so they know you’re busy.
+When you give an app permission to share your Focus status, others can see that you have notifications silenced, but not the name of the Focus you have turned on. This information is shared only when you have a Focus turned on and after you give the app permission.
+Go to Settings > Focus > Focus Status.
+Turn on Share Focus Status, then select the Focus options you want to share.
+Allow calls from emergency contacts when notifications are silenced
+You can allow sounds and vibrations from emergency contacts to come through even when your iPhone or notifications are silenced.
+Open Contacts .
+Select a contact, then tap Edit.
+Tap Ringtone or Text Tone, then turn on Emergency Bypass.
+Or set up your Medical ID and identify an emergency contact.

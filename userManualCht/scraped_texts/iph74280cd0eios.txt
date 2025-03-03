@@ -1,0 +1,18 @@
+iPhone User Guide
+Select your favorite Podcasts categories and channels on iPhone
+In iOS 18.2 or later, you can select your favorite categories and channels in the Podcasts app to get better show recommendations and access shows from your subscriptions.
+Select your favorite categories
+You can add categories to your favorites to get better show recommendations and easy access to category pages. Your favorite categories appear at the top of the Categories list with a .
+Go to the Podcasts app on your iPhone.
+Tap Home, tap your account button in the top-right corner of the screen, then tap Manage Favorite Categories.
+Do any of the following:
+Add a category to your favorites: Select one or more categories.
+Remove a category from your favorites: Tap .
+Select your favorite channels
+In iOS 18.2 or later, you can add channels to your favorites to make them easier to find in your library. Your favorite channels appear at the top of the Channels list with a .
+Go to the Podcasts app on your iPhone.
+Tap Library, then tap Channels.
+You can also search or browse for a channel.
+Do any of the following:
+Add a channel to your favorites: Tap the channel, then tap .
+Remove a channel from your favorites: Tap the channel, then tap .

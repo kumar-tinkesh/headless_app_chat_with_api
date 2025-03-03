@@ -1,0 +1,28 @@
+iPhone User Guide
+Find files and folders in Files on iPhone
+In the Files app, you can search for and view your documents, images, and other files.
+Find downloaded files
+If you downloaded files to your iPhone from the internet, you can find them in the Downloads folder.
+Go to the Files app on your iPhone.
+Tap Browse at the bottom of the screen.
+Tap the Downloads folder to see your downloaded files.
+Find a specific file or folder
+Go to the Files app on your iPhone.
+Enter a filename, folder name, or document type in the search field.
+When you search, you have these options:
+Focus the scope of your search: Below the search field, tap Recents or the name of the location or tag.
+Hide the keyboard and see more results on the screen: Tap Search.
+Start a new search: Tap in the search field.
+Open a result: Tap it.
+Browse files and folders
+Go to the Files app on your iPhone.
+Tap Browse at the bottom of the screen, then tap a document on the Browse screen.
+If you don’t see the Browse screen, tap Browse again.
+To view recently opened files, tap Recents at the bottom of the screen.
+To open a file, location, or folder, tap it.
+Note: If you haven’t installed the app that created a file, a preview of the file opens in Quick Look.
+For information about marking folders as favorites or adding tags, see Tag a file or folder .
+Change how files and folders are sorted
+Go to the Files app on your iPhone.
+From an open location or folder, tap .
+Choose an option: Name, Kind, Date, Size, or Tags.

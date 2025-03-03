@@ -1,0 +1,27 @@
+iPhone User Guide
+Set up mail, contacts, and calendar accounts on iPhone
+In addition to the apps that come with iPhone and that you use with iCloud , iPhone works with Microsoft Exchange and many of the most popular internet-based mail, contacts, and calendar services. You can set up accounts for these services.
+Set up a mail account
+Go to Settings > Apps > Mail.
+Tap Accounts > Add Account.
+Do one of the following:
+Tap a service—for example, iCloud or Microsoft Exchange—then enter your account information.
+Tap Other, tap Add Mail Account, then enter your account information.
+See Add and remove email accounts .
+Set up a contacts account
+Go to Settings > Apps > Contacts.
+Tap Accounts > Add Account.
+Do one of the following:
+Tap a service—for example, iCloud or Microsoft Exchange—then enter your account information.
+Tap Other, tap Add LDAP Account or Add CardDAV Account (if your organization supports it), then enter the server and account information.
+See Add or remove accounts in Contacts .
+Set up a calendar account
+Go to Settings > Apps > Calendar.
+Tap Accounts > Add Account.
+Do one of the following:
+Choose a service: Tap a service—for example, iCloud or Microsoft Exchange—then enter your account information.
+Add a calendar account: Tap Other, tap Add CalDAV Account, then enter your server and account information.
+Subscribe to iCal (.ics) calendars: Tap Other, tap Add Subscribed Calendar, then enter the URL of the .ics file to subscribe to; or import an .ics file from Mail.
+See Set up multiple calendars .
+For information about setting up a Microsoft Exchange account in a corporate environment, see the Apple Support article Set up Exchange ActiveSync on your iPhone or iPad .
+If you turn on iCloud Keychain on your iPhone, your accounts stay up to date on all your devices that have iCloud Keychain turned on. See Use to iCloud Keychain to keep passwords, accounts, and more up to date with iCloud in the iCloud User Guide.

@@ -1,0 +1,34 @@
+iPhone User Guide
+Make FaceTime calls on iPhone
+With an internet connection and an Apple Account, you can make and receive calls in the FaceTime app.
+Note: You must set up FaceTime before you can make and receive calls.
+You can also make FaceTime calls over a cellular data connection, which may incur additional charges. To turn this feature off, go to Settings > Cellular, then turn off FaceTime. See View or change cellular data settings on iPhone .
+Make a FaceTime call
+Open the FaceTime app on your iPhone, then tap New FaceTime near the top of the screen.
+Type the name or number you want to call in the entry field at the top, then tap to make a video call or to make an audio call (not available in all countries or regions).
+Alternatively, you can tap to open Contacts and add people from there; or tap a suggested contact to quickly make a call.
+To call multiple people, see Make a Group FaceTime call .
+You can also use Siri. Say something like: “Make a FaceTime call” or “Call Eliza’s mobile.” Learn how to use Siri on iPhone .
+Tip: To see more during a FaceTime video call, rotate iPhone to use landscape orientation. See Rotate your iPhone screen .
+Record a video message
+If someone doesn’t answer your FaceTime video call, you can record a video message to convey exactly what you want to say.
+Tap Record Video, wait for the countdown (from 5 to 1), then record your message.
+Tap to send your recorded message, or tap Retake to rerecord the message. You can also tap Save to save it to Photos.
+After you send your video message, the recipient is notified.
+Note: You can receive video messages only from saved contacts, people you’ve called, and people suggested by Siri.
+See Listen to a video message or Live Voicemail .
+Leave a voicemail
+If someone doesn’t answer your FaceTime audio call, and the person you’re calling has Live Voicemail turned on in Settings > Apps > Phone, you’re prompted to leave a voicemail.
+If you leave a voicemail, your message is transcribed on their screen as you speak, letting them know what you’re calling about and giving them a chance to pick up your call.
+Note: Live Voicemail is available only in English in the U.S. (excluding Puerto Rico) and Canada.
+Call again
+To call someone again in FaceTime, do any of the following:
+Tap Call Again on the Record Video screen.
+In your call history, tap the name or number of the person (or group) you want to call again.
+Start a FaceTime call from a Messages conversation
+In an iMessage conversation, you can start a FaceTime call with the person you’re chatting with.
+Tap at the top right of the iMessage conversation.
+Do any of the following:
+Tap FaceTime Audio.
+Tap FaceTime Video.
+Important: If you remove the FaceTime app from your iPhone, or if you removed FaceTime in an earlier version of iOS, you won’t be able to make or receive FaceTime calls or use SharePlay on your iPhone unless you redownload the app . Cellular calls won’t be relayed from your iPhone to your iPad, Mac, or Apple Watch until FaceTime is reinstalled. Settings and contact cards won’t show FaceTime options. However, if your Apple Watch has its own SIM, it can still make calls through your service provider.

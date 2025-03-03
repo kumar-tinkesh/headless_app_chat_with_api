@@ -1,0 +1,17 @@
+iPhone User Guide
+Get information about places in Maps on iPhone
+You can find street addresses and other information about places that appear.
+Get information about a place
+Go to the Maps app on your iPhone.
+Tap a place (for example, a city or landmark on a map, a spot that you marked with a pin, or a search result in Maps), then do any of the following:
+Get a route to the location: Tap the directions button .
+View more information: Scroll down in the place card.
+The information might include the street address, a phone number, a webpage link, customer reviews, and more. Many restaurants and other businesses offer App Clips that allow you to order or make a reservation by tapping buttons on their place cards.
+Save information about a place
+You can save a place or add it as a pin to one of your custom guides , or as one of your contacts .
+Go to the Maps app on your iPhone.
+Tap a place on a map or a search result, tap More (on the right side of the place card), then choose an option.
+Stop sending restaurant names to a third party
+If you install an app that has a table-booking extension, it can also help you make reservations at restaurants. You can stop sending the names of restaurants that you view to the extension.
+Go to Settings > Apps > Maps.
+Tap Restaurant Booking, then turn off the app extension.

@@ -1,0 +1,44 @@
+iPhone User Guide
+Control accessories with Home on iPhone
+Use the Home app and Control Center to control accessories in your home.
+Control accessories in the Home app
+On the Home tab, tap an accessory’s icon on the left side of the tile—a light, for example—to quickly turn the accessory on or off. Tap the accessory’s name on the right side of the tile to show the accessory’s control.
+The available controls depend on the type of accessory. For example, with some lightbulbs, there are controls for changing colors. With your smart TV, you can choose an input source.
+Add accessories to Control Center
+You can add Home scenes and accessories to Control Center for easy access to your most used accessories.
+Open Control Center on your iPhone.
+Tap in the top left, then tap Add A Control at the bottom.
+Tap the Home Scene or Accessory control.
+Tap Choose Scene or Accessory, then select a home and device or scene you want to control.
+View categories and home status
+The Lights, Climate, Security, Speakers and TVs, and Water categories let you quickly access all the relevant accessories organized by room.
+Go to the Home app on your iPhone.
+Tap the Home tab.
+Below your home’s name, buttons show the status of accessories belonging to a category—for example, a Lights category that shows “3 on.”
+Tap one of the category buttons to show all accessories within that category, organized by room.
+While viewing a category, tap the icon on the left side of an accessory tile to perform an action—turn a light or group of lights on or off, start playing music on a HomePod, or lock the front door.
+View Activity History
+When you have a home hub using the new Home architecture and latest software, all the members of your home can view the activity history for accessories like garage doors, locks, and security systems. For example, you can learn when a door was unlocked and who unlocked it.
+Go to the Home app on your iPhone.
+On the Home tab, tap , then tap Home Settings.
+Go to Safety & Security > Home History, then tap One Month to view up to 30 days of activity.
+In the Home tab, tap the Security category, then tap Home Activity to show the Activity History.
+Turn on Adaptive Lighting
+Some HomeKit compatible lights let you adjust their color temperature, from cool blue to warm yellow. You can set supported lights to automatically adjust the color temperature throughout the day. Wake up to warm colors, stay alert and focused midday with cooler ones, and wind down at night by removing blue light. For a light that supports Adaptive Lighting, follow these steps:
+Go to the Home app on your iPhone.
+Tap the light’s tile to show the controls.
+You can also touch and hold the tile, and then choose Accessory Settings.
+Tap , then turn on Adaptive Lighting.
+Note: Adaptive Lighting requires a home hub—a device such as Apple TV (4th generation or later) or HomePod speakers.
+Edit home accessories
+To edit accessory settings, tap the right side of an accessory tile, tap , then do any of the following:
+Rename an accessory: Tap to delete the old name, then type a new one.
+Change an accessory’s icon: Tap the icon next to the accessory’s name, then select a new icon. If you don’t get a choice of other icons, it means the icon can’t be changed for this accessory.
+Group accessories
+You can control multiple accessories with the tap of a button by grouping them.
+Go to the Home app on your iPhone.
+Tap the right side of an accessory tile, tap , then tap Group with Other Accessories.
+Tap the accessory you want to group with this accessory—another light in the room, for example.
+In the Group Name field, type a name for the group.
+Tap Done.
+Turn on Include in Favorites to include the group in Favorites on the Home tab.

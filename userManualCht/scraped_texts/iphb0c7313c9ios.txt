@@ -1,0 +1,32 @@
+iPhone User Guide
+Set up Screen Time on iPhone
+You can schedule time away from the screen, set time limits for app use, and more.
+Schedule time away from the screen
+Block apps and notifications for periods when you want time away from your devices. For example, you might want to schedule downtime during meals or at bedtime.
+During downtime, only calls, messages, and apps you choose to allow are available. You can receive calls from contacts you’ve selected to allow communication with during downtime , and you can use apps you’ve chosen to allow at all times .
+Go to Settings > Screen Time.
+Tap App & Website Activity, then turn on App & Website Activity if you haven’t already.
+Tap Downtime, then do one of the following:
+Tap Turn On Downtime Until Tomorrow.
+Turn on Scheduled to schedule downtime in advance.
+When you schedule downtime, a 5-minute reminder is sent before downtime begins. You can ignore the reminder, or turn on downtime until the beginning of the scheduled downtime.
+Select Every Day or Customize Days, then set the start and end times.
+You can turn off the Downtime schedule at any time by turning off Scheduled.
+Set limits for app use
+Set a time limit for a category of apps (for example, Games or Social Networking) and for individual apps.
+Go to Settings > Screen Time.
+Tap App Limits, then tap Add Limit.
+Select one or more app categories.
+To set limits for individual apps, tap the category name to see all the apps in that category, then select the apps you want to limit. If you select multiple categories or apps, the time limit you set applies to all of them.
+Tap Next at the top right, then set the amount of time allowed.
+To set an amount of time for each day, tap Customize Days, then set limits for specific days.
+When you finish setting limits, tap Add.
+Choose apps and contacts to allow at all times
+Specify apps that can be used and contacts you can communicate with at all times (for example, in the event of an emergency), even during downtime.
+Go to Settings > Screen Time > Always Allowed.
+Below Allowed Apps, tap or next to an app to add or remove it from the Allowed Apps list.
+To specify contacts you want to allow communication with, tap Contacts.
+The option you selected in Communication Limits appears here. You can change this setting to Specific Contacts, then choose one of the following:
+Choose From My Contacts: To select specific people to allow communication with.
+Add New Contact: To add a new contact and allow communication with that person.
+Tap at the top left.

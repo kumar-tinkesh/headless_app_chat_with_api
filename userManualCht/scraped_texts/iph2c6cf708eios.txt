@@ -1,0 +1,33 @@
+iPhone User Guide
+Organize multiple lists in Reminders on iPhone
+In the Reminders app, you can create new lists, organize the lists into groups, and pin lists for quick access.
+Note: All Reminders features described in this guide are available when you use updated reminders in iCloud . Some features aren’t available when using other accounts.
+Make a new list
+Go to the Reminders app on your iPhone.
+Tap Lists (in the top-left corner).
+Tap Add List.
+Enter a name, then choose a color and symbol for the list.
+Tap List Type, then choose Standard, Groceries, or Smart List .
+Pin an important list above the other lists for easy access
+Go to the Reminders app on your iPhone.
+Tap Lists (in the top-left corner).
+Touch and hold a list, then tap Pin. You can also swipe right on the list, then tap .
+You can have a maximum of nine pinned lists.
+To change the position of a pinned list, tap , tap Edit Lists, then drag to a new position.
+Create a group of lists
+You can organize your lists in groups such as work, school, or shopping.
+To create a group, simply drag a list onto another list. You can also do the following:
+Go to the Reminders app on your iPhone.
+Tap Lists (in the top-left corner), tap , then tap Edit Lists.
+Tap Add Group, enter a name, select the lists to include in the group (optional), then tap Create.
+Edit and rearrange lists and groups
+Go to the Reminders app on your iPhone.
+Tap Lists (in the top-left corner), then do any of the following:
+Rearrange lists and groups: Drag a list or group to a new location. You can even move a list to a different group.
+Change the name and appearance of a list or group: Swipe left on the list or group, then tap .
+Delete a list or group
+Go to the Reminders app on your iPhone.
+Tap Lists (in the top-left corner).
+Swipe left on the list or group, then tap .
+When you delete a group, you have the option to keep the lists.
+Deleted lists or groups are moved to Recently Deleted. You can recover them within 30 days of deletion. After 30 days, they’re permanently deleted.

@@ -1,0 +1,29 @@
+iPhone User Guide
+Add or change sleep schedules in Health on iPhone
+After you set up your first sleep schedule , you can set additional schedules—for example, you can create separate schedules for weekdays and the weekend. You can also modify any schedule—for example, you can change its wake up time.
+Add or change a sleep schedule
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Sleep.
+Scroll down to Your Schedule, then tap Full Schedule & Options.
+Do one of the following:
+Add a sleep schedule: Tap Add Schedule.
+Change a sleep schedule: Tap Edit for the schedule you want to change.
+Do any of the following:
+Set the days for your schedule: Tap a day at the top of the screen to add or remove it from your schedule. The schedule applies only to days shown with solid-color circles.
+Adjust your bedtime and wake up schedule: Drag to change your bedtime, to change your wake up time, or the semicircle between the icons to shift both times simultaneously.
+Set the alarm options: Turn Alarm on or off.
+When Alarm is turned on, you can choose a sound, its volume, a vibration, and the snooze option.
+Note: You can’t select a song for a sleep schedule alarm. However, you can select a song for an alarm with the Clock app .
+When you’re finished, tap Add or Done.
+When you tap Done, the changes apply to every day in the schedule.
+Change only your next schedule
+You can make a temporary change to a sleep schedule.
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Sleep.
+Scroll down to Your Schedule, then tap Edit (below Next).
+Drag to change your bedtime, to change your wake up time, or the semicircle between the icons to shift both times simultaneously.
+Choose alarm options.
+When Alarm is turned on, you can choose a sound, its volume, a vibration, and the snooze option.
+Tap Done.
+Note: You can also use the Clock app to change your next sleep schedule alarm .
+After your next wake up time, your normal schedule resumes.

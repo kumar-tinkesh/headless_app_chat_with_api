@@ -1,0 +1,15 @@
+iPhone User Guide
+Reply to invitations in Calendar on iPhone
+In the Calendar app, reply to meeting and event invitations you’ve received.
+Reply to an event invitation
+To respond to an event notification, tap it.
+Or, in Calendar, tap Inbox, then tap an invitation.
+Tap your response—Accept, Maybe, or Decline.
+To respond to an invitation you receive by email, tap the underlined text in the email, then tap Show in Calendar.
+If you add comments to your response, your comments can be seen by the organizer but not by other attendees (comments may not be available for all calendars). To see events you declined, tap Calendars at the bottom of the screen, then turn on Show Declined Events.
+Suggest a different meeting time
+You can suggest a different time for a meeting invitation you’ve received.
+Go to the Calendar app on your iPhone.
+Tap the meeting, then tap Propose New Time.
+Tap the time, then enter a new one.
+Depending on the capabilities of your calendar server, the organizer will receive either a counter-proposal or an email with your suggestion.

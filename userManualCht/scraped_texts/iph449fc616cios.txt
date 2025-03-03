@@ -1,0 +1,11 @@
+iPhone User Guide
+Use Siri to listen to a webpage in Safari on iPhone
+You can use Siri to read supported webpages aloud in the Safari app.
+Listen to a webpage
+Go to the Safari app on your iPhone.
+Open the page you want to listen to, then do one of the following:
+Tap , then tap Listen to Page.
+Activate Siri , then say something like “Read this” or “I want to listen to this page.”
+Pause listening
+While listening to a webpage, tap , then tap .
+To start listening again, tap , then tap .

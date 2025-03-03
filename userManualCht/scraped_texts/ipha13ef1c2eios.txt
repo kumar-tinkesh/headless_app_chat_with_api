@@ -1,0 +1,16 @@
+iPhone User Guide
+Get directions to your parked car in Maps on iPhone
+When you disconnect your iPhone from your car’s CarPlay or Bluetooth ® system and exit your vehicle, a parked car marker is dropped so you can easily find the way back to your car.
+Find your parked car
+Go to the Maps app on your iPhone.
+Choose Parked Car below Siri Suggestions.
+If you don’t find your parked car in Maps
+Make sure your iPhone is paired to CarPlay or Bluetooth in your car, then make sure of the following settings:
+Location Services is turned on in Settings > Privacy & Security.
+Significant Locations is turned on in Settings > Privacy & Security > Location Services > System Services.
+Show Parked Location is turned on in Settings > Apps > Maps.
+Note: Your parked car isn’t marked at a location where you frequently park, like at home or work.
+Don’t show your parked location
+Go to the Maps app on your iPhone.
+To remove the Parked Car marker for your car’s current location, touch and hold the marker, then tap Remove Car.
+To never show your parked location, go to Settings > Apps > Maps, then turn off Show Parked Location.

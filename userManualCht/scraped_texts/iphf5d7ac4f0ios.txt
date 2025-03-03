@@ -1,0 +1,17 @@
+iPhone User Guide
+Use Apple Cash and Apple Card with Family Sharing on iPhone (U.S. only)
+You can use Apple Cash and Apple Card with your Family Sharing group. The organizer of the Family Sharing group can set up Apple Cash for a child, and share Apple Card with trusted members of their Family Sharing group.
+Learn about types of Family Sharing members .
+Set up Apple Cash Family for a child
+The family organizer can set up Apple Cash for a child.
+Go to Settings > Family.
+Tap the child for whom you want to set up Apple Cash.
+Tap Apple Cash, then follow the onscreen instructions.
+To see the card balance, monitor transactions, and narrow the list of people that the child can send money to, go to Settings > Wallet & Apple Pay. See Apple Cash Support .
+For more information about system requirements and how to manage Apple Cash accounts, see the Apple Support articles Set up and use Apple Cash Family and View and limit your child or teen’s Apple Cash activity .
+Set up Apple Card Family
+You can share your Apple Card with family members, manage payments, and control account settings and limits for children who are 13 years or older. You can also review and manage everyone’s details.
+Go to Settings > Family > Share My Apple Card.
+The option only appears if you have Apple Card.
+Follow the onscreen instructions.
+For more information about what owners, co-owners, and participants can do with Apple Card, see the Apple Support article Set up Apple Card Family and add a co-owner and participants .

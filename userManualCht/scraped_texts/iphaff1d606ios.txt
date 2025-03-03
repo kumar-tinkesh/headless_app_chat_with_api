@@ -1,0 +1,31 @@
+iPhone User Guide
+Change Siri accessibility settings on iPhone
+You can change how quickly or when Siri responds, use text to make requests to Siri, have Siri listen for atypical speech patterns, have Siri audibly share notifications, and announce and end calls.
+Tell Siri when and how to respond to requests
+Go to Settings > Accessibility > Siri.
+Do any of the following:
+Set how long Siri waits for you to finish speaking: Below Siri Pause Time, choose Default, Longer, or Longest.
+Change how fast Siri speaks: Adjust the slider below Speaking Rate.
+Decide when Siri responds aloud or in text: Choose an option below Spoken Responses. You can also change when Siri responds .
+Use Siri even when iPhone is covered or facing down: Turn on Always Listen for “Hey Siri.”
+To have Siri respond when iPhone is facing up, go to Settings > Siri (or Apple Intelligence & Siri), then turn on Listen for “Siri” or “Hey Siri.”
+Require “Siri” or “Hey Siri” in order to interrupt Siri: Turn on Require “Siri” for Interruptions. This can be useful if you use VoiceOver or Voice Control and don’t want VoiceOver speech or Voice Control commands to interrupt Siri.
+To change how you activate Siri, see Set up Siri and Change when Siri responds .
+Type instead of speak to Siri
+Go to Settings > Accessibility > Siri, then turn on Type to Siri.
+Note: If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max and Apple Intelligence is turned on, you can automatically type to Siri, so this option isn’t shown. See Use Apple Intelligence with Siri .
+To make a request, activate Siri , then interact with Siri using the keyboard and text field.
+Have Siri recognize a wider range of speech patterns
+You can have Siri listen for atypical speech. This may be helpful if you have an acquired or progressive condition that affects speech, such as cerebral palsy, amyotrophic lateral sclerosis (ALS), or stroke.
+Go to Settings > Accessibility > Siri, then turn on Listen for Atypical Speech.
+You can also teach iPhone to perform an action when you speak a word or make a sound of your choosing. See Use Vocal Shortcuts .
+Announce calls and notifications for specific apps
+You can have Siri announce notifications and calls from apps like Messages on your iPhone speaker, supported headphones , when using CarPlay , and on MFi hearing devices .
+Go to Settings > Accessibility > Siri, then turn on Announce Notifications on Speaker.
+Tap Announce Notifications, then for each app, choose whether to announce all notifications or only time-sensitive notifications.
+End calls with Siri
+You can have Siri end phone and FaceTime calls.
+Go to Settings > Accessibility > Siri, tap Call Hangup, then turn on Call Hangup.
+Note: Available in select languages and on iPhone 11, iPhone SE (2nd generation), and later. Requires download of speech models.
+To end a call, say something like: “Siri, hang up.” (Participants on the call will hear you.)
+You can also route and automatically answer calls or have Siri announce and answer calls .

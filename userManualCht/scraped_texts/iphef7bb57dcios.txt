@@ -1,0 +1,49 @@
+iPhone User Guide
+Learn the meaning of the iPhone status icons
+The icons in the status bar at the top of the screen provide information about iPhone. On an iPhone with Face ID, there are additional status icons at the top of Control Center .
+Note: If you turn on a Focus , its icon appears in the status bar.
+Status icon
+What it means
+Wi-Fi. iPhone is connected to the internet over a Wi-Fi network. See View available networks and connect to Wi-Fi .
+Cell signal. The number of bars indicates the signal strength of your cellular service. If there’s no signal, “No Service” appears.
+Dual cell signals. On models with Dual SIM , the upper row of bars indicates the signal strength of the line you use for cellular data. The lower row of bars indicates the signal strength of your other line. If there’s no signal, “No Service” appears. To see the status icons with their corresponding cellular plan labels and carrier names, open Control Center .
+Airplane Mode. Airplane Mode is on—you can’t make phone calls, and other wireless functions may be disabled. See Choose settings for travel .
+5G. Your carrier’s 5G network is available, and supported models can connect to the internet over that network (not available in all countries or regions). See the Apple Support article Use 5G with your iPhone .
+5G UC. Your carrier’s 5G UC network is available, which can include your carrier’s higher frequency version of 5G. Supported models can connect to the internet over that network (not available in all countries or regions). See the Apple Support article Use 5G with your iPhone .
+5G+. Your carrier’s 5G+ network is available, which can include your carrier’s higher frequency version of 5G. Supported models can connect to the internet over that network (not available in all countries or regions). See the Apple Support article Use 5G with your iPhone .
+5G UW. Your carrier’s 5G UW network is available, which can include your carrier’s higher frequency version of 5G. Supported models can connect to the internet over that network (not available in all countries or regions). See the Apple Support article Use 5G with your iPhone .
+5G E. Your carrier’s 5G E network is available, and iPhone can connect to the internet over that network (not available in all countries or regions). See View or change cellular data settings .
+LTE. Your carrier’s LTE network is available, and iPhone can connect to the internet over that network (not available in all countries or regions). See View or change cellular data settings .
+UMTS. Your carrier’s 4G UMTS (GSM) or LTE network (depending on the carrier) is available, and iPhone can connect to the internet over that network (not available in all countries or regions). See View or change cellular data settings .
+UMTS/EV-DO. Your carrier’s 3G UMTS (GSM) or EV-DO (CDMA) network is available, and iPhone can connect to the internet over that network. See View or change cellular data settings .
+EDGE. Your carrier’s EDGE (GSM) network is available, and iPhone can connect to the internet over that network. See View or change cellular data settings .
+GPRS/1xRTT. Your carrier’s GPRS (GSM) or 1xRTT (CDMA) network is available, and iPhone can connect to the internet over that network. See View or change cellular data settings .
+SOS only. Full service from your cellular provider isn’t available, but emergency calls may be possible through other carrier networks (not available in all countries or regions). See Use SOS to contact emergency services .
+Emergency SOS via satellite. iPhone isn’t connected to a cellular or Wi-Fi network, but you can contact emergency services via satellite. See Use Emergency SOS via satellite .
+Wi-Fi calling. iPhone is set up for Wi-Fi calling. iPhone also displays a carrier name next to the icon. See Make calls using Wi-Fi .
+Personal Hotspot connection. iPhone is connected to the internet through the Personal Hotspot of another device. See Join a Personal Hotspot .
+VPN. iPhone is connected to a network using VPN.
+Navigation. iPhone is providing turn-by-turn directions. See Get driving directions .
+Personal Hotspot. iPhone is providing a Personal Hotspot. See Share your internet connection with Personal Hotspot .
+Phone call. iPhone is on a phone call. See Make phone calls .
+FaceTime. iPhone is on a FaceTime call. See Make FaceTime calls .
+Screen recording. iPhone is recording your screen. See Take a screen recording .
+Camera in use. An app is using your camera. See Control which apps have access to the camera and microphone on your iPhone .
+Microphone in use. An app is using your microphone. See Control which apps have access to the camera and microphone on your iPhone .
+Syncing. iPhone is syncing with your computer. See Sync supported content .
+Network activity. Shows that there’s network activity. Some third-party apps may also use it to show an active process. See Connect to the internet .
+Call forwarding. Call forwarding is set up. See Set up call forwarding .
+Lock. iPhone is locked. See Wake and unlock iPhone .
+Do Not Disturb. Do Not Disturb is turned on. See Turn on or schedule a Focus .
+Portrait orientation lock. The iPhone screen is locked in portrait orientation. See Change or lock the screen orientation .
+Location services. An app is using Location Services. See Control which apps can use the location of your iPhone .
+Alarm. An alarm is set. See Set an alarm .
+Headphones connected. iPhone is paired with Bluetooth® headphones that are turned on and within Bluetooth range. See Set up and listen to Bluetooth headphones .
+Battery. Shows the iPhone battery level. When the icon is yellow, Low Power Mode is on. See Show the iPhone battery percentage .
+Battery charging. The iPhone battery is charging. See Charge the battery .
+Bluetooth battery. Shows the battery level of a paired Bluetooth device. See Connect to Bluetooth accessories .
+AirPlay. AirPlay is on. See Stream videos and photos .
+Voice Control. Voice Control is turned on in Settings > Accessibility, and you can use your voice to interact with iPhone .
+TTY. Software RTT / TTY or Hardware TTY is turned on. See Set up and use RTT and TTY .
+CarPlay. iPhone is connected to CarPlay. See Connect to CarPlay .
+Siri Eyes Free. You can ask a question or make a request to Siri in your car. See Use Siri in your car .

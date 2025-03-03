@@ -1,0 +1,14 @@
+iPhone User Guide
+Use the Holidays calendar on iPhone
+In the Calendar app, the Holidays calendar displays holidays based on the region set on your iPhone.
+Note: The Holidays calendar is a subscription calendar. You can’t add or delete holidays, because subscription calendars can be modified only by the calendar provider.
+Show or hide holidays
+Go to the Calendar app on your iPhone.
+Tap Calendars at the bottom of the screen.
+Select or deselect US Holidays (or the holiday calendar for your country or region).
+Add a holiday calendar from a different region
+Go to the Calendar app on your iPhone.
+Tap Calendars at the bottom of the screen.
+Tap Add Calendar, then tap Add Holiday Calendar.
+Tap the holiday calendar you want to subscribe to, then tap Add.
+To change settings, like notification alerts or the name of a holiday calendar you’ve subscribed to, see Set up multiple calendars .

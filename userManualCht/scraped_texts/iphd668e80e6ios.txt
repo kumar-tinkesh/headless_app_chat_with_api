@@ -1,0 +1,49 @@
+iPhone User Guide
+Stream video and audio from your iPhone with AirPlay
+With AirPlay, you can stream video and audio from your iPhone to a nearby Mac or TV. You can also mirror what’s on your iPhone screen.
+You can use AirPlay with your iPhone and a Mac, an Apple TV, or another TV.
+Before you begin
+Make sure of the following:
+Both devices have Wi-Fi turned on and are connected to the same network.
+If you’re streaming between your own Apple devices, it’s useful to sign in to the same Apple Account .
+To use AirPlay to stream content to a Mac, both devices meet minimum system requirements .
+To use AirPlay to stream content to a TV, make sure you’re using Apple TV or an AirPlay 2-enabled smart TV.
+If you’re using a VPN, make sure its configuration does not prevent local networking as that may interfere with some Continuity features.
+Set up a Mac to allow streaming from your iPhone
+On a Mac, choose Apple menu  > System Settings, click General in the sidebar (you may need to scroll down), then click AirDrop & Handoff.
+Note: If you’re using a Mac with macOS 12.5 or earlier, choose Apple menu > System Preferences, then click Sharing.
+Turn on AirPlay Receiver.
+Click the pop-up menu next to “Allow AirPlay for” and choose the devices that can use AirPlay to stream content to this Mac.
+Allow only your devices: If you only want to allow AirPlay from devices where you’re signed in to the same Apple Account, select “Current user.”
+Allow any device: Select “Anyone on the same network” or Everyone.
+To require a password to use AirPlay with the Mac, select the option, then enter a password.
+Stream photos or videos from your iPhone to your Mac or TV
+You can stream photos and videos from your iPhone to a Mac, an Apple TV, or an AirPlay 2-enabled smart TV.
+On your iPhone, find the photo or video that you want to stream.
+Tap .
+Note: In some apps, you might need to tap a different button first. For example, in the Photos app, tap , then tap AirPlay.
+Choose your Mac or TV from the list.
+To show playback controls on the Mac, move the pointer over the video playing on the Mac screen.
+To stop streaming, on your iPhone, tap AirPlay in the app you’re streaming from, then tap your iPhone on the list.
+Note: You can set up your iPhone to discover and automatically connect to any Apple TV or smart TV that you use frequently when you play content from apps that you use regularly with AirPlay. To turn this feature on or off on your iPhone, go to Settings > General > AirPlay & Continuity, then choose Automatic, Never, or Ask.
+Share your iPhone screen on a Mac or TV
+Open Control Center on your iPhone.
+Tap , then choose your Mac or TV as the playback destination.
+To switch back, open Control Center, tap , then tap Stop Mirroring.
+Play audio from your iPhone on a Mac or TV
+You can use AirPlay to stream audio from your iPhone to a Mac or TV. If you’re streaming to your Mac, make sure you’ve set up the Mac to allow streaming from another device first. See Allow streaming from another device .
+Open an audio app (such as Podcasts or Music) on your iPhone, then choose an item to play.
+Tap , then choose a playback destination.
+You can also use AirPlay to stream audio from your iPhone to a HomePod. To learn more, see Play audio on HomePod using an iOS or iPadOS device .
+Use AirPlay in your hotel room
+If you stay in a hotel room with a TV that supports AirPlay, you can use it to play movies, TV shows, music, and more from your iPhone.
+Open Camera on your iPhone.
+If it’s not already on, turn on the room’s TV and locate the AirPlay QR code.
+Scan the QR code with your iPhone camera , then follow the onscreen instructions to connect to your hotel Wi-Fi (if you’re not already connected) and the room’s TV.
+Use your iPhone to display content on the TV screen by streaming photos or videos , mirroring your screen , or playing audio . Choose your hotel TV as the playback destination.
+To stop streaming or mirroring, tap the AirPlay or Screen Mirroring button ( or ) on your iPhone, then tap your iPhone in the list or tap Stop Mirroring.
+Note: AirPlay in hotels isn't available in all countries or regions.
+If AirPlay isn’t working
+Make sure that both of your devices are on the same network.
+Check that your Mac is set up to allow streaming from another device.
+See the Apple Support article If screen mirroring or streaming isn’t working on your AirPlay-compatible device .

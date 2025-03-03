@@ -1,0 +1,28 @@
+iPhone User Guide
+Add places and notes to your library in Maps on iPhone
+You can find pins, places, guides, and routes in one place: your library in the Maps app. Add your own personal notes—visible only to you—to saved places, or pin your most frequently visited places for easier access.
+Save a place to your library
+Go to the Maps app on your iPhone.
+While looking at a place card, do one of the following:
+Tap . It turns to .
+Tap , then tap Add to Library.
+Add notes to a place
+You can read the notes you add to a place at any time, but they aren’t visible to others if you share the place.
+Go to the Maps app on your iPhone.
+While looking at a place card, tap , then tap Add a Note.
+Write something, then tap Done.
+Adding a note to a place saves the place to your library.
+Add a pin to your library
+You can pin frequently visited places for easier access in Maps and CarPlay. They appear as icons in your library and also under Pinned.
+Go to the Maps app on your iPhone.
+Below Library, tap (you may have to swipe left), then search for or tap a suggestion. You can also drop a pin .
+If the pins are for your Home, Work, or School, you can do any of the following:
+Assign it to a type: Select Home, Work, or School.
+Sync to My Card: Tap Add to Contact Card.
+See Edit a pin .
+Remove a place from your library
+Go to the Maps app on your iPhone.
+Below Library, tap , then tap Places.
+Tap , then tap Delete From Library.
+If you’re in the place card, tap . It returns to .
+Removing a place from your library deletes any personal notes you added to it.

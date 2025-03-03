@@ -1,0 +1,15 @@
+iPhone User Guide
+Save webpages to read later in Safari on iPhone
+Save interesting items in your Reading List so you can revisit them later. You can even save the items in your Reading List and read them when you’re not connected to the internet.
+Add the current webpage to your Reading List
+Go to the Safari app on your iPhone.
+Tap , then tap Add to Reading List.
+Tip: To add a linked webpage without opening it, touch and hold the link, then tap Add to Reading List.
+View your Reading List
+Go to the Safari app on your iPhone.
+Tap .
+Tap .
+To delete an item from your Reading List, swipe left on the item.
+Automatically save all Reading List items to iCloud for offline reading
+Go to Settings > Apps > Safari.
+Turn on Automatically Save Offline (below Reading List).

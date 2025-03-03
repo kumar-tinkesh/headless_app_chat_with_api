@@ -1,0 +1,35 @@
+iPhone User Guide
+Play a recording in Voice Memos on iPhone
+You can play audio you recorded on your iPhone using the playback controls.
+You can also adjust settings to change playback speed, reduce background noise, and fill in silences.
+Note: Changing these settings doesn’t affect the recording itself. The setting you choose for a recording stays with that specific recording and is applied each time you play the recording. It doesn’t apply to other recordings, and isn’t included with the recording when you share it.
+Control
+Description
+Play
+Pause
+Skip backward 15 seconds
+Skip forward 15 seconds
+Tip: While the recording is open, you can tap its name to rename it.
+Change the playback speed
+You can play a recording at a faster or slower speed.
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+In the list of recordings, tap the recording you want to play, then tap .
+Tap , then drag the slider toward the tortoise for a slower speed, or toward the rabbit for a faster speed.
+Tap , then tap to play the recording.
+Enhance a recording
+You can turn on Enhance Recording to reduce background noise and echo when you play the recording.
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+In the list of recordings, tap the recording you want to enhance, then tap .
+Tap Options, then turn on Enhance Recording.
+Tap , then tap to play the recording.
+Skip over gaps when playing back a recording
+Voice Memos can analyze your audio and automatically skip over gaps when playing it.
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+Tap the recording you want to play, then tap .
+Tap Options, then turn on Skip Silence.
+Tap , then tap to play the recording.
+Reset the playback options
+You can return all the playback options for a recording to their original settings at the same time.
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+Tap the recording you want to turn off playback options for, then tap .
+Tap Options, then tap Reset.

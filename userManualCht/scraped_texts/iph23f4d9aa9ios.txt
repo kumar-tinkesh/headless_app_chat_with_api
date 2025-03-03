@@ -1,0 +1,22 @@
+iPhone User Guide
+Add photos, video, and more to notes on iPhone
+In the Notes app, you can add photos, videos, and information from other apps, such as maps, links, and documents.
+Add a photo or video
+Go to the Notes app on your iPhone.
+In a note, tap , then choose an option.
+You can choose a photo or video from your photo library, or take a new photo or video.
+Tip: To draw on a photo , tap the photo, then tap .
+To save photos and videos taken in Notes to the Photos app, go to Settings > Apps > Notes, then turn on Save to Photos.
+Add info from another app to a note
+You can add information from another app as an attachment to a note—for example, a location in Maps, a webpage in Safari, a PDF in Files, or a screenshot.
+In the app you’re using, open the item you want to share (for example, a map or webpage).
+Tap Share or , then tap Notes or New Quick Note.
+Change the preview size of attachments
+Go to the Notes app on your iPhone.
+In a note, you can change the preview size of the following:
+A single attachment: Touch and hold the attachment, tap View As, then choose Small or Large.
+All attachments in a note: Tap , tap Attachment View, then choose Set All to Small or Set All to Large.
+View all attachments in Notes
+Go to the Notes app on your iPhone.
+Above the notes list, tap , then tap View Attachments to see thumbnails of photos, links, documents, and other attachments. (Attachments in locked notes aren’t shown.)
+To go to a note with a specific attachment, tap the attachment thumbnail, then tap Show in Note.

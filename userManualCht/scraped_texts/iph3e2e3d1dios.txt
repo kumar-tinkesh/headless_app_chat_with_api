@@ -1,0 +1,33 @@
+iPhone User Guide
+Use the onscreen keyboard with VoiceOver on iPhone
+VoiceOver changes how you use the onscreen keyboard when you activate an editable text field. You can enter, select, and delete text; change the keyboard language; and more.
+Enter text with the onscreen keyboard
+Select a text field, then double-tap.
+The insertion point and the onscreen keyboard appear.
+To enter text, do one of the following:
+Standard typing: Select a key by swiping left or right on the keyboard, then double-tap to enter the character. Or move your finger around the keyboard to select a key and, while continuing to touch the key with one finger, tap the screen with another finger. VoiceOver speaks the key when it’s selected, and again when the character is entered.
+Touch typing: Touch a key on the keyboard to select it, then lift your finger to enter the character. If you touch the wrong key, slide your finger to the key you want. VoiceOver speaks the character for each key as you touch it, but doesn’t enter a character until you lift your finger.
+Direct Touch typing: VoiceOver is disabled for the keyboard only, so you can type just as you do when VoiceOver is off.
+Dictation: Use a two-finger double tap on the keyboard to start and stop dictation.
+To enter an accented character, do one of the following:
+Standard typing: Select the plain character, then double-tap and hold until you hear a tone indicating alternate characters have appeared. Drag left or right to select and hear the choices. Release your finger to enter the current selection.
+Touch typing: Touch and hold a character until the alternate characters appear.
+Edit text with the onscreen keyboard
+Move the insertion point: Swipe up or down to move the insertion point forward or backward in the text. Use the rotor to choose whether you want to move the insertion point by character, by word, or by line. To jump to the beginning or end, double-tap the text.
+VoiceOver makes a sound when the insertion point moves, and speaks the character, word, or line that the insertion point moves across. When moving forward by words, the insertion point is placed at the end of each word, before the space or punctuation that follows. When moving backward, the insertion point is placed at the end of the preceding word, before the space or punctuation that follows it.
+Move the insertion point past the punctuation at the end of a word or sentence: Use the rotor to switch back to character mode.
+When moving the insertion point by line, VoiceOver speaks each line as you move across it. When moving forward, the insertion point is placed at the beginning of the next line (except when you reach the last line of a paragraph, when the insertion point is moved to the end of the line just spoken). When moving backward, the insertion point is placed at the beginning of the line that’s spoken.
+Delete a character: Use .
+Select text: Do any of the following:
+Set the rotor to Text Selection, swipe up or down to choose Character, Word, Line, or Sentence, then swipe left or right to move backward or forward. (You may need to enable Text Selection—go to Settings > Accessibility > VoiceOver > Rotor.)
+Set the rotor to Edit, swipe up or down to choose Select or Select All, then double-tap. If you choose Select, the word closest to the insertion point is selected when you double-tap. To increase or decrease the selection, do a two-finger scrub (move two fingers back and forth three times quickly, making a “z”) to dismiss the pop-up menu, then pinch.
+Cut, copy, or paste: Set the rotor to Edit, select the text, swipe up or down to choose Cut, Copy, or Paste, then double-tap.
+Fix misspelled words: Set the rotor to Misspelled Words, then swipe up or down to jump to the previous or next misspelled word. Swipe left or right to choose a suggested replacement, then double-tap to use the replacement.
+Undo: Shake iPhone, swipe left or right to choose the action to undo, then double-tap.
+Change the keyboard settings
+Go to Settings > Accessibility > VoiceOver.
+Tap any of the following:
+Typing Style: You can choose a new style. Or, set the rotor to Typing Mode, then swipe up or down.
+Phonetic Feedback: Speak text character by character. VoiceOver first speaks the character, then its phonetic equivalent—for example, “f” and then “foxtrot.
+Typing Feedback: Choose to speak characters, words, both, or nothing.
+Verbosity: Tap Deleting Text. To have VoiceOver speak deleted characters in a lower pitch, tap Change Pitch.

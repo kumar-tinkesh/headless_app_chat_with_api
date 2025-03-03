@@ -1,0 +1,22 @@
+iPhone User Guide
+Create and send Memoji in Messages on iPhone
+You can design your own personalized Memoji—choose skin tone, glasses, body, and more. You can create multiple Memoji to use in different contexts. Each Memoji—even the ones you create—automatically generates a range of poses and expressions. On supported models , you can send animated Memoji messages that record your voice and mirror your facial expressions.
+Create Memoji
+Go to the Messages app on your iPhone.
+Start a new message or open a conversation, tap , tap More, then Tap Memoji.
+Tap , then tap New Memoji or Edit.
+Tap each feature (Skin, Hairstyle, and others to the right) and choose the options you want.
+Tap Done to save the Memoji to your collection.
+Send Memoji stickers
+Go to the Messages app on your iPhone.
+Start a new message or open a conversation, tap , tap Stickers, then tap .
+Choose a Memoji and an expression or pose, or create a new Memoji .
+Tap .
+Send animated Memoji or Memoji recordings
+On supported models , you can send Memoji messages that record your voice and mirror your facial expressions.
+Go to the Messages app on your iPhone.
+Start a new message or open a conversation, tap , tap Memoji, then swipe and tap to choose a Memoji.
+Tap to record your facial expressions and voice, then tap to stop.
+Tap Replay to review your message.
+Tap to send your message or to cancel.
+You can also take a photo or video of yourself as a Memoji, decorate it with stickers, then send it. Or you can become a Memoji in a FaceTime conversation.

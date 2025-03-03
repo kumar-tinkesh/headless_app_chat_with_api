@@ -1,0 +1,29 @@
+iPhone User Guide
+Accessibility features for speech on iPhone
+iPhone comes with built-in tools for communicating in the way that works best for you, whether you’re nonspeaking, at risk of speech loss, or someone with a speech disability. You can have what you type spoken out loud, create a synthesized voice that sounds like you, and more.
+To explore accessibility features for speech, go to Settings > Accessibility, then scroll down to the Speech section.
+Type to speak
+Live Speech
+If you’re unable to speak or you have a speech disability, type what you want to say and have iPhone speak it.
+Type to speak using Live Speech
+Personal Voice
+If you’re at risk of losing your ability to speak, create a synthesized voice that sounds like you.
+Record your Personal Voice
+Type to Siri
+Type your Siri requests instead of speaking them.
+Type instead of speaking to Siri
+Control iPhone with your voice
+Use voice commands
+Speak commands to navigate and interact with what’s on the screen, dictate and edit text, and more.
+Use Voice Control commands to interact with iPhone
+Use simple sounds
+You can use voiced or voiceless sounds—like an S-sound or a mouth pop—to navigate and interact with what’s on the screen.
+Use sound actions with Switch Control
+Vocal Shortcuts
+Have iPhone perform an action when you speak a word or another sound of your choosing.
+Use Vocal Shortcuts
+Have Siri listen for atypical speech
+If you have an acquired or progressive condition that affects speech, have Siri recognize a wider range of atypical speech patterns.
+Change Siri accessibility settings on iPhone
+You can also have Siri wait longer for you to finish speaking , or use Dictation to enter text using just your voice.
+Tip: Control your go-to accessibility features and settings with the click of a button or from Control Center. See Quickly open features with Accessibility Shortcut .

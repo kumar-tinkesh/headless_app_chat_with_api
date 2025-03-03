@@ -1,0 +1,19 @@
+iPhone User Guide
+Use predictive text on iPhone
+Using predictive text, you can write and complete entire sentences with just a few taps. As you type on the iPhone keyboard, you see choices for words, emoji, and information that you’d probably type next (not available for all languages). In Messages, for example, when you type something like:
+“I’m at” followed by a space, your current location appears as an option
+“My number is” followed by a space, your phone number appears as an option
+You also see inline predictions that complete the word or phrase you’re currently typing.
+Apply inline text predictions
+As you type, predictions that complete the word or phrase you’re typing appear inline in gray text. Tap the Space bar to accept the prediction for the word or phrase; keep typing to reject it.
+If you accept an inline prediction and then change your mind, tap , then tap the word you were in the process of typing.
+Note: Inline predictive text may not be supported in your language. See iOS and iPadOS Feature Availability .
+Apply predictive text
+As you type, suggested words, emoji, and information appear above the onscreen keyboard; tap a suggestion to apply it.
+Note: When you accept a suggested word, a space is automatically entered after the suggestion. If you enter a comma, period, or other punctuation, that space is automatically deleted.
+To reject the suggestions, tap your original word (shown as the option within quotation marks), or just continue to type.
+Turn predictive text off or on
+While using the keyboard, touch and hold or .
+Tap Keyboard Settings, then turn Predictive Text off or on.
+When you turn off Predictive Text, iPhone may still try to suggest corrections for misspelled words. To accept a correction, enter a space or punctuation, or tap Return. To reject a correction, tap the “x.” If you reject the same suggestion a few times, iPhone stops suggesting it.
+Note: Turning off the Predictive Text setting turns off both predictive text and inline text predictions.

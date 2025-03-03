@@ -1,0 +1,54 @@
+iPhone User Guide
+Change message notifications on iPhone
+You can change whether or not you’re notified about text messages you receive, and how the notifications appear or sound. For example, you can turn off message notifications so you aren’t distracted by notification sounds when you’re in class or other quiet settings, or assign a special sound for certain contacts so you know when you get a message from them.
+Pause all notifications
+You can temporarily stop notifications for all apps by turning on Do Not Disturb (or another Focus ) or a sleep schedule . Your status appears in the Messages app to let people know you’re not receiving messages.
+Open Control Center on your iPhone.
+Tap Focus, then tap Do Not Disturb.
+Note: If you want to allow urgent messages to get through, go to Settings > Notifications > Messages, then turn on Time Sensitive Notifications.
+Stop all notifications
+You can stop getting notified about activity in the Messages app while continuing to receive messages. When you’re ready to read them, you can open Messages to see the texts you missed while notifications were off, and catch up on messages you missed .
+Go to Settings > Notifications > Messages.
+Turn off Allow Notifications.
+When you want to get notified again, turn on Allow Notifications. If you also want to hear them, make sure the Ring/Silent switch isn’t in Silent mode and your volume is audible.
+You can also stop notifications from other Apple apps and third-party apps. See Change notification settings .
+Mute sounds or vibrations for sent and received messages
+When you send a message, a swoosh sound plays by default. When you receive a message, a tone plays. If you don’t want to hear these sounds, you can set your text tone to None.
+Go to Settings > Notifications > Messages.
+Do either of the following:
+Mute sounds: Tap Sounds, then tap None.
+Turn off vibrations: Tap Sounds, tap Haptics (near the top), then tap None.
+You can also put the Ring/Silent switch in Silent mode .
+Note: The None and the Ring/Silent switch setting affect both incoming and outgoing sounds. (You can’t mute only one.)
+See also Flash the indicator light for notifications .
+Change the sound and vibration for notifications
+You can choose the sound volume for alerts, choose between a tone or sound for alerts, or change the notification vibration pattern (when the phone is silenced).
+Go to Settings > Sounds & Haptics.
+Do any of the following:
+Make notifications quieter or louder: Adjust the volume with the slider.
+Choose a tone or sound: Tap Text Tone, then tap a sound below Alert Tones (or tap Tone Store to download one).
+Choose a vibration pattern: Tap Text Tone, tap Haptics, then choose an option (or tap Create New Vibration to make your own).
+Tip: The tone and vibration you choose apply to both the Messages app and other apps that have notifications on, such as Mail, Phone, and other Apple or third-party apps. To change them just for the Messages app, go to Settings > Notifications > Messages, then tap Sounds.
+You can set how many times to repeat a notification (from Never to 10 Times) in Settings > Notifications > Messages > Customize Notifications > Repeat Alerts.
+Change the notification sound for certain people
+You can choose a specific sound or vibration pattern to play when you get a message from a specific contact.
+Go to the Messages app on your iPhone.
+Tap a conversation, then tap the number or name of the person you’re communicating with at the top of the conversation.
+Tap Info , tap Edit in the top-right corner, then tap Text Tone.
+If you don’t see Edit, tap Create New Contact or Add to Existing Contact.
+Do any of the following:
+Specify a tone or sound: Tap a sound below Alert Tones (or tap Tone Store to download one).
+Specify a vibration pattern: Tap Haptics, then choose an option (or tap Create New Vibration to make your own).
+Mute notifications for this conversation: Tap None below both Haptics and Alert Tones.
+To give this contact the option to override a Focus, so any important messages can get through, turn on Emergency Bypass. You might turn it on for a family member, caretaker, or colleague, for example.
+Mute one conversation
+You can stop getting notifications for a conversation while you continue to receive its messages.
+Go to the Messages app on your iPhone.
+In the Messages list, do one of the following:
+Swipe left on a conversation, then tap .
+Touch and hold a conversation, then tap Hide Alerts.
+To completely stop getting messages for one conversation, you can block a specific person or number or leave a group conversation .
+Announce messages
+Siri can announce messages on your iPhone speaker, supported headphones, and when using CarPlay .
+To hear incoming messages on MFi hearing devices, see Announce calls and notifications for specific apps .
+To let people know you’ve read their messages, see Turn on read receipts .

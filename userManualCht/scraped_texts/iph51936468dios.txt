@@ -1,0 +1,9 @@
+iPhone User Guide
+Record your personal voice on iPhone
+If you’re at risk of speech loss or someone with a speech disability, you can use Personal Voice on iPhone to create a synthesized voice that sounds like you. You can use your personal voice with Live Speech and have what you type spoken out loud during in-person conversations, in Phone and FaceTime calls, and in assistive communication apps.
+Go to Settings > Accessibility > Personal Voice.
+Tap Create a Personal Voice, then follow the onscreen instructions.
+(If you need to pause your recording session, tap Done. To resume, tap the name of your personal voice, then tap Continue Recording.)
+Note: To see the option to create your personal voice, you must first set a passcode . Personal Voice is available on supported iPhone models and is not available in all languages. See the Apple Support article Create a Personal Voice on your iPhone, iPad, or Mac .
+Your personal voice is saved securely on your iPhone for you to use during Phone and FaceTime calls, in-person conversations, and third-party alternative and augmentative communication (AAC) apps.
+Important: Personal Voice can be used only with Live Speech and with third-party apps that you allow, such as Augmentative and Alternative Communication (AAC) apps. You can use Personal Voice only to create a voice that sounds like you on device, using your own voice, and for your own personal, noncommercial use. Your Legacy Contact won’t be able to access your Personal Voice.

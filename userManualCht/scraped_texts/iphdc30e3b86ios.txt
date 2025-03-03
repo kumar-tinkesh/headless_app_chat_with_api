@@ -1,0 +1,13 @@
+iPhone User Guide
+Hide distractions when reading articles in Safari on iPhone
+Use Reader to hide navigation menus and other distracting items. Longer pages include a summary and table of contents.
+Show Reader
+Reader formats a webpage to show just the relevant text and images.
+Go to the Safari app on your iPhone.
+On a supported website, tap , then tap Show Reader.
+To return to the full page, tap , then tap Hide Reader.
+Automatically use Reader for a website
+Go to the Safari app on your iPhone.
+On a supported website, tap , then tap .
+Turn on Use Reader Automatically.
+To automatically use Reader for all websites that support it, go to Settings > Apps > Safari > Reader, then turn on All Websites.

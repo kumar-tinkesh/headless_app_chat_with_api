@@ -1,0 +1,14 @@
+iPhone User Guide
+Adjust map settings in Find My on iPhone
+You can change the map view or distance units that appear In the Find My app.
+Change the map view
+The button at the top right of the map indicates if the current map is for exploring or viewing from a satellite .
+Go to the Find My app on your iPhone.
+To choose a different map, tap the button at the top right, then choose another map type.
+You can also tap to further customize the map.
+Tap .
+You can also tap 2D or 3D at the top right to change the view (not available in all locations).
+Tip: If you don’t see 2D or 3D, zoom in. You can also swipe up with two fingers to see the 3D view.
+For information about how to interact with maps, see View maps on iPhone .
+Change distance units
+You can change the default distance units in Settings . See Change the language and region on iPhone .

@@ -1,0 +1,63 @@
+iPhone User Guide
+Find puzzles in Apple News+ on iPhone
+Apple News+ subscribers can access daily and archived crossword, crossword mini, Quartiles, and sudoku puzzles. Some puzzles may be available without a subscription.
+Note: Apple News, Apple News+, and puzzles aren’t available in all countries or regions. See the iOS and iPadOS Feature Availability website .
+View the Puzzles feed
+Go to the News app on your iPhone.
+Do one of the following:
+Tap Following, then tap Puzzles.
+Tap Today, scroll down, then tap the Puzzles group.
+Follow the feed for a puzzle type
+Go to the News app on your iPhone.
+Open the Puzzles feed.
+Tap Crossword, Mini, Quartiles, or Sudoku.
+Tap , then tap Follow.
+A Puzzles category appears in Following, with the puzzle types appearing below. To make them favorites, tap Edit, tap next to a puzzle type, then tap Done.
+Note: If you subscribe to Apple News+, you can automatically download puzzles in the Puzzles feed and puzzle type feeds to play in Offline Mode .
+Choose a puzzle
+Go to the News app on your iPhone.
+Go to one of the following areas to find a puzzle:
+The Today feed
+The Best of News+ feed
+The Puzzles feed
+The feed for a puzzle type (crossword, crossword mini, Quartiles, or sudoku)
+Tap a puzzle to open it.
+Crossword and sudoku puzzles have a difficulty rating—easy, moderate, or challenging.
+You can also solve puzzles from the archive. See View past puzzles , below.
+View puzzle stats and streaks
+In each puzzle feed you can find the Scoreboard. It includes:
+Statistics for each puzzle type—the number of puzzles solved, for example
+Your current streak—the number of consecutive days you’ve solved the daily puzzle
+Your longest streak
+Go to the News app on your iPhone.
+Choose the feed for a puzzle type, then swipe up.
+Conditions that affect stats include the following:
+If you use the Reveal command to show all or a portion of a puzzle, the puzzle won’t count toward your stats, and completing the puzzle won’t start or continue a streak.
+Puzzles you complete on a device with iOS 17.5, iPadOS 17.5, macOS 14.5, or later, count toward your stats. Any puzzles you played on older OS versions don’t count toward your stats.
+After you open the News app on a device with iOS 17.5, iPadOS 17.5, macOS 14.5, or later, any daily puzzles you complete on a device with an earlier version of the OS are added to your streak. For example, if you complete Monday’s crossword and Tuesday’s crossword on your iPhone with iOS 17.5, and then solve Wednesday’s crossword on your iPad with iPadOS 17.4, your streak is extended.
+Users in the continental U.S. and Canada must complete a puzzle within 24 hours of its publication for it to count toward a streak. Users in Alaska and Hawaii get an extra hour or two; they must complete the day’s puzzle before midnight local time.
+To start or maintain a sudoku streak, solve at least one of the current day’s sudoku puzzles of any difficulty level without revealing answers.
+Your stats and streaks stay up to date on all your Apple devices where you’re signed in to the same Apple Account . Go to Settings > [ your name ] > iCloud > See All (in the Saved to iCloud section), then turn on News.
+Compete with others in Game Center
+You can compete against friends and other puzzle solvers in Game Center .
+Go to Settings > Game Center.
+Turn on Game Center, then sign in to your Apple Account .
+Go to Settings > Apps > News.
+Turn on Game Center.
+Your score for the daily puzzle is submitted to the leaderboard for that puzzle type in Game Center. Sudoku has a leaderboard for each difficulty level.
+Your score for crossword, crossword mini, and sudoku puzzles is the time it took you to solve the puzzle. For Quartiles, your score is the number of points you earned.
+View past puzzles
+Go to the News app on your iPhone.
+Do any of the following:
+View puzzles from the archive: Open a puzzle feed, then swipe up to view the most recent puzzles in the archive.
+View the complete puzzle archive: Open the puzzle feed for crossword, crossword mini, or sudoku, swipe up, then tap next to Archive. Or tap , then choose Crossword Archive, Crossword Mini Archive, or Sudoku Archive.
+To show sorting and filtering options for the archive, tap . You can sort archives from newest to oldest or oldest to newest. You can filter the crossword and sudoku archives by completeness and difficulty level. You can filter the crossword mini archive by completeness only.
+Get puzzles notifications
+Go to the News app on your iPhone.
+Tap Following, swipe to the bottom of the screen, then tap Notifications & Email below Manage.
+Turn on notifications for Puzzles.
+Remove the puzzles group from Today
+Go to the News app on your iPhone.
+In Today, swipe up to Puzzles, then tap .
+Tap Block from Today.
+When you block Latest Puzzles, the group no longer appears in your Today feed.

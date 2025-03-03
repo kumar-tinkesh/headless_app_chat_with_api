@@ -1,0 +1,42 @@
+iPhone User Guide
+View and respond to notifications on iPhone
+Notifications help you keep track of what’s new—they let you know if you missed a call, if the date of an event moved, and more. You can customize your notification settings so you see only what’s important to you.
+Unless you have notifications silenced with a Focus , iPhone displays them as they arrive—they roll in from the bottom of the screen to minimize distraction. You can view them on the Lock Screen in an expanded list view, stacked view, or count view. Pinch the notifications on the Lock Screen to change the layout.
+Note: While you’re using an app, you might be asked how you want to receive notifications from it—immediately, not at all, or in a scheduled summary . You can change this setting later in Settings > Notifications.
+Find your notifications in Notification Center
+To see your notifications in Notification Center, do any of the following:
+On the Lock Screen: Swipe up from the middle of the screen.
+On other screens: Swipe down from the top center. Then you can scroll up to see older notifications, if there are any.
+To close Notification Center, swipe up from the bottom with one finger or press the Home button (on an iPhone with a Home button).
+Respond to notifications
+When you have multiple notifications in Notification Center or on the Lock Screen, they’re grouped by app, which makes them easier to view and manage. Notifications from some apps may also be grouped by organizing features within the app, such as by topic or thread. Grouped notifications appear as stacks, with the most recent notification on top.
+Do any of the following:
+To expand a group of notifications to see them individually: Tap the group. To close the group, tap Show Less.
+To view a notification and perform quick actions if the app offers them (on supported models): Touch and hold the notification.
+To open a notification’s app: Tap the notification.
+Schedule a notification summary
+You can reduce distractions in your day by scheduling your notifications to be delivered as a summary—you choose which notifications to include in the summary and what time you want to receive it.
+The notification summary is personalized to you and intelligently ordered by priority, based on your current activity, with the most relevant notifications at the top. The summary is especially useful because it allows you to engage with notifications on your own time. You can take this even further by using Focus to filter notifications while you focus on an activity.
+Go to Settings > Notifications > Scheduled Summary, then turn on Scheduled Summary.
+Set a time for your summary to appear. If you want to receive another summary, tap Add Summary.
+Select the apps to include in your summary.
+Tap A to Z below Apps in Summary, then make sure the apps you want to include in your summary are turned on.
+Note: If an app you want to include in your notification summary doesn’t appear in the A to Z list, you may need to turn on Allow Notifications for the app. Go to Settings > Notifications, tap the app, then turn on Allow Notifications. See Change notification settings .
+View, dismiss, clear, and mute notifications
+When notifications appear on your iPhone, do any of the following:
+Handle a notification you receive while using another app: Tap to view it, then swipe up to dismiss it.
+Clear notifications: Swipe left on the notification or group of notifications, then tap Clear or Clear All.
+Mute notifications for an app: Swipe left on the notification or group of notifications, tap Options, then tap an option to mute the app’s notifications for an hour or a day. This sends them directly to Notification Center and prevents them from appearing on the Lock Screen, playing a sound, lighting up the screen, or presenting a banner.
+To see and hear these notifications again, swipe left on the notification in Notification Center, tap Options, then tap Unmute.
+Turn off notifications for an app or notification group: Swipe left on a notification or group of notifications, tap Options, then tap Turn Off.
+Change how an app displays notifications: Swipe left on a notification, tap Options, then tap View Settings. See Change notification settings to learn about the settings you can change.
+Clear all your notifications in Notification Center: Go to Notification Center , tap , then tap Clear.
+Silence all notifications: Turn on Do Not Disturb. See Turn on or schedule a Focus .
+When you haven’t used an app for a while, you may see a suggestion that you turn off notifications for that app.
+Show recent notifications on the Lock Screen
+You can allow access to Notification Center on the Lock Screen.
+Go to Settings > Face ID & Passcode (on an iPhone with Face ID) or Touch ID & Passcode (on other iPhone models).
+Enter your passcode.
+Scroll down and turn on Notification Center (below Allow Access When Locked).
+Summarize notifications with Apple Intelligence
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max, you can use Apple Intelligence to summarize long or stacked notifications, making them easier to understand at a glance. See Summarize notifications and reduce interruptions with Apple Intelligence on iPhone .

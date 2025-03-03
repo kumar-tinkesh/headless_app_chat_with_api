@@ -1,0 +1,24 @@
+iPhone User Guide
+Select ringtones and vibrations on iPhone
+You can set the default ringtone and assign distinctive ringtones to certain people. You can also use vibrations and turn the ringer off.
+Change the alert tones and vibrations
+iPhone comes with ringtones that play for incoming calls. You can also purchase more ringtones in the iTunes Store .
+You can change the sounds iPhone plays when you get a call, text, voicemail, email, reminder, or other type of notification.
+Go to Settings > Sounds & Haptics.
+To set the volume for all sounds, drag the slider below Ringtone and Alerts.
+Tap Haptics, then choose the haptics behavior for ringtones and alerts—Always Play, Play in Silent Mode, Don’t Play in Silent Mode, or Never Play.
+Tap Ringtone or Text Tone.
+Ringtones play for incoming calls, clock alarms, and the clock timer; text tones are used for text messages, new voicemail, and other alerts.
+At the top of the Ringtone or Text Tone screen, tap Haptics, then do any of the following:
+Choose a tone (scroll to see them all).
+Choose a vibration pattern or tap Create New Vibration to create your own.
+See Change iPhone sounds and vibrations .
+Assign a different ringtone to a contact
+Open the Contacts app on your iPhone.
+Select a contact, tap Edit, tap Ringtone, then choose a ringtone.
+Turn the ringer on or off
+On supported models : Open Control Center , then tap .
+You can also configure the Action Button to turn the ringer on or off. See Customize the Action button .
+On other models: Flip the Ring/Silent switch to turn Silent mode on or off.
+Clock alarms still play when Silent mode is turned on.
+To temporarily silence incoming calls, Turn on or schedule a Focus on iPhone .

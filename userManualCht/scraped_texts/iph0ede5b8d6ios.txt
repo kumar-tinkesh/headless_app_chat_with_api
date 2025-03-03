@@ -1,0 +1,15 @@
+iPhone User Guide
+Cognitive accessibility features on iPhone
+iPhone comes with built-in options to suit your cognitive needs—or those of someone you care for.
+To explore accessibility features on iPhone, go to Settings > Accessibility.
+Adapt iPhone for someone you care for
+Keep iPhone simple
+If someone you care for has a cognitive disability, set up an iPhone with a simplified interface. Choose and customize core features that work best for them.
+Assistive Access User Guide
+Lock iPhone to one app
+When you let a child use your iPhone, limit their access to a single app.
+Lock iPhone to one app with Guided Access
+You can also reduce sensory stimulus from the screen—for example, automatically dim the display of content that depicts flashing or strobing lights, and pause the display of rapid animated images such as GIFs. See Stop or reduce onscreen motion .
+iPhone offers many additional tools to help you focus, make it easier to enter text, or follow along with what you’re reading or listening to with features like Focus , Dictation , Spoken Content , and Live Captions .
+For more resources, visit the Apple Cognitive Accessibility webpage .
+Tip: Control your go-to accessibility features and settings with the click of a button or from Control Center. See Quickly open features with Accessibility Shortcut .

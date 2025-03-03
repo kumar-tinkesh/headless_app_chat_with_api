@@ -1,0 +1,19 @@
+iPhone User Guide
+Add or change keyboards on iPhone
+You can add keyboards for writing or using Dictation in different languages on your iPhone. You can also change the layout of your onscreen or external keyboard.
+If you add keyboards for other languages, you can type in two languages without having to switch between keyboards. Your keyboard automatically switches between the two languages you use most often. (Not available for all languages.)
+Add or remove a keyboard for another language
+Go to Settings > General > Keyboard.
+Tap Keyboards, then do any of the following:
+Add a keyboard: Tap Add New Keyboard, then choose a keyboard from the list. Repeat to add more keyboards.
+Remove a keyboard: Tap Edit, tap next to the keyboard you want to remove, tap Delete, then tap Done.
+Reorder your keyboard list: Tap Edit, drag next to a keyboard to a new place in the list, then tap Done.
+If you add a keyboard for a different language, the corresponding language is automatically added to the Preferred Language Order list. You can view this list and add languages directly to it in Settings > General > Language & Region. You can also reorder the list to change how apps and websites display text.
+Switch to another keyboard
+While typing text, touch and hold or .
+Tap the name of the keyboard you want to switch to.
+You can also switch between Magic Keyboard and other keyboards .
+Assign an alternative layout to a keyboard
+You can use an alternative keyboard layout that doesn’t match the keys on your keyboard.
+Go to Settings > General > Keyboard > Keyboards.
+Tap a language at the top of the screen, then select an alternative layout from the list.

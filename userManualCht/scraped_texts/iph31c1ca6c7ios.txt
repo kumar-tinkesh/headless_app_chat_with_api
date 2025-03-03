@@ -1,0 +1,8 @@
+iPhone User Guide
+Change sound recording options on iPhone 16 models
+On all iPhone 16 models, Spatial Audio is automatically turned on when you record video. Spatial Audio produces a more realistic and immersive audio recording that you can edit later in the Photos app; see Edit Spatial Audio with Audio Mix on iPhone 16 models . Earlier iPhone models automatically record video in Stereo sound.
+Depending on your iPhone model, you can choose to record in Spatial Audio, Stereo, or Mono. Go to Settings > Camera > Record Sound, then choose one of the following:
+Spatial Audio: Audio playback is immersive from all directions on supported playback devices (supported on all iPhone 16 models).
+Stereo: Separates audio playback between left and right ears.
+Mono: Audio playback is the same in both ears.
+Note: On iPhone 16 models, when you record video with Spatial Audio or Stereo, wind noise is automatically reduced while recording. To change this setting, go to Settings > Camera > Record Sound, then turn off Wind Noise Reduction.

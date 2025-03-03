@@ -1,0 +1,13 @@
+iPhone User Guide
+Get cycling directions in Maps on iPhone
+You can get detailed cycling directions. Maps offers routes on bike paths, bike lanes, and bike-friendly roads (when available). You can preview the elevation for your ride, check how busy a road is, and choose a route that best avoids hills.
+Note: Cycling directions and turn-by-turn spoken directions are available in select areas. Features vary by country and region. See the iOS and iPadOS Feature Availability website .
+Get cycling directions
+Go to the Maps app on your iPhone.
+Touch and hold anywhere on the map or enter an address in the search field, then tap Directions or .
+Tap Go or Steps for the route you want to take.
+Siri: You can also say something like: “Give me cycling directions home.” Learn how to use Siri .
+Avoid hills or busy roads
+Go to the Maps app on your iPhone.
+Get cycling directions .
+Tap Avoid (below the destination), choose your options, then tap Apply.

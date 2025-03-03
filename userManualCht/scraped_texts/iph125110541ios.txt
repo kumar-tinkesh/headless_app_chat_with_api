@@ -1,0 +1,34 @@
+iPhone User Guide
+Set up accessories with Home on iPhone
+The first time you open the Home app, the setup assistant helps you create a home, where you can add accessories and define rooms. If you’ve already created a home when setting up a different accessory, you skip this step.
+Add an accessory to Home
+Before you add an accessory such as a light or camera, be sure that it’s connected to a power source, is turned on, and has network connectivity.
+Go to the Home app on your iPhone.
+Tap Home at the bottom left, then tap Add Accessory.
+You can also tap at the top of the screen, then choose Add Accessory.
+If you’re pairing a Matter accessory that was previously paired to another app, tap More options, then select your accessory. Open the accessory’s app, then generate a pairing code, which will be used to complete pairing with the Home app.
+Follow the onscreen instructions.
+Note: Matter-enabled accessories require a home hub, such as a HomePod speaker or Apple TV 4K. Thread-based accessories require a Thread-enabled home hub such as Apple TV 4K, HomePod (2nd generation), HomePod mini, or a compatible third-party Thread border router. Thread-enabled iPhone devices are able to locally pair and manage Thread accessories, which may require an update from the accessory manufacturer.
+You may need to scan a QR code, enter an 8-digit HomeKit setup code found on the accessory itself (or its box or documentation), or enter an 11 or 21-digit code for Matter-enabled accessories. A supported smart TV displays a QR code for you to scan. You can assign the accessory to a room, give it a name, then use this name when controlling the accessory with Siri. You can also add suggested automations during setup.
+When you set up Apple TV in tvOS and assign it to a room, it automatically appears in that room in the Home app on iPhone.
+Paired Matter accessories are synced across devices and stored in the Settings app using iCloud Keychain, regardless of which app you used to set them up. You can easily add a previously paired accessory that’s stored in Keychain to another Matter ecosystem app. To manage these accessories, go to Settings > General, then tap Matter accessories. See the Apple Support article Pair and manage your Matter accessories .
+Show accessories in a room
+You can show individual rooms, scenes assigned to them, and a room’s accessories organized by category.
+In Room View, do one of the following.
+Tap > next to a room’s name.
+Tap , then choose a room.
+Change an accessory’s room assignment
+Go to the Home app on your iPhone.
+Touch and hold an accessory tile, then tap Accessory Settings.
+Tap Room, then choose a room.
+Edit a room
+You can change a room’s name and wallpaper, remove the room, and more. When you remove the room, the accessories assigned to it move to Default Room.
+Go to the Home app on your iPhone.
+On the Home tab, tap > next to a room, or tap , then choose a room.
+Tap , then tap Room Settings.
+Organize rooms into zones
+You can group rooms together into a zone to easily control different areas of your home with Siri. For example, if you have a two-story home, you can assign the rooms on the first floor to a downstairs zone. Then you can say something to Siri like “Turn off the lights downstairs.”
+Go to the Home app on your iPhone.
+Tap > next to a room on the Home tab or tap , then choose a room.
+Tap , then tap Room Settings.
+Tap Zone, then tap an existing zone, or tap Create New to add the room to a new zone.

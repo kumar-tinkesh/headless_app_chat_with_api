@@ -1,0 +1,14 @@
+iPhone User Guide
+Change the default apps on iPhone
+With iOS 18.2 or later, you can select alternative, third-party apps—for email, messaging, calling, call filtering, web browsing, passwords, or keyboards—as defaults to launch instead of the built-in Apple apps. Make sure the app you want to switch to supports this feature. If you aren’t sure, contact the app developer .
+Change your default apps
+Go to Settings > Apps > Default Apps.
+Tap any of the following:
+Email: To change the default app for sending and receiving email.
+Messaging: To change the default app for sending and receiving messages.
+Calling: To change the default app for making and receiving calls.
+Call Filtering: To turn on or off call blocking and identification options. (See Turn on Call Identification ).
+Browser App: To change the default app to open links on the web.
+Passwords & Codes: This section allows you to turn on or off AutoFill Passwords and Passkeys for apps and websites, and password, passkey, and code-generation and verification apps.
+Keyboards: To add or delete keyboards and third-party keyboard apps.
+Select the app you want to use as the default.

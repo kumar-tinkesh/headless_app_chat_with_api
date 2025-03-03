@@ -1,0 +1,16 @@
+iPhone User Guide
+Announce calls, messages, and more with Siri on iPhone
+Siri can announce calls and notifications from apps like Messages on supported headphones and when using CarPlay . You can answer or reply using your voice without needing to say “Hey Siri.”
+Announce Calls and Announce Notifications also work with supported third-party apps.
+Have Siri announce calls
+With Announce Calls, Siri identifies incoming phone calls and FaceTime calls, which you can accept or decline using your voice.
+Go to Settings > Siri > Announce Calls, then choose an option.
+When a call comes in, Siri identifies the caller, and asks if you want to answer the call. Say “yes” to accept the call or “no” to decline it.
+Have Siri announce notifications
+Siri can automatically announce incoming notifications from apps like Messages and Reminders. Siri automatically enables app notifications for apps that use time-sensitive notifications, but you can change the settings at any time. To learn more about time-sensitive notifications, see Set up a Focus .
+Go to Settings > Siri > Announce Notifications, then turn on Announce Notifications.
+Tap an app you want Siri to announce notifications from, then turn on Announce Notifications.
+For some apps, you can also choose whether to announce all notifications or only time-sensitive notifications.
+For apps where you can send a reply, like Messages, Siri repeats what you said, then asks for confirmation before sending your reply. To send replies without waiting for confirmation, turn on Reply Without Confirmation.
+Respond to Siri announcements hands-free
+You can nod or shake your head to respond to Siri announcements while you’re wearing supported AirPods. So if you’re on the bus to work, you can still use Siri for managing calls, messages, and notifications without having to speak out loud. See Use controls and gestures with your AirPods in the AirPods User Guide.

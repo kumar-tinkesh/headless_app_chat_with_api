@@ -1,0 +1,26 @@
+iPhone User Guide
+Access features from the iPhone Lock Screen
+The Lock Screen appears when you turn on or wake iPhone. From the Lock Screen, you can see notifications, open Camera and Control Center, get information from your favorite apps at a glance, control media playback, and more.
+You can personalize your Lock Screen by choosing a wallpaper, showcasing a favorite photo, changing the font of the time, adding widgets, and more. See Create a custom iPhone Lock Screen .
+Access features and information from the Lock Screen
+You can quickly access useful features and information from the Lock Screen, even while iPhone is locked.
+Go to the Lock Screen, then do any of the following:
+Open Camera: Swipe left. On supported models , you can touch and hold , then lift your finger. (See iPhone camera basics .)
+Open Control Center: Swipe down from the top-right corner (on an iPhone with Face ID) or swipe up from the bottom edge of the screen (on other iPhone models). (See Use and customize Control Center on iPhone .)
+See earlier notifications: Swipe up from the center. (See View and respond to notifications on iPhone .)
+View more widgets: Swipe right. (See Add, edit, and remove widgets on iPhone .) You can interact with widgets on the Lock Screen and the Home Screen to perform tasks—for example, tap an item in the Reminders widget to check it off, or tap the Play button in the Podcasts widget to play an episode.
+Control media playback: Use the playback controls (Now Playing) on the Lock Screen to play, pause, rewind, or fast-forward media playing on your iPhone. (See View and control Live Activities on the Lock Screen .)
+To choose what you can access from the Lock Screen, see Turn on Lock Screen features on iPhone .
+Show notification previews on the Lock Screen
+Go to Settings > Notifications.
+Tap Show Previews, then tap Always.
+Choose how you want notifications displayed on the Lock Screen:
+View just the number of notifications: Tap Count.
+View the notifications grouped into stacks by app: Tap Stack.
+View the notifications in a list: Tap List.
+You can pinch the notifications on the Lock Screen to change the layout.
+Notification previews can include text from Messages, lines from Mail messages, and details about Calendar invitations. See View and respond to notifications on iPhone .
+View and control Live Activities on the Lock Screen
+You can view Live Activities on your Lock Screen—including live sports updates, order updates, and media playing—so you can follow along right on your Lock Screen, even when you can’t watch the entire event.
+When you play music, a movie, or other media on your iPhone, you can use the playback controls (Now Playing) on your Lock Screen to play, pause, rewind, and fast-forward.
+You can also control media playback on a remote device (such as your Apple TV or HomePod) from your iPhone Lock Screen.

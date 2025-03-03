@@ -1,0 +1,16 @@
+iPhone User Guide
+Use iMessage apps in Messages on iPhone
+You can play a game, record audio messages, share songs, and more—all with iMessage apps—without leaving the Messages app. You can customize your list of available apps or add iMessage apps you find in the App Store.
+Rearrange iMessage apps
+Go to the Messages app on your iPhone.
+Start a new message or open a conversation, then tap .
+Touch and hold any app icon in the list until it shrinks a little, then drag it to the location where you want it.
+To move the app icon to a different page, drag it to the top or bottom edge of the screen. You might need to wait a moment for the new page to appear.
+Add iMessage apps
+The Messages app comes with iMessage apps you can use to send photos, videos , audio messages , payments , stickers , and more. You can download additional iMessage apps for even more options.
+Go to the Messages app on your iPhone.
+Start a new message or open a conversation, then tap .
+Tap Store to open the App Store for iMessage.
+Tap an app to see more details and reviews, then do one of the following:
+Purchase an app: Tap the price. Payments are made using the method associated with your Apple Account .
+Download a free app: Tap Get.

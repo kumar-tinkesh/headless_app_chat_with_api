@@ -1,0 +1,27 @@
+iPhone User Guide
+Dictate text on iPhone
+With Dictation on iPhone, you can dictate text anywhere you can type it. You can also use typing and Dictation together—the keyboard stays open during Dictation so you can easily switch between voice and touch to enter text.
+Dictation requests are processed on your device in many languages—no internet connection is required. When dictating in a search box, dictated text may be sent to the search provider in order to process the search.
+Note: Dictation may not be available in all languages or in all countries or regions, and features may vary.
+When using Dictation, cellular data charges may apply. See View or change cellular data settings .
+Turn on Dictation
+Go to Settings > General > Keyboard.
+Turn on Enable Dictation. If a prompt appears, tap Enable Dictation.
+To learn more about how Apple protects your information and lets you choose what you share, tap About Dictation & Privacy below Dictation, or see the Apple Privacy website .
+Dictate text
+Tap in the text field to place the insertion point where you want to begin dictating text.
+Tap on the onscreen keyboard (or in any text field where it appears).
+When appears near the insertion point in the text field, begin to dictate your text.
+To insert an emoji or a punctuation mark, or perform simple formatting tasks, do any of the following:
+Add emoji : Say the name of an emoji, such as “heart emoji” or “smiley face emoji.”
+Add punctuation : Say the name of the punctuation mark, such as “exclamation point.”
+Note: In supported languages, Dictation automatically inserts commas, periods, and question marks as you dictate. To turn off automatic punctuation, go to Settings > General > Keyboard, then turn off Auto-Punctuation.
+Change formatting : Say a formatting command such as “new line” or “new paragraph.”
+Make text changes : Say a command such as “select…” or “delete…” to make changes to text.
+Undo or repeat a command : Say “undo” or “redo” if you change your mind or want to repeat a command.
+When you’re done, tap or say “Stop dictation”; Dictation stops automatically when you stop speaking for 30 seconds.
+For a full list of the commands you can use while dictating, see Commands for dictating text .
+When you use a keyboard for another language, you can use Dictation in that language as well. See Add or change keyboards .
+Turn off Dictation
+Go to Settings > General > Keyboard.
+Turn off Enable Dictation.

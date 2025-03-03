@@ -1,0 +1,23 @@
+iPhone User Guide
+Search for email in Mail on iPhone
+You can search for email messages using different criteria.
+Search for text in an email
+Go to the Mail app on your iPhone.
+From a mailbox, swipe down to reveal the search field, tap it, then type the text you’re looking for.
+Choose between searching all mailboxes or the current mailbox above the results list.
+Tap search, then tap a message in the results list to read it.
+Mail searches the address fields, the subject, the email body, documents, and links. The most relevant messages appear in Top Hits above the search suggestions as you type.
+Tip: To quickly find travel booking confirmations for flights and hotels, enter the three-letter airport code or the city name.
+Search by timeframe
+Go to the Mail app on your iPhone.
+Tap the search field of a mailbox list.
+Enter a timeframe, like “September,” then tap to see all emails from that timeframe.
+To narrow the search, tap the search field again, then enter a keyword, like “meeting.”
+Search by email attributes
+Go to the Mail app on your iPhone.
+In an inbox, tap the search field.
+Before you begin typing, you may see suggested recent searches, recent documents, and links listed.
+Enter your search criteria, then tap one of the listed items, or do any of the following:
+Find all flagged messages: Enter “flag” in the search field, scroll down, then tap Flagged Messages below Other.
+Find all unread messages: Enter “unread” in the search field, scroll down, then tap Unread Messages below Other.
+Find all messages with attachments: Enter “attachment” in the search field, scroll down, then tap Messages with Attachments below Other.

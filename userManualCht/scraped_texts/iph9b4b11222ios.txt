@@ -1,0 +1,7 @@
+iPhone User Guide
+Take a Live Photo in FaceTime on iPhone
+When you’re on a video call in the FaceTime app , you can take a FaceTime Live Photo to capture a moment of your conversation (not available in all countries or regions). The camera captures what happens just before and after you take the photo, including the audio, so you can see and hear it later just the way it happened.
+To take a FaceTime Live Photo, first make sure FaceTime Live Photos is turned on in Settings > Apps > FaceTime, then do one of the following:
+During a call with one other person: Tap .
+During a Group FaceTime call: Tap the tile of the person you want to take a picture of, then tap .
+You both receive a notification that the photo was taken, and the Live Photo is saved in your Photos app.

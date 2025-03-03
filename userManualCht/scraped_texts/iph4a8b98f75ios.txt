@@ -1,0 +1,6 @@
+iPhone User Guide
+Turn off Find My on iPhone
+You can turn off Find My on your iPhone if you no longer want to share your location or view the location of your friends, devices, and items.
+Go to Settings > [ your name ] > Find My.
+Tap Find My iPhone, then tap to turn it off.
+Enter your Apple Account password, then tap Turn Off.

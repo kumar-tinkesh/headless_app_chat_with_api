@@ -1,0 +1,29 @@
+iPhone User Guide
+Hand off tasks between your iPhone and your other devices
+With Handoff, you can start a task on one device and complete it on another. For example, you can start an email on your iPhone but then finish it on your Mac computer’s bigger screen.
+You can use Handoff with many Apple apps—for example, Safari, Mail, FaceTime, and Maps. Some third-party apps also work with Handoff.
+You can use Handoff between your iPhone, iPad, and Mac. You can also hand off tasks between your Apple Watch and iPhone.
+Before you begin
+Make sure of the following:
+Both devices have Wi-Fi and Bluetooth ® turned on.
+You’re signed in to the same Apple Account on both devices.
+Both devices meet minimum system requirements for Handoff .
+If you’re using a VPN, make sure its configuration does not prevent local networking as that may interfere with some Continuity features.
+Turn on Handoff
+Turn on Handoff on both your iPhone and your other Apple device.
+On iPhone or iPad: Go to Settings > General > AirPlay & Continuity, then turn on Handoff.
+On your Mac: Choose Apple menu > System Settings, click General in the sidebar, click AirDrop & Handoff, then turn “Allow Handoff between this Mac and your iCloud devices” on or off.
+Note: If your Mac has macOS 12.5 or earlier, choose Apple menu  > System Preferences, click General, then select “Allow Handoff between this Mac and your iCloud devices.”
+On Apple Watch: Open the Apple Watch app on iPhone, go to My Watch > General, then turn on Enable Handoff.
+Hand off a task between your iPhone and other devices
+When your devices are near each other, an icon appears whenever a task can be handed off. Just tap or click the Handoff icon to continue working on your other device.
+The Handoff icon appears in the following locations:
+On an iPhone: At the bottom of the App Switcher screen.
+On an iPad: At the right end of the Dock.
+On a Mac: Toward the right end of the Dock, if the Dock is at the bottom of the screen. If you set up the Dock to appear on the left or right side of your screen, the Handoff icon appears at the bottom of the Dock.
+Hand off a task from your Apple Watch
+If you have an Apple Watch, you can hand off tasks from certain apps on your Apple Watch to your iPhone. To learn more, see Handoff tasks from Apple Watch .
+If Handoff isn’t working
+Make sure that both devices have Wi-Fi and Bluetooth turned on, and you’re signed in to the same Apple Account .
+Check that your app supports Handoff. Calendar, Contacts, FaceTime, Keynote, Mail, Maps, Pages, Numbers, Reminders, and Safari, as well as many third-party apps, allow Handoff.
+Tip: When Handoff is on, you can use Universal Clipboard to copy and paste text, images, photos, and videos across devices.

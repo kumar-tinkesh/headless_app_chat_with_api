@@ -1,0 +1,10 @@
+iPhone User Guide
+Play background sounds on iPhone
+You can have iPhone play ambient background sounds—such as ocean waves or rain—to help you focus or rest.
+Go to Settings > Accessibility > Audio & Visual > Background Sounds, then turn on Background Sounds.
+Tip: Control Background Sounds with the click of a button or from Control Center. See Quickly turn accessibility features on or off .
+Set any of the following:
+Sound: Choose a sound; the audio file downloads to your iPhone.
+Volume: Drag the slider.
+Use When Media is Playing: Adjust the volume of the background sound when iPhone is playing music or other media.
+Stop Sounds When Locked: Background sounds stop playing when iPhone is locked.

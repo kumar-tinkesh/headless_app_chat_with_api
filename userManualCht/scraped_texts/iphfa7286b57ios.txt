@@ -1,0 +1,37 @@
+iPhone User Guide
+Mark a location with a pin in Maps on iPhone
+You can use pins to mark places so you can more easily find those locations later.
+Drop a pin
+You can drop a pin to share a location with someone else, or to start or end your route at a location that isn’t already marked on the map. Only one pin appears at a time, unless you save them to your library.
+Go to the Maps app on your iPhone.
+Touch and hold the map until a pin marker appears.
+To refine the location, tap Move, then drag the map.
+Tap Pin. To mark several places with pins, save each pin as you drop it.
+To get directions to the pin, tap the pin, then tap the directions button .
+Tip: To note your current location when you don’t have the Maps app open, touch and hold the Maps icon on the Home Screen, then choose Mark My Location. See Perform quick actions .
+Share a pin
+Go to the Maps app on your iPhone.
+Do one of the following:
+Touch and hold the map until a pin marker appears.
+Below Library, tap , tap Pinned, then tap the pin.
+Tap (at the top of the card), then choose how you want to share it.
+Get the latitude and longitude of a pin
+Go to the Maps app on your iPhone.
+Below Library, tap , tap Pinned, then tap the pin.
+Swipe up to Coordinates (below Details).
+Touch and hold the coordinates, then tap Copy.
+See your saved pins
+Pins appear as a row of icons in your library when you open the Maps app.
+Edit a pin
+Go to the Maps app on your iPhone.
+Below Library, tap , then tap Pinned.
+Tap , then do any of the following:
+Change the name of the pin: Tap in the Label field.
+Assign it to your Home, Work, or School address: Choose an option below Type.
+Change the location of the pin: Tap “Refine Location on the Map.”
+Note: If you change your Home, Work, or School address after you’re prompted to sync Maps to My Card, you may need to update your address in both Maps and Contacts. See Add a pin to your library and Complete or edit My Card .
+Remove a pin
+Go to the Maps app on your iPhone.
+Below Library, tap , then tap Pinned.
+Swipe left on the pinned location, then tap Delete.
+To delete a dropped pin on the map, touch and hold the marker, then tap Remove Pin.

@@ -1,0 +1,30 @@
+iPhone User Guide
+Translate text with the camera view in the Translate app on iPhone
+On iPhone, you can use the camera view in the Translate app to translate text around you—for example, a restaurant menu or street signs. You can also translate text in photos from your photo library.
+Note: Translation is available for supported languages. See the iOS and iPadOS Feature Availability website .
+Translate text using the camera view
+Go to the Translate app on your iPhone.
+Tap Camera, then choose the language you want to translate your selected text into.
+Position iPhone so the rear camera can translate text around you.
+Note: As you move the rear camera, text is translated in real time.
+Tap to pause the view.
+You can zoom in to get a closer look at the overlaid translations.
+Tap an overlaid translation to show the translation card, then do any of the following:
+Copy Translation: Copy the translated text.
+Add to Favorites: Add the translation to a list of favorites.
+Listen to Original Text: Tap more, then tap to listen to the original text.
+Listen to Translated Text: Tap to listen to the translated text.
+When you’re finished, tap .
+Translate text in photos from your photo library
+Go to the Translate app on iPhone.
+Tap Camera, then choose the language you want to translate your selected text into.
+Tap , then select a photo that contains text from your photo library.
+When you’re finished, tap .
+Share and save a translated image
+Go to the Translate app on your iPhone.
+Tap Camera, then do one of the following:
+Use the camera view: Tap .
+Use a photo from your photo library: Tap , then tap a photo.
+Tap , then do any of the following:
+Share the translation: Choose a share option.
+Save the translation as an image: Tap Save Image.

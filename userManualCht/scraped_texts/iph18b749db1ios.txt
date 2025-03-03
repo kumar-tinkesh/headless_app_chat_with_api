@@ -1,0 +1,37 @@
+iPhone User Guide
+Add or edit your contact info and photo on iPhone
+iPhone uses your Apple Account to create your contact card, called My Card, in the Contacts app. You can also add or edit details—including your name, address, phone number, and birthday, as well as the Contact Poster, which you can share with people when you call or send a message to them.
+Complete or edit My Card
+Go to the Contacts app on your iPhone.
+Tap My Card at the top, then tap Edit.
+If you don’t see My Card, tap and enter your information, then return to the contact list, touch and hold your contact, and tap Make this My Card.
+Enter your contact information.
+Contacts suggests addresses and phone numbers to help you.
+Tip: You can also teach Siri how to pronounce your name. See Tell Siri how to say your name .
+Add or edit your home address
+Go to the Contacts app on your iPhone.
+Tap My Card at the top, then tap Edit.
+Tap Add Address and add your address.
+Tap the label that appears to the left of the address and select Home.
+You can use AutoFill in Safari to automatically fill in your address for things like online shopping or online forms. When you edit your My Card, your AutoFill information automatically updates. See Automatically fill in your information .
+Add or edit your photo and poster
+You can set a photo and poster to automatically appear when you call or send a message to others.
+Go to the Contacts app on your iPhone.
+Tap My Card at the top, then tap Contact Photo & Poster.
+Optionally, tap Name, enter your first and last name as you want it to appear to others, then tap Edit to pick a poster or create a new one.
+Share your name and contact image
+You can choose to automatically share your updated name, photo, and poster with people in your contacts.
+Go to the Contacts app on your iPhone.
+Tap My Card at the top, then tap Contact Photo & Poster.
+Turn on Name & Photo Sharing to start sharing your contact photo and poster with others.
+You can share automatically with Contacts Only, or select Always Ask to be prompted before your name, photo, and poster are shared with anyone you’re communicating with.
+Add or edit contact pronouns
+You can add or edit your pronouns or another contact’s pronouns in the Contacts app.
+Go to the Contacts app on your iPhone.
+Tap My Card at the top to add your pronouns, or select another contact to add theirs.
+Tap Edit, then tap Add Pronouns.
+Select your language and add the correct pronouns.
+You can also add pronouns in other languages by tapping Add Pronouns again.
+Note: When you share your contact information through Contacts or NameDrop, by default your pronouns aren’t shared. When you’re sharing another contact’s information, their pronouns are never shared.
+Create or edit your Medical ID
+Tap My Card at the top of your contacts list, tap Edit, scroll down, then tap Create Medical ID or Edit Medical ID.

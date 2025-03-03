@@ -1,0 +1,29 @@
+iPhone User Guide
+Sign in and manage your Apple Account on iPhone
+Your Apple Account gives you access to Apple services such as the App Store, the iTunes Store, Apple Books, Apple Music, FaceTime, iCloud, iMessage, and more.
+When you create a new Apple Account in China mainland or India, you can use your mobile phone number as your Apple Account user name. See the Apple Support article Create and manage an Apple Account using a phone number instead of an email address .
+Sign in to your Apple Account
+If you didn’t sign in during setup, do the following:
+Go to Settings .
+Tap Apple Account.
+Tap one of the following:
+Use Another Apple Device: Bring your other iPhone or iPad (with iOS 17, iPadOS 17, or later) nearby, then follow the onscreen instructions.
+Sign in Manually: Enter your email address or phone number, then enter your password. If you don’t have an Apple Account, you can create one.
+If you protect your account with two-factor authentication, enter the six-digit verification code.
+If you forgot your Apple Account password, see the Reset your password website .
+Change your Apple Account settings
+Go to Settings > [ your name ].
+Do any of the following:
+Update your contact information.
+Change your password.
+Add or remove Account Recovery Contacts .
+Use iCloud .
+View and manage your subscriptions.
+Update your payment methods or billing address.
+Manage Family Sharing .
+Add or update the payment method associated with your Apple Account
+The payment information associated with your Apple Account is used for Apple media purchases and services.
+Go to Settings > [ your name ].
+Tap Payment & Shipping. You may need to authenticate with Face ID or Touch ID.
+Tap Add Payment Method or tap an existing payment method.
+See the Apple Support article If you need to change or update your Apple Account payment method .

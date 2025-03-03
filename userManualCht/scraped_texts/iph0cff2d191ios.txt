@@ -1,0 +1,38 @@
+iPhone User Guide
+Add music to iPhone and listen offline
+As soon as you subscribe to Apple Music , you can add and download songs and videos from Apple Music to your music library. You can stream music you add to iPhone when you have an internet connection. To play music when you’re not connected to the internet, you need to download it first.
+Add music from Apple Music to your library
+Go to the Music app on your iPhone.
+Do any of the following:
+Touch and hold a song, album, playlist, or video, then tap Add to Library.
+When viewing the contents of an album or playlist, tap near the top of the screen to add the album or playlist, or tap next to a song, then tap Add to Library to add that song.
+On the Now Playing screen, tap , then tap Add to Library.
+Music you add to iPhone is also added to other devices if you’re signed in to the same Apple Account and have Sync Library turned on (go to Settings > Apps > Music, then turn on Sync Library).
+Download music from Apple Music to your iPhone
+Before you can download music from Apple Music to your library, you need to turn on Sync Library. Go to Settings > Apps > Music, then turn on Sync Library. Then follow these steps to download music.
+Go to the Music app on your iPhone.
+Do any of the following:
+Download a song, album, or playlist: Touch and hold music you added to your library, then tap Download.
+After you add a playlist or album, you can also tap at the top of the screen.
+Always download music: Go to Settings > Apps > Music, then turn on Automatic Downloads.
+Songs you add are automatically downloaded to iPhone.
+See download progress: On the Library screen, tap Downloaded Music, then tap Downloading.
+Note: If the music you’re downloading is available in Dolby Atmos, the Dolby icon appears next to the item, and you can download it either in Dolby Atmos or in stereo. To download music in Dolby Atmos when available, go to Settings > Apps > Music, then turn on Download in Dolby Atmos. See Play Dolby Atmos music .
+Delete music from your library
+Go to the Music app on your iPhone.
+Touch and hold the song, album, playlist, or music video, then tap Delete from Library.
+Manage storage space
+To manage storage space, do any of the following:
+Remove music and videos stored on iPhone: Go to the Music app on your iPhone, touch and hold a song, album, playlist, music video, TV show, or movie that you’ve downloaded, tap Remove, then tap Remove Downloads.
+The item is removed from iPhone, but not from your music library on your other devices.
+Free up music storage: If iPhone is low on storage space, you can automatically remove downloaded music that you haven’t played in a while. Go to Settings > Apps > Music > Optimize Storage.
+Remove all songs or certain artists from iPhone: Go to Settings > Apps > Music > Downloaded Music, tap Edit, then tap next to All Songs or the artists whose music you want to delete.
+Remove all Apple Music songs from iPhone: Go to Settings > Apps > Music, then turn off Sync Library.
+The songs are removed from iPhone but remain in your music library on your other devices. Music you purchased or synced also remains.
+Choose cellular data options for Music
+Go to Settings > Apps > Music, then turn on Cellular Data.
+Do any of the following:
+Turn Download over Cellular on or off.
+Tap Audio Quality, turn on Lossless Audio, then tap Cellular Streaming to choose a setting (None, High Efficiency, High Quality, Lossless, or High-Resolution Lossless).
+High Quality, Lossless, and High-Resolution Lossless use significantly more cellular data than High Efficiency, which may incur additional charges from your cellular carrier. Songs may also take longer to start playing.
+Apple Footer

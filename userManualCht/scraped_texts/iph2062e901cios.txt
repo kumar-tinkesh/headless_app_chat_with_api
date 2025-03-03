@@ -1,0 +1,25 @@
+iPhone User Guide
+Write with your finger in VoiceOver on iPhone
+With handwriting mode in VoiceOver, you can enter text by writing characters on the screen with your finger. In addition to typing or dictation, use handwriting mode to enter your iPhone passcode silently or to open apps from the Home Screen.
+Use handwriting mode
+Set the rotor to Handwriting.
+If Handwriting isn’t in the rotor, go to Settings > Accessibility > VoiceOver > Rotor, then add it.
+To choose a character type (lowercase, numbers, uppercase, or punctuation), swipe up or down with three fingers.
+To hear the selected character type, tap with three fingers.
+Trace a character on the screen with your finger.
+You can also do any of the following:
+Enter an alternate character (a character with an accent, for example): Write the character, then swipe up or down with two fingers until you hear the character you want.
+Enter a space: Swipe right with two fingers.
+Go to a new line: Swipe right with three fingers.
+Delete the previous character: Swipe left with two fingers.
+To exit handwriting mode, do a two-finger scrub (move two fingers back and forth three times quickly, making a “z”), or set the rotor to a different setting.
+Enter your passcode silently with handwriting mode
+On the passcode screen, set the rotor to Handwriting.
+Write the characters of your passcode with your finger.
+Select an item on the Home Screen
+On the Home Screen, set the rotor to Handwriting.
+Start writing the name of the item with your finger.
+If there are multiple matches, continue to spell the name until it’s unique, or swipe up or down with two fingers to choose from the current matches.
+Quickly navigate a long list
+Select the index to the right of the list (for example, next to your Contacts list or in the VoiceOver Item Chooser).
+Set the rotor to Handwriting, then use your finger to write the letter you want to navigate to.

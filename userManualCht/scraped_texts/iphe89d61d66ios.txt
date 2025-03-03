@@ -1,0 +1,35 @@
+iPhone User Guide
+Use and customize the Action button on iPhone
+On supported models , iPhone has an Action button in place of the Ring/Silent switch. You can choose which function you want the Action button to perform when you press it. Because the button is so accessible, it’s useful for actions you perform often. (The location of the Action button is shown below.) It’s easy to change the Action button to perform a different function.
+Customize the Action button
+On supported models , go to Settings > Action Button.
+An image of the side of the iPhone appears with icons representing actions you can assign to the Action button.
+To choose an action, swipe to the action you want to use—its name appears below the dots.
+Tip: To customize the Action button to put iPhone in Silent mode, swipe to . To choose another action, swipe to it.
+If there are additional options for the selected action, appears below the action; tap it to see the list of options.
+For the Controls, Shortcut, and Accessibility actions, you need to tap the button below the action and select a specific option—otherwise the Action button does nothing.
+Icon
+Action
+Silent Mode: Switch between Silent and Ring for calls and alerts.
+Focus: Turn on a Focus to silence notifications and filter out distractions.
+Camera: Open the Camera app to capture a moment.
+Flashlight: Turn on extra light when you need it.
+Voice Memo: Record personal notes, musical ideas, and more.
+Recognize Music: Find out what song is playing nearby or on your iPhone with Shazam.
+Translate: Translate phrases or have a conversation with someone in another language.
+Magnifier: Turn your iPhone into a magnifying glass to zoom in on and detect objects near you.
+Controls: Quickly access your favorite control.
+Shortcut: Open an app or run your favorite shortcut.
+Accessibility: Quickly use an accessibility feature.
+No Action
+Do nothing.
+Use the Action button
+To perform the action assigned to the Action button, press and hold the Action button.
+For many functions, the Action button can be used to turn a setting on or off. For example, if the selected action is Silent Mode, you can press and hold the Action button to put iPhone in Silent mode . If you press and hold the Action button again, it turns off Silent mode.
+Add a control to the Action button
+You can assign a Control Center control to the Action button, and then turn the control on or off just by using the Action button.
+Go to Settings > Action Button.
+Swipe to the Controls action, then tap Choose a Control.
+Scroll through the controls or search for the control you want by entering it in the search field above the controls.
+Tap the control you want to add.
+For example, you can assign Dark Mode to the Action button by tapping . Then you can turn Dark Mode on or off by pressing and holding the Action button.

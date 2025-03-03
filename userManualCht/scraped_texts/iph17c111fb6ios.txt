@@ -1,0 +1,11 @@
+iPhone User Guide
+Search in Messages on iPhone
+You can search for text messages and attachments, using different criteria to narrow your results.
+Go to the Messages app on your iPhone.
+Tap the search field above the conversation list. (You may need to swipe down to reveal the search field.)
+Enter what you’re looking for (such as a word or phrase).
+When you enter a search term—such as Photo, Link, Wallet (for passes), or the name of a conversation or person—a filter appears below the search field. Tap it to add it to the search as a filter.
+Tip: To limit your search to one person or conversation, start by typing a person’s name, tap “Messages with” or “Messages in,” then tap other criteria that appear or add any text you want to find in your conversation.
+To combine search criteria, add another search term or filter.
+Tap search, then tap a message in the results list to read it.
+The search field also opens suggestions—such as conversations, photos, locations, links, and more. Tap any suggestion to quickly jump to a conversation.

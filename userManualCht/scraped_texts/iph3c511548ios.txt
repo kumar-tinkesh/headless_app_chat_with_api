@@ -1,0 +1,30 @@
+iPhone User Guide
+Search with Spotlight on iPhone
+On iPhone, you can search for apps and contacts, content in apps like Mail and Messages, and even text in your photos using Live Text. You can check stock and currency information, and find and open webpages, apps, and images in your photo library, across your system, and on the web.
+When you search for an app, app shortcuts for your most likely next action appear within the Top Hit. (For example, a shortcut to the Favorites album appears when you search for Photos.)
+In Settings > Search, you can choose which apps you want to include in search results. Search offers suggestions based on your app usage, and updates results as you type.
+Choose which apps to include in Search
+Go to Settings > Search.
+Scroll down, tap an app, then turn Show App in Search on or off.
+Search with iPhone
+Tap at the bottom of the Home Screen (on models with Face ID ) or swipe down on the Home Screen or the Lock Screen.
+Enter what you’re looking for in the search field.
+Do any of the following:
+Initiate your search: Tap Search or Go.
+Open a suggested app: Tap the app.
+Take quick action: Start a timer, turn on a Focus, find the name of a song with Shazam, run any shortcut, and more. Search for an app’s name to see shortcuts available for the app, or create your own using the Shortcuts app.
+Check a suggested website: Tap it.
+Get more information about a search suggestion: Tap it, then tap one of the results to open it.
+Start a new search: Tap in the search field.
+Turn off Location-Based Suggestions
+Go to Settings > Privacy & Security > Location Services.
+Tap System Services, then turn off Suggestions & Search.
+Search in apps
+Many apps include a search field or a search button so you can find something within the app. For example, in the Maps app, you can search for a specific location.
+In an app, tap the search field or .
+If you don’t see a search field or button, swipe down from the top.
+Type your search, then tap Search.
+Add a dictionary
+On iPhone, you can add dictionaries, which can be used in searches.
+Go to Settings > General > Dictionary.
+Select a dictionary.

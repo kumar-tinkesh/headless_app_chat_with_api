@@ -1,0 +1,5 @@
+iPhone User Guide
+Choose an alternative layout for Magic Keyboard with iPhone
+With an alternative keyboard layout, you can enter letters and marks that are different from the ones on Magic Keyboard. For example, with the ABC - Extended keyboard layout, you can type letters and enter diacritical marks for several different European languages and tone marks for Mandarin Chinese in Pinyin.
+Go to Settings > General > Keyboard > Hardware Keyboard.
+Tap a language at the top of the screen, then choose an alternative layout from the list.

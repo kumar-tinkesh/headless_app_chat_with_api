@@ -1,0 +1,38 @@
+iPhone User Guide
+Back up iPhone
+You can back up iPhone using iCloud or your computer. To decide which method is best for you, see About backups for iPhone, iPad, and iPod touch .
+Tip: If you replace your iPhone, you can use its backup to transfer your information to the new device. See Restore all content to iPhone from a backup .
+Back up iPhone using iCloud
+iCloud backups store information and settings on your device that don’t regularly sync to iCloud. This includes things like device settings, Home Screen layout, and app organization. See the Apple Support article What does iCloud back up?
+Go to Settings > [ your name ] > iCloud > iCloud Backup.
+Turn on Backup This iPhone.
+iCloud automatically backs up your iPhone daily when iPhone is connected to power, locked, and connected to Wi-Fi.
+Note: On models that support 5G , your carrier may give you the option to back up iPhone using your cellular network. Go to Settings > [ your name ] > iCloud > iCloud Backup, then turn Back Up Over Cellular on or off.
+To perform a manual backup, tap Back Up Now.
+If you need help backing up your iPhone with iCloud, see the Apple Support article If you can't back up to iCloud .
+View available iCloud storage
+Go to Settings > [ your name ] > iCloud.
+The amount of iCloud storage used and the amount of iCloud storage available appear at the top of the screen.
+Manage iCloud storage
+You can view details about iCloud backups, such as the last backup, the next backup size, and the apps included in the backup.
+Go to Settings > [ your name ] > iCloud > iCloud Backup, then tap your iPhone (This iPhone).
+To reduce the size of a backup, tap the apps you don’t want to back up anymore; the apps’ existing backup data will also be deleted from iCloud.
+For more information, see the Apple Support article Manage your iCloud storage .
+Back up iPhone using your Mac
+You can save a backup of your iPhone on your Mac.
+Connect iPhone and your computer with a cable .
+In the Finder sidebar on your Mac, select your iPhone.
+To use the Finder to back up iPhone, macOS 10.15 or later is required. With earlier versions of macOS, use iTunes to back up iPhone.
+At the top of the Finder window, click General.
+Select “Back up all of the data on your iPhone to this Mac.”
+To encrypt your backup data and protect it with a password, select “Encrypt local backup.”
+Click Back Up Now.
+Note: You can also connect iPhone to your computer wirelessly if you set up syncing over Wi-Fi .
+Back up iPhone using your Windows device
+Connect iPhone and your computer with a cable .
+In the iTunes app on your PC, click the iPhone button near the top left of the iTunes window.
+Click Summary.
+Click Back Up Now (below Backups).
+To encrypt your backups, select “Encrypt local backup,” type a password, then click Set Password.
+To see the backups stored on your computer, choose Edit > Preferences, then click Devices. Encrypted backups have a lock icon in the list of backups.
+Note: You can also connect iPhone to your computer wirelessly if you set up syncing over Wi-Fi .

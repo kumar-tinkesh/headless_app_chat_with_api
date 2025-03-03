@@ -1,0 +1,25 @@
+iPhone User Guide
+Delete and recover your Freeform boards on iPhone
+You can remove Freeform boards you no longer need. You can also recover deleted boards you want to keep.
+Delete a board
+Go to the Freeform app on your iPhone.
+While browsing All Boards, tap near the top-right corner, tap Select, then tap the boards you want to delete. (A checkmark appears as you select each one.)
+(If you’re in a board, tap to browse All Boards.)
+Tap Delete at the bottom-right corner of the screen.
+You can also touch and hold the thumbnail or name of the board, then tap Delete.
+If you’re the owner of a board and you delete it, it no longer appears on anyone’s devices.
+If you’re a participant in a shared board and you delete it, it no longer appears on your devices, but others can still access it.
+Recover a recently deleted board
+If you change your mind about deleting a board, you can recover it.
+Go to the Freeform app on your iPhone.
+While browsing All Boards, tap , then tap Recently Deleted.
+Do one of the following:
+Recover a board: Touch and hold the thumbnail or name of the recently deleted board, then tap Recover.
+Recover several boards: Tap near the top-right corner, tap Select, then tap the boards you want to recover. (A checkmark appears as you select each one.) Tap Recover at the bottom of the screen.
+Deleted boards remain in Recently Deleted for 30 days.
+If you were the owner of a shared board that you deleted, it no longer appears on anyone’s device, and you have to reshare it after recovering it.
+If you delete a board you don’t own, you may be able to access it again with the invitation link.
+Permanently remove a recently deleted board
+After deleting a board, you can permanently remove it.
+Go to the Freeform app on your iPhone.
+While browsing Recently Deleted, touch and hold the board, tap Delete, then tap Delete.

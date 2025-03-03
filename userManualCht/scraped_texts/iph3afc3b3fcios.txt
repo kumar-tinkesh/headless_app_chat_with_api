@@ -1,0 +1,25 @@
+iPhone User Guide
+Use the Tips app on iPhone
+View collections of tips in the Tips app that help you get the most from your iPhone. You can also get notifications every once in a while so you can keep learning new things over time.
+Get tips
+In the Tips app, you can learn how to personalize your Lock Screen, how to schedule a text message to send later, how to mute calls with your AirPods, and much more. New tips are added regularly.
+To start learning, go to the Tips app , tap a collection, then tap a tip.
+Get notified when new tips arrive
+Go to Settings > Notifications.
+Tap Tips below Notification Style, then turn on Allow Notifications.
+Choose options for the location and style of tip notifications, when they should appear, and more.
+Save tips
+You can add tips to your personal Saved tips collection, so you can quickly find them later.
+Go to the Tips app on your iPhone.
+Do any of the following:
+Add a tip: Tap .
+View your saved tips: Tap twice, then tap “Saved tips.”
+Remove a tip from your saved tips: Tap .
+Share a tip
+You can share a tip with a friend over Messages and Mail, or AirDrop it to someone nearby. You can also add tips to documents like Notes and Freeform boards.
+Go to the Tips app on your iPhone.
+Tap , then choose a share option such as Mail, Messages, or AirDrop.
+Learn more about your other Apple devices
+If you have other Apple devices—like an Apple Watch, AirPods, or a HomePod—you can read about them in the Tips app.
+Go to the Tips app on your iPhone.
+Scroll to the bottom of the Tips app, then tap the user guide you want to browse.

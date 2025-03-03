@@ -1,0 +1,11 @@
+iPhone User Guide
+Set separation alerts in case you leave an AirTag or item behind in Find My on iPhone
+In the Find My app, you can turn on separation alerts for an AirTag or other item so you don’t accidentally leave it behind. You receive an alert every time the device sharing your location separates from the item.
+You can also set Trusted Locations, which are locations where you can leave an item without receiving an alert.
+Important: In order to receive separation alerts, make sure you allow notifications for the Find My app. See Change notification settings on iPhone . Location sharing and finding items aren’t available in all countries or regions.
+Go to the Find My app on your iPhone.
+Tap Items at the bottom of the screen, then tap the name of the item you want to set an alert for.
+Below Notifications, tap Notify When Left Behind.
+Turn on Notify When Left Behind.
+If you want to add a Trusted Location, you can choose a suggested location, or tap New Location, select a location on the map, then tap Done.
+Tap Done.

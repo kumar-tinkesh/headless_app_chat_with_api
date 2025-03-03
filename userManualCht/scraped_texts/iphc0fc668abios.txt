@@ -1,0 +1,17 @@
+iPhone User Guide
+Create photo albums on iPhone
+Create albums to organize your photos and videos.
+If you use iCloud Photos, albums are stored in iCloud. They’re up to date and accessible on devices where you’re signed in to the same Apple Account. See Back up and sync your photos with iCloud .
+Create a new album
+Go to the Photos app on your iPhone.
+Tap Albums, then tap Create.
+Tap New Album, then name the album, add photos, and choose a key photo to represent the album.
+Tap Done.
+To create an album that you can collaborate on with other people, see Create shared albums .
+Add a photo or video to an album
+Go to the Photos app on your iPhone.
+Tap the photo or video you want to add, then tap .
+If you want to add multiple photos and videos at once, tap Select, tap the photo and video thumbnails you want to add, then tap .
+Tap Add to Album, then do one of the following:
+Add to an existing album: Tap an existing album below My Albums.
+Start a new album: Tap , then give the album a name.

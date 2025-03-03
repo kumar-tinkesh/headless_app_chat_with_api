@@ -1,0 +1,39 @@
+iPhone User Guide
+Check your email in Mail on iPhone
+In the Mail app, you can read email messages, add contacts, and preview some of the contents of a message without opening it.
+Read an email
+Go to the Mail app on your iPhone.
+In the inbox, tap the message you want to read.
+Use Remind Me to come back to a Primary message later
+If you don’t have time to handle an email message right away, you can set a time and date to receive a reminder and bring a message back to the top of your inbox.
+Go to the Mail app on your iPhone.
+In the Primary message list, tap a message, tap , tap Remind Me, then choose when to be reminded.
+Mark multiple emails as Read
+You can can quickly mark multiple email messages as read.
+Go to the Mail app on your iPhone.
+In a category message list, tap Select, then select the messages you want to mark by tapping their checkboxes.
+Important: When you select messages in Transactions, Updates, or Promotions, you are selecting all the messages in that category from the sender.
+Tap Mark at the bottom of the message list, then choose Mark as Read.
+Note: The number of unread messages shown on your Home Screen reflects the number of unread messages in your Primary category. To show your total number of unread messages in all categories, go to Settings > Notifications > Mail > Customize Notifications > then turn on All Unread Messages.
+Preview a Primary message and a list of options
+If you want to see what an email message is about but not open it completely, you can preview it.
+Go to the Mail app on your iPhone.
+In the Primary message list, touch and hold a message to preview its contents and see a list of options for replying, filing it, and more. See Perform quick actions .
+Show a longer preview for every email
+In your inbox, Mail displays two lines of text for each email message by default. You can choose to see more lines of text without opening the message.
+Go to Settings > Apps > Mail > Preview (below Message List), then choose up to five lines.
+Show the whole conversation
+Go to Settings > Apps > Mail, then turn on Organize by Thread.
+Tip: You can also change other settings here—such as Collapse Read Messages or Most Recent Message on Top.
+Show To and Cc labels in your Inbox
+Go to Settings > Apps > Mail, then turn on Show To/Cc Labels (below Message List).
+You can also view the To/Cc mailbox, which gathers all mail addressed to you. To show or hide it, tap in the upper-left corner of the Mail app until you see Mailboxes, tap Edit, then select “To or Cc.”
+Add someone to your contacts or make them a VIP
+You can save someone to your contacts to easily find their email messages again in the future, or make them a VIP so any message you receive from them is automatically starred.
+Go to the Mail app on your iPhone.
+In a message, tap a person’s name or email address, then do one of the following:
+Add to your contacts: Tap Create New Contact or Add to Existing Contact.
+You can add a phone number, other email addresses, and more.
+Add to your VIP list: Tap Add to VIP.
+View email summaries
+If you have any iPhone 16 model, iPhone 15 Pro, or iPhone 15 Pro Max, Apple Intelligence can show you the most important points in an email message or email thread. See Summarize your email and Turn email summary previews on or off .

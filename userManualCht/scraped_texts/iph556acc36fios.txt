@@ -1,0 +1,29 @@
+iPhone User Guide
+Use iPhone for your daily routines
+While you’re going about your day, you can use the apps on your iPhone to get directions, make purchases, and control accessories in your home. You can also silence notifications while you’re driving or working, or allow only specific notifications related to what you’re focused on.
+Start the day with the info you need
+While iPhone is charging, you can put it in StandBy to view useful and timely information at a glance. With StandBy, you can use your iPhone as a bedside clock that displays the time, temperature, and other information you might want to see when you wake up in the morning, or before you go to bed.
+To use StandBy, connect iPhone to a charger, stand it on its side (in landscape orientation), then tap the screen.
+Get directions to your favorite places
+Whether you’re walking, driving, or biking, you can use the Maps app to get directions to places you visit frequently, like your home or your favorite café, without entering the address every time.
+In the Maps app , tap below Library, then add a location.
+Set up a virtual wallet
+Keep your credit cards, transit passes, vaccination cards, and more in the Wallet app on your iPhone. When you add a credit or debit card to Wallet, you can use it to make secure payments in stores and online, and send and receive money from friends and family.
+To add your first card, open the Wallet app , tap at the top of the screen, then follow the onscreen instructions.
+Stay focused
+Whether you’re driving, working, or just need to step away from your iPhone, you can set up a Focus to temporarily silence notifications that don’t match your task—and let other people know you’re busy.
+Go to Settings > Focus, then choose the Focus you want to use, or tap at the top of the screen to create your own.
+Reminders when you need them
+You can use the Reminders app to make to-do lists for projects around the house and grocery lists that sort items into categories. You can also get a reminder about something when you arrive at a certain location.
+To create your first reminder, open the Reminders app , then tap New Reminder.
+Forgot to turn off the lights?
+With the Home app on iPhone, you can securely control HomeKit-enabled accessories, such as lights, smart TVs, and thermostats from anywhere. You can also create automations that simplify your normal routines, like automatically turning on your entryway lights when you arrive home at night.
+To add your first Works with HomeKit accessory, open the Home app , tap at the top of the screen, then tap Add or Scan Accessory.
+Want to learn more?
+Use StandBy to view information at a distance while iPhone is charging
+Add places and notes to your library in Maps on iPhone
+About Apple Wallet on iPhone
+Set up a Focus on iPhone
+Get started with Reminders on iPhone
+Intro to Home on iPhone
+Apple Footer

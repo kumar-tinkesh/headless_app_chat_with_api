@@ -1,0 +1,16 @@
+iPhone User Guide
+Scan text and documents in Notes using the iPhone camera
+In the Notes app, you can use the camera to scan text and documents.
+Scan text into a note
+You can insert scanned text using the camera (on supported models ; in supported languages ).
+Go to the Notes app on your iPhone.
+In a note, tap , then tap Scan Text.
+Position iPhone so that the text appears within the camera frame.
+Drag or use grab points to select text, then tap Insert.
+Scan a document into a note
+Go to the Notes app on your iPhone.
+In a note, tap , then tap Scan Documents.
+Position iPhone so that the document page appears on the screen; iPhone automatically captures the page.
+To manually capture the page, tap or press a volume button. To turn the flash on or off, tap .
+Scan additional pages, then tap Save when you’re done.
+The document is saved as a PDF in the note.

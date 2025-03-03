@@ -1,0 +1,33 @@
+iPhone User Guide
+Filter and sort the photo library on iPhone
+To help you find the photos and videos you’re looking for, you can change how items in the library are sorted, filter the library to show only particular items, and change the layout of the photo grid.
+Choose how to sort the library
+Go to the Photos app on your iPhone.
+Swipe down on the photo grid to browse through your library.
+Tap , then choose how to sort items in your library:
+By when you took, imported, or saved each item: Tap Sort by Recently Added. Photos and videos you added most recently appear at the bottom of the library.
+By when each item was originally captured: Tap Sort by Date Captured. Photos and videos you save or import are organized by the date they were taken, not the date you saved them to the Photos app.
+Filter the library
+You can filter the library to only see particular items, and temporarily hide everything else.
+Go to the Photos app on your iPhone.
+Swipe down on the photo grid to browse through your library.
+Tap , then tap Filter.
+Choose one or more filters to apply.
+You can apply multiple filters at the same time. For example, select Photos and Edited to see only photos you’ve edited.
+To remove the filters and return to the full library, tap All Items.
+Hide or unhide screenshots from the photo library
+Go to the Photos app on your iPhone.
+Swipe down on the photo grid to browse through your library.
+Tap , then tap View Options.
+Select Screenshots to show screenshots in the photo library.
+You can deselect screenshots at any time to hide them.
+Change the layout of the photo grid
+Go to the Photos app on your iPhone.
+Swipe down on the photo grid to browse through your library.
+Tap , then tap View Options.
+Choose any of the following:
+Zoom In: See each photo or video thumbnail larger.
+Zoom Out: See more photos and video thumbnails at the same time.
+Aspect Ratio Grid: View each photo or video thumbnail in its actual shape, horizontal or vertical. To return to square thumbnails, tap Square Photo Grid.
+Unhide Screenshots: By default, screenshots are hidden in the library. Select Screenshots to unhide them.
+Show Shared with You: Show photos and videos in the library that someone shared with you in Messages.

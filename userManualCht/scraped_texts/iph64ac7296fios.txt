@@ -1,0 +1,12 @@
+iPhone User Guide
+Use hearing health features in Health on iPhone
+In iOS 18.1, you can take a Hearing Test with your AirPods Pro 2 to provide insight into your hearing. Hearing Test results (audiograms) depict the results of a pure-tone audiometry test—they display how loud sounds need to be for you to hear them.
+The difference between the decibel level you need and a normal level indicates your level of hearing loss. If there’s no difference, your hearing is normal. If there’s some or a lot of difference, your hearing is impaired.
+Note: The Hearing Test is available for ages 18 and older. Not available in all countries or regions.
+Take a Hearing Test
+Go to the Health app on your iPhone.
+Tap Browse, then tap Hearing.
+Scroll down to Get More From Health, then tap Take Hearing Test.
+Tap Get Started, then follow the onscreen instructions.
+You can review the results from the Hearing Test in the Health app. You can also export a PDF version of your audiogram to share with your hearing healthcare professional.
+For more information, see Use hearing health features with AirPods Pro 2 in the AirPods User Guide.

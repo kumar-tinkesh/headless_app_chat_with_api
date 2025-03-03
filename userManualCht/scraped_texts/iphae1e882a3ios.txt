@@ -1,0 +1,20 @@
+iPhone User Guide
+Take Apple ProRAW photos with your iPhone camera
+On supported models , you can use Camera to take photos in Apple ProRAW. Apple ProRAW combines the information of a standard RAW format along with iPhone image processing to offer additional creative control when you make adjustments to exposure, color, and white balance.
+Apple ProRAW is available on all cameras, including the front camera. Apple ProRAW isn’t supported in Portrait mode.
+Set up Apple ProRAW
+To set up Apple ProRAW on supported models , go to Settings > Camera > Formats, then turn on Apple ProRAW or ProRAW & Resolution Control (depending on your model).
+Note: Apple ProRAW photos retain more information about the images, resulting in larger file sizes.
+Take a photo with Apple ProRAW
+Open Camera on your iPhone.
+Tap or (depending on your model) to turn ProRAW on.
+Take your shot.
+As you shoot, you can switch between and or and to turn ProRAW on and off.
+To preserve your ProRAW setting, go to Settings > Camera > Preserve Settings, then turn on Apple ProRAW or ProRAW & Resolution Control (depending on your model).
+To learn more about Apple ProRAW, see the Apple Support article About Apple ProRAW .
+Change Apple ProRAW default resolution and format
+On iPhone 16 Pro, iPhone 16 Pro Max, iPhone 15 Pro, iPhone 15 Pro Max, iPhone 14 Pro, and iPhone 14 Pro Max, you can set your ProRAW default resolution to 12 MP, 48 MP, or HEIF 48 MP.
+Go to Settings > Camera > Formats.
+Turn on ProRAW & Resolution Control.
+Tap Pro Default, then choose HEIF Max, ProRAW 12 MP, or ProRAW Max as your default resolution and format.
+Note: If you’ve chosen Most Compatible as your Camera Capture setting, JPEG Max is used instead of HEIF Max.

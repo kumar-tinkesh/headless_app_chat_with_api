@@ -1,0 +1,36 @@
+iPhone User Guide
+Get turn-by-turn directions with CarPlay
+Use Siri or open Maps to get turn-by-turn directions, traffic conditions, and estimated travel time (not available in all regions).
+Note: To get directions, iPhone must be connected to the internet, and Location Services must be on. (See Control the location information you share on iPhone .)
+Find a route
+CarPlay generates likely destinations using addresses from your email, text messages, contacts, and calendars—as well as places you frequent. You can also search for a location, use locations you saved as favorites and in collections, and find nearby attractions and services.
+Siri: Say something like:
+“Find a gas station”
+“Give me directions home”
+“Take me to the Golden Gate Bridge”
+“Find a charging station”
+“Find coffee near me”
+Learn how to use Siri
+Or you can use your vehicle’s built-in controls to open Maps in CarPlay and select a route.
+Note: If you’re viewing CarPlay Dashboard and Maps doesn’t appear in the recent apps list on the left, tap to see pages of all of your CarPlay apps, including Maps.
+With Maps open in CarPlay, do one of the following:
+Select a place you saved as a favorite. (See Add places and notes to your library in Maps on iPhone .)
+Select Destinations, then select a recent destination or scroll to select a destination you saved in a collection. (See Organize places with custom guides in Maps on iPhone .)
+Select Search, then select to speak a search phrase, or select to use the onscreen keyboard (if available). You can also select a destination from a category of nearby services, such as Parking or Restaurants.
+If multiple routes appear, use your vehicle’s controls to select the route you prefer.
+To call your destination before you leave, select .
+To start turn-by-turn directions, select Go.
+Maps shows directions from your current location.
+When you arrive at your destination and exit your vehicle, a parked car marker appears in Maps on iPhone so you can easily find your way back to your vehicle.
+Follow turn-by-turn directions
+As CarPlay follows your progress, it speaks turn-by-turn directions to your destination.
+Do any of the following at any time during your trip:
+Add a stop to your driving directions: Select the ETA display at the bottom left, select Add Stop, then choose a destination or use Siri to search for one.
+End directions at any time: Say something to Siri like “Stop navigating,” or select the estimated time of arrival (ETA) display at the bottom left, then choose End Route.
+Mute turn-by-turn directions: Tap , then choose to mute all directions.
+Mute turn-by-turn directions, except for alerts and hazards: Tap , then choose .
+Make a quick detour: Say something to Siri like “Find a gas station.” Or select the ETA display, select Search, select a suggested service, then choose a destination.
+Share your ETA: Select the ETA display at the bottom left, select Share ETA, then choose one or more suggested contacts.
+People using devices with iOS 13.1, iPadOS 13.1, or later receive a Maps notification with your ETA, and they can track your progress in Maps. People using devices with earlier versions receive the notification through iMessage. People using other mobile devices receive an SMS message. (Standard carrier data and text rates may apply.)
+To stop sending ETA information, select Sharing ETA at the bottom of the CarPlay screen, then choose a contact.
+Note: For navigation apps that support the CarPlay Dashboard, Dashboard shows the last navigation app opened if no apps are navigating, the one that is actively navigating, or the last opened and actively navigating app if multiple apps are navigating.

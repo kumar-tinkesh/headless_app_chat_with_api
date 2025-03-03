@@ -1,0 +1,17 @@
+iPhone User Guide
+Use Photographic Styles with your iPhone camera
+On supported models , you can use a Photographic Style to customize how your iPhone camera captures photos. Choose from the preset styles—Rich Contrast, Vibrant, Warm, or Cool—then customize them further by adjusting the tone and warmth values. Camera applies your choice every time you take a photo in Photo mode. You can change and adjust Photographic Styles right in Camera.
+On iPhone 16 models, see Use latest generation Photographic Styles with an iPhone 16 model camera .
+Choose a Photographic Style
+Your iPhone camera is automatically set to Standard—a balanced style that is true to life. To choose a different Photographic Style, do the following:
+Open Camera on your iPhone.
+Tap .
+Tap , then swipe left to preview the different styles:
+Rich Contrast: Darker shadows, richer colors, and stronger contrast create a dramatic look.
+Vibrant: Wonderfully bright and vivid colors create a brilliant yet natural look.
+Warm: Golden undertones create a warmer look.
+Cool: Blue undertones create a cooler look.
+To customize a Photographic Style, tap the Tone and Warmth controls below the frame, then drag the slider left or right to adjust the value. Tap to reset the values.
+Tap to use the Photographic Style.
+To change or adjust a Photographic Style that you set, tap at the top of the camera screen. To stop using a Photographic Style, select Standard from the style choices.
+You can also change Photographic Styles in Settings: go to Settings > Camera > Photographic Styles.

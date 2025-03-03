@@ -1,0 +1,8 @@
+iPhone User Guide
+Connect iPhone to a display with a cable
+With the appropriate cable or adapter, you can connect your iPhone to a secondary display, like a computer monitor, TV, or projector.
+Depending on your iPhone model, plug a Lightning Digital AV Adapter, Lightning to VGA Adapter, USB-C Display AV Adapter, or USB-C VGA Multi-port Adapter into the charging port on the bottom of iPhone.
+Connect an HDMI or VGA cable to the adapter.
+Connect the other end of the HDMI or VGA cable to the monitor, TV, or projector.
+If necessary, switch to the correct video source on the monitor, TV, or projector. If you need help, use the display’s manual.
+The adapters have an extra port so you can connect the charging cable and charge your iPhone while connected to a monitor, TV, or projector.

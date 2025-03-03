@@ -1,0 +1,41 @@
+iPhone User Guide
+Organize your podcast library on iPhone
+In the Podcasts app, you can organize the podcasts you follow, catch up on the latest episodes, and create your own stations.
+View your podcast library
+Go to the Podcasts app on your iPhone.
+Tap Library at the bottom of the screen to see the following options:
+Shows: Tap Followed to view shows you follow. If you downloaded or saved episodes from podcasts you don’t follow, tap All to see them. You can tap any show to see the information page or the episodes you downloaded or saved.
+Channels: See channels you subscribe to, channels you added to your favorites (iOS 18.2 or later), and channels that have shows you follow. You can tap a channel to browse all of its shows.
+Categories: In iOS 18.2 or later, see categories you added to your favorites, along with categories for any shows you follow.
+Saved: See episodes you saved.
+Downloaded: See episodes you downloaded. You can listen to these episodes without an internet connection.
+Latest Episodes: See the most recent episodes from each show you follow. To change how long episodes stay in this playlist, tap .
+Stations: If you created stations, each one is listed.
+Change the episode playback order
+Go to the Podcasts app on your iPhone.
+Tap Library, then tap Shows.
+Tap a show you follow to view its information page.
+Tap , then tap Settings.
+Choose an episode order option.
+Limit the number of downloads from each podcast
+Go to the Podcasts app on your iPhone.
+Tap Library, then tap Shows.
+Tap a show you follow to view its information page.
+Tap , then tap Settings.
+Tap Automatically Download, then choose an option.
+Mark an episode as played
+Do any of the following:
+While viewing show information: Swipe right on an episode, then tap Played.
+While viewing episode information: Tap , then tap Mark as Played.
+Hide episodes you’ve already played
+You can change a show’s settings to hide episodes you’ve already played.
+Tap a show you follow to view its information page, tap , then tap Hide Played Episodes.
+To automatically hide played episodes for all shows you follow, go to Settings > Apps > Podcasts, then turn on Hide Played Episodes.
+Create your own station
+Use stations (similar to a music playlist) to group shows you follow based on themes like news, comedy, or morning commute. Episodes from the podcasts you choose are automatically added to your station regularly.
+Go to the Podcasts app on your iPhone.
+Tap Library, then tap near the top right.
+Tap New Station, add a title, then tap Save.
+Tap Choose Podcasts, then tap the shows you want to add to the station (or turn on Include All Podcasts).
+Tap Back, then tap Done.
+Tip: You can adjust the number of episodes from each podcast that are added to your station. Tap the station, tap , then tap Station Settings. To use the same settings for all podcasts in a station, tap Episodes, then choose an option. To adjust the settings for a single show, tap the show in the Podcasts list, then choose an option.

@@ -1,0 +1,12 @@
+iPhone User Guide
+Print photos on iPhone to an AirPrint-enabled printer
+Print your photos directly from the Photos app on your iPhone with any AirPrint-enabled device.
+Print a photo
+Go to the Photos app on your iPhone.
+Open a photo, then tap .
+Tap Print.
+Print multiple photos at once
+Go to the Photos app on your iPhone.
+Swipe down to view your photo library, then tap Select.
+Select each photo you want to print, then tap .
+Tap Print.

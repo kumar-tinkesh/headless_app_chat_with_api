@@ -1,0 +1,17 @@
+iPhone User Guide
+Request, send, and receive payments in Messages on iPhone (U.S. only)
+You can use Apple Pay to request, send, and receive money quickly and easily using text messages.
+When you receive money in Messages, it’s added to your Apple Cash card in the Wallet app. See the Apple Support article Send and receive money with Apple Cash .
+To request, send, or receive payments in Messages, both the sender and the recipient must be using iMessage .
+Request or send a payment in Messages
+Go to the Messages app on your iPhone.
+In an iMessage conversation, do one of the following:
+Tap , tap Apple Cash, then adjust the value, as needed.
+If the requested amount is mentioned in a sent message, tap it, then tap Send with Apple Cash.
+Tap Request or Send for a one-time payment.
+If you want to start paying someone regularly, tap Show Keypad, tap Send Recurring Payment, then follow the onscreen instructions.
+Tap , then follow the onscreen instructions.
+Receive a payment
+Go to the Messages app on your iPhone.
+Open a conversation where you’ve received a payment.
+Tap Accept, then follow the onscreen instructions.

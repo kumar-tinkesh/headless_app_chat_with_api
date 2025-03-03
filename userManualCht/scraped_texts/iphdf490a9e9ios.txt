@@ -1,0 +1,31 @@
+iPhone User Guide
+See what friends are listening to in Music on iPhone
+After you create an Apple Music profile , you can find and follow friends to see what they’re listening to.
+Choose how to find friends
+Before you can choose which friends to share music with, you need to allow Music to access your contacts.
+Go to the Music app on your iPhone.
+Tap or your profile picture.
+Do any of the following:
+Allow Apple Music access to your contacts: Select the Contacts on Apple Music option so Apple Music can access your contacts and recommend new friends to you periodically.
+Allow friends to find you by Apple Account: Select the Allow Finding by Apple Account option and friends who have your Apple Account information can see you as a recommended friend.
+Follow friends
+There are several ways to follow people:
+Add friends when you set up a profile .
+After you set up your profile, swipe to the bottom of the profile screen, tap Follow More Friends, then tap Follow next to those you want to follow.
+You can follow friends who are in your contacts list and who use Apple Music.
+On the profile screen, touch and hold a profile picture, then tap Follow.
+Tap Search, enter a friend’s name, tap it in the results, then tap Follow.
+Note: You can only find friends who have an Apple Music profile using Search. Additionally, you must be 13 years or older to view Apple Music profiles. (Age restrictions vary by region.)
+To see the people you’re following and those who follow you, open the profile screen, then swipe up.
+If a profile picture has a lock on it, you need to ask that person to follow them. After your request is accepted, you see the person’s shared playlists and the music they’re listening to.
+See what your friends are listening to
+Go to the Music app on your iPhone.
+Tap Home, then do any of the following:
+See what your friends are listening to: Scroll down to Friends Are Listening To, then tap an item to play it.
+Listen to a mix of songs your friends are listening to: Swipe left on Made For You, then tap Friends Mix.
+See what a follower or person you follow is listening to: Tap or your profile picture, then tap View Profile. Tap a person’s profile picture to see shared playlists and music they’re listening to. You also see their followers and the people they follow.
+Stop following friends
+You can stop following a friend if you no longer want to see what they’re listening to.
+Go to the Music app on your iPhone.
+Tap or your profile picture.
+Tap View Profile, touch and hold the profile picture of a person you follow, then tap Unfollow.

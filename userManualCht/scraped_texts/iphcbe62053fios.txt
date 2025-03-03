@@ -1,0 +1,36 @@
+iPhone User Guide
+Collaborate on a playlist in Music on iPhone
+If you subscribe to Apple Music , you can share a playlist and collaborate on it with others. Everyone can add, remove, and reorder music and react with emoji to songs in the collaborative playlist .
+Note: Apple Music isn’t available in all countries or regions. See the Apple Support article Availability of Apple Media Services .
+Invite others to collaborate on a playlist
+Go to the Music app on your iPhone.
+Tap a playlist, then tap .
+To approve people before they can join, turn on Approve Collaborators.
+If you don’t turn on this option, anyone with the link can join the collaborative playlist.
+Tap Start Collaborating, then choose a sharing method, such as AirDrop, Messages, or Mail, to send a link to the playlist.
+The person who receives the link must tap Join Playlist to start collaborating.
+If you’re the owner and you turn on Approve Collaborators, notifications appear in the top-right corner when a new person requests to join the collaborative playlist.
+Add more people to collaborate on a playlist
+If you’re the owner of a collaborative playlist, or the owner hasn’t turned on Approve Collaborators, you can share the link to the playlist with more people.
+Go to the Music app on your iPhone.
+Tap a collaborative playlist, tap , then do one of the following:
+Add someone who is nearby: Tap QR Code. Others can join the playlist by using the camera on their iPhone to scan the code displayed on your iPhone.
+Add someone else: Tap “generate a new link” (if necessary), tap Share Invite Link, then follow the steps to invite others to collaborate on a playlist .
+Manage shared settings for a collaborative playlist
+If you’re the owner, you can change access and permissions for individuals or for everyone after you’ve started collaborating on a playlist.
+Go to the Music app on your iPhone.
+Tap a collaborative playlist, tap , then do any of the following:
+Invite others: See Add more people to collaborate on a playlist .
+Note: If you didn’t turn on Approve Collaborators, anyone collaborating on the playlist can share the link to the collaborative playlist.
+Approve people before they can join: Turn on Approve Collaborators.
+Accept request: Tap to allow the person to join the collaborative playlist.
+Decline request: Tap if you don’t want the person to join the collaborative playlist.
+Stop collaborating on a playlist with one or more people
+If you’re the owner, you can remove people from the playlist or stop collaborating on it altogether.
+Go to the Music app on your iPhone.
+Tap a collaborative playlist, tap , then do any of the following:
+Remove one person: Swipe left on the person’s name, then tap Remove.
+Stop collaborating on a playlist: Tap Stop.
+Remove yourself from a collaborative playlist
+Go to the Music app on your iPhone.
+Tap a collaborative playlist, tap , then tap Leave.

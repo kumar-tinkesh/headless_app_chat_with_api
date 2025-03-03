@@ -1,0 +1,26 @@
+iPhone User Guide
+View a Voice Memos transcription on iPhone
+In iOS 18.0 or later, speech in your audio recordings can be transcribed to text in Voice Memos. You can view the transcription while you’re recording or after.
+Note: Audio transcription is available on iPhone 12 and later in all variants of English. not available in all countries or regions
+If you open a recording made in an earlier version of Voice Memos (iOS 17 or earlier), Voice Memos will transcribe it automatically if it includes recorded speech.
+View a transcription while recording
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+Tap to begin recording.
+Swipe up from the top of the waveform, then tap to watch the transcription live.
+The waveform disappears temporarily, and the transcription appears, with the current word highlighted. To return to the waveform view, tap .
+Tap to pause recording; tap Resume to continue.
+To save the recording, tap Done.
+View or copy transcribed text after recording
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+Tap the recording with the transcript you want to view.
+Tap , then do one of the following:
+Copy part of the transcript: Choose View Transcript, select the text you want to copy, then tap Copy.
+Copy the entire transcript: Choose Copy Transcript.
+You can open another document—a Mail message or text file, for example—and paste the text into it.
+With Apple Intelligence, you can use Writing Tools to summarize transcripts with a tap, proofread your work, and find just the right wording and tone. See Use Writing Tools with Apple Intelligence .
+Search for text in titles and transcriptions
+Go to the Voice Memos app (in the Utilities folder) on your iPhone.
+Swipe down from the top of the list of recordings to show the search field.
+In the search field, enter the text you want to find.
+The list shows only recordings with that text—either in the title or in the audio transcription.
+When you select a term in the transcription, the playhead appears at that location in the audio waveform. To return to the waveform, tap .

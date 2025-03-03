@@ -1,0 +1,11 @@
+iPhone User Guide
+Connect iPhone to CarPlay
+Set up CarPlay by connecting your iPhone and your vehicle using your vehicle’s USB port or its wireless capability.
+Start your car, then make sure Siri is on .
+Connect your iPhone to your car:
+If your car supports CarPlay with a USB cable: Plug your iPhone into the USB port in your car. The USB port might be labeled with a CarPlay icon or a smartphone icon. Be sure to use an Apple USB Cable.
+If your car supports CarPlay both wirelessly and with a USB cable: Plug your iPhone into the USB port in your car. The next time you attempt to connect your iPhone to CarPlay, an alert on your iPhone allows you to connect wirelessly.
+If your car supports only wireless CarPlay: Press and hold the voice command button on your steering wheel. Make sure that your stereo is in wireless or Bluetooth mode. Then on your iPhone, go to Settings > Wi-Fi, and make sure that Wi-Fi is also turned on. Tap the CarPlay network, and check that Auto-Join is turned on. Then, go to Settings > General > CarPlay, and select your car. Check your car manual for more information.
+Note: After connecting to CarPlay on some electric vehicles, use the Maps app to identify the vehicle for EV routing. See Set up electric vehicle routing in Maps on iPhone .
+On some vehicle models, CarPlay Home appears automatically when you connect iPhone.
+If CarPlay Home doesn’t appear, select the CarPlay logo on your vehicle’s display.

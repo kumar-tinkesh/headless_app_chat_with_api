@@ -1,0 +1,28 @@
+iPhone User Guide
+Find group photos on iPhone
+The Photos app recognizes groups of people and pets who often appear together in pictures and videos, and sorts them into group collections. For example, if you have many pictures of your family or group of friends, Photos creates a collection for each of those groups.
+Find group photos and videos
+Go to the Photos app on your iPhone.
+Tap People & Pets.
+Below Groups, swipe to find a group, then tap it to see all your photos with that group.
+Tip: To see photos with the group members and other people, tap , tap View Options, then tap Include Other People.
+To share the photos in the group, tap , then tap Share Photos.
+Create a group
+You can create a group with any combination of people and pets from the People & Pets collection.
+Go to the Photos app on your iPhone.
+Tap People & Pets.
+To the right of Groups, tap Create.
+Select the people and pets you want in the group, then tap Add.
+Tap the default name and type a custom name for the group, then tap Done.
+Edit or delete a group
+Go to the Photos app on your iPhone.
+Tap People & Pets.
+Below Groups, touch and hold the group you want to edit, then do any of the following:
+Rename the group: Tap Edit Name and People, then type a new name.
+Add or remove people: Tap Edit Name and People. To remove someone, tap at the top-left corner of their picture. Tap Add People & Pets to add someone.
+Edit the group photo: Tap Edit Name and People, then tap Edit Key Photo.
+Delete the group: Tap Delete This Group.
+Change the order of groups
+Go to the Photos app on your iPhone.
+Tap People & Pets.
+Touch and hold a group, then drag it to a new position.

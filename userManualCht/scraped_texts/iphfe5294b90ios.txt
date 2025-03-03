@@ -1,0 +1,8 @@
+iPhone User Guide
+View and save measurements on iPhone
+On supported models , you can save a list of all the measurements you take in a single session, complete with screenshots, so you can easily share and access them whenever you need them.
+Go to the Measure app (in the Utilities folder) on your iPhone.
+Tap to see a list of your recent measurements.
+Swipe up from the top of the list to see more measurements.
+To save the measurements, tap Copy, open another app (for example, Notes), tap in a document, then tap Paste.
+Note: Height measurements aren’t included in this list. To save a person’s height measurement, see Measure a person’s height .

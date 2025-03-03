@@ -1,0 +1,18 @@
+iPhone User Guide
+Create and use scenes in Home on iPhone
+In the Home app, you can create scenes that allow you to control multiple accessories at once. For example, you might define a “Reading” scene that adjusts the lights, plays soft music on HomePod, closes the drapes, and adjusts the thermostat.
+Create a scene
+Go to the Home app on your iPhone.
+On the Home tab, tap , then tap Add Scene.
+Tap Custom, enter a name for the scene (such as “Dinner Party” or “Watching TV”), then tap Add Accessories.
+Select the accessories you want this scene to include, then tap Done.
+The first accessory you select determines the room the scene is assigned to. If you first select your bedroom lamp, for example, the scene is assigned to your bedroom.
+Set each accessory to the state you want it in when you run the scene.
+For example, for a Reading scene, you could set the bedroom lights to 100 percent, choose a low volume for the HomePod, and set the thermostat to 68 degrees.
+Test the scene and choose whether or not to show it on the Home tab (scenes appear on the Home tab by default), then tap Done.
+Use scenes
+Do one of the following:
+Run a scene: Tap the scene on the Home tab.
+If you’ve decided not to show the scene on the Home tab, tap , choose the room the scene is assigned to, then tap the scene.
+Edit a scene: Touch and hold a scene, then tap Edit Scene.
+You can change the scene’s name, test the scene, add or remove accessories, and more.

@@ -1,0 +1,3 @@
+iPhone User Guide
+Sign in with passkeys in Safari on iPhone
+In the Safari app , you can use Face ID ( supported models ) or Touch ID ( supported models ) to securely sign in to supporting websites. See Use passkeys to sign in to apps and websites .

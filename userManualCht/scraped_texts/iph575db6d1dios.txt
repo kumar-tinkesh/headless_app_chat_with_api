@@ -1,0 +1,8 @@
+iPhone User Guide
+Add text in sticky notes, shapes, and text boxes on a Freeform board on iPhone
+You can add text to a Freeform board using a sticky note or text box, or you can add text within a shape.
+Go to the Freeform app on your iPhone.
+Open a board, or tap to start a new one.
+Tap , , or .
+Double-tap the sticky note, shape, or text box, then enter text. (If you have a keyboard connected, you can start typing as soon as the item appears.)
+To change the font, alignment, and more, double-tap to show the object’s formatting tools, then tap .

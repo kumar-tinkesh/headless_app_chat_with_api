@@ -1,0 +1,12 @@
+iPhone User Guide
+Control your home using Siri on iPhone
+In addition to using the Home app , you can use Siri to control your accessories and scenes. Here are some of the things you can say to Siri for the accessories you add and the scenes, rooms, or homes you set up:
+“Turn off the lights” or “Turn on the lights”
+“Set the temperature to 68 degrees”
+“Turn on the bedroom lights at 9 PM”
+“Did I lock the front door?”
+“Show me the entryway camera”
+“Turn down the kitchen lights”
+“Set my reading scene”
+“Turn off the lights in the Chicago house”
+Learn how to use Siri .

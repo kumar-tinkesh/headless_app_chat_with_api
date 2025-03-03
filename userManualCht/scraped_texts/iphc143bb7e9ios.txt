@@ -1,0 +1,34 @@
+iPhone User Guide
+Use Check In on iPhone to let your friends know you’ve arrived
+Note: Check In requires iOS 17 or later for both the sender and recipient. Location sharing isn’t supported in South Korea and might be unavailable in other regions due to local laws.
+How Check In works
+You can use Check In on iPhone to automatically notify a friend that your iPhone has arrived, and choose what details they can see if you don’t successfully complete your Check In.
+Similarly, if a friend sends you a Check In but their iPhone hasn’t arrived as expected, you can view their location, battery percentage, cellular signal, and more.
+Send a Check In
+Open the Messages app on your iPhone.
+Tap at the top of the screen and add a recipient, or select an existing conversation.
+Tap , tap More, tap Check In, then tap Edit.
+Choose one of the following:
+When I Arrive: Specify your destination, how you’re traveling (driving, transit, or walking), and add extra time if needed. Check In monitors your journey and notifies your friend if your iPhone isn’t progressing for an extended period of time or if it doesn’t reach your destination as expected. When you arrive at your destination successfully, the Check In automatically completes and notifies your friend that your iPhone has arrived.
+After a timer: Specify a period of time—for example, if you’re meeting someone new. If you don’t end the Check In before the time you set, Check In notifies your friend.
+Tap .
+If your iPhone doesn’t arrive at your destination or you don’t cancel the Check In, and you don’t respond to the Check In prompts, the details of your iPhone’s journey will be sent to your friend.
+To change the details you want to share with your friend if you don’t complete your Check In as expected, see Choose what details you share .
+Note: If you start a Check In and then lose service or your iPhone powers off, your Check In recipient may get a delayed or early notification and have the option to view the iPhone details you shared with them.
+Add time to your Check In
+If you need extra time, you can add time to your Check In.
+Open the Messages app on your iPhone.
+Open the conversation with the friend you sent a Check In to.
+On the Check In message, tap Details, tap Add Time, then select one of the options.
+Cancel a Check In
+If you’ve completed your journey, or you want to end your session for any reason, you can cancel your Check In to let your friend know.
+Open the Messages app on your iPhone.
+Open the conversation with the friend you sent a Check In to.
+On the Check In message, tap Details, then tap Cancel Check In and confirm.
+Choose what details you share
+You can change the details you share with your friend during a Check In.
+Go to Settings > Apps > Messages on your iPhone.
+Scroll down and tap Check In Data.
+Choose what details you want to share if you don’t complete your Check In as expected:
+Limited: Share your current location, in addition to the network signal and battery details of your iPhone and Apple Watch.
+Full: Share the data above (current location, network signal, and battery details), in addition to the route you’ve traveled and the last time you unlocked your iPhone or removed your Apple Watch.

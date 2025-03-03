@@ -1,0 +1,33 @@
+iPhone User Guide
+Measure dimensions with iPhone
+You can use your iPhone camera to measure nearby objects—automatically detect the dimensions of rectangular objects or manually set the start and end points of a measurement.
+For best results, use Measure on well-defined objects located 0.5 to 3 meters (2 to 10 feet) from iPhone. (Measurements are approximate.)
+Note: You can use Measure on external displays without turning on Screen Mirroring in Control Center.
+Start a measurement
+Go to the Measure app (in the Utilities folder) on your iPhone.
+Use the iPhone camera to slowly scan nearby objects.
+Position iPhone so that the object you want to measure appears on the screen.
+Note: For your privacy, when you use Measure to take measurements, a green dot appears at the top of the screen to indicate your camera is in use.
+Take an automatic rectangle measurement
+Go to the Measure app (in the Utilities folder) on your iPhone.
+Use the iPhone camera to slowly scan nearby objects.
+When iPhone detects the edges of a rectangular object, a white box frames the object; tap the white box or to see the dimensions.
+To take a photo of your measurement, tap .
+Take a manual measurement
+Go to the Measure app (in the Utilities folder) on your iPhone.
+Align the dot at the center of the screen with the point where you want to start measuring, then tap .
+Slowly pan iPhone to the end point, then tap to see the measured length.
+To take a photo of your measurement, tap .
+Take another measurement, or tap Clear to start over.
+Use edge guides
+On supported models , you can easily measure the height and straight edges of furniture, countertops, and other objects using guide lines that appear automatically.
+Go to the Measure app (in the Utilities folder) on your iPhone.
+Position the dot at the center of the screen along the straight edge of an object until a guide line appears.
+Tap where you want to begin measuring.
+Slowly pan along the guide line, then tap at the endpoint to see the measured length.
+To take a photo of your measurement, tap .
+Use Ruler view
+On supported models , you can see more detail in your measurements with Ruler view.
+Go to the Measure app (in the Utilities folder) on your iPhone.
+After measuring the distance between two points, move iPhone closer to the measurement line until it transforms into a ruler, showing incremental units of length.
+To take a photo of your measurement, tap .

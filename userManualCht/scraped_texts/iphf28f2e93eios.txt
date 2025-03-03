@@ -1,0 +1,11 @@
+iPhone User Guide
+Export passwords to another password manager on iPhone
+In iOS 18.2 or later, you can export your passwords for websites and accounts to a CSV file, and then import them into another password manager.
+WARNING: Your exported passwords are not encrypted and are visible to anyone who can access the file. After you import the passwords into another password manager, delete the file you exported.
+Go to Settings > Apps > Safari.
+Below History and Website Data, tap Export.
+Select Passwords.
+Deselect the other choices.
+Tap Save to Downloads.
+Tap Done.
+Note: You can’t export Wi-Fi passwords, passwords that you shared with a group (unless you created the group), or Sign in with Apple account passwords.

@@ -1,0 +1,47 @@
+iPhone User Guide
+Find and name people and pets in Photos on iPhone
+The Photos app sorts photos and videos of people, dogs, and cats in the People & Pets collection (or the People collection if no pets appear). You can name a person, dog, or cat directly from a photo or video in your photo library, or in People & Pets.
+Name a person or pet in a photo or video
+When you name a person or pet in a photo or video, they’re automatically added to People & Pets and named in other photos and videos in your library.
+Go to the Photos app on your iPhone.
+Open a photo or video, then swipe up to see the details.
+People or pets in the photo or video appear in the bottom-left corner. A question mark appears next to those you haven’t named.
+Tap the person or pet with a question mark next to their picture, then tap Name This Person or Name This Pet.
+Enter their name, then tap Done.
+Name a person or pet in the People & Pets collection
+Go to the Photos app on your iPhone.
+Below the photo library, tap People & Pets, then tap the person or pet you want to name.
+Tap Name This Person or Name This Pet, then enter their name.
+Tap Done.
+If the person or pet you want to name doesn’t appear, tap Add People at the bottom of People & Pets to see more faces.
+To create and edit groups, see Find group photos .
+Change the key photo for a person or pet
+You can choose which photo to show in the People & Pets collection. This is the photo you tap to see all the photos and videos of that person or pet.
+Go to the Photos app on your iPhone.
+Tap People & Pets, then tap a person or pet.
+Tap , then tap Show Faces.
+Touch and hold a photo, then tap Make Key Photo.
+Mark a person or pet as a favorite
+Mark the people or pets that you interact with the most as favorites so that it’s easier to find them.
+Go to the Photos app on your iPhone.
+Tap People & Pets.
+Touch and hold a person or pet, then tap Favorite.
+To unfavorite a person or pet, touch and hold their key photo in People & Pets, then tap Unfavorite.
+Fix incorrect names
+Go to the Photos app on your iPhone.
+Tap People & Pets, then tap the person or pet with the incorrect name.
+Do one of the following:
+Rename the person or pet for all items: Tap , tap the name, then edit it. Tap Done.
+Fix a specific item: Tap the photo or video with the incorrect name, tap , then tap This is Not [ name ].
+You can also fix incorrect names while viewing a photo in your library. Swipe up to see the photo information. Tap the incorrectly named person or pet in the bottom-left corner of the photo, then tap This is Not [ name ].
+Sort People & Pets alphabetically or manually
+Go to the Photos app on your iPhone.
+Tap People & Pets, tap Sort, then choose one of the following:
+Sort alphabetically: Tap Name.
+Sort manually: Tap Custom, then touch and hold a key photo and drag it to a new position.
+Remove a person or pet
+Go to the Photos app on your iPhone.
+Tap People & Pets, then touch and hold the person or pet you want to remove.
+Tap Hide [ name ].
+Tip: If you prefer, you can feature a person or pet less frequently instead of removing them. See Show a person less frequently or not at all .
+When you use iCloud Photos , People & Pets is kept up to date on all your devices.

@@ -1,0 +1,46 @@
+iPhone User Guide
+Download, save, remove, and share podcast episodes on iPhone
+In the Podcasts app, you can download, save, remove, and share podcast episodes.
+Download an episode
+Go to the Podcasts app on your iPhone.
+Do any of the following:
+While viewing show information: Swipe left on an episode, then tap .
+You can also tap below an episode, then tap Download Episode.
+While viewing episode information: Tap .
+You can also tap , then tap Download Episode.
+Save an episode
+Go to the Podcasts app on your iPhone.
+Do any of the following:
+While viewing show information: Swipe left on an episode, then tap .
+You can also tap below an episode in the list, then tap Save Episode.
+While viewing episode information: Tap .
+You can also tap , then tap Save Episode.
+When you save an episode, it’s automatically downloaded so you can listen to it offline. To turn off this option, go to Settings > Apps > Podcasts, then turn off Download When Saving.
+Remove a saved episode
+Go to the Podcasts app on your iPhone.
+Do any of the following:
+From the library: Tap Saved, then tap a show. Swipe left on an episode, then tap Unsave.
+While viewing show or episode information: Tap near the episode name.
+You can also tap near the episode name, then tap Unsave Episode.
+Remove a downloaded episode
+Go to the Podcasts app on your iPhone.
+Do any of the following:
+From the library: Tap Downloaded, then tap a show. Swipe left on an episode, then tap Remove Download.
+You can also tap near the episode name, then tap Remove Download.
+While viewing show information: Tap or near the episode name, then tap Remove Download.
+While viewing episode information: Tap or , then tap Remove Download.
+Remove all downloaded episodes from a show
+Go to the Podcasts app on your iPhone.
+Tap Library, tap Shows, then tap a show to see its information page.
+Tap , then tap Remove Downloads.
+Remove all downloaded episodes
+Go to the Podcasts app on your iPhone.
+Tap Library, then tap Downloaded.
+Tap , then tap Remove All Downloads.
+Share a podcast show or episode
+Go to the Podcasts app on your iPhone.
+Tap a show to see its information page. If you want to share a specific episode, tap the episode.
+Tap near the top right, then tap Share Show or Share Episode.
+Optionally, specify the starting time for a shared episode. Tap From Start, then choose From [ time ].
+The shared episode starts from the point where you’re listening when you tap Share.
+Choose how to share the show or episode.

@@ -1,0 +1,17 @@
+iPhone User Guide
+Take Night mode photos with your iPhone camera
+On supported models , your iPhone camera uses Night mode to capture more detail and brighten your shots in low-light situations. The length of the exposure in Night mode is determined automatically, but you can experiment with the manual controls.
+Tip: Use a tripod for even more detailed Night mode photos.
+Night mode is available on the following iPhone models and cameras:
+iPhone 16 Pro, iPhone 16 Pro Max, iPhone 15 Pro, iPhone 15 Pro Max, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 13 Pro, and iPhone 13 Pro Max: Ultra Wide (0.5x) camera, Wide (1x) camera, Telephoto (3x) camera, Telephoto (5x) camera, and front camera
+iPhone 16, iPhone 16 Plus, iPhone 15 models, iPhone 14 models, iPhone 13 models, and iPhone 12 models: Ultra Wide (0.5x) camera, Wide (1x) camera, and front camera
+iPhone 11 models: Wide (1x) camera
+Open Camera on your iPhone.
+In low-light situations, Night mode turns on automatically.
+Tap at the top of the screen to turn Night mode off and on.
+To experiment with Night mode, tap , tap in the row of options at the bottom of the screen, then drag the slider left or right to choose between the Auto and Max timers. With Auto, the time is determined automatically; Max uses the longest exposure time. The setting you choose is saved for your next Night mode shot.
+Tap the Shutter button, or click the Camera Control ( on supported models ), then hold your iPhone still to take your shot.
+Crosshairs appear in the frame if your iPhone detects movement during capture—align the crosshairs to help you reduce motion and improve the shot.
+To stop taking a Night mode shot mid-capture, tap the Stop button below the slider.
+On supported models , you can take Night mode selfies and time-lapse videos .
+On supported models , you can take Night mode photos with Portrait mode .

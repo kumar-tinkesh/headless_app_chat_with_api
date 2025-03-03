@@ -1,0 +1,55 @@
+iPhone User Guide
+Log a pregnancy in Health on iPhone
+When you log a pregnancy in the Health app, you can view your gestational age and log the symptoms frequently experienced during pregnancy. The Health app on iPhone and the Cycle Tracking app on Apple Watch can help you to better understand your data during pregnancy. Both apps make adjustments and recommendations to reflect changes in your physical and mental health.
+Log a pregnancy
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Cycle Tracking.
+Scroll down, tap Factors, then tap Add Factor.
+Tap Pregnancy, then tap Options next to Estimation Method.
+To log a previous pregnancy, tap Pregnancy, then tap Log a Past Pregnancy.
+Do one of the following:
+Log the first day of your last period: Tap Last Menstrual Period, tap Done, then choose a date.
+Log an estimated due date: Tap Estimated Due Date, tap Done, then choose a date.
+Log how far along the pregnancy is in weeks: Tap Estimated Gestational Age, tap Done, then enter how far along the pregnancy is in weeks, and enter a date.
+Log when the embryo was transferred during IVF: Tap Embryo Transfer Date, tap Done, then enter the embryonic age and the date of transfer.
+Depending on the estimation method, an estimated due date appears.
+Follow the onscreen instructions to choose whether you want to turn on notifications for mental health questionnaires, add your pregnancy to your Medical ID, and review your medications.
+Note: Not available for all medications.
+Tap Next to review the Cycle Timeline, then tap Done.
+Note: You can also log a pregnancy in your Health Details. Tap Summary, tap your picture or initials at the top right, tap Health Details, then tap Set Up Pregnancy in Cycle Tracking.
+While logging a pregnancy, you get a variety of recommendations of notifications that should be turned on or off during and after pregnancy:
+Walking Steadiness: Recommended to be turned on. Walking Steadiness can alert you more quickly during your third trimester, when the risk of falling can increase.
+High Heart Rate (Apple Watch only): If your high heart rate notification threshold is set below 120 beats per minute (bpm), you’re asked to review and adjust it.
+Cardio Fitness (Apple Watch only): Cardio Fitness notifications are recommended to be turned off during and until 12 weeks after the end of your pregnancy.
+To review your health notification settings, see Review your Health Checklist .
+Log bleeding and other symptoms
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Cycle Tracking.
+Swipe to select a day, then do any of the following:
+Log bleeding: Swipe the timeline to select a day, tap Bleeding During Pregnancy, tap Had Bleeding, then tap Done.
+Note: When you log bleeding during your pregnancy, you receive a notification recommending that you contact your doctor or care team.
+To add a bleeding level, tap Bleeding During Pregnancy, select a bleeding level, then tap Done.
+Log symptoms or other information: Swipe the timeline to select a day, tap a category (below Other Data), supply the information, then tap Done.
+To add categories to the data logging screen, tap Options next to Log, then choose from the categories below Log.
+View your pregnancy cycle timeline
+Tap Browse at the bottom right, then tap Cycle Tracking.
+At the top of the screen, a timeline shows the following icons.
+Icon
+Description
+A day you logged a pregnancy.
+A future day where you may still be pregnant.
+The day of your estimated due date.
+To select different days, swipe the timeline.
+Edit your pregnancy details
+Go to the Health app on your iPhone.
+Tap Browse at the bottom right, then tap Cycle Tracking.
+Tap the Pregnancy area, then do any of the following:
+Change the estimation method: Tap Change, then tap an estimation method.
+Edit your estimation method: Tap a field to make a change.
+Delete your pregnancy information: Tap Delete Factor from Health.
+When you’re finished, tap Done.
+About your health data and privacy
+The information you add about yourself in Health is yours to use and share. You can decide what information is stored in Health as well as who can access your data.
+If you choose to add a pregnancy to Medical ID, your pregnancy status will be accessible on the Lock Screen if Show When Locked is turned on. Your pregnancy status will also be shared with first responders during an emergency call if Share During Emergency Call is turned on. You can change your Medical ID settings at any time by going to your Health app Profile . You can remove or update your pregnancy status in Medical ID if your status changes.
+When your iPhone is locked with Face ID, Touch ID, or a passcode, all of your health and fitness data in Health, other than your Medical ID, is encrypted. Any health data synced to iCloud is encrypted both in transit and on Apple servers. And if you have a version of iOS, iPadOS, and watchOS (if you’re using iPad and Apple Watch for cycle tracking) with default two-factor authentication and a passcode, your health and activity data is stored in a way that Apple can’t read it.
+This means that when you use the Cycle Tracking feature and two-factor authentication, your health data synced to iCloud is encrypted end to end, and Apple doesn’t have the key to decrypt the data and therefore cannot read it.

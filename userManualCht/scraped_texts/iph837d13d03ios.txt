@@ -1,0 +1,38 @@
+iPhone User Guide
+Change or add stops to your route in Maps on iPhone
+While following driving or cycling directions, you can add places to stop along your route.
+Note: Directions for multiple stops are available in select countries and regions.
+Change the starting point or destination
+Go to the Maps app on your iPhone.
+Get directions .
+Do one of the following:
+Switch the starting point and destination: Touch and hold for the starting location, then drag it below the destination.
+Choose a different starting point or destination: Tap either the start or destination, then use the search field or a recent search result to find and select a different location.
+Create a multistop driving route
+You can add up to 14 stops along your route.
+Go to the Maps app on your iPhone.
+Get driving directions, then do one of the following:
+Tap Add Stop, then search for the place you want to stop.
+Zoom in and move the map, tap a place (for example, a landmark or business), then tap Add Stop in the place card.
+To reorder the stops, touch and hold for the stop, then drag it to a new position in the list.
+If you didn’t tap Go yet, your selected stop appears as the final destination in your directions.
+Add a stop while following driving or cycling directions
+Go to the Maps app on your iPhone.
+Get driving or cycling directions, then tap the route card at the bottom of the screen.
+Tap Add Stop, then tap a category (or, if driving, search for the place you want to stop).
+Select a place to stop, then tap Add or Add Stop.
+Your route is updated, and the chosen destination is the next stop.
+If you’re cycling and you decide not to take the detour, tap Resume Route at the top of the screen.
+If you didn’t tap Go yet, your selected stop appears as the final destination in your directions. Touch and hold for the stop, then drag it ahead of your final destination.
+Delete a stop from your driving directions
+Go to the Maps app on your iPhone.
+Create a multistop driving route .
+Do one of the following:
+Before you tap Go: Swipe left on any stops you want to delete, then tap Delete.
+After you tap Go: Tap the route card at the bottom of the screen, then tap next to the stop.
+End directions before you arrive
+Siri: Say something like: “Stop navigating.” Learn how to use Siri .
+Or without using Siri:
+Go to the Maps app on your iPhone.
+Tap the card at the bottom of the screen, then tap End Route.
+Note: Directions for multiple stops are available in select countries and regions.
