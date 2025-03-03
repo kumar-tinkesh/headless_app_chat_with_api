@@ -388,3 +388,8 @@ def create_task(request_payload: Dict):
         return response
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+import uvicorn
+if __name__ == "__main__":
+    PORT = int(os.getenv("PORT", 8000))  # Default port 8000
+    uvicorn.run("fapp:app", host="0.0.0.0", port=PORT, reload=True)
