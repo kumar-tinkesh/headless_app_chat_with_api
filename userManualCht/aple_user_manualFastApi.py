@@ -37,8 +37,9 @@ from fastapi.templating import Jinja2Templates
 from pydantic import BaseModel
 from aple_user_manual import EndpointRetriever  # Ensure this module is accessible
 import uvicorn
-from fastapi.staticfiles import StaticFiles  # Import StaticFiles
+from fastapi.staticfiles import StaticFiles
 from fastapi.middleware.cors import CORSMiddleware
+import os
 
 # Initialize FastAPI app
 app = FastAPI()
@@ -50,15 +51,20 @@ app.add_middleware(
     allow_methods=["*"],  # Allow all HTTP methods
     allow_headers=["*"],  # Allow all headers
 )
-app.mount("/Users/macbook/Desktop/headless_app_chat_with_api/userManualCht/static", StaticFiles(directory="static"), name="static")
+
+# Define base directory (relative path handling)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Mount static files using relative path
+app.mount("/static", StaticFiles(directory=os.path.join(BASE_DIR, "static")), name="static")
 
 # Initialize the retriever
-text_folder_path = "/Users/macbook/Desktop/headless_app_chat_with_api/userManualCht/text"
+text_folder_path = os.path.join(BASE_DIR, "text")
 retriever = EndpointRetriever(text_folder_path)
 retriever.vector_embedding()
 
-# Load Jinja2 templates
-templates = Jinja2Templates(directory="/Users/macbook/Desktop/headless_app_chat_with_api/userManualCht/templates")
+# Load Jinja2 templates using relative path
+templates = Jinja2Templates(directory=os.path.join(BASE_DIR, "templates"))
 
 # Define request model
 class QueryRequest(BaseModel):
