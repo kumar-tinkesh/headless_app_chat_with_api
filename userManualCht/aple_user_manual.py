@@ -136,12 +136,15 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 # Load environment variables
 load_dotenv()
 
+# Get API key and initialize LLM
 groq_api_key = os.getenv('GROQ_API_KEY')
 llm = ChatGroq(groq_api_key=groq_api_key, model_name="Llama3-8b-8192", temperature=0)
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
+# FAISS index path
 FAISS_INDEX_PATH = "data/faiss_index"
 
+# Define prompt structure
 prompt = ChatPromptTemplate.from_template(
     "You are an AI assistant trained on Apple's iPhone user manual. "
     "Your task is to provide clear, step-by-step guidance based on the official Apple support documentation.\n\n"
@@ -219,7 +222,7 @@ class EndpointRetriever:
             print("No data available for indexing.")
             return {"status": "No data to process."}
 
-        text_splitter = RecursiveCharacterTextSplitter(chunk_size=5000, chunk_overlap=500)
+        text_splitter = RecursiveCharacterTextSplitter(chunk_size=5000, chunk_overlap=100)  # Optimized chunk size
         chunks = text_splitter.split_text(text)
 
         print(f"{len(chunks)} chunks created. Embedding now... please wait...")
@@ -238,7 +241,7 @@ class EndpointRetriever:
             return None
 
         document_chain = create_stuff_documents_chain(llm, prompt)
-        retriever = self.vectors.as_retriever()
+        retriever = self.vectors.as_retriever(search_kwargs={"k": 3})  # Retrieve top 3 matches
         retrieval_chain = create_retrieval_chain(retriever, document_chain)
 
         response = retrieval_chain.invoke({'context': 'Your context here', 'input': query})
@@ -268,13 +271,23 @@ class EndpointRetriever:
             "response_time": f"{response_time} seconds"
         }
 
-# text_folder_path = "/Users/macbook/Desktop/headless_app_chat_with_api/userManualCht/scraped_texts"
-# retriever = EndpointRetriever(text_folder_path)
-# retriever.vector_embedding()
-# query = input("this document contains : ")
-# response = retriever.process_query(query)
-# # print("\n--- Query Response ---")
-# # print(response)
 
-# print("\n--- Model Response ---")
-# print(response["Model Response"])
+# **Main Execution**
+# if __name__ == "__main__":
+#     text_folder_path = "/Users/macbook/Desktop/headless_app_chat_with_api/userManualCht/scraped_texts"
+#     retriever = EndpointRetriever(text_folder_path)
+
+#     # Load FAISS index at startup
+#     retriever.vector_embedding()
+
+#     # Interactive loop for queries
+#     while True:
+#         query = input("Enter your query (type 'exit' to quit): ").strip()
+
+#         if query.lower() == "exit":
+#             print("Exiting...")
+#             break  # Stop execution
+
+#         response = retriever.process_query(query)
+#         print("\n--- Model Response ---")
+#         print(response["Model Response"])
